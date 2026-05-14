@@ -5,6 +5,37 @@ import {
 } from 'recharts';
 import { api, formatCount, formatSentiment, sentimentColor } from '../api/queries';
 import type { Conversation, Brand } from '../types';
+import Sparkline from '../components/Sparkline';
+
+// Bucket conversations into N daily buckets ending on the most recent post.
+// Returns counts per bucket plus the bucket boundaries so other metrics can reuse them.
+function buildDailyBuckets(conversations: Conversation[], days = 12): { boundaries: number[]; counts: number[]; sums: number[] } {
+  if (conversations.length === 0) return { boundaries: [], counts: [], sums: [] };
+  let maxTs = 0;
+  for (const c of conversations) {
+    const t = new Date(c.posted_at).getTime();
+    if (!Number.isNaN(t) && t > maxTs) maxTs = t;
+  }
+  if (maxTs === 0) return { boundaries: [], counts: [], sums: [] };
+  const dayMs = 86_400_000;
+  // Boundary i = end of bucket i (exclusive). Bucket 0 is the oldest.
+  const end = maxTs + 1;
+  const boundaries: number[] = [];
+  for (let i = 0; i < days; i++) {
+    boundaries.push(end - (days - 1 - i) * dayMs);
+  }
+  const counts = new Array<number>(days).fill(0);
+  const sums = new Array<number>(days).fill(0);
+  const start = boundaries[0] - dayMs;
+  for (const c of conversations) {
+    const t = new Date(c.posted_at).getTime();
+    if (Number.isNaN(t) || t < start || t >= end) continue;
+    const idx = Math.min(days - 1, Math.floor((t - start) / dayMs));
+    counts[idx] += 1;
+    sums[idx] += c.sentiment;
+  }
+  return { boundaries, counts, sums };
+}
 
 type SentimentFilter = 'all' | 'positive' | 'neutral' | 'negative';
 
@@ -77,6 +108,21 @@ export default function ConversationsPage() {
     return { total, avgSent, topBrand, topSub };
   }, [conversations]);
 
+  const sparkSeries = useMemo(() => {
+    if (conversations.length === 0) return null;
+    const overall = buildDailyBuckets(conversations);
+    const sentiment = overall.counts.map((n, i) => (n > 0 ? overall.sums[i] / n : 0));
+    const topBrandId = stats?.topBrand?.id ?? null;
+    const topSubName = stats?.topSub?.name ?? null;
+    const brandSeries = topBrandId
+      ? buildDailyBuckets(conversations.filter((c) => c.brand_id === topBrandId)).counts
+      : [];
+    const subSeries = topSubName
+      ? buildDailyBuckets(conversations.filter((c) => c.subreddit === topSubName)).counts
+      : [];
+    return { volume: overall.counts, sentiment, brand: brandSeries, sub: subSeries };
+  }, [conversations, stats]);
+
   const topicChartData = useMemo(() => {
     const counts = new Map<string, number>();
     for (const c of conversations) {
@@ -118,10 +164,30 @@ export default function ConversationsPage() {
           <div className="metric-tile">
             <div className="metric-tile-label">Conversations 28d</div>
             <div className="metric-tile-value">{formatCount(stats.total)}</div>
+            {sparkSeries && (
+              <Sparkline
+                values={sparkSeries.volume}
+                width={96}
+                height={20}
+                stroke="var(--magenta)"
+                fill="var(--magenta)"
+                className="mt-1.5 block"
+              />
+            )}
           </div>
           <div className="metric-tile">
             <div className="metric-tile-label">Avg sentiment</div>
             <div className="metric-tile-value" style={{ color: sentimentColor(stats.avgSent) }}>{formatSentiment(stats.avgSent)}</div>
+            {sparkSeries && (
+              <Sparkline
+                values={sparkSeries.sentiment}
+                width={96}
+                height={20}
+                stroke={sentimentColor(stats.avgSent)}
+                fill={sentimentColor(stats.avgSent)}
+                className="mt-1.5 block"
+              />
+            )}
           </div>
           <div className="metric-tile">
             <div className="metric-tile-label">Most-mentioned</div>
@@ -129,11 +195,31 @@ export default function ConversationsPage() {
               {stats.topBrand ? brandsById.get(stats.topBrand.id)?.brand_name ?? stats.topBrand.id : '—'}
             </div>
             <div className="mt-0.5 text-[11px] text-[var(--ink-muted)] tabular">{stats.topBrand?.n ?? 0} mentions</div>
+            {sparkSeries && sparkSeries.brand.length > 0 && (
+              <Sparkline
+                values={sparkSeries.brand}
+                width={96}
+                height={20}
+                stroke="var(--magenta)"
+                fill="var(--magenta)"
+                className="mt-1.5 block"
+              />
+            )}
           </div>
           <div className="metric-tile">
             <div className="metric-tile-label">Most-active sub</div>
             <div className="metric-tile-value text-xl truncate">r/{stats.topSub?.name ?? '—'}</div>
             <div className="mt-0.5 text-[11px] text-[var(--ink-muted)] tabular">{stats.topSub?.n ?? 0} posts</div>
+            {sparkSeries && sparkSeries.sub.length > 0 && (
+              <Sparkline
+                values={sparkSeries.sub}
+                width={96}
+                height={20}
+                stroke="var(--cyan)"
+                fill="var(--cyan)"
+                className="mt-1.5 block"
+              />
+            )}
           </div>
         </div>
       )}
