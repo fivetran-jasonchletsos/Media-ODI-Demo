@@ -7,6 +7,14 @@ import DefenderSync from './DefenderSync';
 // Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the DefenderSync easter egg.
 const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
+const DEMOS = [
+  { key: 'healthcare', name: 'Epic Clarity', industry: 'Healthcare · Clinical analytics', url: 'https://fivetran-jasonchletsos.github.io/Healthcare-EPIC-Snowflake-Demo/', accent: '#0d9488' },
+  { key: 'sheetz',     name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/', accent: '#dc2626' },
+  { key: 'finserv',    name: 'Meridian', industry: 'Financial Services · Wealth & banking', url: 'https://fivetran-jasonchletsos.github.io/FinServ-ODI-Demo/', accent: '#1d4ed8' },
+  { key: 'media',      name: 'Lighthouse', industry: 'Media · Audience & content intel', url: 'https://fivetran-jasonchletsos.github.io/Media-ODI-Demo/', accent: '#7c3aed' },
+];
+const CURRENT_DEMO = 'media';
+
 const NAV_ITEMS: [string, string][] = [
   ['/', 'Home'],
   ['/brands', 'Brands'],
@@ -137,7 +145,7 @@ export default function Layout() {
                   </span>
                 )}
               </button>
-              <SourceBadge source={source} snapshotAt={snapshotAt} />
+              <DemoSwitcher source={source} />
               <button
                 type="button"
                 onClick={() => setMobileOpen((o) => !o)}
@@ -183,6 +191,43 @@ export default function Layout() {
                   </NavLink>
                 ))}
               </nav>
+              <div className="pt-3 border-t border-[var(--hairline)]">
+                <div className="eyebrow mb-2">Switch demo</div>
+                <div className="grid grid-cols-1 gap-1">
+                  {DEMOS.map((d) => {
+                    const isCurrent = d.key === CURRENT_DEMO;
+                    const inner = (
+                      <div className="flex items-start gap-2.5 w-full">
+                        <span className="mt-1.5 h-2 w-2 rounded-full shrink-0" style={{ background: d.accent }} />
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-center gap-2">
+                            <span className="font-semibold text-[var(--ink)] text-sm">{d.name}</span>
+                            {isCurrent && (
+                              <span className="text-[9px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-sm border border-[var(--magenta)]/40 bg-[var(--magenta-bg)] text-[var(--magenta)]">
+                                Current
+                              </span>
+                            )}
+                          </div>
+                          <div className="text-[11px] text-[var(--ink-soft)] truncate">{d.industry}</div>
+                        </div>
+                      </div>
+                    );
+                    return isCurrent ? (
+                      <div key={d.key} className="px-3 py-2 rounded-sm border border-[var(--hairline)] opacity-70">
+                        {inner}
+                      </div>
+                    ) : (
+                      <a
+                        key={d.key}
+                        href={d.url}
+                        className="px-3 py-2 rounded-sm border border-[var(--hairline)] hover:bg-[var(--bg-2)]"
+                      >
+                        {inner}
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
           )}
         </div>
@@ -234,19 +279,92 @@ export default function Layout() {
   );
 }
 
-function SourceBadge({ source }: { source: DataSource; snapshotAt: string | null }) {
+function DemoSwitcher({ source }: { source: DataSource }) {
+  const [open, setOpen] = useState(false);
+  const wrapRef = useRef<HTMLDivElement | null>(null);
   const live = source === 'live';
+
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e: MouseEvent) => {
+      if (wrapRef.current && !wrapRef.current.contains(e.target as Node)) setOpen(false);
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setOpen(false);
+    };
+    document.addEventListener('mousedown', onDown);
+    document.addEventListener('keydown', onKey);
+    return () => {
+      document.removeEventListener('mousedown', onDown);
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [open]);
+
   return (
-    <div
-      title={live ? 'Live Athena query on Iceberg gold layer' : 'Static snapshot — run scripts/build_snapshot.py for live'}
-      className={`hidden sm:inline-flex items-center gap-1.5 rounded-sm px-2.5 py-1 text-[11px] font-bold uppercase tracking-wider border ${
-        live
-          ? 'bg-emerald-500/15 text-emerald-300 border-emerald-400/30'
-          : 'bg-[var(--magenta-bg)] text-[var(--magenta)] border-[var(--magenta)]/40'
-      }`}
-    >
-      <span className={`h-1.5 w-1.5 rounded-full ${live ? 'bg-emerald-300' : 'bg-[var(--magenta)]'} animate-pulse`} />
-      {live ? 'Athena · live' : 'Snapshot'}
+    <div ref={wrapRef} className="relative hidden sm:block">
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        title={live ? 'Live Athena query on Iceberg gold layer · Switch demo' : 'Static snapshot · Switch demo'}
+        className={`inline-flex items-center gap-1.5 rounded-sm px-2.5 py-1 text-[11px] font-bold uppercase tracking-wider border transition-colors ${
+          live
+            ? 'bg-emerald-500/15 text-emerald-300 border-emerald-400/30 hover:bg-emerald-500/20'
+            : 'bg-[var(--magenta-bg)] text-[var(--magenta)] border-[var(--magenta)]/40 hover:bg-[var(--magenta)]/15'
+        }`}
+      >
+        <span className={`h-1.5 w-1.5 rounded-full ${live ? 'bg-emerald-300' : 'bg-[var(--magenta)]'} animate-pulse`} />
+        {live ? 'Athena · live' : 'Snapshot'}
+        <svg viewBox="0 0 24 24" className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+          <path d="m6 9 6 6 6-6" />
+        </svg>
+      </button>
+      {open && (
+        <div
+          role="menu"
+          className="absolute right-0 top-full mt-2 w-[280px] rounded-sm border border-[var(--hairline)] bg-[var(--bg-2)] shadow-xl z-40 overflow-hidden"
+        >
+          <div className="px-3 pt-2.5 pb-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-[var(--ink-soft)] border-b border-[var(--hairline)]">
+            Switch demo
+          </div>
+          <div className="py-1">
+            {DEMOS.map((d) => {
+              const isCurrent = d.key === CURRENT_DEMO;
+              const inner = (
+                <div className="flex items-start gap-2.5 w-full">
+                  <span className="mt-1.5 h-2 w-2 rounded-full shrink-0" style={{ background: d.accent }} />
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2">
+                      <span className="font-semibold text-[var(--ink)] text-sm">{d.name}</span>
+                      {isCurrent && (
+                        <span className="text-[9px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-sm border border-[var(--magenta)]/40 bg-[var(--magenta-bg)] text-[var(--magenta)]">
+                          Current
+                        </span>
+                      )}
+                    </div>
+                    <div className="text-[11px] text-[var(--ink-soft)] truncate">{d.industry}</div>
+                  </div>
+                </div>
+              );
+              return isCurrent ? (
+                <div key={d.key} className="px-3 py-2 opacity-70">
+                  {inner}
+                </div>
+              ) : (
+                <a
+                  key={d.key}
+                  href={d.url}
+                  onClick={() => setOpen(false)}
+                  className="block px-3 py-2 hover:bg-[var(--bg-3)] transition-colors"
+                >
+                  {inner}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
