@@ -1,10 +1,11 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import {
-  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
+  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine,
 } from 'recharts';
 import { api, formatCount, formatPercent } from '../api/queries';
 import type { Topic, TopicDetail, Brand } from '../types';
+import Sparkline from '../components/Sparkline';
 
 export default function TrendsPage() {
   const navigate = useNavigate();
@@ -65,6 +66,14 @@ export default function TrendsPage() {
     if (!detail) return [];
     return detail.observations.slice(-90).map((o) => ({ date: o.date, views: o.views }));
   }, [detail]);
+
+  // Mean of the visible series — anchors the "is this above trend?" read.
+  const chartMean = useMemo(() => {
+    if (chartData.length === 0) return null;
+    let sum = 0;
+    for (const p of chartData) sum += p.views;
+    return sum / chartData.length;
+  }, [chartData]);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
@@ -146,15 +155,27 @@ export default function TrendsPage() {
         <main className="lg:col-span-8 space-y-5">
           <section className="editorial-card overflow-hidden">
             <header className="editorial-card-header">
-              <div className="eyebrow">Pageview Series</div>
+              <div className="eyebrow">Pageview Series · 90d</div>
               <h2 className="font-display text-xl text-[var(--ink)] mt-0.5">
                 {detail ? detail.topic.title : 'Select a topic'}
               </h2>
               {detail && (
-                <p className="text-xs text-[var(--ink-muted)] mt-1 font-mono">
-                  {detail.topic.topic_id} · {detail.topic.category}
-                </p>
+                <div className="mt-1 flex items-baseline gap-3 text-xs text-[var(--ink-muted)]">
+                  <span className="font-mono">{detail.topic.topic_id} · {detail.topic.category}</span>
+                  {detail.topic.pageviews_growth_pct != null && (
+                    <span
+                      className="tabular font-bold"
+                      style={{ color: detail.topic.pageviews_growth_pct >= 0 ? 'var(--up)' : 'var(--down)' }}
+                    >
+                      {formatPercent(detail.topic.pageviews_growth_pct)} 28d
+                    </span>
+                  )}
+                  <span className="tabular">σ {detail.topic.pageviews_volatility.toFixed(2)} volatility</span>
+                </div>
               )}
+              <p className="text-xs text-[var(--ink-muted)] mt-1">
+                Daily Wikipedia pageviews. Dashed line = 90-day mean.
+              </p>
             </header>
             {chartData.length > 0 ? (
               <div className="p-4 h-72">
@@ -167,7 +188,10 @@ export default function TrendsPage() {
                       contentStyle={{ background: '#0e0d10', border: '1px solid #36322c', fontSize: 12, color: '#f7f3ec' }}
                       labelStyle={{ color: '#b5afa0' }}
                     />
-                    <Line type="monotone" dataKey="views" stroke="#ff3e7f" strokeWidth={2.2} dot={false} />
+                    {chartMean != null && (
+                      <ReferenceLine y={chartMean} stroke="#6f6a5e" strokeDasharray="3 3" strokeWidth={1} />
+                    )}
+                    <Line type="monotone" dataKey="views" stroke="#ff3e7f" strokeWidth={2} dot={false} />
                   </LineChart>
                 </ResponsiveContainer>
               </div>
@@ -180,10 +204,10 @@ export default function TrendsPage() {
             <header className="editorial-card-header">
               <div className="eyebrow">Brand → Topic Correlations</div>
               <h2 className="font-display text-lg text-[var(--ink)] mt-0.5">
-                Brands moving with this topic
+                Which brands ride this topic — and how hard?
               </h2>
               <p className="text-xs text-[var(--ink-muted)] mt-1">
-                Top brands whose attention score co-moves with this Wikipedia topic.
+                Sorted by composite attention score. Wiki growth = brand's own pageview delta over 28 days.
               </p>
             </header>
             {correlatedBrands.length > 0 ? (

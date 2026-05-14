@@ -95,6 +95,7 @@ export default function ConversationsPage() {
     if (conversations.length === 0) return null;
     const total = conversations.length;
     const avgSent = conversations.reduce((s, c) => s + c.sentiment, 0) / total;
+    const negShare = conversations.filter((c) => c.sentiment < -0.2).length / total;
     const brandCounts = new Map<string, number>();
     const subCounts = new Map<string, number>();
     for (const c of conversations) {
@@ -105,7 +106,13 @@ export default function ConversationsPage() {
     for (const [id, n] of brandCounts) if (!topBrand || n > topBrand.n) topBrand = { id, n };
     let topSub: { name: string; n: number } | null = null;
     for (const [name, n] of subCounts) if (!topSub || n > topSub.n) topSub = { name, n };
-    return { total, avgSent, topBrand, topSub };
+    // Sub concentration risk — Herfindahl-style: sum of squared shares of top 5 subs.
+    const subShares = Array.from(subCounts.values())
+      .map((n) => n / total)
+      .sort((a, b) => b - a)
+      .slice(0, 5);
+    const top5Share = subShares.reduce((s, v) => s + v, 0);
+    return { total, avgSent, negShare, topBrand, topSub, top5Share };
   }, [conversations]);
 
   const sparkSeries = useMemo(() => {
@@ -123,14 +130,19 @@ export default function ConversationsPage() {
     return { volume: overall.counts, sentiment, brand: brandSeries, sub: subSeries };
   }, [conversations, stats]);
 
+  // Volume + avg sentiment per topic cluster. Sorted by volume descending so
+  // the most material clusters are at the top in a horizontal bar layout.
   const topicChartData = useMemo(() => {
-    const counts = new Map<string, number>();
+    const counts = new Map<string, { count: number; sum: number }>();
     for (const c of conversations) {
       const k = c.topic_cluster ?? 'Uncategorized';
-      counts.set(k, (counts.get(k) ?? 0) + 1);
+      const prev = counts.get(k) ?? { count: 0, sum: 0 };
+      prev.count += 1;
+      prev.sum += c.sentiment;
+      counts.set(k, prev);
     }
     return Array.from(counts.entries())
-      .map(([topic, count]) => ({ topic, count }))
+      .map(([topic, v]) => ({ topic, count: v.count, sentiment: v.count > 0 ? v.sum / v.count : 0 }))
       .sort((a, b) => b.count - a.count)
       .slice(0, 12);
   }, [conversations]);
@@ -178,6 +190,9 @@ export default function ConversationsPage() {
           <div className="metric-tile">
             <div className="metric-tile-label">Avg sentiment</div>
             <div className="metric-tile-value" style={{ color: sentimentColor(stats.avgSent) }}>{formatSentiment(stats.avgSent)}</div>
+            <div className="mt-0.5 text-[11px] text-[var(--ink-muted)] tabular">
+              {(stats.negShare * 100).toFixed(0)}% negative · top-5 subs = {(stats.top5Share * 100).toFixed(0)}%
+            </div>
             {sparkSeries && (
               <Sparkline
                 values={sparkSeries.sentiment}
@@ -224,28 +239,63 @@ export default function ConversationsPage() {
         </div>
       )}
 
-      {/* Topic-cluster bar chart */}
+      {/* Topic-cluster horizontal bar — sorted, sentiment-coloured. */}
       <section className="editorial-card overflow-hidden mb-6">
         <header className="editorial-card-header">
-          <div className="eyebrow">Topic Clusters</div>
-          <h2 className="font-display text-lg text-[var(--ink)] mt-0.5">Conversation volume by cluster</h2>
-          <p className="text-xs text-[var(--ink-muted)] mt-1">Click a bar to filter the feed below.</p>
+          <div className="eyebrow">Topic Clusters · 28d</div>
+          <h2 className="font-display text-lg text-[var(--ink)] mt-0.5">
+            Which conversations dominate — and how do audiences feel?
+          </h2>
+          <p className="text-xs text-[var(--ink-muted)] mt-1">
+            Bar length = conversation volume. Colour = average sentiment of the cluster
+            (<span style={{ color: 'var(--up)' }}>positive</span> ·{' '}
+            <span style={{ color: 'var(--ink-muted)' }}>neutral</span> ·{' '}
+            <span style={{ color: 'var(--down)' }}>negative</span>). Click to filter the feed.
+          </p>
         </header>
-        <div className="p-4 h-72">
+        <div className="p-4" style={{ height: Math.max(220, topicChartData.length * 28 + 40) }}>
           <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={topicChartData} margin={{ top: 6, right: 16, left: 8, bottom: 30 }}>
-              <CartesianGrid stroke="#1f1d24" />
-              <XAxis dataKey="topic" tick={{ fill: '#b5afa0', fontSize: 10 }} stroke="#36322c" angle={-25} textAnchor="end" interval={0} height={50} />
-              <YAxis tick={{ fill: '#b5afa0', fontSize: 11 }} stroke="#36322c" />
+            <BarChart
+              layout="vertical"
+              data={topicChartData}
+              margin={{ top: 4, right: 56, left: 8, bottom: 4 }}
+            >
+              <CartesianGrid stroke="#1f1d24" horizontal={false} />
+              <XAxis type="number" tick={{ fill: '#b5afa0', fontSize: 11 }} stroke="#36322c" />
+              <YAxis
+                type="category"
+                dataKey="topic"
+                tick={{ fill: '#f7f3ec', fontSize: 11 }}
+                stroke="#36322c"
+                width={130}
+                interval={0}
+              />
               <Tooltip
                 contentStyle={{ background: '#0e0d10', border: '1px solid #36322c', fontSize: 12, color: '#f7f3ec' }}
                 labelStyle={{ color: '#b5afa0' }}
-                cursor={{ fill: 'rgba(255,62,127,0.08)' }}
+                cursor={{ fill: 'rgba(255,62,127,0.06)' }}
+                formatter={(v: any, _n: any, p: any) => [
+                  `${v} posts · sent ${p.payload.sentiment >= 0 ? '+' : ''}${Number(p.payload.sentiment).toFixed(2)}`,
+                  'Cluster',
+                ]}
               />
-              <Bar dataKey="count" radius={[3, 3, 0, 0]} onClick={(d: any) => setTopicCluster(d.topic === topicCluster ? '' : d.topic)} style={{ cursor: 'pointer' }}>
-                {topicChartData.map((entry, idx) => (
-                  <Cell key={idx} fill={entry.topic === topicCluster ? '#ff3e7f' : '#00e5ff'} />
-                ))}
+              <Bar
+                dataKey="count"
+                radius={[0, 2, 2, 0]}
+                onClick={(d: any) => setTopicCluster(d.topic === topicCluster ? '' : d.topic)}
+                style={{ cursor: 'pointer' }}
+                label={{ position: 'right', fill: '#b5afa0', fontSize: 10 }}
+              >
+                {topicChartData.map((entry, idx) => {
+                  const selected = entry.topic === topicCluster;
+                  // Sentiment-driven fill: functional colour, not decorative.
+                  const fill = selected
+                    ? '#ff3e7f'
+                    : entry.sentiment > 0.15 ? '#2dd4a7'
+                    : entry.sentiment < -0.15 ? '#fb4570'
+                    : '#6f6a5e';
+                  return <Cell key={idx} fill={fill} />;
+                })}
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -277,7 +327,7 @@ export default function ConversationsPage() {
             onClick={() => setSentiment(s)}
             className={`signal-pill ${
               sentiment === s
-                ? (s === 'positive' ? 'up' : s === 'negative' ? 'down' : s === 'neutral' ? 'warn' : 'magenta')
+                ? (s === 'positive' ? 'up' : s === 'negative' ? 'down' : s === 'neutral' ? 'neutral' : 'magenta')
                 : 'neutral opacity-60 hover:opacity-100'
             }`}
             style={{ cursor: 'pointer' }}

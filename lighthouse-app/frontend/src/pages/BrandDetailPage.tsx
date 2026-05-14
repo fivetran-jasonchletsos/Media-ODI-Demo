@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import {
-  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceDot,
+  LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceDot, ReferenceLine,
 } from 'recharts';
 import { api, formatCount, formatPercent, sentimentColor } from '../api/queries';
 import type { BrandDetail, SignalBucket, Conversation, Video } from '../types';
@@ -53,6 +53,13 @@ export default function BrandDetailPage() {
     let max = timelineData[0];
     for (const p of timelineData) if (p.views > max.views) max = p;
     return max;
+  }, [timelineData]);
+
+  const timelineMean = useMemo(() => {
+    if (timelineData.length === 0) return null;
+    let s = 0;
+    for (const p of timelineData) s += p.views;
+    return s / timelineData.length;
   }, [timelineData]);
 
   if (loading || !brand) {
@@ -237,7 +244,7 @@ export default function BrandDetailPage() {
             <div className="eyebrow">Section D</div>
             <h2 className="font-display text-xl text-[var(--ink)] mt-0.5">Wikipedia pageviews · 90d</h2>
             <p className="text-xs text-[var(--ink-muted)] mt-1">
-              Topic-level interest curve. Peak day annotated in magenta.
+              Daily interest curve. Dashed line = 90-day mean. Magenta dot = peak.
             </p>
           </header>
           {timelineData.length > 0 ? (
@@ -251,6 +258,9 @@ export default function BrandDetailPage() {
                     contentStyle={{ background: '#0e0d10', border: '1px solid #36322c', fontSize: 12, color: '#f7f3ec' }}
                     labelStyle={{ color: '#b5afa0' }}
                   />
+                  {timelineMean != null && (
+                    <ReferenceLine y={timelineMean} stroke="#6f6a5e" strokeDasharray="3 3" strokeWidth={1} />
+                  )}
                   <Line type="monotone" dataKey="views" stroke="#00e5ff" strokeWidth={2} dot={false} />
                   {peakPoint && (
                     <ReferenceDot x={peakPoint.date} y={peakPoint.views} r={5} fill="#ff3e7f" stroke="#f7f3ec" strokeWidth={1.5} />

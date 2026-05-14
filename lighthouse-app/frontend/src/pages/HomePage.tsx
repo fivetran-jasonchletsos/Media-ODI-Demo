@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { api, formatCount, formatNumber } from '../api/queries';
+import { api, formatCount, formatNumber, formatPercent, formatSentiment, sentimentColor } from '../api/queries';
 import type { SummaryStats, Brand, SignalBucket } from '../types';
 
 function bucketPill(bucket: SignalBucket): string {
@@ -15,15 +15,51 @@ function bucketPill(bucket: SignalBucket): string {
 export default function HomePage() {
   const navigate = useNavigate();
   const [stats, setStats] = useState<SummaryStats | null>(null);
-  const [topBrands, setTopBrands] = useState<Brand[]>([]);
+  const [allBrands, setAllBrands] = useState<Brand[]>([]);
 
   useEffect(() => {
     api.getSummary().then(setStats).catch(() => {});
-    api.searchBrands({ limit: 200000 }).then((r) => {
-      const sorted = [...r.results].sort((a, b) => b.attention_score - a.attention_score).slice(0, 6);
-      setTopBrands(sorted);
-    }).catch(() => {});
+    api.searchBrands({ limit: 200000 }).then((r) => setAllBrands(r.results)).catch(() => {});
   }, []);
+
+  const topBrands = useMemo(
+    () => [...allBrands].sort((a, b) => b.attention_score - a.attention_score).slice(0, 6),
+    [allBrands],
+  );
+
+  // Executive-grade roll-ups derived from the brand panel.
+  const exec = useMemo(() => {
+    if (allBrands.length === 0) return null;
+    const breakout = allBrands.filter((b) => b.signal_bucket === 'breakout').length;
+    const hot      = allBrands.filter((b) => b.signal_bucket === 'hot').length;
+    const cold     = allBrands.filter((b) => b.signal_bucket === 'cold').length;
+
+    // Sentiment-weighted by Reddit mention volume — gives an audience-weighted reading.
+    let weightedNum = 0;
+    let weightedDen = 0;
+    let negSurge = 0;
+    for (const b of allBrands) {
+      const w = Math.max(0, b.reddit_mentions_28d);
+      weightedNum += b.reddit_avg_sentiment * w;
+      weightedDen += w;
+      if (b.reddit_avg_sentiment < -0.2 && b.reddit_mentions_28d >= 50) negSurge += 1;
+    }
+    const avgSent = weightedDen > 0 ? weightedNum / weightedDen : 0;
+
+    // Biggest mover (WoW proxy = 28d % subs growth).
+    const movers = [...allBrands].filter((b) => b.yt_subs_growth_28d_pct != null);
+    movers.sort((a, b) => (b.yt_subs_growth_28d_pct ?? 0) - (a.yt_subs_growth_28d_pct ?? 0));
+    const topMover  = movers[0] ?? null;
+    const topFaller = movers[movers.length - 1] ?? null;
+
+    // Share-of-voice leader by vertical concentration of Reddit mentions.
+    let svLeader: Brand | null = null;
+    for (const b of allBrands) {
+      if (!svLeader || b.share_of_voice > svLeader.share_of_voice) svLeader = b;
+    }
+
+    return { breakout, hot, cold, avgSent, negSurge, topMover, topFaller, svLeader };
+  }, [allBrands]);
 
   return (
     <>
@@ -129,6 +165,59 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Executive read — where to allocate attention next week. */}
+      {exec && (
+        <section className="bg-[var(--bg)] border-b border-[var(--hairline)]">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10">
+            <div className="flex items-end justify-between mb-5">
+              <div>
+                <div className="eyebrow mb-1">Executive Read · 28-day window</div>
+                <h2 className="font-display text-2xl sm:text-3xl text-[var(--ink)]">
+                  Where attention is going. Where risk is.
+                </h2>
+                <p className="text-xs text-[var(--ink-muted)] mt-1">
+                  Sentiment is mention-weighted. Movers are 28-day YouTube subscriber growth.
+                </p>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <ExecTile
+                label="Breakout · hot brands"
+                value={`${exec.breakout + exec.hot}`}
+                sub={`${exec.breakout} breakout · ${exec.hot} hot · ${exec.cold} cold`}
+                onClick={() => navigate('/brands?bucket=breakout')}
+                accent="var(--magenta)"
+              />
+              <ExecTile
+                label="Audience-weighted sentiment"
+                value={formatSentiment(exec.avgSent)}
+                sub={`${exec.negSurge} brand${exec.negSurge === 1 ? '' : 's'} in negative surge`}
+                accent={sentimentColor(exec.avgSent)}
+                onClick={() => navigate('/conversations')}
+              />
+              <ExecTile
+                label="Biggest mover · YT subs 28d"
+                value={exec.topMover?.brand_name ?? '—'}
+                sub={exec.topMover?.yt_subs_growth_28d_pct != null
+                  ? `${formatPercent(exec.topMover.yt_subs_growth_28d_pct)} · ${exec.topMover.brand_handle}`
+                  : '—'}
+                accent="var(--up)"
+                onClick={() => exec.topMover && navigate(`/brands/${encodeURIComponent(exec.topMover.brand_id)}`)}
+              />
+              <ExecTile
+                label="Biggest faller · YT subs 28d"
+                value={exec.topFaller?.brand_name ?? '—'}
+                sub={exec.topFaller?.yt_subs_growth_28d_pct != null
+                  ? `${formatPercent(exec.topFaller.yt_subs_growth_28d_pct)} · ${exec.topFaller.brand_handle}`
+                  : '—'}
+                accent="var(--down)"
+                onClick={() => exec.topFaller && navigate(`/brands/${encodeURIComponent(exec.topFaller.brand_id)}`)}
+              />
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Top attention signals */}
       <section className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="flex items-end justify-between mb-6 border-b border-[var(--hairline)] pb-4">
@@ -138,10 +227,9 @@ export default function HomePage() {
               Highest attention this week
             </h2>
             <p className="text-sm text-[var(--ink-muted)] mt-1 max-w-2xl">
-              Attention score derived from{' '}
-              <span className="layer-chip gold ml-0.5">gold.fct_brand_signal</span>{' '}
-              — a dbt model that blends YouTube growth, Reddit velocity, Wikipedia pageview spikes,
-              and cross-platform share-of-voice.
+              Sorted by composite attention score from{' '}
+              <span className="layer-chip gold ml-0.5">gold.fct_brand_signal</span>.
+              Blends YouTube growth, Reddit velocity, Wikipedia spikes, and cross-platform share-of-voice.
             </p>
           </div>
           <button onClick={() => navigate('/brands')} className="text-sm font-bold text-[var(--magenta)] hover:text-[var(--magenta-bright)] whitespace-nowrap uppercase tracking-wider">
@@ -208,6 +296,27 @@ export default function HomePage() {
   );
 }
 
+function ExecTile({
+  label, value, sub, accent, onClick,
+}: { label: string; value: string; sub: string; accent: string; onClick?: () => void }) {
+  return (
+    <button
+      onClick={onClick}
+      className="text-left metric-tile hover:border-[var(--magenta)] transition-colors group"
+    >
+      <div className="metric-tile-label">{label}</div>
+      <div
+        className="font-display text-xl sm:text-2xl mt-1 leading-tight tabular truncate"
+        style={{ color: accent }}
+        title={value}
+      >
+        {value}
+      </div>
+      <div className="mt-1 text-[11px] text-[var(--ink-muted)] tabular truncate" title={sub}>{sub}</div>
+    </button>
+  );
+}
+
 function Stat({ label, value, hint }: { label: string; value: string; hint: string }) {
   return (
     <div className="px-5 py-4">
@@ -232,6 +341,8 @@ function Pillar({ eyebrow, title, copy, tones }: { eyebrow: string; title: strin
 }
 
 function BrandCard({ b, onClick }: { b: Brand; onClick: () => void }) {
+  const ytPct = b.yt_subs_growth_28d_pct;
+  const ytTone = ytPct == null ? 'var(--ink-soft)' : ytPct >= 0 ? 'var(--up)' : 'var(--down)';
   return (
     <button onClick={onClick} className="text-left editorial-card hover:border-[var(--magenta)] transition-colors group">
       <div className="px-5 pt-4 pb-3 border-b border-[var(--hairline-soft)] flex items-start justify-between gap-3">
@@ -242,25 +353,57 @@ function BrandCard({ b, onClick }: { b: Brand; onClick: () => void }) {
           </div>
           <div className="text-[11px] text-[var(--ink-muted)] mt-0.5 truncate">{b.vertical ?? '—'}</div>
         </div>
-        <span className={`signal-pill ${bucketPill(b.signal_bucket)}`}>{b.signal_bucket}</span>
+        <div className="flex flex-col items-end gap-1 shrink-0">
+          <span className="font-display text-3xl text-[var(--ink)] tabular leading-none" title="Attention score 0-100">
+            {Math.round(b.attention_score)}
+          </span>
+          <span className="text-[9px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">Attention</span>
+        </div>
       </div>
       <div className="px-5 py-3 grid grid-cols-3 gap-3 text-xs">
         <div>
-          <div className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">YT views 28d</div>
+          <div className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">YT 28d</div>
           <div className="mt-0.5 font-bold text-[var(--ink)] tabular">{formatCount(b.yt_views_28d)}</div>
+          <div className="text-[10px] tabular" style={{ color: ytTone }}>
+            {ytPct == null ? '—' : `${ytPct >= 0 ? '+' : ''}${ytPct.toFixed(1)}%`}
+          </div>
         </div>
         <div>
           <div className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">Reddit 28d</div>
           <div className="mt-0.5 font-bold text-[var(--ink)] tabular">{formatCount(b.reddit_mentions_28d)}</div>
+          <div
+            className="text-[10px] tabular"
+            style={{
+              color: b.reddit_avg_sentiment > 0.2 ? 'var(--up)'
+                   : b.reddit_avg_sentiment < -0.2 ? 'var(--down)'
+                   : 'var(--ink-soft)',
+            }}
+          >
+            {b.reddit_avg_sentiment >= 0 ? '+' : ''}{b.reddit_avg_sentiment.toFixed(2)} sent
+          </div>
         </div>
         <div>
           <div className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">Wiki 28d</div>
           <div className="mt-0.5 font-bold text-[var(--ink)] tabular">{formatCount(b.wiki_pageviews_28d)}</div>
+          <div
+            className="text-[10px] tabular"
+            style={{
+              color: b.wiki_pageviews_growth_28d_pct == null
+                ? 'var(--ink-soft)'
+                : b.wiki_pageviews_growth_28d_pct >= 0 ? 'var(--up)' : 'var(--down)',
+            }}
+          >
+            {b.wiki_pageviews_growth_28d_pct == null
+              ? '—'
+              : `${b.wiki_pageviews_growth_28d_pct >= 0 ? '+' : ''}${b.wiki_pageviews_growth_28d_pct.toFixed(0)}%`}
+          </div>
         </div>
       </div>
-      <div className="px-5 pb-4 flex items-baseline justify-between border-t border-[var(--hairline-soft)] pt-3">
-        <span className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] font-bold">Attention</span>
-        <span className="font-display text-2xl text-[var(--cyan-bright)] tabular leading-none">{Math.round(b.attention_score)}</span>
+      <div className="px-5 pb-3 pt-2 flex items-center justify-between border-t border-[var(--hairline-soft)]">
+        <span className={`signal-pill ${bucketPill(b.signal_bucket)}`}>{b.signal_bucket}</span>
+        <span className="text-[10px] uppercase tracking-wider text-[var(--ink-soft)] tabular">
+          SOV {b.share_of_voice.toFixed(0)}%
+        </span>
       </div>
     </button>
   );

@@ -92,11 +92,8 @@ export default function BrandsPage() {
           <div className="eyebrow mb-1">Brand Panel</div>
           <h1 className="font-display text-4xl tracking-tight text-[var(--ink)]">Brands</h1>
           <p className="text-sm text-[var(--ink-muted)] mt-1 max-w-2xl">
-            Search the{' '}
-            <code className="font-mono text-xs bg-[var(--bg-2)] px-1.5 py-0.5 rounded border border-[var(--hairline)]">gold.dim_brands</code>{' '}
-            mart joined with{' '}
-            <code className="font-mono text-xs bg-[var(--bg-2)] px-1.5 py-0.5 rounded border border-[var(--hairline)]">gold.fct_brand_signal</code>{' '}
-            for cross-platform attention metrics.
+            Rank, filter, and triage brands by cross-platform attention. Coloured deltas show
+            the 28-day direction on each platform — green up, red down.
           </p>
         </div>
         <div className="text-sm text-[var(--ink-soft)] tabular shrink-0">
@@ -166,15 +163,18 @@ export default function BrandsPage() {
         <div className="flex items-center gap-2">
           <span className="text-[10px] font-bold text-[var(--ink-soft)] uppercase tracking-wider">Sort by</span>
           <div className="inline-flex gap-0.5 rounded-sm border border-[var(--hairline)] bg-[var(--bg-2)] p-0.5 text-xs">
-            {(Object.keys(SORT_LABELS) as SortKey[]).map((key) => (
-              <button
-                key={key}
-                onClick={() => setSort(key)}
-                className={`px-3 py-1.5 rounded font-medium ${sort === key ? 'bg-[var(--magenta)] text-[var(--bg)]' : 'text-[var(--ink-muted)] hover:text-[var(--ink)]'}`}
-              >
-                {SORT_LABELS[key]} ↓
-              </button>
-            ))}
+            {(Object.keys(SORT_LABELS) as SortKey[]).map((key) => {
+              const active = sort === key;
+              return (
+                <button
+                  key={key}
+                  onClick={() => setSort(key)}
+                  className={`px-3 py-1.5 rounded font-medium ${active ? 'bg-[var(--magenta)] text-[var(--bg)]' : 'text-[var(--ink-muted)] hover:text-[var(--ink)]'}`}
+                >
+                  {SORT_LABELS[key]}{active ? ' ↓' : ''}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>
@@ -239,7 +239,7 @@ export default function BrandsPage() {
                       </div>
                     </td>
                     <td className="px-4 py-2.5 text-right">
-                      <span className="font-display text-xl text-[var(--cyan-bright)] tabular">{Math.round(b.attention_score)}</span>
+                      <span className="font-display text-xl text-[var(--ink)] tabular">{Math.round(b.attention_score)}</span>
                     </td>
                     <td className="px-4 py-2.5">
                       <span className={`signal-pill ${bucketPill(b.signal_bucket)}`}>{b.signal_bucket}</span>
