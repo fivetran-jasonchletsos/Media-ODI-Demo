@@ -5,7 +5,6 @@ import {
 } from 'recharts';
 import { api, formatCount, formatPercent } from '../api/queries';
 import type { Topic, TopicDetail, Brand } from '../types';
-import Sparkline from '../components/Sparkline';
 
 export default function TrendsPage() {
   const navigate = useNavigate();
