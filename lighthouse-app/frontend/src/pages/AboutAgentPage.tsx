@@ -2,46 +2,46 @@ import { useNavigate } from 'react-router-dom';
 
 const INTENTS = [
   {
-    name: 'rising_complaints',
-    label: 'Rising complaints',
-    pattern: '/(rising|increas|jump|spike).+(complaint|cfpb)/i',
-    example: 'Companies with rising complaints',
-    body: 'Ranks issuers by CFPB complaint velocity. Elevated flow is a leading indicator of regulatory action.',
+    name: 'breakout_brands',
+    label: 'Breakout brands',
+    pattern: '/(breakout|surge|spike|hot|breakthrough)/i',
+    example: 'Breakout brands this week',
+    body: 'Filters brands flagged as breakout or hot by the cross-source attention model and ranks by attention score.',
   },
   {
-    name: 'revenue_growth',
-    label: 'Revenue growth',
-    pattern: '/(growth|rev|revenue|grow)/i',
-    example: 'Top 10 by revenue growth',
-    body: 'Sorts the universe by trailing-twelve-month revenue growth YoY. Highest-momentum names rise to the top.',
+    name: 'youtube_growth',
+    label: 'YouTube growth',
+    pattern: '/(youtube|video|subs|subscriber)/i',
+    example: 'Top YouTube growth',
+    body: 'Sorts the panel by 28-day YouTube subscriber growth. Channels compounding audience fastest float to the top.',
   },
   {
-    name: 'weak_macro',
-    label: 'Weak macro exposure',
-    pattern: '/(weak|stress|inversion|rate|yield)/i',
-    example: 'Financials with weak macro exposure',
-    body: 'Filters to the Financials sector and sorts by composite risk score — the names most exposed to a curve inversion or credit-cycle inflection.',
+    name: 'negative_sentiment',
+    label: 'Negative sentiment',
+    pattern: '/(negative|backlash|controversy|complaint|crisis)/i',
+    example: 'Brands with negative Reddit sentiment',
+    body: 'Filters to brands carrying net-negative Reddit sentiment in the last 28 days. Leading indicator for brand-safety conversations.',
   },
   {
-    name: 'eight_k_events',
-    label: '8-K event cadence',
-    pattern: '/(8-?k|event|filing)/i',
-    example: 'Companies with most 8-K events',
-    body: 'Ranks by EDGAR filing count over the trailing twelve months. Heavy filing cadence often signals material developments.',
+    name: 'wiki_velocity',
+    label: 'Wikipedia velocity',
+    pattern: '/(wiki|pageview|interest|search.+trend)/i',
+    example: 'Tech brands with biggest pageview spike',
+    body: 'Ranks by Wikipedia pageview growth — the most leading of leading indicators of cultural curiosity.',
   },
   {
-    name: 'risk_score',
-    label: 'Composite risk score',
-    pattern: '/(risk|highest.+risk|risky)/i',
-    example: 'Highest risk score in Financials',
-    body: 'Ranks the universe by Meridian\'s composite risk score, blending complaint velocity, revenue trend, 8-K cadence, and sector macro overlay.',
+    name: 'low_attention',
+    label: 'Low / declining attention',
+    pattern: '/(low|cold|fading|declining|dormant)/i',
+    example: 'Cold or declining brands',
+    body: 'Surfaces brands in the cold signal bucket: minimal cross-source momentum. Useful for identifying underserved categories.',
   },
   {
-    name: 'sector_filter',
-    label: 'Sector filter',
-    pattern: 'Matches any GICS sector name',
-    example: 'Show me Technology companies',
-    body: 'Detects a sector reference (Financials, Technology, Healthcare, etc.) and returns members sorted by market cap.',
+    name: 'vertical_filter',
+    label: 'Vertical filter',
+    pattern: 'Matches a vertical name (QSR, Tech, Beauty, etc.)',
+    example: 'QSR vertical leaders',
+    body: 'Detects a vertical (CPG, Retail, Auto, Tech, Finance, Streaming, QSR, Beauty, Fashion, Travel, Gaming, Entertainment) and returns the leaders by attention score.',
   },
 ];
 
@@ -49,23 +49,23 @@ export default function AboutAgentPage() {
   const navigate = useNavigate();
   return (
     <div>
-      <section className="bg-[var(--navy-deep)] text-white border-b-4 border-[var(--gold)]">
+      <section className="bg-[var(--bg)] text-[var(--ink)] border-b-2 border-[var(--magenta)]">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-14">
-          <div className="inline-flex items-center gap-2 rounded-sm bg-white/10 backdrop-blur-sm px-3 py-1 text-xs font-semibold uppercase tracking-wider mb-5" style={{ color: 'var(--gold-bright)' }}>
-            Portfolio AI
+          <div className="inline-flex items-center gap-2 rounded-sm bg-[var(--magenta-bg)] px-3 py-1 text-xs font-bold uppercase tracking-wider mb-5 text-[var(--magenta)] border border-[var(--magenta)]/40">
+            Audience AI
           </div>
-          <h1 className="font-serif text-4xl sm:text-5xl font-semibold tracking-tight max-w-3xl">
-            Skip the BI tool. Ask the universe.
+          <h1 className="font-display text-5xl sm:text-6xl tracking-tight max-w-3xl">
+            Skip the BI tool. Ask the panel.
           </h1>
-          <p className="mt-5 text-lg text-white/75 max-w-2xl leading-relaxed">
+          <p className="mt-5 text-lg text-[var(--ink-muted)] max-w-2xl leading-relaxed">
             A natural-language layer on top of the same gold-layer tables the rest of the demo uses.
             Type a question — get back a ranked table, a short summary, and clickable rows that open
-            the issuer file.
+            the brand panel.
           </p>
           <button
             onClick={() => navigate('/agent')}
-            className="mt-8 inline-flex items-center gap-2 rounded-sm px-6 py-3 text-base font-semibold shadow-lg"
-            style={{ background: 'var(--gold)', color: 'var(--navy-deep)' }}
+            className="mt-8 inline-flex items-center gap-2 rounded-sm px-6 py-3 text-base font-bold shadow-lg"
+            style={{ background: 'var(--magenta)', color: 'var(--bg)' }}
           >
             Open the agent <span aria-hidden>→</span>
           </button>
@@ -73,7 +73,7 @@ export default function AboutAgentPage() {
       </section>
 
       <section className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-14">
-        <h2 className="font-serif text-2xl font-semibold text-[var(--ink-strong)] mb-3">How it works</h2>
+        <h2 className="font-display text-2xl text-[var(--ink)] mb-3">How it works</h2>
         <div className="space-y-4 text-[var(--ink)] leading-relaxed">
           <p>
             The agent runs entirely client-side over the published JSON snapshot of the gold-layer
@@ -87,27 +87,27 @@ export default function AboutAgentPage() {
           </p>
         </div>
 
-        <h2 className="font-serif text-2xl font-semibold text-[var(--ink-strong)] mt-12 mb-4">The six rule-based intents</h2>
+        <h2 className="font-display text-2xl text-[var(--ink)] mt-12 mb-4">The six media intents</h2>
         <div className="space-y-3">
           {INTENTS.map((it) => (
-            <article key={it.name} className="research-card p-5">
+            <article key={it.name} className="editorial-card p-5">
               <div className="flex items-start justify-between gap-3">
                 <div className="min-w-0">
-                  <h3 className="font-serif text-lg font-semibold text-[var(--ink-strong)]">{it.label}</h3>
+                  <h3 className="font-display text-lg text-[var(--ink)]">{it.label}</h3>
                   <p className="mt-1 text-sm text-[var(--ink-muted)] leading-relaxed">{it.body}</p>
                 </div>
                 <span className="layer-chip gold shrink-0">{it.name}</span>
               </div>
               <div className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
                 <div>
-                  <div className="text-[10px] font-semibold uppercase tracking-wider text-[var(--ink-soft)] mb-1">Pattern</div>
-                  <code className="font-mono text-[11px] bg-[var(--paper-deep)] px-2 py-1 rounded border border-[var(--hairline)] inline-block">{it.pattern}</code>
+                  <div className="text-[10px] font-bold uppercase tracking-wider text-[var(--ink-soft)] mb-1">Pattern</div>
+                  <code className="font-mono text-[11px] bg-[var(--bg-3)] px-2 py-1 rounded border border-[var(--hairline)] inline-block text-[var(--ink-muted)]">{it.pattern}</code>
                 </div>
                 <div>
-                  <div className="text-[10px] font-semibold uppercase tracking-wider text-[var(--ink-soft)] mb-1">Try</div>
+                  <div className="text-[10px] font-bold uppercase tracking-wider text-[var(--ink-soft)] mb-1">Try</div>
                   <button
                     onClick={() => navigate(`/agent?q=${encodeURIComponent(it.example)}`)}
-                    className="text-[var(--gold-dim)] hover:text-[var(--ink-strong)] font-medium"
+                    className="text-[var(--magenta)] hover:text-[var(--magenta-bright)] font-bold"
                   >
                     "{it.example}" →
                   </button>
@@ -117,13 +117,13 @@ export default function AboutAgentPage() {
           ))}
         </div>
 
-        <h2 className="font-serif text-2xl font-semibold text-[var(--ink-strong)] mt-12 mb-3">Claude mode</h2>
+        <h2 className="font-display text-2xl text-[var(--ink)] mt-12 mb-3">Claude mode</h2>
         <p className="text-[var(--ink)] leading-relaxed">
           When enabled, questions are sent to Claude with a structured summary of the snapshot
-          (totals by sector, market-cap aggregates, risk-bucket histogram). The system prompt
-          casts Claude as a senior Meridian analyst — measured tone, no hype, no invented numbers.
-          The API key lives only in your browser's localStorage under{' '}
-          <code className="font-mono text-xs bg-[var(--paper-deep)] px-1.5 py-0.5 rounded border border-[var(--hairline)]">meridian-odi:anthropic-api-key</code>.
+          (totals by vertical, attention-score aggregates, signal-bucket histogram). The system
+          prompt casts Claude as a senior Lighthouse audience analyst — sharp, editorial, no
+          invented numbers. The API key lives only in your browser's localStorage under{' '}
+          <code className="font-mono text-xs bg-[var(--bg-3)] px-1.5 py-0.5 rounded border border-[var(--hairline)] text-[var(--ink-muted)]">lighthouse-odi:anthropic-api-key</code>.
         </p>
       </section>
     </div>

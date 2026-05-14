@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceDot,
 } from 'recharts';
-import { api, formatCount, formatNumber, formatPercent, sentimentColor } from '../api/queries';
+import { api, formatCount, formatPercent, sentimentColor } from '../api/queries';
 import type { BrandDetail, SignalBucket, Conversation, Video } from '../types';
 import WatchlistButton from '../components/WatchlistButton';
 
@@ -361,5 +361,3 @@ function PlatformPanel({
   );
 }
 
-// suppress eslint unused warnings: formatNumber kept available for parity
-void formatNumber;

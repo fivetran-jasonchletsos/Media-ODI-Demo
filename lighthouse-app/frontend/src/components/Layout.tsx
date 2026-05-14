@@ -2,9 +2,9 @@ import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-do
 import { useEffect, useRef, useState } from 'react';
 import { api, getSnapshotTime, subscribeSource, type DataSource } from '../api/queries';
 import * as watchlist from '../watchlist';
-import PacSync from './PacSync';
+import DefenderSync from './DefenderSync';
 
-// Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the PacSync easter egg.
+// Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the DefenderSync easter egg.
 const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
 const NAV_ITEMS: [string, string][] = [
@@ -229,7 +229,7 @@ export default function Layout() {
         </div>
       </footer>
 
-      {easterEggOpen && <PacSync onClose={() => setEasterEggOpen(false)} />}
+      {easterEggOpen && <DefenderSync onClose={() => setEasterEggOpen(false)} />}
     </div>
   );
 }

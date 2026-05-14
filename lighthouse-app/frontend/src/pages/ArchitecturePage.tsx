@@ -299,7 +299,6 @@ function ArchitectureDiagram({
   onLayerHover: (l: 'bronze' | 'silver' | 'gold' | null) => void;
   layerStats: (l: 'bronze' | 'silver' | 'gold') => { tables: number; rows: number; bytes: number };
 }) {
-  void hoveredLayer;
   return (
     <div className="overflow-x-auto">
       <svg viewBox="0 0 960 360" className="w-full" style={{ minWidth: 760 }}>
