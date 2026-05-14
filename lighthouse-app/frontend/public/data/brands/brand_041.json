@@ -1,0 +1,923 @@
+{
+  "brand": {
+    "brand_id": "brand_041",
+    "brand_handle": "@dominos",
+    "brand_name": "Domino's",
+    "vertical": "QSR",
+    "hq_country": "US",
+    "established_year": 1960,
+    "description": "Domino's is a pizza brand established in 1960, headquartered in US.",
+    "yt_channel_id": "UCfd601fda52f7ac01bae9c6",
+    "yt_subscribers": 432051,
+    "yt_views_total": 77066806,
+    "yt_videos_count": 3996,
+    "yt_views_28d": 3860992,
+    "yt_subs_growth_28d_pct": 33.39,
+    "reddit_mentions_28d": 493,
+    "reddit_avg_sentiment": 0.359,
+    "reddit_top_subreddit": "r/Dominos",
+    "reddit_velocity_28d": 0.012,
+    "wiki_pageviews_28d": 155382,
+    "wiki_pageviews_growth_28d_pct": 41.93,
+    "attention_score": 65.77,
+    "signal_bucket": "breakout",
+    "share_of_voice": 24.97,
+    "last_signal_change": "2026-04-21",
+    "videos": [
+      {
+        "video_id": "yt_001008",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "How Domino's is reimagining creators",
+        "published_at": "2026-02-19T14:00:00",
+        "duration_sec": 1268,
+        "views": 2612666,
+        "likes": 121427,
+        "comments": 19492,
+        "engagement_rate": 0.0539,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001008/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001028",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Inside Domino's's 2026 strategy",
+        "published_at": "2026-03-20T21:00:00",
+        "duration_sec": 685,
+        "views": 1110949,
+        "likes": 61687,
+        "comments": 4834,
+        "engagement_rate": 0.0599,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001028/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001009",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "I tried Domino's's new edition for 30 days",
+        "published_at": "2026-05-04T20:00:00",
+        "duration_sec": 54,
+        "views": 314507,
+        "likes": 18810,
+        "comments": 1720,
+        "engagement_rate": 0.0653,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001009/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001020",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Inside Domino's's 2026 strategy",
+        "published_at": "2026-05-08T21:00:00",
+        "duration_sec": 252,
+        "views": 311445,
+        "likes": 18181,
+        "comments": 3007,
+        "engagement_rate": 0.068,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001020/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001004",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Domino's just changed the game with campaign",
+        "published_at": "2026-04-24T16:00:00",
+        "duration_sec": 1243,
+        "views": 297080,
+        "likes": 17489,
+        "comments": 2903,
+        "engagement_rate": 0.0686,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001004/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001021",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "The real story behind Domino's",
+        "published_at": "2026-04-21T00:00:00",
+        "duration_sec": 224,
+        "views": 292970,
+        "likes": 13775,
+        "comments": 1883,
+        "engagement_rate": 0.0534,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001021/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001024",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "The real story behind Domino's",
+        "published_at": "2026-03-02T02:00:00",
+        "duration_sec": 1074,
+        "views": 286437,
+        "likes": 10839,
+        "comments": 1146,
+        "engagement_rate": 0.0418,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001024/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001003",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Domino's vs the competition",
+        "published_at": "2026-03-24T18:00:00",
+        "duration_sec": 544,
+        "views": 286228,
+        "likes": 9136,
+        "comments": 823,
+        "engagement_rate": 0.0348,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001003/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001016",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Domino's vs the competition",
+        "published_at": "2026-04-17T06:00:00",
+        "duration_sec": 1038,
+        "views": 277068,
+        "likes": 5758,
+        "comments": 687,
+        "engagement_rate": 0.0233,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001016/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001010",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "New Domino's campaign reveal",
+        "published_at": "2026-03-22T07:00:00",
+        "duration_sec": 1452,
+        "views": 268454,
+        "likes": 13193,
+        "comments": 1004,
+        "engagement_rate": 0.0529,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001010/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001025",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Domino's unveils experience",
+        "published_at": "2026-02-17T13:00:00",
+        "duration_sec": 456,
+        "views": 251755,
+        "likes": 6921,
+        "comments": 741,
+        "engagement_rate": 0.0304,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001025/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001013",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "2026 Domino's collection review",
+        "published_at": "2026-04-16T17:00:00",
+        "duration_sec": 431,
+        "views": 241536,
+        "likes": 9490,
+        "comments": 675,
+        "engagement_rate": 0.0421,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001013/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001023",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "lineup from Domino's: first impressions",
+        "published_at": "2026-04-06T01:00:00",
+        "duration_sec": 75,
+        "views": 232172,
+        "likes": 6312,
+        "comments": 951,
+        "engagement_rate": 0.0313,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001023/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001029",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "Behind the scenes at Domino's",
+        "published_at": "2026-04-01T01:00:00",
+        "duration_sec": 1408,
+        "views": 227777,
+        "likes": 10964,
+        "comments": 1477,
+        "engagement_rate": 0.0546,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001029/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001027",
+        "brand_id": "brand_041",
+        "channel_id": "UCfd601fda52f7ac01bae9c6",
+        "title": "What nobody tells you about Domino's",
+        "published_at": "2026-03-30T08:00:00",
+        "duration_sec": 1299,
+        "views": 220368,
+        "likes": 13347,
+        "comments": 2313,
+        "engagement_rate": 0.0711,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001027/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001251",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "The Domino's discourse is unhinged today",
+        "posted_at": "2026-02-25T22:00:00",
+        "author": "u/AgencyLifer",
+        "score": 10446,
+        "num_comments": 2563,
+        "sentiment": 0.011,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001251/"
+      },
+      {
+        "post_id": "t3_0001262",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Domino's beat / missed \u2014 let's discuss",
+        "posted_at": "2026-04-11T16:00:00",
+        "author": "u/QuietBuyer",
+        "score": 10270,
+        "num_comments": 1190,
+        "sentiment": -0.237,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001262/"
+      },
+      {
+        "post_id": "t3_0001234",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Anyone else having issues with Domino's?",
+        "posted_at": "2026-05-02T20:00:00",
+        "author": "u/MidwestDad88",
+        "score": 9584,
+        "num_comments": 592,
+        "sentiment": -0.295,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001234/"
+      },
+      {
+        "post_id": "t3_0001241",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Need help with my Domino's order",
+        "posted_at": "2026-03-27T15:00:00",
+        "author": "u/UnpaidMod",
+        "score": 6605,
+        "num_comments": 1253,
+        "sentiment": -0.297,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001241/"
+      },
+      {
+        "post_id": "t3_0001242",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "30 days with Domino's's edition",
+        "posted_at": "2026-04-26T01:00:00",
+        "author": "u/BrandLurker",
+        "score": 4632,
+        "num_comments": 1270,
+        "sentiment": -0.139,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001242/"
+      },
+      {
+        "post_id": "t3_0001263",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Boycotting Domino's after this week",
+        "posted_at": "2026-03-29T23:00:00",
+        "author": "u/QuietBuyer",
+        "score": 3735,
+        "num_comments": 649,
+        "sentiment": -0.323,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001263/"
+      },
+      {
+        "post_id": "t3_0001246",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "30 days with Domino's's experience",
+        "posted_at": "2026-05-05T18:00:00",
+        "author": "u/MidwestDad88",
+        "score": 3622,
+        "num_comments": 509,
+        "sentiment": 0.019,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001246/"
+      },
+      {
+        "post_id": "t3_0001261",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Trying to cancel Domino's \u2014 nightmare",
+        "posted_at": "2026-05-08T14:00:00",
+        "author": "u/MidwestDad88",
+        "score": 3360,
+        "num_comments": 193,
+        "sentiment": 0.121,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001261/"
+      },
+      {
+        "post_id": "t3_0001245",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Anyone seen the new Domino's release drop?",
+        "posted_at": "2026-02-21T12:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 2286,
+        "num_comments": 618,
+        "sentiment": 0.219,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001245/"
+      },
+      {
+        "post_id": "t3_0001230",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Domino's just teamed up with a creator",
+        "posted_at": "2026-03-18T09:00:00",
+        "author": "u/SocialSarah",
+        "score": 1964,
+        "num_comments": 199,
+        "sentiment": 0.2,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001230/"
+      },
+      {
+        "post_id": "t3_0001247",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Domino's's new experience launch is wild",
+        "posted_at": "2026-05-11T01:00:00",
+        "author": "u/StreamingNerd",
+        "score": 1382,
+        "num_comments": 270,
+        "sentiment": 0.524,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001247/"
+      },
+      {
+        "post_id": "t3_0001260",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "The Domino's discourse is unhinged today",
+        "posted_at": "2026-02-18T18:00:00",
+        "author": "u/CreatorLens",
+        "score": 1261,
+        "num_comments": 347,
+        "sentiment": 0.094,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001260/"
+      },
+      {
+        "post_id": "t3_0001257",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Domino's partnership announcement",
+        "posted_at": "2026-02-28T21:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 1121,
+        "num_comments": 299,
+        "sentiment": 0.204,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001257/"
+      },
+      {
+        "post_id": "t3_0001232",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "First look at Domino's's collection",
+        "posted_at": "2026-04-12T03:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 687,
+        "num_comments": 195,
+        "sentiment": 0.331,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001232/"
+      },
+      {
+        "post_id": "t3_0001255",
+        "brand_id": "brand_041",
+        "brand_name_match": "Domino's",
+        "subreddit": "r/Dominos",
+        "title": "Domino's TikTok meme has me dying",
+        "posted_at": "2026-05-01T15:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 572,
+        "num_comments": 72,
+        "sentiment": 0.057,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Dominos/comments/t3_0001255/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Domino%27s",
+        "title": "Domino's",
+        "category": "brand",
+        "pageviews_28d": 191214,
+        "pageviews_growth_pct": -44.36,
+        "pageviews_volatility": 0.7386,
+        "related_brands": [
+          "brand_041"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit sentiment elevated at +0.36 \u2014 fan-driven engagement in r/Dominos",
+      "YT views +33% MoM driven by recent product reveal",
+      "Wikipedia pageviews surged +42% \u2014 news cycle is active",
+      "Top YouTube asset: \"How Domino's is reimagining creators\""
+    ],
+    "ai_summary": "Domino's's cross-channel attention has accelerated sharply in the past 28 days, with a +33% YouTube subscriber lift and matching uplift in r/Dominos sentiment (avg +0.36). Wikipedia pageview volatility (+42% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-14",
+        "views": 5938
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-15",
+        "views": 5770
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-16",
+        "views": 4705
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-17",
+        "views": 5771
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-18",
+        "views": 6128
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-19",
+        "views": 6602
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-20",
+        "views": 6431
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-21",
+        "views": 7155
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-22",
+        "views": 6623
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-23",
+        "views": 6594
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-24",
+        "views": 5986
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-25",
+        "views": 6045
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-26",
+        "views": 5444
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-27",
+        "views": 4778
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-02-28",
+        "views": 5507
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-01",
+        "views": 4965
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-02",
+        "views": 4694
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-03",
+        "views": 5386
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-04",
+        "views": 4961
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-05",
+        "views": 4874
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-06",
+        "views": 4949
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-07",
+        "views": 4283
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-08",
+        "views": 5149
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-09",
+        "views": 4965
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-10",
+        "views": 4807
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-11",
+        "views": 5059
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-12",
+        "views": 5289
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-13",
+        "views": 5002
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-14",
+        "views": 5247
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-15",
+        "views": 4543
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-16",
+        "views": 4345
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-17",
+        "views": 18467
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-18",
+        "views": 16078
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-19",
+        "views": 39088
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-20",
+        "views": 33421
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-21",
+        "views": 29345
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-22",
+        "views": 26129
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-23",
+        "views": 22926
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-24",
+        "views": 20405
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-25",
+        "views": 18583
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-26",
+        "views": 17034
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-27",
+        "views": 15046
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-28",
+        "views": 12712
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-29",
+        "views": 12513
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-30",
+        "views": 11088
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-03-31",
+        "views": 11410
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-01",
+        "views": 10497
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-02",
+        "views": 9515
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-03",
+        "views": 8754
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-04",
+        "views": 7544
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-05",
+        "views": 7505
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-06",
+        "views": 6898
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-07",
+        "views": 7358
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-08",
+        "views": 6106
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-09",
+        "views": 6180
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-10",
+        "views": 5408
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-11",
+        "views": 6020
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-12",
+        "views": 5934
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-13",
+        "views": 6100
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-14",
+        "views": 6019
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-15",
+        "views": 6407
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-16",
+        "views": 6828
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-17",
+        "views": 5890
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-18",
+        "views": 5843
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-19",
+        "views": 6615
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-20",
+        "views": 5918
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-21",
+        "views": 5840
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-22",
+        "views": 5272
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-23",
+        "views": 5246
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-24",
+        "views": 4847
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-25",
+        "views": 4598
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-26",
+        "views": 6295
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-27",
+        "views": 5898
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-28",
+        "views": 5713
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-29",
+        "views": 6566
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-04-30",
+        "views": 6142
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-01",
+        "views": 6129
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-02",
+        "views": 6221
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-03",
+        "views": 5643
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-04",
+        "views": 5445
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-05",
+        "views": 5312
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-06",
+        "views": 4582
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-07",
+        "views": 13400
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-08",
+        "views": 11994
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-09",
+        "views": 10390
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-10",
+        "views": 9660
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-11",
+        "views": 8983
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-12",
+        "views": 7892
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-13",
+        "views": 6938
+      },
+      {
+        "topic_id": "Domino%27s",
+        "date": "2026-05-14",
+        "views": 7942
+      }
+    ]
+  }
+}

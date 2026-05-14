@@ -1,0 +1,936 @@
+{
+  "brand": {
+    "brand_id": "brand_056",
+    "brand_handle": "@uber",
+    "brand_name": "Uber",
+    "vertical": "Travel",
+    "hq_country": "US",
+    "established_year": 2009,
+    "description": "Uber is a ride-hail brand established in 2009, headquartered in US.",
+    "yt_channel_id": "UCf1905b7e8dd98927ac893b",
+    "yt_subscribers": 244483,
+    "yt_views_total": 312970935,
+    "yt_videos_count": 1744,
+    "yt_views_28d": 4897316,
+    "yt_subs_growth_28d_pct": 22.62,
+    "reddit_mentions_28d": 277,
+    "reddit_avg_sentiment": -0.198,
+    "reddit_top_subreddit": "r/uber",
+    "reddit_velocity_28d": 0.55,
+    "wiki_pageviews_28d": 640978,
+    "wiki_pageviews_growth_28d_pct": 40.04,
+    "attention_score": 54.57,
+    "signal_bucket": "hot",
+    "share_of_voice": 20.0,
+    "last_signal_change": "2026-05-12",
+    "videos": [
+      {
+        "video_id": "yt_001374",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "New Uber flagship reveal",
+        "published_at": "2026-04-08T19:00:00",
+        "duration_sec": 69,
+        "views": 421285,
+        "likes": 23013,
+        "comments": 1859,
+        "engagement_rate": 0.059,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001374/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001389",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Inside Uber's 2026 strategy",
+        "published_at": "2026-05-10T04:00:00",
+        "duration_sec": 566,
+        "views": 421068,
+        "likes": 29877,
+        "comments": 3565,
+        "engagement_rate": 0.0794,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001389/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001390",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "release from Uber: first impressions",
+        "published_at": "2026-03-28T12:00:00",
+        "duration_sec": 974,
+        "views": 419423,
+        "likes": 64441,
+        "comments": 9911,
+        "engagement_rate": 0.1773,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001390/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001371",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber unveils experience",
+        "published_at": "2026-04-08T12:00:00",
+        "duration_sec": 552,
+        "views": 407527,
+        "likes": 12484,
+        "comments": 767,
+        "engagement_rate": 0.0325,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001371/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001378",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Inside Uber's 2026 strategy",
+        "published_at": "2026-04-28T09:00:00",
+        "duration_sec": 935,
+        "views": 396451,
+        "likes": 22326,
+        "comments": 2051,
+        "engagement_rate": 0.0615,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001378/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001376",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Behind the scenes at Uber",
+        "published_at": "2026-02-19T03:00:00",
+        "duration_sec": 433,
+        "views": 391011,
+        "likes": 9525,
+        "comments": 1116,
+        "engagement_rate": 0.0272,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001376/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001372",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber just changed the game with collection",
+        "published_at": "2026-03-05T02:00:00",
+        "duration_sec": 1280,
+        "views": 389967,
+        "likes": 8606,
+        "comments": 1241,
+        "engagement_rate": 0.0253,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001372/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001377",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber vs the competition",
+        "published_at": "2026-04-22T18:00:00",
+        "duration_sec": 1172,
+        "views": 381887,
+        "likes": 26236,
+        "comments": 2157,
+        "engagement_rate": 0.0743,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001377/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001392",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber CEO on the future of sustainability",
+        "published_at": "2026-04-27T04:00:00",
+        "duration_sec": 80,
+        "views": 378864,
+        "likes": 22265,
+        "comments": 2924,
+        "engagement_rate": 0.0665,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001392/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001386",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "I tried Uber's new campaign for 30 days",
+        "published_at": "2026-03-24T05:00:00",
+        "duration_sec": 847,
+        "views": 347188,
+        "likes": 49148,
+        "comments": 3274,
+        "engagement_rate": 0.151,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001386/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001370",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "2026 Uber flagship review",
+        "published_at": "2026-03-31T10:00:00",
+        "duration_sec": 1149,
+        "views": 333657,
+        "likes": 17731,
+        "comments": 1669,
+        "engagement_rate": 0.0581,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001370/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001394",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "campaign from Uber: first impressions",
+        "published_at": "2026-05-01T11:00:00",
+        "duration_sec": 758,
+        "views": 331458,
+        "likes": 11781,
+        "comments": 1410,
+        "engagement_rate": 0.0398,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001394/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001384",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber unveils release",
+        "published_at": "2026-04-24T19:00:00",
+        "duration_sec": 54,
+        "views": 305390,
+        "likes": 14890,
+        "comments": 786,
+        "engagement_rate": 0.0513,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001384/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001391",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber unveils platform",
+        "published_at": "2026-02-19T21:00:00",
+        "duration_sec": 208,
+        "views": 299317,
+        "likes": 7089,
+        "comments": 774,
+        "engagement_rate": 0.0263,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001391/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001379",
+        "brand_id": "brand_056",
+        "channel_id": "UCf1905b7e8dd98927ac893b",
+        "title": "Uber vs the competition",
+        "published_at": "2026-03-14T10:00:00",
+        "duration_sec": 475,
+        "views": 298654,
+        "likes": 47779,
+        "comments": 2844,
+        "engagement_rate": 0.1695,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001379/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001692",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Boycotting Uber after this week",
+        "posted_at": "2026-03-14T02:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 11580,
+        "num_comments": 3110,
+        "sentiment": -0.656,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/uber/comments/t3_0001692/"
+      },
+      {
+        "post_id": "t3_0001683",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Uber's new edition launch is wild",
+        "posted_at": "2026-03-09T11:00:00",
+        "author": "u/CreatorLens",
+        "score": 8522,
+        "num_comments": 2148,
+        "sentiment": 0.029,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/uber/comments/t3_0001683/"
+      },
+      {
+        "post_id": "t3_0001667",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Why Uber is so polarizing",
+        "posted_at": "2026-04-27T22:00:00",
+        "author": "u/CulturalCritic",
+        "score": 6908,
+        "num_comments": 1107,
+        "sentiment": 0.036,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/uber/comments/t3_0001667/"
+      },
+      {
+        "post_id": "t3_0001687",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Anyone else having issues with Uber?",
+        "posted_at": "2026-03-27T16:00:00",
+        "author": "u/MidwestDad88",
+        "score": 3761,
+        "num_comments": 753,
+        "sentiment": -0.136,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/uber/comments/t3_0001687/"
+      },
+      {
+        "post_id": "t3_0001669",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Tried Uber \u2014 here's my take",
+        "posted_at": "2026-04-12T23:00:00",
+        "author": "u/CulturalCritic",
+        "score": 3449,
+        "num_comments": 803,
+        "sentiment": 0.739,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/uber/comments/t3_0001669/"
+      },
+      {
+        "post_id": "t3_0001694",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "The Uber discourse is unhinged today",
+        "posted_at": "2026-04-03T09:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 2192,
+        "num_comments": 146,
+        "sentiment": -0.172,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/uber/comments/t3_0001694/"
+      },
+      {
+        "post_id": "t3_0001689",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Tried Uber \u2014 here's my take",
+        "posted_at": "2026-04-25T23:00:00",
+        "author": "u/CreatorLens",
+        "score": 1854,
+        "num_comments": 539,
+        "sentiment": -0.023,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/uber/comments/t3_0001689/"
+      },
+      {
+        "post_id": "t3_0001666",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Uber just announced the new drop \u2014 thoughts?",
+        "posted_at": "2026-02-22T04:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1665,
+        "num_comments": 395,
+        "sentiment": 0.035,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/uber/comments/t3_0001666/"
+      },
+      {
+        "post_id": "t3_0001678",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Anyone else having issues with Uber?",
+        "posted_at": "2026-03-13T20:00:00",
+        "author": "u/MidwestDad88",
+        "score": 1200,
+        "num_comments": 98,
+        "sentiment": -0.105,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/uber/comments/t3_0001678/"
+      },
+      {
+        "post_id": "t3_0001685",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Uber pricing change is a slap in the face",
+        "posted_at": "2026-05-07T17:00:00",
+        "author": "u/QuietBuyer",
+        "score": 753,
+        "num_comments": 187,
+        "sentiment": -0.111,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/uber/comments/t3_0001685/"
+      },
+      {
+        "post_id": "t3_0001674",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Honest review of the Uber experience",
+        "posted_at": "2026-03-01T05:00:00",
+        "author": "u/MarketingPro42",
+        "score": 495,
+        "num_comments": 131,
+        "sentiment": 0.01,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/uber/comments/t3_0001674/"
+      },
+      {
+        "post_id": "t3_0001684",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Trying to cancel Uber \u2014 nightmare",
+        "posted_at": "2026-04-07T21:00:00",
+        "author": "u/MarketingPro42",
+        "score": 372,
+        "num_comments": 102,
+        "sentiment": 0.054,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/uber/comments/t3_0001684/"
+      },
+      {
+        "post_id": "t3_0001695",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Uber guidance for next quarter",
+        "posted_at": "2026-02-16T09:00:00",
+        "author": "u/PixelPirate",
+        "score": 369,
+        "num_comments": 19,
+        "sentiment": 0.017,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/uber/comments/t3_0001695/"
+      },
+      {
+        "post_id": "t3_0001681",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "The Uber discourse is unhinged today",
+        "posted_at": "2026-04-15T05:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 368,
+        "num_comments": 67,
+        "sentiment": 0.219,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/uber/comments/t3_0001681/"
+      },
+      {
+        "post_id": "t3_0001698",
+        "brand_id": "brand_056",
+        "brand_name_match": "Uber",
+        "subreddit": "r/uber",
+        "title": "Is anyone else fed up with Uber lately?",
+        "posted_at": "2026-05-10T21:00:00",
+        "author": "u/MarketingPro42",
+        "score": 278,
+        "num_comments": 46,
+        "sentiment": 0.102,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/uber/comments/t3_0001698/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Uber",
+        "title": "Uber",
+        "category": "brand",
+        "pageviews_28d": 626975,
+        "pageviews_growth_pct": -36.38,
+        "pageviews_volatility": 0.486,
+        "related_brands": [
+          "brand_056"
+        ]
+      },
+      {
+        "topic_id": "GLP-1_drugs",
+        "title": "GLP-1 drugs",
+        "category": "culture",
+        "pageviews_28d": 43635,
+        "pageviews_growth_pct": 46.66,
+        "pageviews_volatility": 0.3476,
+        "related_brands": [
+          "brand_056"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Dominant Reddit topic cluster: product-review",
+      "YT views +23% MoM driven by recent product reveal",
+      "Reddit mention velocity up 55% \u2014 emerging conversation cluster",
+      "Wikipedia pageviews surged +40% \u2014 news cycle is active",
+      "Top YouTube asset: \"New Uber flagship reveal\"",
+      "Reddit sentiment dipped to -0.20 in r/uber after pricing or service complaints"
+    ],
+    "ai_summary": "Uber is running hot in the Travel panel with an attention score of 55. YouTube and Reddit are reinforcing each other \u2014 views +23% and r/uber sentiment of -0.20 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-14",
+        "views": 22183
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-15",
+        "views": 24311
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-16",
+        "views": 22757
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-17",
+        "views": 21607
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-18",
+        "views": 22778
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-19",
+        "views": 23777
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-20",
+        "views": 20779
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-21",
+        "views": 20122
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-22",
+        "views": 18776
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-23",
+        "views": 18723
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-24",
+        "views": 23794
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-25",
+        "views": 23040
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-26",
+        "views": 88584
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-27",
+        "views": 83179
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-02-28",
+        "views": 72298
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-01",
+        "views": 67046
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-02",
+        "views": 58889
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-03",
+        "views": 54287
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-04",
+        "views": 54003
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-05",
+        "views": 48965
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-06",
+        "views": 47315
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-07",
+        "views": 45507
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-08",
+        "views": 44304
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-09",
+        "views": 42305
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-10",
+        "views": 36101
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-11",
+        "views": 36244
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-12",
+        "views": 32699
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-13",
+        "views": 32132
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-14",
+        "views": 29687
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-15",
+        "views": 29847
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-16",
+        "views": 29148
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-17",
+        "views": 27992
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-18",
+        "views": 29732
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-19",
+        "views": 26216
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-20",
+        "views": 26975
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-21",
+        "views": 22651
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-22",
+        "views": 19982
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-23",
+        "views": 22549
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-24",
+        "views": 23101
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-25",
+        "views": 23375
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-26",
+        "views": 23167
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-27",
+        "views": 23901
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-28",
+        "views": 23446
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-29",
+        "views": 19067
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-30",
+        "views": 75655
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-03-31",
+        "views": 66704
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-01",
+        "views": 63195
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-02",
+        "views": 57197
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-03",
+        "views": 50590
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-04",
+        "views": 42967
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-05",
+        "views": 41577
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-06",
+        "views": 37096
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-07",
+        "views": 38955
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-08",
+        "views": 36462
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-09",
+        "views": 33690
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-10",
+        "views": 32422
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-11",
+        "views": 31672
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-12",
+        "views": 34651
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-13",
+        "views": 29105
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-14",
+        "views": 29071
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-15",
+        "views": 27329
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-16",
+        "views": 28874
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-17",
+        "views": 26196
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-18",
+        "views": 26255
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-19",
+        "views": 27892
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-20",
+        "views": 24196
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-21",
+        "views": 24568
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-22",
+        "views": 25061
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-23",
+        "views": 26086
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-24",
+        "views": 23953
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-25",
+        "views": 24702
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-26",
+        "views": 21020
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-27",
+        "views": 24187
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-28",
+        "views": 23436
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-29",
+        "views": 22937
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-04-30",
+        "views": 18617
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-01",
+        "views": 17669
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-02",
+        "views": 16342
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-03",
+        "views": 18327
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-04",
+        "views": 16705
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-05",
+        "views": 15390
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-06",
+        "views": 21417
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-07",
+        "views": 20450
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-08",
+        "views": 19247
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-09",
+        "views": 23506
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-10",
+        "views": 23074
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-11",
+        "views": 20499
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-12",
+        "views": 21982
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-13",
+        "views": 25436
+      },
+      {
+        "topic_id": "Uber",
+        "date": "2026-05-14",
+        "views": 27825
+      }
+    ]
+  }
+}

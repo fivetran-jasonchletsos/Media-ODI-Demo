@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_057",
+    "brand_handle": "@doordash",
+    "brand_name": "DoorDash",
+    "vertical": "Travel",
+    "hq_country": "US",
+    "established_year": 2013,
+    "description": "DoorDash is a delivery brand established in 2013, headquartered in US.",
+    "yt_channel_id": "UCb9232bcea8a440cefbe4e7",
+    "yt_subscribers": 28040,
+    "yt_views_total": 40259534,
+    "yt_videos_count": 456,
+    "yt_views_28d": 1154070,
+    "yt_subs_growth_28d_pct": 12.14,
+    "reddit_mentions_28d": 71,
+    "reddit_avg_sentiment": 0.206,
+    "reddit_top_subreddit": "r/doordash",
+    "reddit_velocity_28d": 0.075,
+    "wiki_pageviews_28d": 637491,
+    "wiki_pageviews_growth_28d_pct": 62.23,
+    "attention_score": 54.25,
+    "signal_bucket": "hot",
+    "share_of_voice": 19.89,
+    "last_signal_change": "2026-04-29",
+    "videos": [
+      {
+        "video_id": "yt_001398",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "DoorDash CEO on the future of design",
+        "published_at": "2026-04-26T10:00:00",
+        "duration_sec": 379,
+        "views": 126213,
+        "likes": 8866,
+        "comments": 957,
+        "engagement_rate": 0.0778,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001398/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001409",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "DoorDash CEO on the future of the next decade",
+        "published_at": "2026-03-09T11:00:00",
+        "duration_sec": 1576,
+        "views": 123321,
+        "likes": 6474,
+        "comments": 942,
+        "engagement_rate": 0.0601,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001409/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001404",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "DoorDash unveils platform",
+        "published_at": "2026-02-23T19:00:00",
+        "duration_sec": 74,
+        "views": 116993,
+        "likes": 4426,
+        "comments": 427,
+        "engagement_rate": 0.0415,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001404/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001412",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "Behind the scenes at DoorDash",
+        "published_at": "2026-03-01T11:00:00",
+        "duration_sec": 64,
+        "views": 97786,
+        "likes": 17949,
+        "comments": 2860,
+        "engagement_rate": 0.2128,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001412/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001417",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "How DoorDash is reimagining consumer attention",
+        "published_at": "2026-05-09T23:00:00",
+        "duration_sec": 1242,
+        "views": 95893,
+        "likes": 6124,
+        "comments": 743,
+        "engagement_rate": 0.0716,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001417/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001399",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "Why we chose DoorDash",
+        "published_at": "2026-02-20T18:00:00",
+        "duration_sec": 1770,
+        "views": 94098,
+        "likes": 4818,
+        "comments": 466,
+        "engagement_rate": 0.0562,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001399/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001407",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "2026 DoorDash experience review",
+        "published_at": "2026-04-03T02:00:00",
+        "duration_sec": 582,
+        "views": 84328,
+        "likes": 5582,
+        "comments": 799,
+        "engagement_rate": 0.0757,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001407/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001413",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "How DoorDash is reimagining sustainability",
+        "published_at": "2026-03-14T14:00:00",
+        "duration_sec": 1682,
+        "views": 82267,
+        "likes": 3914,
+        "comments": 605,
+        "engagement_rate": 0.0549,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001413/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001401",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "I tried DoorDash's new experience for 30 days",
+        "published_at": "2026-04-08T15:00:00",
+        "duration_sec": 507,
+        "views": 68396,
+        "likes": 1227,
+        "comments": 145,
+        "engagement_rate": 0.0201,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001401/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001402",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "2026 DoorDash flagship review",
+        "published_at": "2026-02-16T11:00:00",
+        "duration_sec": 1209,
+        "views": 64522,
+        "likes": 2260,
+        "comments": 228,
+        "engagement_rate": 0.0386,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001402/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001403",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "Inside DoorDash's 2026 strategy",
+        "published_at": "2026-02-13T23:00:00",
+        "duration_sec": 61,
+        "views": 59560,
+        "likes": 3491,
+        "comments": 198,
+        "engagement_rate": 0.0619,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001403/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001406",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "DoorDash unveils experience",
+        "published_at": "2026-03-06T05:00:00",
+        "duration_sec": 1286,
+        "views": 57964,
+        "likes": 2391,
+        "comments": 207,
+        "engagement_rate": 0.0448,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001406/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001414",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "Behind the scenes at DoorDash",
+        "published_at": "2026-02-28T05:00:00",
+        "duration_sec": 1134,
+        "views": 53985,
+        "likes": 1749,
+        "comments": 170,
+        "engagement_rate": 0.0355,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001414/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001411",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "How DoorDash is reimagining the next decade",
+        "published_at": "2026-04-18T15:00:00",
+        "duration_sec": 543,
+        "views": 51111,
+        "likes": 1350,
+        "comments": 76,
+        "engagement_rate": 0.0279,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001411/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001400",
+        "brand_id": "brand_057",
+        "channel_id": "UCb9232bcea8a440cefbe4e7",
+        "title": "How DoorDash is reimagining creators",
+        "published_at": "2026-02-15T01:00:00",
+        "duration_sec": 82,
+        "views": 38624,
+        "likes": 1042,
+        "comments": 97,
+        "engagement_rate": 0.0295,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001400/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001702",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Anyone else thinking about DoorDash?",
+        "posted_at": "2026-02-22T05:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 5663,
+        "num_comments": 991,
+        "sentiment": 0.365,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001702/"
+      },
+      {
+        "post_id": "t3_0001725",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Hot take on the DoorDash collab",
+        "posted_at": "2026-02-28T05:00:00",
+        "author": "u/BrandLurker",
+        "score": 4676,
+        "num_comments": 1185,
+        "sentiment": 0.214,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001725/"
+      },
+      {
+        "post_id": "t3_0001723",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "DoorDash pricing change is a slap in the face",
+        "posted_at": "2026-04-05T04:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 3134,
+        "num_comments": 172,
+        "sentiment": -0.692,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001723/"
+      },
+      {
+        "post_id": "t3_0001713",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why I'm switching to DoorDash",
+        "posted_at": "2026-04-24T11:00:00",
+        "author": "u/PixelPirate",
+        "score": 2839,
+        "num_comments": 202,
+        "sentiment": -0.076,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001713/"
+      },
+      {
+        "post_id": "t3_0001699",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why I'm switching to DoorDash",
+        "posted_at": "2026-04-05T17:00:00",
+        "author": "u/MidwestDad88",
+        "score": 2700,
+        "num_comments": 154,
+        "sentiment": -0.14,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001699/"
+      },
+      {
+        "post_id": "t3_0001712",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why DoorDash is so polarizing",
+        "posted_at": "2026-04-25T14:00:00",
+        "author": "u/StreamingNerd",
+        "score": 2475,
+        "num_comments": 197,
+        "sentiment": 0.114,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001712/"
+      },
+      {
+        "post_id": "t3_0001714",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why DoorDash is so polarizing",
+        "posted_at": "2026-04-16T10:00:00",
+        "author": "u/CulturalCritic",
+        "score": 2252,
+        "num_comments": 673,
+        "sentiment": -0.259,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001714/"
+      },
+      {
+        "post_id": "t3_0001708",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "30 days with DoorDash's edition",
+        "posted_at": "2026-05-01T04:00:00",
+        "author": "u/CreatorLens",
+        "score": 1083,
+        "num_comments": 109,
+        "sentiment": -0.072,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001708/"
+      },
+      {
+        "post_id": "t3_0001711",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "30 days with DoorDash's series",
+        "posted_at": "2026-03-19T10:00:00",
+        "author": "u/QuietBuyer",
+        "score": 939,
+        "num_comments": 269,
+        "sentiment": 0.356,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001711/"
+      },
+      {
+        "post_id": "t3_0001718",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Boycotting DoorDash after this week",
+        "posted_at": "2026-03-08T22:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 544,
+        "num_comments": 147,
+        "sentiment": -0.422,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001718/"
+      },
+      {
+        "post_id": "t3_0001721",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "DoorDash just announced the new flagship \u2014 thoughts?",
+        "posted_at": "2026-05-11T12:00:00",
+        "author": "u/BrandLurker",
+        "score": 473,
+        "num_comments": 126,
+        "sentiment": -0.125,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001721/"
+      },
+      {
+        "post_id": "t3_0001700",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Tried DoorDash \u2014 here's my take",
+        "posted_at": "2026-03-19T08:00:00",
+        "author": "u/ThriftyTina",
+        "score": 465,
+        "num_comments": 94,
+        "sentiment": 0.561,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001700/"
+      },
+      {
+        "post_id": "t3_0001726",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why DoorDash is so polarizing",
+        "posted_at": "2026-05-09T10:00:00",
+        "author": "u/BrandLurker",
+        "score": 455,
+        "num_comments": 67,
+        "sentiment": 0.096,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001726/"
+      },
+      {
+        "post_id": "t3_0001717",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why DoorDash is so polarizing",
+        "posted_at": "2026-04-21T08:00:00",
+        "author": "u/ThriftyTina",
+        "score": 315,
+        "num_comments": 42,
+        "sentiment": -0.31,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001717/"
+      },
+      {
+        "post_id": "t3_0001705",
+        "brand_id": "brand_057",
+        "brand_name_match": "DoorDash",
+        "subreddit": "r/doordash",
+        "title": "Why I'm switching to DoorDash",
+        "posted_at": "2026-03-26T21:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 296,
+        "num_comments": 24,
+        "sentiment": 0.303,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/doordash/comments/t3_0001705/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "DoorDash",
+        "title": "DoorDash",
+        "category": "brand",
+        "pageviews_28d": 671371,
+        "pageviews_growth_pct": 4.5,
+        "pageviews_volatility": 0.43,
+        "related_brands": [
+          "brand_057"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +62% \u2014 news cycle is active",
+      "YT views +12% MoM driven by recent product reveal",
+      "Reddit conversation balanced (sentiment +0.21) across r/doordash",
+      "Dominant Reddit topic cluster: product-review",
+      "Top YouTube asset: \"DoorDash CEO on the future of design\""
+    ],
+    "ai_summary": "DoorDash is running hot in the Travel panel with an attention score of 54. YouTube and Reddit are reinforcing each other \u2014 views +12% and r/doordash sentiment of +0.21 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-14",
+        "views": 23483
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-15",
+        "views": 21706
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-16",
+        "views": 19426
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-17",
+        "views": 19644
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-18",
+        "views": 18006
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-19",
+        "views": 14840
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-20",
+        "views": 17928
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-21",
+        "views": 18349
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-22",
+        "views": 73381
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-23",
+        "views": 61833
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-24",
+        "views": 57008
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-25",
+        "views": 54563
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-26",
+        "views": 49615
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-27",
+        "views": 42870
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-02-28",
+        "views": 36244
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-01",
+        "views": 38453
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-02",
+        "views": 35663
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-03",
+        "views": 32795
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-04",
+        "views": 30592
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-05",
+        "views": 28733
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-06",
+        "views": 28634
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-07",
+        "views": 26205
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-08",
+        "views": 25517
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-09",
+        "views": 22653
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-10",
+        "views": 22596
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-11",
+        "views": 18873
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-12",
+        "views": 67851
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-13",
+        "views": 64599
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-14",
+        "views": 58400
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-15",
+        "views": 49359
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-16",
+        "views": 50554
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-17",
+        "views": 45496
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-18",
+        "views": 42685
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-19",
+        "views": 36266
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-20",
+        "views": 30582
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-21",
+        "views": 29203
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-22",
+        "views": 29610
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-23",
+        "views": 29951
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-24",
+        "views": 27313
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-25",
+        "views": 26402
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-26",
+        "views": 23881
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-27",
+        "views": 26641
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-28",
+        "views": 24417
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-29",
+        "views": 20560
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-30",
+        "views": 18542
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-03-31",
+        "views": 18608
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-01",
+        "views": 19339
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-02",
+        "views": 19037
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-03",
+        "views": 21308
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-04",
+        "views": 21466
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-05",
+        "views": 22795
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-06",
+        "views": 18464
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-07",
+        "views": 18362
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-08",
+        "views": 17329
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-09",
+        "views": 20445
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-10",
+        "views": 21755
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-11",
+        "views": 24406
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-12",
+        "views": 22383
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-13",
+        "views": 20279
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-14",
+        "views": 21093
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-15",
+        "views": 24419
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-16",
+        "views": 23891
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-17",
+        "views": 26395
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-18",
+        "views": 26164
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-19",
+        "views": 24159
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-20",
+        "views": 24107
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-21",
+        "views": 25076
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-22",
+        "views": 23897
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-23",
+        "views": 23902
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-24",
+        "views": 25065
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-25",
+        "views": 25288
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-26",
+        "views": 25131
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-27",
+        "views": 19717
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-28",
+        "views": 23406
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-29",
+        "views": 22633
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-04-30",
+        "views": 25475
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-01",
+        "views": 21764
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-02",
+        "views": 25458
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-03",
+        "views": 22102
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-04",
+        "views": 23176
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-05",
+        "views": 24774
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-06",
+        "views": 26234
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-07",
+        "views": 22780
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-08",
+        "views": 22806
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-09",
+        "views": 22358
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-10",
+        "views": 24555
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-11",
+        "views": 24296
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-12",
+        "views": 22515
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-13",
+        "views": 22757
+      },
+      {
+        "topic_id": "DoorDash",
+        "date": "2026-05-14",
+        "views": 25381
+      }
+    ]
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_045",
+    "brand_handle": "@drunkelephant",
+    "brand_name": "Drunk Elephant",
+    "vertical": "Beauty",
+    "hq_country": "US",
+    "established_year": 2012,
+    "description": "Drunk Elephant is a skincare brand established in 2012, headquartered in US.",
+    "yt_channel_id": "UC785f6dcaf07c467a86e251",
+    "yt_subscribers": 9213316,
+    "yt_views_total": 5617567544,
+    "yt_videos_count": 2719,
+    "yt_views_28d": 323582570,
+    "yt_subs_growth_28d_pct": 30.66,
+    "reddit_mentions_28d": 256,
+    "reddit_avg_sentiment": 0.419,
+    "reddit_top_subreddit": "r/SkincareAddiction",
+    "reddit_velocity_28d": 0.255,
+    "wiki_pageviews_28d": 551739,
+    "wiki_pageviews_growth_28d_pct": 34.79,
+    "attention_score": 64.73,
+    "signal_bucket": "breakout",
+    "share_of_voice": 25.47,
+    "last_signal_change": "2026-04-19",
+    "videos": [
+      {
+        "video_id": "yt_001111",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "Drunk Elephant just changed the game with campaign",
+        "published_at": "2026-02-24T05:00:00",
+        "duration_sec": 51,
+        "views": 39504089,
+        "likes": 1378301,
+        "comments": 166257,
+        "engagement_rate": 0.0391,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001111/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001099",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "What nobody tells you about Drunk Elephant",
+        "published_at": "2026-03-18T23:00:00",
+        "duration_sec": 1160,
+        "views": 33542192,
+        "likes": 1290296,
+        "comments": 219280,
+        "engagement_rate": 0.045,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001099/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001112",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "Drunk Elephant CEO on the future of the next decade",
+        "published_at": "2026-04-07T15:00:00",
+        "duration_sec": 80,
+        "views": 33436228,
+        "likes": 1681362,
+        "comments": 145650,
+        "engagement_rate": 0.0546,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001112/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001100",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "New Drunk Elephant drop reveal",
+        "published_at": "2026-03-10T06:00:00",
+        "duration_sec": 453,
+        "views": 32249079,
+        "likes": 2137434,
+        "comments": 298588,
+        "engagement_rate": 0.0755,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001100/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001108",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "What nobody tells you about Drunk Elephant",
+        "published_at": "2026-03-14T22:00:00",
+        "duration_sec": 1666,
+        "views": 31744870,
+        "likes": 1375042,
+        "comments": 161593,
+        "engagement_rate": 0.0484,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001108/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001106",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "What nobody tells you about Drunk Elephant",
+        "published_at": "2026-04-15T19:00:00",
+        "duration_sec": 1590,
+        "views": 31060511,
+        "likes": 2185839,
+        "comments": 285997,
+        "engagement_rate": 0.0796,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001106/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001115",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "drop from Drunk Elephant: first impressions",
+        "published_at": "2026-02-22T00:00:00",
+        "duration_sec": 75,
+        "views": 30693129,
+        "likes": 1700812,
+        "comments": 169838,
+        "engagement_rate": 0.0609,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001115/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001118",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "2026 Drunk Elephant experience review",
+        "published_at": "2026-02-19T06:00:00",
+        "duration_sec": 52,
+        "views": 29696091,
+        "likes": 4192524,
+        "comments": 411972,
+        "engagement_rate": 0.1551,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001118/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001117",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "Why we chose Drunk Elephant",
+        "published_at": "2026-04-08T17:00:00",
+        "duration_sec": 243,
+        "views": 27361761,
+        "likes": 2003747,
+        "comments": 148774,
+        "engagement_rate": 0.0787,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001117/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001116",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "Drunk Elephant just changed the game with flagship",
+        "published_at": "2026-03-10T07:00:00",
+        "duration_sec": 60,
+        "views": 26056377,
+        "likes": 1695743,
+        "comments": 115214,
+        "engagement_rate": 0.0695,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001116/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001104",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "What nobody tells you about Drunk Elephant",
+        "published_at": "2026-03-28T22:00:00",
+        "duration_sec": 67,
+        "views": 23527691,
+        "likes": 431550,
+        "comments": 64734,
+        "engagement_rate": 0.0211,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001104/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001105",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "I tried Drunk Elephant's new campaign for 30 days",
+        "published_at": "2026-04-24T14:00:00",
+        "duration_sec": 55,
+        "views": 21048848,
+        "likes": 3844201,
+        "comments": 570698,
+        "engagement_rate": 0.2097,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001105/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001113",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "How Drunk Elephant is reimagining creators",
+        "published_at": "2026-03-22T23:00:00",
+        "duration_sec": 790,
+        "views": 15637338,
+        "likes": 377447,
+        "comments": 63737,
+        "engagement_rate": 0.0282,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001113/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001102",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "Drunk Elephant vs the competition",
+        "published_at": "2026-03-19T18:00:00",
+        "duration_sec": 365,
+        "views": 14752655,
+        "likes": 664956,
+        "comments": 115766,
+        "engagement_rate": 0.0529,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001102/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001109",
+        "brand_id": "brand_045",
+        "channel_id": "UC785f6dcaf07c467a86e251",
+        "title": "New Drunk Elephant experience reveal",
+        "published_at": "2026-02-20T14:00:00",
+        "duration_sec": 339,
+        "views": 14155734,
+        "likes": 281476,
+        "comments": 48278,
+        "engagement_rate": 0.0233,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001109/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001358",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Why Drunk Elephant is so polarizing",
+        "posted_at": "2026-04-15T02:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 10924,
+        "num_comments": 1184,
+        "sentiment": 0.131,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001358/"
+      },
+      {
+        "post_id": "t3_0001363",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "First look at Drunk Elephant's experience",
+        "posted_at": "2026-03-23T05:00:00",
+        "author": "u/MidwestDad88",
+        "score": 10238,
+        "num_comments": 935,
+        "sentiment": 0.215,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001363/"
+      },
+      {
+        "post_id": "t3_0001373",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Drunk Elephant just announced the new collection \u2014 thoughts?",
+        "posted_at": "2026-04-05T13:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 4741,
+        "num_comments": 349,
+        "sentiment": 0.615,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001373/"
+      },
+      {
+        "post_id": "t3_0001349",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Drunk Elephant just announced the new lineup \u2014 thoughts?",
+        "posted_at": "2026-04-23T01:00:00",
+        "author": "u/BrandLurker",
+        "score": 4592,
+        "num_comments": 247,
+        "sentiment": 0.417,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001349/"
+      },
+      {
+        "post_id": "t3_0001376",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Honest review of the Drunk Elephant series",
+        "posted_at": "2026-02-26T17:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 3949,
+        "num_comments": 766,
+        "sentiment": -0.222,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001376/"
+      },
+      {
+        "post_id": "t3_0001361",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "30 days with Drunk Elephant's release",
+        "posted_at": "2026-04-07T17:00:00",
+        "author": "u/UnpaidMod",
+        "score": 3418,
+        "num_comments": 474,
+        "sentiment": -0.465,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001361/"
+      },
+      {
+        "post_id": "t3_0001355",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Why I'm switching to Drunk Elephant",
+        "posted_at": "2026-03-12T11:00:00",
+        "author": "u/UnpaidMod",
+        "score": 2904,
+        "num_comments": 716,
+        "sentiment": -0.219,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001355/"
+      },
+      {
+        "post_id": "t3_0001369",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Anyone else thinking about Drunk Elephant?",
+        "posted_at": "2026-03-29T07:00:00",
+        "author": "u/CreatorLens",
+        "score": 2761,
+        "num_comments": 628,
+        "sentiment": 0.02,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001369/"
+      },
+      {
+        "post_id": "t3_0001372",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Drunk Elephant x [collab] is actually cool",
+        "posted_at": "2026-02-26T14:00:00",
+        "author": "u/MidnightMod",
+        "score": 2691,
+        "num_comments": 458,
+        "sentiment": 0.388,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001372/"
+      },
+      {
+        "post_id": "t3_0001375",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Is anyone else fed up with Drunk Elephant lately?",
+        "posted_at": "2026-03-22T04:00:00",
+        "author": "u/QuietBuyer",
+        "score": 2669,
+        "num_comments": 382,
+        "sentiment": -0.668,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001375/"
+      },
+      {
+        "post_id": "t3_0001374",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Drunk Elephant's new drop launch is wild",
+        "posted_at": "2026-05-05T12:00:00",
+        "author": "u/CreatorLens",
+        "score": 1989,
+        "num_comments": 424,
+        "sentiment": 0.178,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001374/"
+      },
+      {
+        "post_id": "t3_0001352",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "30 days with Drunk Elephant's model",
+        "posted_at": "2026-05-04T11:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 1047,
+        "num_comments": 53,
+        "sentiment": 0.439,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001352/"
+      },
+      {
+        "post_id": "t3_0001354",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Why I'm switching to Drunk Elephant",
+        "posted_at": "2026-03-02T06:00:00",
+        "author": "u/ThriftyTina",
+        "score": 762,
+        "num_comments": 75,
+        "sentiment": 0.109,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001354/"
+      },
+      {
+        "post_id": "t3_0001360",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "Honest review of the Drunk Elephant drop",
+        "posted_at": "2026-04-18T10:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 384,
+        "num_comments": 105,
+        "sentiment": -0.234,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001360/"
+      },
+      {
+        "post_id": "t3_0001371",
+        "brand_id": "brand_045",
+        "brand_name_match": "Drunk Elephant",
+        "subreddit": "r/SkincareAddiction",
+        "title": "First look at Drunk Elephant's lineup",
+        "posted_at": "2026-04-30T17:00:00",
+        "author": "u/MarketingPro42",
+        "score": 310,
+        "num_comments": 39,
+        "sentiment": 0.37,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/SkincareAddiction/comments/t3_0001371/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Drunk_Elephant",
+        "title": "Drunk Elephant",
+        "category": "brand",
+        "pageviews_28d": 622358,
+        "pageviews_growth_pct": 12.88,
+        "pageviews_volatility": 0.1987,
+        "related_brands": [
+          "brand_045"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +35% \u2014 news cycle is active",
+      "Top YouTube asset: \"Drunk Elephant just changed the game with campaign\"",
+      "Dominant Reddit topic cluster: product-review",
+      "YT views +31% MoM driven by recent product reveal",
+      "Reddit sentiment elevated at +0.42 \u2014 fan-driven engagement in r/SkincareAddiction"
+    ],
+    "ai_summary": "Drunk Elephant's cross-channel attention has accelerated sharply in the past 28 days, with a +31% YouTube subscriber lift and matching uplift in r/SkincareAddiction sentiment (avg +0.42). Wikipedia pageview volatility (+35% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-14",
+        "views": 15783
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-15",
+        "views": 19168
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-16",
+        "views": 17359
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-17",
+        "views": 16728
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-18",
+        "views": 16991
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-19",
+        "views": 17978
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-20",
+        "views": 19705
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-21",
+        "views": 18999
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-22",
+        "views": 19400
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-23",
+        "views": 21341
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-24",
+        "views": 21951
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-25",
+        "views": 19182
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-26",
+        "views": 18986
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-27",
+        "views": 17120
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-02-28",
+        "views": 19190
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-01",
+        "views": 22951
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-02",
+        "views": 19584
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-03",
+        "views": 20538
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-04",
+        "views": 19723
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-05",
+        "views": 23513
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-06",
+        "views": 21682
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-07",
+        "views": 22811
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-08",
+        "views": 22027
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-09",
+        "views": 20028
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-10",
+        "views": 20727
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-11",
+        "views": 22301
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-12",
+        "views": 18824
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-13",
+        "views": 17813
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-14",
+        "views": 18087
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-15",
+        "views": 16698
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-16",
+        "views": 16935
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-17",
+        "views": 16752
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-18",
+        "views": 18605
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-19",
+        "views": 18033
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-20",
+        "views": 17268
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-21",
+        "views": 20388
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-22",
+        "views": 18476
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-23",
+        "views": 20621
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-24",
+        "views": 23002
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-25",
+        "views": 23648
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-26",
+        "views": 22998
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-27",
+        "views": 17453
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-28",
+        "views": 15973
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-29",
+        "views": 14620
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-30",
+        "views": 14310
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-03-31",
+        "views": 15547
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-01",
+        "views": 18866
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-02",
+        "views": 19303
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-03",
+        "views": 22300
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-04",
+        "views": 19382
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-05",
+        "views": 20316
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-06",
+        "views": 21166
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-07",
+        "views": 21362
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-08",
+        "views": 18822
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-09",
+        "views": 20829
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-10",
+        "views": 19472
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-11",
+        "views": 22268
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-12",
+        "views": 21803
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-13",
+        "views": 21048
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-14",
+        "views": 19276
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-15",
+        "views": 20128
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-16",
+        "views": 20677
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-17",
+        "views": 19193
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-18",
+        "views": 19511
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-19",
+        "views": 18595
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-20",
+        "views": 17004
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-21",
+        "views": 20080
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-22",
+        "views": 19544
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-23",
+        "views": 20970
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-24",
+        "views": 21140
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-25",
+        "views": 23292
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-26",
+        "views": 22246
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-27",
+        "views": 17733
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-28",
+        "views": 18121
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-29",
+        "views": 17770
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-04-30",
+        "views": 17954
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-01",
+        "views": 17374
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-02",
+        "views": 17041
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-03",
+        "views": 15587
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-04",
+        "views": 14452
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-05",
+        "views": 17438
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-06",
+        "views": 38777
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-07",
+        "views": 34904
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-08",
+        "views": 31586
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-09",
+        "views": 30102
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-10",
+        "views": 28905
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-11",
+        "views": 26840
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-12",
+        "views": 27634
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-13",
+        "views": 25760
+      },
+      {
+        "topic_id": "Drunk_Elephant",
+        "date": "2026-05-14",
+        "views": 22805
+      }
+    ]
+  }
+}

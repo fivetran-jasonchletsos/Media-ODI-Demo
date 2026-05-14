@@ -1,0 +1,15 @@
+{
+  "total_brands": 60,
+  "total_videos": 1493,
+  "total_conversations": 2310,
+  "total_topics": 80,
+  "total_pageview_observations": 7200,
+  "bronze_rows": 189146,
+  "silver_rows": 11003,
+  "gold_rows": 11123,
+  "iceberg_table_count": 12,
+  "s3_bytes": 3075400943,
+  "last_sync_at": "2026-05-14",
+  "generated_at": "2026-05-14T11:14:37+00:00",
+  "source": "demo"
+}

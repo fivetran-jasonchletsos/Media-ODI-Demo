@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_034",
+    "brand_handle": "@hulu",
+    "brand_name": "Hulu",
+    "vertical": "Streaming",
+    "hq_country": "US",
+    "established_year": 2007,
+    "description": "Hulu is a streaming brand established in 2007, headquartered in US.",
+    "yt_channel_id": "UC3bf0b3699bbdcee57ffa1a",
+    "yt_subscribers": 9277772,
+    "yt_views_total": 9630788524,
+    "yt_videos_count": 2152,
+    "yt_views_28d": 238907831,
+    "yt_subs_growth_28d_pct": 26.49,
+    "reddit_mentions_28d": 17,
+    "reddit_avg_sentiment": 0.572,
+    "reddit_top_subreddit": "r/Hulu",
+    "reddit_velocity_28d": 0.644,
+    "wiki_pageviews_28d": 5423,
+    "wiki_pageviews_growth_28d_pct": 61.66,
+    "attention_score": 74.17,
+    "signal_bucket": "breakout",
+    "share_of_voice": 22.86,
+    "last_signal_change": "2026-05-04",
+    "videos": [
+      {
+        "video_id": "yt_000852",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "I tried Hulu's new experience for 30 days",
+        "published_at": "2026-04-22T14:00:00",
+        "duration_sec": 474,
+        "views": 241981581,
+        "likes": 13762192,
+        "comments": 807929,
+        "engagement_rate": 0.0602,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000852/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000832",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "New Hulu campaign reveal",
+        "published_at": "2026-04-20T09:00:00",
+        "duration_sec": 86,
+        "views": 48703882,
+        "likes": 1226831,
+        "comments": 194908,
+        "engagement_rate": 0.0292,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000832/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000836",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu unveils model",
+        "published_at": "2026-03-30T10:00:00",
+        "duration_sec": 776,
+        "views": 21498280,
+        "likes": 1519452,
+        "comments": 94653,
+        "engagement_rate": 0.0751,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000836/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000841",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu unveils edition",
+        "published_at": "2026-04-16T16:00:00",
+        "duration_sec": 58,
+        "views": 21321737,
+        "likes": 1114481,
+        "comments": 119340,
+        "engagement_rate": 0.0579,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000841/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000849",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "How Hulu is reimagining the industry",
+        "published_at": "2026-03-05T22:00:00",
+        "duration_sec": 67,
+        "views": 20553907,
+        "likes": 630872,
+        "comments": 70210,
+        "engagement_rate": 0.0341,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000849/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000837",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu vs the competition",
+        "published_at": "2026-05-11T18:00:00",
+        "duration_sec": 85,
+        "views": 20376597,
+        "likes": 670746,
+        "comments": 113079,
+        "engagement_rate": 0.0385,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000837/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000843",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu vs the competition",
+        "published_at": "2026-04-22T10:00:00",
+        "duration_sec": 275,
+        "views": 18939959,
+        "likes": 940394,
+        "comments": 92930,
+        "engagement_rate": 0.0546,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000843/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000847",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "The real story behind Hulu",
+        "published_at": "2026-04-12T18:00:00",
+        "duration_sec": 72,
+        "views": 16308593,
+        "likes": 633902,
+        "comments": 58486,
+        "engagement_rate": 0.0425,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000847/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000840",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu CEO on the future of consumer attention",
+        "published_at": "2026-03-05T06:00:00",
+        "duration_sec": 539,
+        "views": 15490583,
+        "likes": 493232,
+        "comments": 84897,
+        "engagement_rate": 0.0373,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000840/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000831",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu just changed the game with series",
+        "published_at": "2026-02-19T09:00:00",
+        "duration_sec": 202,
+        "views": 15052312,
+        "likes": 895496,
+        "comments": 149127,
+        "engagement_rate": 0.0694,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000831/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000835",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Why we chose Hulu",
+        "published_at": "2026-04-20T10:00:00",
+        "duration_sec": 1006,
+        "views": 12520344,
+        "likes": 770606,
+        "comments": 40833,
+        "engagement_rate": 0.0648,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000835/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000846",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Why we chose Hulu",
+        "published_at": "2026-05-06T22:00:00",
+        "duration_sec": 585,
+        "views": 11532273,
+        "likes": 199251,
+        "comments": 31977,
+        "engagement_rate": 0.0201,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000846/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000829",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu unveils collection",
+        "published_at": "2026-04-21T00:00:00",
+        "duration_sec": 1308,
+        "views": 10800280,
+        "likes": 729696,
+        "comments": 54163,
+        "engagement_rate": 0.0726,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000829/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000834",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Hulu CEO on the future of the next decade",
+        "published_at": "2026-02-26T01:00:00",
+        "duration_sec": 629,
+        "views": 10358473,
+        "likes": 540760,
+        "comments": 82597,
+        "engagement_rate": 0.0602,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000834/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000848",
+        "brand_id": "brand_034",
+        "channel_id": "UC3bf0b3699bbdcee57ffa1a",
+        "title": "Why we chose Hulu",
+        "published_at": "2026-03-13T03:00:00",
+        "duration_sec": 69,
+        "views": 10028798,
+        "likes": 700212,
+        "comments": 63137,
+        "engagement_rate": 0.0761,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000848/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001033",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Honest review of the Hulu experience",
+        "posted_at": "2026-05-11T14:00:00",
+        "author": "u/MidwestDad88",
+        "score": 8009,
+        "num_comments": 1796,
+        "sentiment": 0.227,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001033/"
+      },
+      {
+        "post_id": "t3_0001013",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu earnings call summary",
+        "posted_at": "2026-03-01T06:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 7804,
+        "num_comments": 2034,
+        "sentiment": 0.828,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001013/"
+      },
+      {
+        "post_id": "t3_0001019",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Anyone seen the new Hulu edition drop?",
+        "posted_at": "2026-04-23T10:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 2535,
+        "num_comments": 527,
+        "sentiment": 0.047,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001019/"
+      },
+      {
+        "post_id": "t3_0001015",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu pricing change is a slap in the face",
+        "posted_at": "2026-03-06T17:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2425,
+        "num_comments": 157,
+        "sentiment": -0.425,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001015/"
+      },
+      {
+        "post_id": "t3_0001022",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "The Hulu discourse is unhinged today",
+        "posted_at": "2026-02-21T19:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2421,
+        "num_comments": 427,
+        "sentiment": -0.179,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001022/"
+      },
+      {
+        "post_id": "t3_0001041",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu is having a moment",
+        "posted_at": "2026-04-13T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1389,
+        "num_comments": 262,
+        "sentiment": 0.331,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001041/"
+      },
+      {
+        "post_id": "t3_0001037",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu TikTok meme has me dying",
+        "posted_at": "2026-03-15T14:00:00",
+        "author": "u/PixelPirate",
+        "score": 997,
+        "num_comments": 167,
+        "sentiment": -0.051,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001037/"
+      },
+      {
+        "post_id": "t3_0001021",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Is anyone else fed up with Hulu lately?",
+        "posted_at": "2026-03-27T22:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 980,
+        "num_comments": 176,
+        "sentiment": -0.409,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001021/"
+      },
+      {
+        "post_id": "t3_0001018",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Anyone else thinking about Hulu?",
+        "posted_at": "2026-04-23T08:00:00",
+        "author": "u/QuietBuyer",
+        "score": 711,
+        "num_comments": 158,
+        "sentiment": 0.028,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001018/"
+      },
+      {
+        "post_id": "t3_0001016",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "What the Hulu numbers actually mean",
+        "posted_at": "2026-04-02T19:00:00",
+        "author": "u/MidwestDad88",
+        "score": 688,
+        "num_comments": 140,
+        "sentiment": 0.076,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001016/"
+      },
+      {
+        "post_id": "t3_0001024",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu is having a moment",
+        "posted_at": "2026-02-23T23:00:00",
+        "author": "u/AgencyLifer",
+        "score": 535,
+        "num_comments": 77,
+        "sentiment": 0.316,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001024/"
+      },
+      {
+        "post_id": "t3_0001017",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Open thread: Hulu",
+        "posted_at": "2026-03-17T06:00:00",
+        "author": "u/CulturalCritic",
+        "score": 466,
+        "num_comments": 98,
+        "sentiment": -0.539,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001017/"
+      },
+      {
+        "post_id": "t3_0001026",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Why Hulu is so polarizing",
+        "posted_at": "2026-04-23T16:00:00",
+        "author": "u/AgencyLifer",
+        "score": 367,
+        "num_comments": 95,
+        "sentiment": 0.451,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001026/"
+      },
+      {
+        "post_id": "t3_0001014",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu is having a moment",
+        "posted_at": "2026-03-15T17:00:00",
+        "author": "u/SignalSeeker",
+        "score": 322,
+        "num_comments": 54,
+        "sentiment": 0.336,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001014/"
+      },
+      {
+        "post_id": "t3_0001040",
+        "brand_id": "brand_034",
+        "brand_name_match": "Hulu",
+        "subreddit": "r/Hulu",
+        "title": "Hulu pricing change is a slap in the face",
+        "posted_at": "2026-04-19T04:00:00",
+        "author": "u/MarketingPro42",
+        "score": 127,
+        "num_comments": 15,
+        "sentiment": -0.578,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Hulu/comments/t3_0001040/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Hulu",
+        "title": "Hulu",
+        "category": "brand",
+        "pageviews_28d": 6764,
+        "pageviews_growth_pct": 2.3,
+        "pageviews_volatility": 0.3797,
+        "related_brands": [
+          "brand_034"
+        ]
+      },
+      {
+        "topic_id": "Generative_AI_advertising",
+        "title": "Generative AI advertising",
+        "category": "industry",
+        "pageviews_28d": 378759,
+        "pageviews_growth_pct": 38.5,
+        "pageviews_volatility": 0.5951,
+        "related_brands": [
+          "brand_034",
+          "brand_049",
+          "brand_026"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT views +26% MoM driven by recent product reveal",
+      "Dominant Reddit topic cluster: culture",
+      "Top YouTube asset: \"I tried Hulu's new experience for 30 days\"",
+      "Reddit mention velocity up 64% \u2014 emerging conversation cluster",
+      "Wikipedia pageviews surged +62% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Hulu's cross-channel attention has accelerated sharply in the past 28 days, with a +26% YouTube subscriber lift and matching uplift in r/Hulu sentiment (avg +0.57). Wikipedia pageview volatility (+62% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-14",
+        "views": 203
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-15",
+        "views": 199
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-16",
+        "views": 207
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-17",
+        "views": 208
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-18",
+        "views": 226
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-19",
+        "views": 205
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-20",
+        "views": 213
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-21",
+        "views": 206
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-22",
+        "views": 217
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-23",
+        "views": 200
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-24",
+        "views": 204
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-25",
+        "views": 192
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-26",
+        "views": 168
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-27",
+        "views": 155
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-02-28",
+        "views": 172
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-01",
+        "views": 176
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-02",
+        "views": 195
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-03",
+        "views": 198
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-04",
+        "views": 189
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-05",
+        "views": 203
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-06",
+        "views": 207
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-07",
+        "views": 211
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-08",
+        "views": 709
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-09",
+        "views": 621
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-10",
+        "views": 575
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-11",
+        "views": 513
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-12",
+        "views": 477
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-13",
+        "views": 413
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-14",
+        "views": 390
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-15",
+        "views": 370
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-16",
+        "views": 361
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-17",
+        "views": 353
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-18",
+        "views": 323
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-19",
+        "views": 305
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-20",
+        "views": 299
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-21",
+        "views": 269
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-22",
+        "views": 279
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-23",
+        "views": 259
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-24",
+        "views": 264
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-25",
+        "views": 243
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-26",
+        "views": 218
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-27",
+        "views": 209
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-28",
+        "views": 227
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-29",
+        "views": 224
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-30",
+        "views": 250
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-03-31",
+        "views": 225
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-01",
+        "views": 235
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-02",
+        "views": 232
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-03",
+        "views": 257
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-04",
+        "views": 254
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-05",
+        "views": 237
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-06",
+        "views": 232
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-07",
+        "views": 210
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-08",
+        "views": 223
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-09",
+        "views": 216
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-10",
+        "views": 194
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-11",
+        "views": 224
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-12",
+        "views": 211
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-13",
+        "views": 239
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-14",
+        "views": 227
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-15",
+        "views": 241
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-16",
+        "views": 214
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-17",
+        "views": 217
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-18",
+        "views": 207
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-19",
+        "views": 212
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-20",
+        "views": 213
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-21",
+        "views": 197
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-22",
+        "views": 194
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-23",
+        "views": 198
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-24",
+        "views": 200
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-25",
+        "views": 202
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-26",
+        "views": 223
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-27",
+        "views": 441
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-28",
+        "views": 390
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-29",
+        "views": 345
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-04-30",
+        "views": 322
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-01",
+        "views": 315
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-02",
+        "views": 264
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-03",
+        "views": 258
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-04",
+        "views": 233
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-05",
+        "views": 230
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-06",
+        "views": 215
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-07",
+        "views": 211
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-08",
+        "views": 212
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-09",
+        "views": 210
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-10",
+        "views": 216
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-11",
+        "views": 229
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-12",
+        "views": 214
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-13",
+        "views": 187
+      },
+      {
+        "topic_id": "Hulu",
+        "date": "2026-05-14",
+        "views": 209
+      }
+    ]
+  }
+}

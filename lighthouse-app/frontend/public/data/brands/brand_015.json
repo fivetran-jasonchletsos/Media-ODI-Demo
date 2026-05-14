@@ -1,0 +1,936 @@
+{
+  "brand": {
+    "brand_id": "brand_015",
+    "brand_handle": "@toyota",
+    "brand_name": "Toyota",
+    "vertical": "Auto",
+    "hq_country": "Japan",
+    "established_year": 1937,
+    "description": "Toyota is a automotive brand established in 1937, headquartered in Japan.",
+    "yt_channel_id": "UC5983871b10851aeac6c9ae",
+    "yt_subscribers": 1080704,
+    "yt_views_total": 221532548,
+    "yt_videos_count": 3586,
+    "yt_views_28d": 12913003,
+    "yt_subs_growth_28d_pct": 32.16,
+    "reddit_mentions_28d": 546,
+    "reddit_avg_sentiment": 0.39,
+    "reddit_top_subreddit": "r/Toyota",
+    "reddit_velocity_28d": 0.484,
+    "wiki_pageviews_28d": 20753,
+    "wiki_pageviews_growth_28d_pct": 47.17,
+    "attention_score": 70.58,
+    "signal_bucket": "breakout",
+    "share_of_voice": 19.36,
+    "last_signal_change": "2026-05-01",
+    "videos": [
+      {
+        "video_id": "yt_000353",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "What nobody tells you about Toyota",
+        "published_at": "2026-03-16T15:00:00",
+        "duration_sec": 85,
+        "views": 21361585,
+        "likes": 398651,
+        "comments": 44227,
+        "engagement_rate": 0.0207,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000353/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000373",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "What nobody tells you about Toyota",
+        "published_at": "2026-03-23T19:00:00",
+        "duration_sec": 520,
+        "views": 8109436,
+        "likes": 310837,
+        "comments": 22350,
+        "engagement_rate": 0.0411,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000373/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000355",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Behind the scenes at Toyota",
+        "published_at": "2026-05-06T19:00:00",
+        "duration_sec": 54,
+        "views": 3930634,
+        "likes": 207909,
+        "comments": 12981,
+        "engagement_rate": 0.0562,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000355/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000367",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota unveils release",
+        "published_at": "2026-04-16T01:00:00",
+        "duration_sec": 1393,
+        "views": 1177805,
+        "likes": 212766,
+        "comments": 33829,
+        "engagement_rate": 0.2094,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000367/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000360",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota CEO on the future of loyalty",
+        "published_at": "2026-04-28T00:00:00",
+        "duration_sec": 841,
+        "views": 1157089,
+        "likes": 84784,
+        "comments": 7712,
+        "engagement_rate": 0.0799,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000360/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000365",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "How Toyota is reimagining consumer attention",
+        "published_at": "2026-03-21T22:00:00",
+        "duration_sec": 301,
+        "views": 1134057,
+        "likes": 53304,
+        "comments": 5106,
+        "engagement_rate": 0.0515,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000365/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000375",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota CEO on the future of the customer journey",
+        "published_at": "2026-04-22T09:00:00",
+        "duration_sec": 69,
+        "views": 1114824,
+        "likes": 65135,
+        "comments": 9623,
+        "engagement_rate": 0.0671,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000375/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000362",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota CEO on the future of creators",
+        "published_at": "2026-04-20T18:00:00",
+        "duration_sec": 353,
+        "views": 1094205,
+        "likes": 46049,
+        "comments": 7446,
+        "engagement_rate": 0.0489,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000362/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000358",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota vs the competition",
+        "published_at": "2026-04-29T06:00:00",
+        "duration_sec": 450,
+        "views": 1003645,
+        "likes": 61276,
+        "comments": 6260,
+        "engagement_rate": 0.0673,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000358/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000372",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Toyota vs the competition",
+        "published_at": "2026-05-01T02:00:00",
+        "duration_sec": 229,
+        "views": 954645,
+        "likes": 42439,
+        "comments": 3311,
+        "engagement_rate": 0.0479,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000372/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000368",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "What nobody tells you about Toyota",
+        "published_at": "2026-03-07T03:00:00",
+        "duration_sec": 191,
+        "views": 898182,
+        "likes": 25802,
+        "comments": 2969,
+        "engagement_rate": 0.032,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000368/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000364",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Inside Toyota's 2026 strategy",
+        "published_at": "2026-05-09T14:00:00",
+        "duration_sec": 69,
+        "views": 814194,
+        "likes": 39683,
+        "comments": 5676,
+        "engagement_rate": 0.0557,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000364/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000369",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Inside Toyota's 2026 strategy",
+        "published_at": "2026-04-23T19:00:00",
+        "duration_sec": 631,
+        "views": 800141,
+        "likes": 38806,
+        "comments": 3242,
+        "engagement_rate": 0.0526,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000369/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000374",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "2026 Toyota model review",
+        "published_at": "2026-03-08T21:00:00",
+        "duration_sec": 598,
+        "views": 795840,
+        "likes": 27034,
+        "comments": 3309,
+        "engagement_rate": 0.0381,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000374/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000376",
+        "brand_id": "brand_015",
+        "channel_id": "UC5983871b10851aeac6c9ae",
+        "title": "Behind the scenes at Toyota",
+        "published_at": "2026-02-28T09:00:00",
+        "duration_sec": 483,
+        "views": 794526,
+        "likes": 22906,
+        "comments": 1383,
+        "engagement_rate": 0.0306,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000376/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000438",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "30 days with Toyota's series",
+        "posted_at": "2026-05-09T21:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 10966,
+        "num_comments": 2574,
+        "sentiment": -0.093,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000438/"
+      },
+      {
+        "post_id": "t3_0000466",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "First look at Toyota's release",
+        "posted_at": "2026-02-17T18:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 10630,
+        "num_comments": 1258,
+        "sentiment": 0.051,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000466/"
+      },
+      {
+        "post_id": "t3_0000451",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "First look at Toyota's platform",
+        "posted_at": "2026-02-21T07:00:00",
+        "author": "u/AgencyLifer",
+        "score": 8648,
+        "num_comments": 1132,
+        "sentiment": -0.053,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000451/"
+      },
+      {
+        "post_id": "t3_0000469",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Toyota customer service is impossible to reach",
+        "posted_at": "2026-04-03T04:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 6679,
+        "num_comments": 603,
+        "sentiment": -0.397,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000469/"
+      },
+      {
+        "post_id": "t3_0000457",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Toyota is having a moment",
+        "posted_at": "2026-05-10T07:00:00",
+        "author": "u/PixelPirate",
+        "score": 6535,
+        "num_comments": 958,
+        "sentiment": 0.088,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000457/"
+      },
+      {
+        "post_id": "t3_0000467",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Why I'm switching to Toyota",
+        "posted_at": "2026-05-05T22:00:00",
+        "author": "u/AgencyLifer",
+        "score": 5088,
+        "num_comments": 882,
+        "sentiment": 0.272,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000467/"
+      },
+      {
+        "post_id": "t3_0000454",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Toyota x [collab] is actually cool",
+        "posted_at": "2026-04-30T13:00:00",
+        "author": "u/MidnightMod",
+        "score": 4907,
+        "num_comments": 1071,
+        "sentiment": 0.104,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000454/"
+      },
+      {
+        "post_id": "t3_0000447",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Why I'm switching to Toyota",
+        "posted_at": "2026-04-11T12:00:00",
+        "author": "u/SocialSarah",
+        "score": 4477,
+        "num_comments": 1005,
+        "sentiment": 0.045,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000447/"
+      },
+      {
+        "post_id": "t3_0000445",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Tried Toyota \u2014 here's my take",
+        "posted_at": "2026-03-31T06:00:00",
+        "author": "u/TacoCritic",
+        "score": 4408,
+        "num_comments": 515,
+        "sentiment": 0.23,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000445/"
+      },
+      {
+        "post_id": "t3_0000444",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Why I'm switching to Toyota",
+        "posted_at": "2026-02-22T09:00:00",
+        "author": "u/CreatorLens",
+        "score": 3857,
+        "num_comments": 536,
+        "sentiment": -0.385,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000444/"
+      },
+      {
+        "post_id": "t3_0000448",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Tried Toyota \u2014 here's my take",
+        "posted_at": "2026-03-23T11:00:00",
+        "author": "u/CulturalCritic",
+        "score": 1589,
+        "num_comments": 344,
+        "sentiment": 0.621,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000448/"
+      },
+      {
+        "post_id": "t3_0000462",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Random Toyota thought",
+        "posted_at": "2026-02-19T11:00:00",
+        "author": "u/SignalSeeker",
+        "score": 1385,
+        "num_comments": 201,
+        "sentiment": -0.226,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000462/"
+      },
+      {
+        "post_id": "t3_0000443",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Why I'm switching to Toyota",
+        "posted_at": "2026-03-18T10:00:00",
+        "author": "u/MidwestDad88",
+        "score": 817,
+        "num_comments": 137,
+        "sentiment": 0.086,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000443/"
+      },
+      {
+        "post_id": "t3_0000453",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Anyone seen the new Toyota experience drop?",
+        "posted_at": "2026-03-01T09:00:00",
+        "author": "u/UnpaidMod",
+        "score": 564,
+        "num_comments": 61,
+        "sentiment": 0.243,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000453/"
+      },
+      {
+        "post_id": "t3_0000442",
+        "brand_id": "brand_015",
+        "brand_name_match": "Toyota",
+        "subreddit": "r/Toyota",
+        "title": "Trying to cancel Toyota \u2014 nightmare",
+        "posted_at": "2026-04-20T16:00:00",
+        "author": "u/AgencyLifer",
+        "score": 535,
+        "num_comments": 84,
+        "sentiment": -0.064,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Toyota/comments/t3_0000442/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Toyota",
+        "title": "Toyota",
+        "category": "brand",
+        "pageviews_28d": 22651,
+        "pageviews_growth_pct": -54.51,
+        "pageviews_volatility": 0.7014,
+        "related_brands": [
+          "brand_015"
+        ]
+      },
+      {
+        "topic_id": "Sustainable_fashion",
+        "title": "Sustainable fashion",
+        "category": "culture",
+        "pageviews_28d": 1001096,
+        "pageviews_growth_pct": -11.08,
+        "pageviews_volatility": 0.6704,
+        "related_brands": [
+          "brand_011",
+          "brand_015",
+          "brand_032"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +47% \u2014 news cycle is active",
+      "YT views +32% MoM driven by recent product reveal",
+      "Dominant Reddit topic cluster: launch",
+      "Reddit mention velocity up 48% \u2014 emerging conversation cluster"
+    ],
+    "ai_summary": "Toyota's cross-channel attention has accelerated sharply in the past 28 days, with a +32% YouTube subscriber lift and matching uplift in r/Toyota sentiment (avg +0.39). Wikipedia pageview volatility (+47% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-14",
+        "views": 756
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-15",
+        "views": 678
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-16",
+        "views": 709
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-17",
+        "views": 644
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-18",
+        "views": 685
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-19",
+        "views": 715
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-20",
+        "views": 698
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-21",
+        "views": 754
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-22",
+        "views": 741
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-23",
+        "views": 720
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-24",
+        "views": 762
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-25",
+        "views": 729
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-26",
+        "views": 655
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-27",
+        "views": 721
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-02-28",
+        "views": 667
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-01",
+        "views": 728
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-02",
+        "views": 763
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-03",
+        "views": 814
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-04",
+        "views": 706
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-05",
+        "views": 731
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-06",
+        "views": 844
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-07",
+        "views": 897
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-08",
+        "views": 899
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-09",
+        "views": 897
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-10",
+        "views": 3183
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-11",
+        "views": 2814
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-12",
+        "views": 2418
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-13",
+        "views": 2161
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-14",
+        "views": 4763
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-15",
+        "views": 4247
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-16",
+        "views": 3717
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-17",
+        "views": 3395
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-18",
+        "views": 3011
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-19",
+        "views": 2622
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-20",
+        "views": 2467
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-21",
+        "views": 2136
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-22",
+        "views": 1939
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-23",
+        "views": 1749
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-24",
+        "views": 1572
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-25",
+        "views": 1455
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-26",
+        "views": 1315
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-27",
+        "views": 1338
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-28",
+        "views": 4043
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-29",
+        "views": 3567
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-30",
+        "views": 3042
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-03-31",
+        "views": 2799
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-01",
+        "views": 2546
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-02",
+        "views": 2265
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-03",
+        "views": 1960
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-04",
+        "views": 1746
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-05",
+        "views": 1514
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-06",
+        "views": 1437
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-07",
+        "views": 1383
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-08",
+        "views": 1280
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-09",
+        "views": 1346
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-10",
+        "views": 1164
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-11",
+        "views": 1249
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-12",
+        "views": 1024
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-13",
+        "views": 892
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-14",
+        "views": 918
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-15",
+        "views": 823
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-16",
+        "views": 819
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-17",
+        "views": 803
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-18",
+        "views": 745
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-19",
+        "views": 863
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-20",
+        "views": 902
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-21",
+        "views": 871
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-22",
+        "views": 1033
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-23",
+        "views": 928
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-24",
+        "views": 823
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-25",
+        "views": 755
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-26",
+        "views": 642
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-27",
+        "views": 726
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-28",
+        "views": 716
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-29",
+        "views": 801
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-04-30",
+        "views": 719
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-01",
+        "views": 690
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-02",
+        "views": 698
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-03",
+        "views": 785
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-04",
+        "views": 739
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-05",
+        "views": 867
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-06",
+        "views": 846
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-07",
+        "views": 826
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-08",
+        "views": 757
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-09",
+        "views": 807
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-10",
+        "views": 830
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-11",
+        "views": 895
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-12",
+        "views": 831
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-13",
+        "views": 830
+      },
+      {
+        "topic_id": "Toyota",
+        "date": "2026-05-14",
+        "views": 923
+      }
+    ]
+  }
+}

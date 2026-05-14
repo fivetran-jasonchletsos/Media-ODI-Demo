@@ -1,0 +1,950 @@
+{
+  "brand": {
+    "brand_id": "brand_032",
+    "brand_handle": "@disneyplus",
+    "brand_name": "Disney+",
+    "vertical": "Streaming",
+    "hq_country": "US",
+    "established_year": 2019,
+    "description": "Disney+ is a streaming brand established in 2019, headquartered in US.",
+    "yt_channel_id": "UC3d955f12bdd8e3d7412617",
+    "yt_subscribers": 8807091,
+    "yt_views_total": 9059354766,
+    "yt_videos_count": 3051,
+    "yt_views_28d": 200063835,
+    "yt_subs_growth_28d_pct": 4.98,
+    "reddit_mentions_28d": 17,
+    "reddit_avg_sentiment": 0.48,
+    "reddit_top_subreddit": "r/DisneyPlus",
+    "reddit_velocity_28d": 0.673,
+    "wiki_pageviews_28d": 21951,
+    "wiki_pageviews_growth_28d_pct": 42.07,
+    "attention_score": 55.25,
+    "signal_bucket": "hot",
+    "share_of_voice": 17.03,
+    "last_signal_change": "2026-04-26",
+    "videos": [
+      {
+        "video_id": "yt_000781",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "The real story behind Disney+",
+        "published_at": "2026-05-05T06:00:00",
+        "duration_sec": 321,
+        "views": 16505778,
+        "likes": 541150,
+        "comments": 44481,
+        "engagement_rate": 0.0355,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000781/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000802",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "2026 Disney+ collection review",
+        "published_at": "2026-04-06T20:00:00",
+        "duration_sec": 781,
+        "views": 14980368,
+        "likes": 270487,
+        "comments": 31994,
+        "engagement_rate": 0.0202,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000802/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000780",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "drop from Disney+: first impressions",
+        "published_at": "2026-04-27T15:00:00",
+        "duration_sec": 518,
+        "views": 14828613,
+        "likes": 2068398,
+        "comments": 194303,
+        "engagement_rate": 0.1526,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000780/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000800",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Inside Disney+'s 2026 strategy",
+        "published_at": "2026-03-31T16:00:00",
+        "duration_sec": 1650,
+        "views": 13709233,
+        "likes": 483371,
+        "comments": 49761,
+        "engagement_rate": 0.0389,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000800/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000786",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Disney+ just changed the game with drop",
+        "published_at": "2026-04-15T12:00:00",
+        "duration_sec": 196,
+        "views": 13480211,
+        "likes": 886641,
+        "comments": 155524,
+        "engagement_rate": 0.0773,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000786/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000777",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "What nobody tells you about Disney+",
+        "published_at": "2026-04-09T06:00:00",
+        "duration_sec": 567,
+        "views": 12895895,
+        "likes": 795249,
+        "comments": 132540,
+        "engagement_rate": 0.0719,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000777/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000791",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "How Disney+ is reimagining consumer attention",
+        "published_at": "2026-05-11T19:00:00",
+        "duration_sec": 1139,
+        "views": 12667338,
+        "likes": 286076,
+        "comments": 44031,
+        "engagement_rate": 0.0261,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000791/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000799",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Behind the scenes at Disney+",
+        "published_at": "2026-03-10T16:00:00",
+        "duration_sec": 1170,
+        "views": 11990347,
+        "likes": 758870,
+        "comments": 59093,
+        "engagement_rate": 0.0682,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000799/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000782",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Disney+ CEO on the future of the category",
+        "published_at": "2026-04-24T05:00:00",
+        "duration_sec": 86,
+        "views": 11766386,
+        "likes": 544590,
+        "comments": 48472,
+        "engagement_rate": 0.0504,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000782/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000794",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "What nobody tells you about Disney+",
+        "published_at": "2026-04-24T00:00:00",
+        "duration_sec": 1357,
+        "views": 11683939,
+        "likes": 482264,
+        "comments": 58880,
+        "engagement_rate": 0.0463,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000794/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000795",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "New Disney+ collection reveal",
+        "published_at": "2026-03-10T14:00:00",
+        "duration_sec": 1660,
+        "views": 10579959,
+        "likes": 442967,
+        "comments": 39493,
+        "engagement_rate": 0.0456,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000795/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000789",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "I tried Disney+'s new series for 30 days",
+        "published_at": "2026-02-24T17:00:00",
+        "duration_sec": 73,
+        "views": 10413577,
+        "likes": 249973,
+        "comments": 36576,
+        "engagement_rate": 0.0275,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000789/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000797",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Disney+ CEO on the future of loyalty",
+        "published_at": "2026-04-13T03:00:00",
+        "duration_sec": 62,
+        "views": 10140999,
+        "likes": 289067,
+        "comments": 16492,
+        "engagement_rate": 0.0301,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000797/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000787",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "Why we chose Disney+",
+        "published_at": "2026-03-20T07:00:00",
+        "duration_sec": 705,
+        "views": 8874258,
+        "likes": 357223,
+        "comments": 55084,
+        "engagement_rate": 0.0465,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000787/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000793",
+        "brand_id": "brand_032",
+        "channel_id": "UC3d955f12bdd8e3d7412617",
+        "title": "New Disney+ model reveal",
+        "published_at": "2026-05-07T22:00:00",
+        "duration_sec": 1437,
+        "views": 8516050,
+        "likes": 297949,
+        "comments": 20189,
+        "engagement_rate": 0.0374,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000793/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000970",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ TikTok meme has me dying",
+        "posted_at": "2026-02-23T08:00:00",
+        "author": "u/SignalSeeker",
+        "score": 13308,
+        "num_comments": 1573,
+        "sentiment": 0.083,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000970/"
+      },
+      {
+        "post_id": "t3_0000984",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ just announced the new release \u2014 thoughts?",
+        "posted_at": "2026-05-01T13:00:00",
+        "author": "u/ThriftyTina",
+        "score": 9829,
+        "num_comments": 1288,
+        "sentiment": 0.384,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000984/"
+      },
+      {
+        "post_id": "t3_0000977",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ guidance for next quarter",
+        "posted_at": "2026-03-27T16:00:00",
+        "author": "u/AgencyLifer",
+        "score": 9741,
+        "num_comments": 1034,
+        "sentiment": -0.017,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000977/"
+      },
+      {
+        "post_id": "t3_0000980",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Honest review of the Disney+ platform",
+        "posted_at": "2026-04-12T00:00:00",
+        "author": "u/CulturalCritic",
+        "score": 8861,
+        "num_comments": 957,
+        "sentiment": -0.43,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000980/"
+      },
+      {
+        "post_id": "t3_0000967",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Is anyone else fed up with Disney+ lately?",
+        "posted_at": "2026-02-21T23:00:00",
+        "author": "u/BrandLurker",
+        "score": 7436,
+        "num_comments": 1633,
+        "sentiment": -0.454,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000967/"
+      },
+      {
+        "post_id": "t3_0000985",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ just announced the new experience \u2014 thoughts?",
+        "posted_at": "2026-04-23T20:00:00",
+        "author": "u/SignalSeeker",
+        "score": 6490,
+        "num_comments": 1651,
+        "sentiment": -0.244,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000985/"
+      },
+      {
+        "post_id": "t3_0000975",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ is having a moment",
+        "posted_at": "2026-03-11T17:00:00",
+        "author": "u/CulturalCritic",
+        "score": 4234,
+        "num_comments": 958,
+        "sentiment": -0.006,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000975/"
+      },
+      {
+        "post_id": "t3_0000968",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ customer service is impossible to reach",
+        "posted_at": "2026-03-15T19:00:00",
+        "author": "u/CreatorLens",
+        "score": 3538,
+        "num_comments": 527,
+        "sentiment": -0.189,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000968/"
+      },
+      {
+        "post_id": "t3_0000964",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ guidance for next quarter",
+        "posted_at": "2026-02-22T00:00:00",
+        "author": "u/MarketingPro42",
+        "score": 1606,
+        "num_comments": 308,
+        "sentiment": 0.181,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000964/"
+      },
+      {
+        "post_id": "t3_0000962",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Why Disney+ is so polarizing",
+        "posted_at": "2026-03-07T03:00:00",
+        "author": "u/UnpaidMod",
+        "score": 892,
+        "num_comments": 230,
+        "sentiment": -0.083,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000962/"
+      },
+      {
+        "post_id": "t3_0000963",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Why Disney+ is so polarizing",
+        "posted_at": "2026-02-20T00:00:00",
+        "author": "u/ThriftyTina",
+        "score": 844,
+        "num_comments": 68,
+        "sentiment": 0.67,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000963/"
+      },
+      {
+        "post_id": "t3_0000958",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ beat / missed \u2014 let's discuss",
+        "posted_at": "2026-04-26T13:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 616,
+        "num_comments": 110,
+        "sentiment": 0.147,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000958/"
+      },
+      {
+        "post_id": "t3_0000966",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ TikTok meme has me dying",
+        "posted_at": "2026-03-27T16:00:00",
+        "author": "u/MidwestDad88",
+        "score": 580,
+        "num_comments": 162,
+        "sentiment": 0.287,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000966/"
+      },
+      {
+        "post_id": "t3_0000986",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ is having a moment",
+        "posted_at": "2026-05-03T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 580,
+        "num_comments": 51,
+        "sentiment": -0.259,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000986/"
+      },
+      {
+        "post_id": "t3_0000978",
+        "brand_id": "brand_032",
+        "brand_name_match": "Disney+",
+        "subreddit": "r/DisneyPlus",
+        "title": "Disney+ did WHAT?",
+        "posted_at": "2026-02-28T12:00:00",
+        "author": "u/AgencyLifer",
+        "score": 551,
+        "num_comments": 65,
+        "sentiment": -0.729,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/DisneyPlus/comments/t3_0000978/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Disney+",
+        "title": "Disney+",
+        "category": "brand",
+        "pageviews_28d": 21315,
+        "pageviews_growth_pct": -36.12,
+        "pageviews_volatility": 0.4498,
+        "related_brands": [
+          "brand_032"
+        ]
+      },
+      {
+        "topic_id": "Sustainable_fashion",
+        "title": "Sustainable fashion",
+        "category": "culture",
+        "pageviews_28d": 1001096,
+        "pageviews_growth_pct": -11.08,
+        "pageviews_volatility": 0.6704,
+        "related_brands": [
+          "brand_011",
+          "brand_015",
+          "brand_032"
+        ]
+      },
+      {
+        "topic_id": "MrBeast",
+        "title": "MrBeast",
+        "category": "person",
+        "pageviews_28d": 653409,
+        "pageviews_growth_pct": -47.49,
+        "pageviews_volatility": 0.4878,
+        "related_brands": [
+          "brand_009",
+          "brand_039",
+          "brand_032",
+          "brand_001"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT subscriber growth steady at +5.0% over the past 28d",
+      "Reddit sentiment elevated at +0.48 \u2014 fan-driven engagement in r/DisneyPlus",
+      "Wikipedia pageviews surged +42% \u2014 news cycle is active",
+      "Top YouTube asset: \"The real story behind Disney+\""
+    ],
+    "ai_summary": "Disney+ is running hot in the Streaming panel with an attention score of 55. YouTube and Reddit are reinforcing each other \u2014 views +5% and r/DisneyPlus sentiment of +0.48 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-14",
+        "views": 863
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-15",
+        "views": 3086
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-16",
+        "views": 2788
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-17",
+        "views": 2479
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-18",
+        "views": 2266
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-19",
+        "views": 1832
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-20",
+        "views": 1792
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-21",
+        "views": 1572
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-22",
+        "views": 1328
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-23",
+        "views": 1220
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-24",
+        "views": 1244
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-25",
+        "views": 1202
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-26",
+        "views": 1174
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-27",
+        "views": 1038
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-02-28",
+        "views": 1053
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-01",
+        "views": 1059
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-02",
+        "views": 1044
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-03",
+        "views": 1118
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-04",
+        "views": 1013
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-05",
+        "views": 860
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-06",
+        "views": 894
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-07",
+        "views": 976
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-08",
+        "views": 931
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-09",
+        "views": 1066
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-10",
+        "views": 1047
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-11",
+        "views": 837
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-12",
+        "views": 867
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-13",
+        "views": 854
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-14",
+        "views": 884
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-15",
+        "views": 890
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-16",
+        "views": 814
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-17",
+        "views": 845
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-18",
+        "views": 720
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-19",
+        "views": 798
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-20",
+        "views": 854
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-21",
+        "views": 831
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-22",
+        "views": 795
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-23",
+        "views": 754
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-24",
+        "views": 2404
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-25",
+        "views": 2173
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-26",
+        "views": 2015
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-27",
+        "views": 1822
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-28",
+        "views": 1563
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-29",
+        "views": 1442
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-30",
+        "views": 1347
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-03-31",
+        "views": 1344
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-01",
+        "views": 1189
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-02",
+        "views": 1179
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-03",
+        "views": 1231
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-04",
+        "views": 1185
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-05",
+        "views": 1175
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-06",
+        "views": 1177
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-07",
+        "views": 1105
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-08",
+        "views": 999
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-09",
+        "views": 920
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-10",
+        "views": 870
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-11",
+        "views": 814
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-12",
+        "views": 980
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-13",
+        "views": 834
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-14",
+        "views": 820
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-15",
+        "views": 714
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-16",
+        "views": 833
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-17",
+        "views": 861
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-18",
+        "views": 743
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-19",
+        "views": 724
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-20",
+        "views": 675
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-21",
+        "views": 615
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-22",
+        "views": 756
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-23",
+        "views": 792
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-24",
+        "views": 737
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-25",
+        "views": 878
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-26",
+        "views": 869
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-27",
+        "views": 854
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-28",
+        "views": 734
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-29",
+        "views": 777
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-04-30",
+        "views": 777
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-01",
+        "views": 671
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-02",
+        "views": 740
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-03",
+        "views": 621
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-04",
+        "views": 713
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-05",
+        "views": 711
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-06",
+        "views": 748
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-07",
+        "views": 777
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-08",
+        "views": 876
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-09",
+        "views": 809
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-10",
+        "views": 764
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-11",
+        "views": 677
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-12",
+        "views": 810
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-13",
+        "views": 789
+      },
+      {
+        "topic_id": "Disney+",
+        "date": "2026-05-14",
+        "views": 817
+      }
+    ]
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "brand": {
+    "brand_id": "brand_014",
+    "brand_handle": "@ford",
+    "brand_name": "Ford",
+    "vertical": "Auto",
+    "hq_country": "US",
+    "established_year": 1903,
+    "description": "Ford is a automotive brand established in 1903, headquartered in US.",
+    "yt_channel_id": "UC51aec2b206aaa1757a3aad",
+    "yt_subscribers": 76864,
+    "yt_views_total": 14757403,
+    "yt_videos_count": 765,
+    "yt_views_28d": 237761,
+    "yt_subs_growth_28d_pct": 14.44,
+    "reddit_mentions_28d": 14,
+    "reddit_avg_sentiment": 0.461,
+    "reddit_top_subreddit": "r/Ford",
+    "reddit_velocity_28d": 0.542,
+    "wiki_pageviews_28d": 2653,
+    "wiki_pageviews_growth_28d_pct": 27.53,
+    "attention_score": 53.42,
+    "signal_bucket": "hot",
+    "share_of_voice": 14.65,
+    "last_signal_change": "2026-05-05",
+    "videos": [
+      {
+        "video_id": "yt_000342",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Ford unveils campaign",
+        "published_at": "2026-04-03T02:00:00",
+        "duration_sec": 448,
+        "views": 28190,
+        "likes": 695,
+        "comments": 114,
+        "engagement_rate": 0.0287,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000342/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000338",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "New Ford platform reveal",
+        "published_at": "2026-04-05T04:00:00",
+        "duration_sec": 1379,
+        "views": 27693,
+        "likes": 967,
+        "comments": 111,
+        "engagement_rate": 0.0389,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000338/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000340",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-05-05T04:00:00",
+        "duration_sec": 660,
+        "views": 26977,
+        "likes": 1023,
+        "comments": 69,
+        "engagement_rate": 0.0405,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000340/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000341",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Ford CEO on the future of loyalty",
+        "published_at": "2026-03-20T17:00:00",
+        "duration_sec": 258,
+        "views": 25952,
+        "likes": 1276,
+        "comments": 87,
+        "engagement_rate": 0.0525,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000341/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000343",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "experience from Ford: first impressions",
+        "published_at": "2026-04-27T19:00:00",
+        "duration_sec": 254,
+        "views": 25181,
+        "likes": 963,
+        "comments": 161,
+        "engagement_rate": 0.0446,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000343/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000345",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "What nobody tells you about Ford",
+        "published_at": "2026-02-24T09:00:00",
+        "duration_sec": 90,
+        "views": 24452,
+        "likes": 654,
+        "comments": 36,
+        "engagement_rate": 0.0282,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000345/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000351",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-04-01T02:00:00",
+        "duration_sec": 935,
+        "views": 21357,
+        "likes": 1255,
+        "comments": 77,
+        "engagement_rate": 0.0624,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000351/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000336",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "How Ford is reimagining the customer journey",
+        "published_at": "2026-03-04T08:00:00",
+        "duration_sec": 1589,
+        "views": 21270,
+        "likes": 3586,
+        "comments": 472,
+        "engagement_rate": 0.1908,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000336/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000344",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-04-29T20:00:00",
+        "duration_sec": 1146,
+        "views": 17029,
+        "likes": 528,
+        "comments": 49,
+        "engagement_rate": 0.0339,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000344/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000352",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-03-25T07:00:00",
+        "duration_sec": 202,
+        "views": 16988,
+        "likes": 459,
+        "comments": 33,
+        "engagement_rate": 0.029,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000352/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000332",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-03-22T08:00:00",
+        "duration_sec": 72,
+        "views": 14786,
+        "likes": 578,
+        "comments": 68,
+        "engagement_rate": 0.0437,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000332/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000337",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "edition from Ford: first impressions",
+        "published_at": "2026-04-06T18:00:00",
+        "duration_sec": 89,
+        "views": 14370,
+        "likes": 304,
+        "comments": 40,
+        "engagement_rate": 0.0239,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000337/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000348",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "How Ford is reimagining the next decade",
+        "published_at": "2026-03-16T10:00:00",
+        "duration_sec": 1662,
+        "views": 12565,
+        "likes": 596,
+        "comments": 75,
+        "engagement_rate": 0.0534,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000348/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000350",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "2026 Ford release review",
+        "published_at": "2026-04-28T19:00:00",
+        "duration_sec": 82,
+        "views": 12498,
+        "likes": 231,
+        "comments": 37,
+        "engagement_rate": 0.0214,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000350/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000335",
+        "brand_id": "brand_014",
+        "channel_id": "UC51aec2b206aaa1757a3aad",
+        "title": "Inside Ford's 2026 strategy",
+        "published_at": "2026-04-11T05:00:00",
+        "duration_sec": 54,
+        "views": 11202,
+        "likes": 394,
+        "comments": 35,
+        "engagement_rate": 0.0383,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000335/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000409",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Boycotting Ford after this week",
+        "posted_at": "2026-02-16T04:00:00",
+        "author": "u/MarketingPro42",
+        "score": 14634,
+        "num_comments": 4284,
+        "sentiment": -0.42,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000409/"
+      },
+      {
+        "post_id": "t3_0000423",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Ford just announced the new experience \u2014 thoughts?",
+        "posted_at": "2026-03-13T17:00:00",
+        "author": "u/QuietBuyer",
+        "score": 10605,
+        "num_comments": 705,
+        "sentiment": 0.322,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000423/"
+      },
+      {
+        "post_id": "t3_0000432",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Ford beat / missed \u2014 let's discuss",
+        "posted_at": "2026-05-03T13:00:00",
+        "author": "u/AgencyLifer",
+        "score": 9432,
+        "num_comments": 894,
+        "sentiment": -0.427,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000432/"
+      },
+      {
+        "post_id": "t3_0000422",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "What the Ford numbers actually mean",
+        "posted_at": "2026-02-14T16:00:00",
+        "author": "u/BrandLurker",
+        "score": 5514,
+        "num_comments": 826,
+        "sentiment": -0.059,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000422/"
+      },
+      {
+        "post_id": "t3_0000433",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Ford just announced the new collection \u2014 thoughts?",
+        "posted_at": "2026-03-09T11:00:00",
+        "author": "u/CulturalCritic",
+        "score": 5482,
+        "num_comments": 1612,
+        "sentiment": 0.325,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000433/"
+      },
+      {
+        "post_id": "t3_0000431",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "First look at Ford's series",
+        "posted_at": "2026-03-03T04:00:00",
+        "author": "u/StreamingNerd",
+        "score": 4095,
+        "num_comments": 350,
+        "sentiment": 0.226,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000431/"
+      },
+      {
+        "post_id": "t3_0000421",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Why Ford is so polarizing",
+        "posted_at": "2026-04-20T01:00:00",
+        "author": "u/AgencyLifer",
+        "score": 3063,
+        "num_comments": 416,
+        "sentiment": 0.81,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000421/"
+      },
+      {
+        "post_id": "t3_0000413",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "The Ford discourse is unhinged today",
+        "posted_at": "2026-04-26T20:00:00",
+        "author": "u/PixelPirate",
+        "score": 1157,
+        "num_comments": 340,
+        "sentiment": 0.054,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000413/"
+      },
+      {
+        "post_id": "t3_0000430",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Honest review of the Ford model",
+        "posted_at": "2026-02-16T12:00:00",
+        "author": "u/SignalSeeker",
+        "score": 780,
+        "num_comments": 101,
+        "sentiment": 0.251,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000430/"
+      },
+      {
+        "post_id": "t3_0000415",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "The Ford discourse is unhinged today",
+        "posted_at": "2026-03-13T10:00:00",
+        "author": "u/SignalSeeker",
+        "score": 683,
+        "num_comments": 90,
+        "sentiment": -0.265,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000415/"
+      },
+      {
+        "post_id": "t3_0000425",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Tried Ford \u2014 here's my take",
+        "posted_at": "2026-03-07T10:00:00",
+        "author": "u/CreatorLens",
+        "score": 561,
+        "num_comments": 72,
+        "sentiment": 0.449,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000425/"
+      },
+      {
+        "post_id": "t3_0000428",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "30 days with Ford's campaign",
+        "posted_at": "2026-04-03T18:00:00",
+        "author": "u/CreatorLens",
+        "score": 529,
+        "num_comments": 69,
+        "sentiment": 0.264,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000428/"
+      },
+      {
+        "post_id": "t3_0000429",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "30 days with Ford's series",
+        "posted_at": "2026-04-30T00:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 244,
+        "num_comments": 45,
+        "sentiment": -0.239,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000429/"
+      },
+      {
+        "post_id": "t3_0000411",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "30 days with Ford's flagship",
+        "posted_at": "2026-03-25T10:00:00",
+        "author": "u/TacoCritic",
+        "score": 198,
+        "num_comments": 39,
+        "sentiment": 0.163,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000411/"
+      },
+      {
+        "post_id": "t3_0000414",
+        "brand_id": "brand_014",
+        "brand_name_match": "Ford",
+        "subreddit": "r/Ford",
+        "title": "Ford customer service is impossible to reach",
+        "posted_at": "2026-04-16T01:00:00",
+        "author": "u/MidwestDad88",
+        "score": 166,
+        "num_comments": 25,
+        "sentiment": 0.21,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Ford/comments/t3_0000414/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Ford_Motor_Company",
+        "title": "Ford",
+        "category": "brand",
+        "pageviews_28d": 2879,
+        "pageviews_growth_pct": -19.15,
+        "pageviews_volatility": 0.5223,
+        "related_brands": [
+          "brand_014"
+        ]
+      },
+      {
+        "topic_id": "Super_Bowl_LIX",
+        "title": "Super Bowl LIX",
+        "category": "event",
+        "pageviews_28d": 521911,
+        "pageviews_growth_pct": -33.36,
+        "pageviews_volatility": 0.495,
+        "related_brands": [
+          "brand_014"
+        ]
+      },
+      {
+        "topic_id": "Met_Gala_2025",
+        "title": "Met Gala 2025",
+        "category": "event",
+        "pageviews_28d": 1245551,
+        "pageviews_growth_pct": -53.65,
+        "pageviews_volatility": 0.6531,
+        "related_brands": [
+          "brand_014",
+          "brand_051"
+        ]
+      },
+      {
+        "topic_id": "TikTok_ban",
+        "title": "TikTok ban",
+        "category": "culture",
+        "pageviews_28d": 63811,
+        "pageviews_growth_pct": 14.04,
+        "pageviews_volatility": 0.3604,
+        "related_brands": [
+          "brand_014",
+          "brand_027"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Dominant Reddit topic cluster: product-review",
+      "Reddit sentiment elevated at +0.46 \u2014 fan-driven engagement in r/Ford",
+      "YT views +14% MoM driven by recent product reveal",
+      "Top YouTube asset: \"Ford unveils campaign\"",
+      "Wikipedia pageviews surged +28% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Ford is running hot in the Auto panel with an attention score of 53. YouTube and Reddit are reinforcing each other \u2014 views +14% and r/Ford sentiment of +0.46 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-14",
+        "views": 84
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-15",
+        "views": 89
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-16",
+        "views": 83
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-17",
+        "views": 99
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-18",
+        "views": 90
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-19",
+        "views": 97
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-20",
+        "views": 111
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-21",
+        "views": 111
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-22",
+        "views": 96
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-23",
+        "views": 88
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-24",
+        "views": 87
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-25",
+        "views": 82
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-26",
+        "views": 101
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-27",
+        "views": 107
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-02-28",
+        "views": 97
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-01",
+        "views": 88
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-02",
+        "views": 106
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-03",
+        "views": 100
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-04",
+        "views": 106
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-05",
+        "views": 114
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-06",
+        "views": 117
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-07",
+        "views": 116
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-08",
+        "views": 118
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-09",
+        "views": 112
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-10",
+        "views": 106
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-11",
+        "views": 110
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-12",
+        "views": 115
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-13",
+        "views": 116
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-14",
+        "views": 106
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-15",
+        "views": 463
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-16",
+        "views": 400
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-17",
+        "views": 350
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-18",
+        "views": 312
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-19",
+        "views": 248
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-20",
+        "views": 239
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-21",
+        "views": 216
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-22",
+        "views": 197
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-23",
+        "views": 185
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-24",
+        "views": 171
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-25",
+        "views": 165
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-26",
+        "views": 157
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-27",
+        "views": 154
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-28",
+        "views": 123
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-29",
+        "views": 127
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-30",
+        "views": 113
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-03-31",
+        "views": 124
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-01",
+        "views": 113
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-02",
+        "views": 122
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-03",
+        "views": 111
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-04",
+        "views": 112
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-05",
+        "views": 114
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-06",
+        "views": 113
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-07",
+        "views": 99
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-08",
+        "views": 85
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-09",
+        "views": 81
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-10",
+        "views": 80
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-11",
+        "views": 84
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-12",
+        "views": 84
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-13",
+        "views": 88
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-14",
+        "views": 100
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-15",
+        "views": 101
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-16",
+        "views": 103
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-17",
+        "views": 106
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-18",
+        "views": 117
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-19",
+        "views": 109
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-20",
+        "views": 101
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-21",
+        "views": 118
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-22",
+        "views": 121
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-23",
+        "views": 126
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-24",
+        "views": 113
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-25",
+        "views": 118
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-26",
+        "views": 112
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-27",
+        "views": 115
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-28",
+        "views": 103
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-29",
+        "views": 103
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-04-30",
+        "views": 101
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-01",
+        "views": 109
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-02",
+        "views": 115
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-03",
+        "views": 97
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-04",
+        "views": 112
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-05",
+        "views": 103
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-06",
+        "views": 90
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-07",
+        "views": 91
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-08",
+        "views": 87
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-09",
+        "views": 87
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-10",
+        "views": 94
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-11",
+        "views": 90
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-12",
+        "views": 93
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-13",
+        "views": 73
+      },
+      {
+        "topic_id": "Ford_Motor_Company",
+        "date": "2026-05-14",
+        "views": 75
+      }
+    ]
+  }
+}

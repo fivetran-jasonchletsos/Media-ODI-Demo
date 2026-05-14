@@ -1,0 +1,6 @@
+{
+  "client_id": "your_reddit_script_app_client_id",
+  "client_secret": "your_reddit_script_app_client_secret",
+  "user_agent": "lighthouse-media-odi/1.0 by lighthouse-demo",
+  "subreddits_seed": "marketing,advertising,branding,television,boxoffice,movies,Music,books,boardgames,gaming,cars,sneakers,malefashionadvice"
+}

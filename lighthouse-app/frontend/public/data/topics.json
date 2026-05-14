@@ -1,0 +1,912 @@
+{
+  "topics": [
+    {
+      "topic_id": "The_Coca-Cola_Company",
+      "title": "Coca-Cola",
+      "category": "brand",
+      "pageviews_28d": 103782,
+      "pageviews_growth_pct": -42.16,
+      "pageviews_volatility": 0.6703,
+      "related_brands": [
+        "brand_001"
+      ]
+    },
+    {
+      "topic_id": "Pepsi",
+      "title": "Pepsi",
+      "category": "brand",
+      "pageviews_28d": 9565,
+      "pageviews_growth_pct": -29.79,
+      "pageviews_volatility": 0.4356,
+      "related_brands": [
+        "brand_002"
+      ]
+    },
+    {
+      "topic_id": "Red_Bull",
+      "title": "Red Bull",
+      "category": "brand",
+      "pageviews_28d": 2611,
+      "pageviews_growth_pct": -6.01,
+      "pageviews_volatility": 0.3099,
+      "related_brands": [
+        "brand_003"
+      ]
+    },
+    {
+      "topic_id": "Monster_Beverage",
+      "title": "Monster",
+      "category": "brand",
+      "pageviews_28d": 199874,
+      "pageviews_growth_pct": 33.35,
+      "pageviews_volatility": 0.6192,
+      "related_brands": [
+        "brand_004"
+      ]
+    },
+    {
+      "topic_id": "Gatorade",
+      "title": "Gatorade",
+      "category": "brand",
+      "pageviews_28d": 20552,
+      "pageviews_growth_pct": -28.88,
+      "pageviews_volatility": 0.43,
+      "related_brands": [
+        "brand_005"
+      ]
+    },
+    {
+      "topic_id": "Walmart",
+      "title": "Walmart",
+      "category": "brand",
+      "pageviews_28d": 4770,
+      "pageviews_growth_pct": -18.61,
+      "pageviews_volatility": 0.4307,
+      "related_brands": [
+        "brand_006"
+      ]
+    },
+    {
+      "topic_id": "Target_Corporation",
+      "title": "Target",
+      "category": "brand",
+      "pageviews_28d": 13499,
+      "pageviews_growth_pct": -6.36,
+      "pageviews_volatility": 0.4639,
+      "related_brands": [
+        "brand_007"
+      ]
+    },
+    {
+      "topic_id": "Costco",
+      "title": "Costco",
+      "category": "brand",
+      "pageviews_28d": 2736,
+      "pageviews_growth_pct": -4.97,
+      "pageviews_volatility": 0.7211,
+      "related_brands": [
+        "brand_008"
+      ]
+    },
+    {
+      "topic_id": "Best_Buy",
+      "title": "Best Buy",
+      "category": "brand",
+      "pageviews_28d": 2521,
+      "pageviews_growth_pct": -37.04,
+      "pageviews_volatility": 0.5097,
+      "related_brands": [
+        "brand_009"
+      ]
+    },
+    {
+      "topic_id": "IKEA",
+      "title": "IKEA",
+      "category": "brand",
+      "pageviews_28d": 110495,
+      "pageviews_growth_pct": 16.42,
+      "pageviews_volatility": 0.5084,
+      "related_brands": [
+        "brand_010"
+      ]
+    },
+    {
+      "topic_id": "Tesla,_Inc.",
+      "title": "Tesla",
+      "category": "brand",
+      "pageviews_28d": 372963,
+      "pageviews_growth_pct": 4.37,
+      "pageviews_volatility": 0.4784,
+      "related_brands": [
+        "brand_011"
+      ]
+    },
+    {
+      "topic_id": "BMW",
+      "title": "BMW",
+      "category": "brand",
+      "pageviews_28d": 10223,
+      "pageviews_growth_pct": 174.66,
+      "pageviews_volatility": 0.9569,
+      "related_brands": [
+        "brand_012"
+      ]
+    },
+    {
+      "topic_id": "Mercedes-Benz",
+      "title": "Mercedes-Benz",
+      "category": "brand",
+      "pageviews_28d": 2261202,
+      "pageviews_growth_pct": -29.43,
+      "pageviews_volatility": 0.5054,
+      "related_brands": [
+        "brand_013"
+      ]
+    },
+    {
+      "topic_id": "Ford_Motor_Company",
+      "title": "Ford",
+      "category": "brand",
+      "pageviews_28d": 2879,
+      "pageviews_growth_pct": -19.15,
+      "pageviews_volatility": 0.5223,
+      "related_brands": [
+        "brand_014"
+      ]
+    },
+    {
+      "topic_id": "Toyota",
+      "title": "Toyota",
+      "category": "brand",
+      "pageviews_28d": 22651,
+      "pageviews_growth_pct": -54.51,
+      "pageviews_volatility": 0.7014,
+      "related_brands": [
+        "brand_015"
+      ]
+    },
+    {
+      "topic_id": "Porsche",
+      "title": "Porsche",
+      "category": "brand",
+      "pageviews_28d": 7968,
+      "pageviews_growth_pct": 40.36,
+      "pageviews_volatility": 0.3821,
+      "related_brands": [
+        "brand_016"
+      ]
+    },
+    {
+      "topic_id": "Lucid_Motors",
+      "title": "Lucid Motors",
+      "category": "brand",
+      "pageviews_28d": 5533,
+      "pageviews_growth_pct": 132.38,
+      "pageviews_volatility": 0.7289,
+      "related_brands": [
+        "brand_017"
+      ]
+    },
+    {
+      "topic_id": "Apple_Inc.",
+      "title": "Apple",
+      "category": "brand",
+      "pageviews_28d": 42446,
+      "pageviews_growth_pct": 24.73,
+      "pageviews_volatility": 0.4258,
+      "related_brands": [
+        "brand_018"
+      ]
+    },
+    {
+      "topic_id": "Microsoft",
+      "title": "Microsoft",
+      "category": "brand",
+      "pageviews_28d": 57610,
+      "pageviews_growth_pct": -22.2,
+      "pageviews_volatility": 0.4614,
+      "related_brands": [
+        "brand_019"
+      ]
+    },
+    {
+      "topic_id": "Google",
+      "title": "Google",
+      "category": "brand",
+      "pageviews_28d": 513001,
+      "pageviews_growth_pct": -13.7,
+      "pageviews_volatility": 0.4947,
+      "related_brands": [
+        "brand_020"
+      ]
+    },
+    {
+      "topic_id": "Meta_Platforms",
+      "title": "Meta",
+      "category": "brand",
+      "pageviews_28d": 1448,
+      "pageviews_growth_pct": -45.95,
+      "pageviews_volatility": 0.5054,
+      "related_brands": [
+        "brand_021"
+      ]
+    },
+    {
+      "topic_id": "Nvidia",
+      "title": "NVIDIA",
+      "category": "brand",
+      "pageviews_28d": 3036,
+      "pageviews_growth_pct": 10.32,
+      "pageviews_volatility": 0.3326,
+      "related_brands": [
+        "brand_022"
+      ]
+    },
+    {
+      "topic_id": "Samsung_Electronics",
+      "title": "Samsung",
+      "category": "brand",
+      "pageviews_28d": 9159,
+      "pageviews_growth_pct": 160.42,
+      "pageviews_volatility": 0.7237,
+      "related_brands": [
+        "brand_023"
+      ]
+    },
+    {
+      "topic_id": "Sony",
+      "title": "Sony",
+      "category": "brand",
+      "pageviews_28d": 98434,
+      "pageviews_growth_pct": -69.54,
+      "pageviews_volatility": 0.9345,
+      "related_brands": [
+        "brand_024"
+      ]
+    },
+    {
+      "topic_id": "JPMorgan_Chase",
+      "title": "JPMorgan",
+      "category": "brand",
+      "pageviews_28d": 2762,
+      "pageviews_growth_pct": -24.2,
+      "pageviews_volatility": 0.4839,
+      "related_brands": [
+        "brand_025"
+      ]
+    },
+    {
+      "topic_id": "Goldman_Sachs",
+      "title": "Goldman Sachs",
+      "category": "brand",
+      "pageviews_28d": 65612,
+      "pageviews_growth_pct": 34.92,
+      "pageviews_volatility": 0.3633,
+      "related_brands": [
+        "brand_026"
+      ]
+    },
+    {
+      "topic_id": "American_Express",
+      "title": "AmEx",
+      "category": "brand",
+      "pageviews_28d": 4108054,
+      "pageviews_growth_pct": 72.28,
+      "pageviews_volatility": 0.6003,
+      "related_brands": [
+        "brand_027"
+      ]
+    },
+    {
+      "topic_id": "Block,_Inc.",
+      "title": "Square",
+      "category": "brand",
+      "pageviews_28d": 403902,
+      "pageviews_growth_pct": 39.86,
+      "pageviews_volatility": 0.378,
+      "related_brands": [
+        "brand_028"
+      ]
+    },
+    {
+      "topic_id": "Robinhood_Markets",
+      "title": "Robinhood",
+      "category": "brand",
+      "pageviews_28d": 893365,
+      "pageviews_growth_pct": 1.36,
+      "pageviews_volatility": 0.3611,
+      "related_brands": [
+        "brand_029"
+      ]
+    },
+    {
+      "topic_id": "Stripe,_Inc.",
+      "title": "Stripe",
+      "category": "brand",
+      "pageviews_28d": 300610,
+      "pageviews_growth_pct": -23.08,
+      "pageviews_volatility": 0.3882,
+      "related_brands": [
+        "brand_030"
+      ]
+    },
+    {
+      "topic_id": "Netflix",
+      "title": "Netflix",
+      "category": "brand",
+      "pageviews_28d": 13166,
+      "pageviews_growth_pct": 16.9,
+      "pageviews_volatility": 0.2233,
+      "related_brands": [
+        "brand_031"
+      ]
+    },
+    {
+      "topic_id": "Disney+",
+      "title": "Disney+",
+      "category": "brand",
+      "pageviews_28d": 21315,
+      "pageviews_growth_pct": -36.12,
+      "pageviews_volatility": 0.4498,
+      "related_brands": [
+        "brand_032"
+      ]
+    },
+    {
+      "topic_id": "Max_(streaming_service)",
+      "title": "HBO Max",
+      "category": "brand",
+      "pageviews_28d": 14794,
+      "pageviews_growth_pct": 11.59,
+      "pageviews_volatility": 0.2386,
+      "related_brands": [
+        "brand_033"
+      ]
+    },
+    {
+      "topic_id": "Hulu",
+      "title": "Hulu",
+      "category": "brand",
+      "pageviews_28d": 6764,
+      "pageviews_growth_pct": 2.3,
+      "pageviews_volatility": 0.3797,
+      "related_brands": [
+        "brand_034"
+      ]
+    },
+    {
+      "topic_id": "Paramount+",
+      "title": "Paramount+",
+      "category": "brand",
+      "pageviews_28d": 439488,
+      "pageviews_growth_pct": 25.34,
+      "pageviews_volatility": 0.424,
+      "related_brands": [
+        "brand_035"
+      ]
+    },
+    {
+      "topic_id": "Spotify",
+      "title": "Spotify",
+      "category": "brand",
+      "pageviews_28d": 8370,
+      "pageviews_growth_pct": -36.41,
+      "pageviews_volatility": 0.4318,
+      "related_brands": [
+        "brand_036"
+      ]
+    },
+    {
+      "topic_id": "McDonald%27s",
+      "title": "McDonald's",
+      "category": "brand",
+      "pageviews_28d": 1270,
+      "pageviews_growth_pct": -13.13,
+      "pageviews_volatility": 0.3313,
+      "related_brands": [
+        "brand_037"
+      ]
+    },
+    {
+      "topic_id": "Starbucks",
+      "title": "Starbucks",
+      "category": "brand",
+      "pageviews_28d": 1037458,
+      "pageviews_growth_pct": 31.16,
+      "pageviews_volatility": 0.4582,
+      "related_brands": [
+        "brand_038"
+      ]
+    },
+    {
+      "topic_id": "Chipotle_Mexican_Grill",
+      "title": "Chipotle",
+      "category": "brand",
+      "pageviews_28d": 31825,
+      "pageviews_growth_pct": 61.31,
+      "pageviews_volatility": 0.5298,
+      "related_brands": [
+        "brand_039"
+      ]
+    },
+    {
+      "topic_id": "Chick-fil-A",
+      "title": "Chick-fil-A",
+      "category": "brand",
+      "pageviews_28d": 205482,
+      "pageviews_growth_pct": -4.36,
+      "pageviews_volatility": 0.468,
+      "related_brands": [
+        "brand_040"
+      ]
+    },
+    {
+      "topic_id": "Domino%27s",
+      "title": "Domino's",
+      "category": "brand",
+      "pageviews_28d": 191214,
+      "pageviews_growth_pct": -44.36,
+      "pageviews_volatility": 0.7386,
+      "related_brands": [
+        "brand_041"
+      ]
+    },
+    {
+      "topic_id": "Sephora",
+      "title": "Sephora",
+      "category": "brand",
+      "pageviews_28d": 106328,
+      "pageviews_growth_pct": 124.99,
+      "pageviews_volatility": 1.0949,
+      "related_brands": [
+        "brand_042"
+      ]
+    },
+    {
+      "topic_id": "Glossier",
+      "title": "Glossier",
+      "category": "brand",
+      "pageviews_28d": 899370,
+      "pageviews_growth_pct": -28.16,
+      "pageviews_volatility": 0.2787,
+      "related_brands": [
+        "brand_043"
+      ]
+    },
+    {
+      "topic_id": "Fenty_Beauty",
+      "title": "Fenty Beauty",
+      "category": "brand",
+      "pageviews_28d": 846340,
+      "pageviews_growth_pct": -28.93,
+      "pageviews_volatility": 0.4937,
+      "related_brands": [
+        "brand_044"
+      ]
+    },
+    {
+      "topic_id": "Drunk_Elephant",
+      "title": "Drunk Elephant",
+      "category": "brand",
+      "pageviews_28d": 622358,
+      "pageviews_growth_pct": 12.88,
+      "pageviews_volatility": 0.1987,
+      "related_brands": [
+        "brand_045"
+      ]
+    },
+    {
+      "topic_id": "Rare_Beauty",
+      "title": "Rare Beauty",
+      "category": "brand",
+      "pageviews_28d": 79359,
+      "pageviews_growth_pct": 107.39,
+      "pageviews_volatility": 0.5121,
+      "related_brands": [
+        "brand_046"
+      ]
+    },
+    {
+      "topic_id": "Nike,_Inc.",
+      "title": "Nike",
+      "category": "brand",
+      "pageviews_28d": 357067,
+      "pageviews_growth_pct": 74.36,
+      "pageviews_volatility": 0.6517,
+      "related_brands": [
+        "brand_047"
+      ]
+    },
+    {
+      "topic_id": "Adidas",
+      "title": "Adidas",
+      "category": "brand",
+      "pageviews_28d": 409241,
+      "pageviews_growth_pct": 46.48,
+      "pageviews_volatility": 0.6336,
+      "related_brands": [
+        "brand_048"
+      ]
+    },
+    {
+      "topic_id": "Lululemon_Athletica",
+      "title": "Lululemon",
+      "category": "brand",
+      "pageviews_28d": 67168,
+      "pageviews_growth_pct": -11.63,
+      "pageviews_volatility": 0.448,
+      "related_brands": [
+        "brand_049"
+      ]
+    },
+    {
+      "topic_id": "Patagonia,_Inc.",
+      "title": "Patagonia",
+      "category": "brand",
+      "pageviews_28d": 23726,
+      "pageviews_growth_pct": -11.11,
+      "pageviews_volatility": 0.2551,
+      "related_brands": [
+        "brand_050"
+      ]
+    },
+    {
+      "topic_id": "Supreme_(brand)",
+      "title": "Supreme",
+      "category": "brand",
+      "pageviews_28d": 2944,
+      "pageviews_growth_pct": -25.81,
+      "pageviews_volatility": 0.2229,
+      "related_brands": [
+        "brand_051"
+      ]
+    },
+    {
+      "topic_id": "Gucci",
+      "title": "Gucci",
+      "category": "brand",
+      "pageviews_28d": 35055,
+      "pageviews_growth_pct": 45.41,
+      "pageviews_volatility": 0.4809,
+      "related_brands": [
+        "brand_052"
+      ]
+    },
+    {
+      "topic_id": "Airbnb",
+      "title": "Airbnb",
+      "category": "brand",
+      "pageviews_28d": 324383,
+      "pageviews_growth_pct": -37.25,
+      "pageviews_volatility": 0.5301,
+      "related_brands": [
+        "brand_053"
+      ]
+    },
+    {
+      "topic_id": "Marriott_International",
+      "title": "Marriott",
+      "category": "brand",
+      "pageviews_28d": 16799,
+      "pageviews_growth_pct": 131.71,
+      "pageviews_volatility": 0.6379,
+      "related_brands": [
+        "brand_054"
+      ]
+    },
+    {
+      "topic_id": "Delta_Air_Lines",
+      "title": "Delta",
+      "category": "brand",
+      "pageviews_28d": 69374,
+      "pageviews_growth_pct": -40.37,
+      "pageviews_volatility": 0.4571,
+      "related_brands": [
+        "brand_055"
+      ]
+    },
+    {
+      "topic_id": "Uber",
+      "title": "Uber",
+      "category": "brand",
+      "pageviews_28d": 626975,
+      "pageviews_growth_pct": -36.38,
+      "pageviews_volatility": 0.486,
+      "related_brands": [
+        "brand_056"
+      ]
+    },
+    {
+      "topic_id": "DoorDash",
+      "title": "DoorDash",
+      "category": "brand",
+      "pageviews_28d": 671371,
+      "pageviews_growth_pct": 4.5,
+      "pageviews_volatility": 0.43,
+      "related_brands": [
+        "brand_057"
+      ]
+    },
+    {
+      "topic_id": "PlayStation",
+      "title": "PlayStation",
+      "category": "brand",
+      "pageviews_28d": 428504,
+      "pageviews_growth_pct": -47.1,
+      "pageviews_volatility": 0.4792,
+      "related_brands": [
+        "brand_058"
+      ]
+    },
+    {
+      "topic_id": "Xbox",
+      "title": "Xbox",
+      "category": "brand",
+      "pageviews_28d": 414887,
+      "pageviews_growth_pct": 48.43,
+      "pageviews_volatility": 0.3569,
+      "related_brands": [
+        "brand_059"
+      ]
+    },
+    {
+      "topic_id": "Nintendo",
+      "title": "Nintendo",
+      "category": "brand",
+      "pageviews_28d": 1024778,
+      "pageviews_growth_pct": 18.85,
+      "pageviews_volatility": 0.2817,
+      "related_brands": [
+        "brand_060"
+      ]
+    },
+    {
+      "topic_id": "Super_Bowl_LIX",
+      "title": "Super Bowl LIX",
+      "category": "event",
+      "pageviews_28d": 521911,
+      "pageviews_growth_pct": -33.36,
+      "pageviews_volatility": 0.495,
+      "related_brands": [
+        "brand_014"
+      ]
+    },
+    {
+      "topic_id": "Cannes_Lions_2025",
+      "title": "Cannes Lions 2025",
+      "category": "event",
+      "pageviews_28d": 660870,
+      "pageviews_growth_pct": -54.9,
+      "pageviews_volatility": 0.6776,
+      "related_brands": [
+        "brand_025",
+        "brand_028"
+      ]
+    },
+    {
+      "topic_id": "CES_2025",
+      "title": "CES 2025",
+      "category": "event",
+      "pageviews_28d": 520328,
+      "pageviews_growth_pct": -40.01,
+      "pageviews_volatility": 0.5777,
+      "related_brands": [
+        "brand_004",
+        "brand_058",
+        "brand_054",
+        "brand_042"
+      ]
+    },
+    {
+      "topic_id": "Met_Gala_2025",
+      "title": "Met Gala 2025",
+      "category": "event",
+      "pageviews_28d": 1245551,
+      "pageviews_growth_pct": -53.65,
+      "pageviews_volatility": 0.6531,
+      "related_brands": [
+        "brand_014",
+        "brand_051"
+      ]
+    },
+    {
+      "topic_id": "Coachella_2025",
+      "title": "Coachella 2025",
+      "category": "event",
+      "pageviews_28d": 726937,
+      "pageviews_growth_pct": -59.68,
+      "pageviews_volatility": 0.5997,
+      "related_brands": [
+        "brand_028",
+        "brand_013",
+        "brand_035"
+      ]
+    },
+    {
+      "topic_id": "Generative_AI_advertising",
+      "title": "Generative AI advertising",
+      "category": "industry",
+      "pageviews_28d": 378759,
+      "pageviews_growth_pct": 38.5,
+      "pageviews_volatility": 0.5951,
+      "related_brands": [
+        "brand_034",
+        "brand_049",
+        "brand_026"
+      ]
+    },
+    {
+      "topic_id": "Apple_Vision_Pro",
+      "title": "Apple Vision Pro",
+      "category": "industry",
+      "pageviews_28d": 242059,
+      "pageviews_growth_pct": -33.6,
+      "pageviews_volatility": 0.3852,
+      "related_brands": [
+        "brand_037",
+        "brand_059",
+        "brand_052",
+        "brand_027"
+      ]
+    },
+    {
+      "topic_id": "Retail_media_network",
+      "title": "Retail media network",
+      "category": "industry",
+      "pageviews_28d": 270254,
+      "pageviews_growth_pct": -25.49,
+      "pageviews_volatility": 0.4037,
+      "related_brands": [
+        "brand_019",
+        "brand_048"
+      ]
+    },
+    {
+      "topic_id": "Connected_TV_advertising",
+      "title": "Connected TV advertising",
+      "category": "industry",
+      "pageviews_28d": 460183,
+      "pageviews_growth_pct": -17.74,
+      "pageviews_volatility": 0.7385,
+      "related_brands": [
+        "brand_007"
+      ]
+    },
+    {
+      "topic_id": "Influencer_marketing",
+      "title": "Influencer marketing",
+      "category": "industry",
+      "pageviews_28d": 329643,
+      "pageviews_growth_pct": 13.1,
+      "pageviews_volatility": 0.5359,
+      "related_brands": [
+        "brand_009"
+      ]
+    },
+    {
+      "topic_id": "TikTok_ban",
+      "title": "TikTok ban",
+      "category": "culture",
+      "pageviews_28d": 63811,
+      "pageviews_growth_pct": 14.04,
+      "pageviews_volatility": 0.3604,
+      "related_brands": [
+        "brand_014",
+        "brand_027"
+      ]
+    },
+    {
+      "topic_id": "Streaming_wars",
+      "title": "Streaming wars",
+      "category": "culture",
+      "pageviews_28d": 746262,
+      "pageviews_growth_pct": 11.62,
+      "pageviews_volatility": 0.2246,
+      "related_brands": [
+        "brand_043",
+        "brand_035",
+        "brand_033",
+        "brand_051"
+      ]
+    },
+    {
+      "topic_id": "Sustainable_fashion",
+      "title": "Sustainable fashion",
+      "category": "culture",
+      "pageviews_28d": 1001096,
+      "pageviews_growth_pct": -11.08,
+      "pageviews_volatility": 0.6704,
+      "related_brands": [
+        "brand_011",
+        "brand_015",
+        "brand_032"
+      ]
+    },
+    {
+      "topic_id": "GLP-1_drugs",
+      "title": "GLP-1 drugs",
+      "category": "culture",
+      "pageviews_28d": 43635,
+      "pageviews_growth_pct": 46.66,
+      "pageviews_volatility": 0.3476,
+      "related_brands": [
+        "brand_056"
+      ]
+    },
+    {
+      "topic_id": "Crypto_winter",
+      "title": "Crypto winter",
+      "category": "culture",
+      "pageviews_28d": 191283,
+      "pageviews_growth_pct": 53.73,
+      "pageviews_volatility": 0.4479,
+      "related_brands": [
+        "brand_042",
+        "brand_031"
+      ]
+    },
+    {
+      "topic_id": "Taylor_Swift_Eras_Tour",
+      "title": "Taylor Swift Eras Tour",
+      "category": "person",
+      "pageviews_28d": 730293,
+      "pageviews_growth_pct": -10.73,
+      "pageviews_volatility": 0.5668,
+      "related_brands": [
+        "brand_054",
+        "brand_048"
+      ]
+    },
+    {
+      "topic_id": "Elon_Musk",
+      "title": "Elon Musk",
+      "category": "person",
+      "pageviews_28d": 438228,
+      "pageviews_growth_pct": -11.06,
+      "pageviews_volatility": 0.464,
+      "related_brands": [
+        "brand_006",
+        "brand_031",
+        "brand_058"
+      ]
+    },
+    {
+      "topic_id": "MrBeast",
+      "title": "MrBeast",
+      "category": "person",
+      "pageviews_28d": 653409,
+      "pageviews_growth_pct": -47.49,
+      "pageviews_volatility": 0.4878,
+      "related_brands": [
+        "brand_009",
+        "brand_039",
+        "brand_032",
+        "brand_001"
+      ]
+    },
+    {
+      "topic_id": "Generation_Z",
+      "title": "Generation Z",
+      "category": "culture",
+      "pageviews_28d": 348690,
+      "pageviews_growth_pct": -20.61,
+      "pageviews_volatility": 0.4557,
+      "related_brands": [
+        "brand_007"
+      ]
+    },
+    {
+      "topic_id": "Esports_World_Cup",
+      "title": "Esports World Cup",
+      "category": "event",
+      "pageviews_28d": 761211,
+      "pageviews_growth_pct": -67.76,
+      "pageviews_volatility": 0.7202,
+      "related_brands": [
+        "brand_043",
+        "brand_038",
+        "brand_022"
+      ]
+    }
+  ]
+}

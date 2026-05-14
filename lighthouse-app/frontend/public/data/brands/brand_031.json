@@ -1,0 +1,949 @@
+{
+  "brand": {
+    "brand_id": "brand_031",
+    "brand_handle": "@netflix",
+    "brand_name": "Netflix",
+    "vertical": "Streaming",
+    "hq_country": "US",
+    "established_year": 1997,
+    "description": "Netflix is a streaming brand established in 1997, headquartered in US.",
+    "yt_channel_id": "UCca024fd6b411da542baf71",
+    "yt_subscribers": 25930,
+    "yt_views_total": 33517272,
+    "yt_videos_count": 1341,
+    "yt_views_28d": 1279968,
+    "yt_subs_growth_28d_pct": 28.38,
+    "reddit_mentions_28d": 218,
+    "reddit_avg_sentiment": -0.152,
+    "reddit_top_subreddit": "r/netflix",
+    "reddit_velocity_28d": -0.16,
+    "wiki_pageviews_28d": 10412,
+    "wiki_pageviews_growth_28d_pct": 69.9,
+    "attention_score": 58.59,
+    "signal_bucket": "hot",
+    "share_of_voice": 18.06,
+    "last_signal_change": "2026-04-24",
+    "videos": [
+      {
+        "video_id": "yt_000761",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Why we chose Netflix",
+        "published_at": "2026-04-01T21:00:00",
+        "duration_sec": 89,
+        "views": 137700,
+        "likes": 3992,
+        "comments": 412,
+        "engagement_rate": 0.032,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000761/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000770",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "2026 Netflix campaign review",
+        "published_at": "2026-03-03T20:00:00",
+        "duration_sec": 841,
+        "views": 136889,
+        "likes": 4087,
+        "comments": 241,
+        "engagement_rate": 0.0316,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000770/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000768",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "I tried Netflix's new release for 30 days",
+        "published_at": "2026-03-20T05:00:00",
+        "duration_sec": 221,
+        "views": 132290,
+        "likes": 21721,
+        "comments": 2823,
+        "engagement_rate": 0.1855,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000768/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000771",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Why we chose Netflix",
+        "published_at": "2026-04-13T11:00:00",
+        "duration_sec": 79,
+        "views": 122902,
+        "likes": 2607,
+        "comments": 270,
+        "engagement_rate": 0.0234,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000771/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000765",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Netflix CEO on the future of the brand",
+        "published_at": "2026-04-05T16:00:00",
+        "duration_sec": 69,
+        "views": 122798,
+        "likes": 4239,
+        "comments": 339,
+        "engagement_rate": 0.0373,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000765/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000773",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Behind the scenes at Netflix",
+        "published_at": "2026-03-17T02:00:00",
+        "duration_sec": 367,
+        "views": 122353,
+        "likes": 8065,
+        "comments": 937,
+        "engagement_rate": 0.0736,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000773/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000759",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "The real story behind Netflix",
+        "published_at": "2026-02-27T05:00:00",
+        "duration_sec": 70,
+        "views": 120185,
+        "likes": 2655,
+        "comments": 444,
+        "engagement_rate": 0.0258,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000759/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000757",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "What nobody tells you about Netflix",
+        "published_at": "2026-05-04T19:00:00",
+        "duration_sec": 1320,
+        "views": 103185,
+        "likes": 5986,
+        "comments": 505,
+        "engagement_rate": 0.0629,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000757/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000753",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "New Netflix collection reveal",
+        "published_at": "2026-03-12T19:00:00",
+        "duration_sec": 1133,
+        "views": 98335,
+        "likes": 4970,
+        "comments": 637,
+        "engagement_rate": 0.057,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000753/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000758",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "New Netflix edition reveal",
+        "published_at": "2026-05-04T04:00:00",
+        "duration_sec": 1566,
+        "views": 95475,
+        "likes": 6482,
+        "comments": 740,
+        "engagement_rate": 0.0756,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000758/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000762",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Netflix unveils flagship",
+        "published_at": "2026-03-18T08:00:00",
+        "duration_sec": 57,
+        "views": 91653,
+        "likes": 2541,
+        "comments": 411,
+        "engagement_rate": 0.0322,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000762/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000769",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "I tried Netflix's new collection for 30 days",
+        "published_at": "2026-05-10T23:00:00",
+        "duration_sec": 1001,
+        "views": 88968,
+        "likes": 14898,
+        "comments": 1450,
+        "engagement_rate": 0.1838,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000769/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000767",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "What nobody tells you about Netflix",
+        "published_at": "2026-03-03T01:00:00",
+        "duration_sec": 66,
+        "views": 74302,
+        "likes": 3466,
+        "comments": 533,
+        "engagement_rate": 0.0538,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000767/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000754",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Why we chose Netflix",
+        "published_at": "2026-03-08T01:00:00",
+        "duration_sec": 459,
+        "views": 72627,
+        "likes": 1725,
+        "comments": 163,
+        "engagement_rate": 0.026,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000754/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000766",
+        "brand_id": "brand_031",
+        "channel_id": "UCca024fd6b411da542baf71",
+        "title": "Netflix unveils lineup",
+        "published_at": "2026-03-22T05:00:00",
+        "duration_sec": 827,
+        "views": 71412,
+        "likes": 11458,
+        "comments": 943,
+        "engagement_rate": 0.1737,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000766/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000930",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "First look at Netflix's lineup",
+        "posted_at": "2026-03-25T06:00:00",
+        "author": "u/MidwestDad88",
+        "score": 13293,
+        "num_comments": 1524,
+        "sentiment": 0.147,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000930/"
+      },
+      {
+        "post_id": "t3_0000956",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "The Netflix discourse is unhinged today",
+        "posted_at": "2026-02-25T19:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 12141,
+        "num_comments": 3351,
+        "sentiment": 0.002,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000956/"
+      },
+      {
+        "post_id": "t3_0000948",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Netflix TikTok meme has me dying",
+        "posted_at": "2026-05-11T06:00:00",
+        "author": "u/ThriftyTina",
+        "score": 11572,
+        "num_comments": 2047,
+        "sentiment": 0.235,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000948/"
+      },
+      {
+        "post_id": "t3_0000944",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "First look at Netflix's edition",
+        "posted_at": "2026-04-04T13:00:00",
+        "author": "u/PixelPirate",
+        "score": 9822,
+        "num_comments": 655,
+        "sentiment": 0.481,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000944/"
+      },
+      {
+        "post_id": "t3_0000929",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "30 days with Netflix's platform",
+        "posted_at": "2026-02-23T06:00:00",
+        "author": "u/TacoCritic",
+        "score": 8501,
+        "num_comments": 961,
+        "sentiment": 0.308,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000929/"
+      },
+      {
+        "post_id": "t3_0000947",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Boycotting Netflix after this week",
+        "posted_at": "2026-03-12T07:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 7212,
+        "num_comments": 976,
+        "sentiment": -0.369,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000947/"
+      },
+      {
+        "post_id": "t3_0000934",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Honest review of the Netflix model",
+        "posted_at": "2026-02-21T08:00:00",
+        "author": "u/QuietBuyer",
+        "score": 2646,
+        "num_comments": 301,
+        "sentiment": 0.579,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000934/"
+      },
+      {
+        "post_id": "t3_0000954",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Why Netflix is so polarizing",
+        "posted_at": "2026-02-19T18:00:00",
+        "author": "u/MidnightMod",
+        "score": 2091,
+        "num_comments": 410,
+        "sentiment": 0.413,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000954/"
+      },
+      {
+        "post_id": "t3_0000953",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Netflix's new collection launch is wild",
+        "posted_at": "2026-04-12T17:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 1414,
+        "num_comments": 413,
+        "sentiment": 0.388,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000953/"
+      },
+      {
+        "post_id": "t3_0000952",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Trying to cancel Netflix \u2014 nightmare",
+        "posted_at": "2026-04-27T00:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 701,
+        "num_comments": 96,
+        "sentiment": -0.417,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000952/"
+      },
+      {
+        "post_id": "t3_0000940",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Honest review of the Netflix experience",
+        "posted_at": "2026-04-22T15:00:00",
+        "author": "u/SocialSarah",
+        "score": 469,
+        "num_comments": 116,
+        "sentiment": -0.336,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000940/"
+      },
+      {
+        "post_id": "t3_0000936",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Is anyone else fed up with Netflix lately?",
+        "posted_at": "2026-03-02T11:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 410,
+        "num_comments": 85,
+        "sentiment": -0.297,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000936/"
+      },
+      {
+        "post_id": "t3_0000931",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Netflix TikTok meme has me dying",
+        "posted_at": "2026-03-30T10:00:00",
+        "author": "u/BrandLurker",
+        "score": 370,
+        "num_comments": 54,
+        "sentiment": 0.563,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000931/"
+      },
+      {
+        "post_id": "t3_0000950",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Netflix did WHAT?",
+        "posted_at": "2026-04-25T12:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 243,
+        "num_comments": 28,
+        "sentiment": -0.146,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000950/"
+      },
+      {
+        "post_id": "t3_0000955",
+        "brand_id": "brand_031",
+        "brand_name_match": "Netflix",
+        "subreddit": "r/netflix",
+        "title": "Why I'm switching to Netflix",
+        "posted_at": "2026-04-27T22:00:00",
+        "author": "u/UnpaidMod",
+        "score": 155,
+        "num_comments": 15,
+        "sentiment": 0.332,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/netflix/comments/t3_0000955/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Netflix",
+        "title": "Netflix",
+        "category": "brand",
+        "pageviews_28d": 13166,
+        "pageviews_growth_pct": 16.9,
+        "pageviews_volatility": 0.2233,
+        "related_brands": [
+          "brand_031"
+        ]
+      },
+      {
+        "topic_id": "Crypto_winter",
+        "title": "Crypto winter",
+        "category": "culture",
+        "pageviews_28d": 191283,
+        "pageviews_growth_pct": 53.73,
+        "pageviews_volatility": 0.4479,
+        "related_brands": [
+          "brand_042",
+          "brand_031"
+        ]
+      },
+      {
+        "topic_id": "Elon_Musk",
+        "title": "Elon Musk",
+        "category": "person",
+        "pageviews_28d": 438228,
+        "pageviews_growth_pct": -11.06,
+        "pageviews_volatility": 0.464,
+        "related_brands": [
+          "brand_006",
+          "brand_031",
+          "brand_058"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT views +28% MoM driven by recent product reveal",
+      "Top YouTube asset: \"Why we chose Netflix\"",
+      "Dominant Reddit topic cluster: launch",
+      "Wikipedia pageviews surged +70% \u2014 news cycle is active",
+      "Reddit sentiment dipped to -0.15 in r/netflix after pricing or service complaints"
+    ],
+    "ai_summary": "Netflix is running hot in the Streaming panel with an attention score of 59. YouTube and Reddit are reinforcing each other \u2014 views +28% and r/netflix sentiment of -0.15 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-14",
+        "views": 360
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-15",
+        "views": 306
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-16",
+        "views": 327
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-17",
+        "views": 377
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-18",
+        "views": 371
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-19",
+        "views": 475
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-20",
+        "views": 464
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-21",
+        "views": 447
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-22",
+        "views": 489
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-23",
+        "views": 438
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-24",
+        "views": 461
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-25",
+        "views": 429
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-26",
+        "views": 418
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-27",
+        "views": 424
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-02-28",
+        "views": 395
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-01",
+        "views": 405
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-02",
+        "views": 431
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-03",
+        "views": 405
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-04",
+        "views": 376
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-05",
+        "views": 425
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-06",
+        "views": 402
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-07",
+        "views": 422
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-08",
+        "views": 410
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-09",
+        "views": 401
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-10",
+        "views": 383
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-11",
+        "views": 381
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-12",
+        "views": 383
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-13",
+        "views": 371
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-14",
+        "views": 363
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-15",
+        "views": 337
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-16",
+        "views": 366
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-17",
+        "views": 342
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-18",
+        "views": 339
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-19",
+        "views": 393
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-20",
+        "views": 385
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-21",
+        "views": 415
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-22",
+        "views": 409
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-23",
+        "views": 478
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-24",
+        "views": 480
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-25",
+        "views": 446
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-26",
+        "views": 441
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-27",
+        "views": 434
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-28",
+        "views": 520
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-29",
+        "views": 446
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-30",
+        "views": 460
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-03-31",
+        "views": 447
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-01",
+        "views": 391
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-02",
+        "views": 371
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-03",
+        "views": 386
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-04",
+        "views": 402
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-05",
+        "views": 386
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-06",
+        "views": 411
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-07",
+        "views": 407
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-08",
+        "views": 404
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-09",
+        "views": 342
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-10",
+        "views": 278
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-11",
+        "views": 320
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-12",
+        "views": 290
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-13",
+        "views": 308
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-14",
+        "views": 381
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-15",
+        "views": 418
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-16",
+        "views": 407
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-17",
+        "views": 345
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-18",
+        "views": 379
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-19",
+        "views": 379
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-20",
+        "views": 374
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-21",
+        "views": 435
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-22",
+        "views": 436
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-23",
+        "views": 427
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-24",
+        "views": 439
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-25",
+        "views": 412
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-26",
+        "views": 407
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-27",
+        "views": 393
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-28",
+        "views": 344
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-29",
+        "views": 324
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-04-30",
+        "views": 350
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-01",
+        "views": 378
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-02",
+        "views": 361
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-03",
+        "views": 349
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-04",
+        "views": 856
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-05",
+        "views": 816
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-06",
+        "views": 709
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-07",
+        "views": 641
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-08",
+        "views": 615
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-09",
+        "views": 572
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-10",
+        "views": 571
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-11",
+        "views": 541
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-12",
+        "views": 443
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-13",
+        "views": 444
+      },
+      {
+        "topic_id": "Netflix",
+        "date": "2026-05-14",
+        "views": 426
+      }
+    ]
+  }
+}

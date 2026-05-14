@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_012",
+    "brand_handle": "@bmw",
+    "brand_name": "BMW",
+    "vertical": "Auto",
+    "hq_country": "Germany",
+    "established_year": 1916,
+    "description": "BMW is a luxury auto brand established in 1916, headquartered in Germany.",
+    "yt_channel_id": "UCdfa36897d0d79626c26c3a",
+    "yt_subscribers": 39353641,
+    "yt_views_total": 30982895450,
+    "yt_videos_count": 4278,
+    "yt_views_28d": 1729035686,
+    "yt_subs_growth_28d_pct": 29.82,
+    "reddit_mentions_28d": 48,
+    "reddit_avg_sentiment": 0.339,
+    "reddit_top_subreddit": "r/BMW",
+    "reddit_velocity_28d": 0.37,
+    "wiki_pageviews_28d": 3195,
+    "wiki_pageviews_growth_28d_pct": 56.25,
+    "attention_score": 73.33,
+    "signal_bucket": "breakout",
+    "share_of_voice": 20.11,
+    "last_signal_change": "2026-05-06",
+    "videos": [
+      {
+        "video_id": "yt_000303",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "BMW vs the competition",
+        "published_at": "2026-04-06T10:00:00",
+        "duration_sec": 868,
+        "views": 2392784197,
+        "likes": 154647320,
+        "comments": 16728978,
+        "engagement_rate": 0.0716,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000303/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000291",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "What nobody tells you about BMW",
+        "published_at": "2026-03-04T23:00:00",
+        "duration_sec": 370,
+        "views": 170323452,
+        "likes": 8644167,
+        "comments": 633549,
+        "engagement_rate": 0.0545,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000291/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000302",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "I tried BMW's new experience for 30 days",
+        "published_at": "2026-03-13T07:00:00",
+        "duration_sec": 1413,
+        "views": 147305694,
+        "likes": 4657650,
+        "comments": 608106,
+        "engagement_rate": 0.0357,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000302/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000297",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "BMW unveils lineup",
+        "published_at": "2026-04-15T16:00:00",
+        "duration_sec": 502,
+        "views": 143777916,
+        "likes": 5199918,
+        "comments": 783888,
+        "engagement_rate": 0.0416,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000297/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000296",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "I tried BMW's new campaign for 30 days",
+        "published_at": "2026-04-20T11:00:00",
+        "duration_sec": 1658,
+        "views": 139622544,
+        "likes": 4739357,
+        "comments": 566586,
+        "engagement_rate": 0.038,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000296/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000288",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "Inside BMW's 2026 strategy",
+        "published_at": "2026-04-09T22:00:00",
+        "duration_sec": 1051,
+        "views": 136270941,
+        "likes": 5466029,
+        "comments": 631490,
+        "engagement_rate": 0.0447,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000288/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000298",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "BMW CEO on the future of creators",
+        "published_at": "2026-03-29T03:00:00",
+        "duration_sec": 1781,
+        "views": 127399153,
+        "likes": 9206344,
+        "comments": 827917,
+        "engagement_rate": 0.0788,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000298/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000299",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "Behind the scenes at BMW",
+        "published_at": "2026-03-25T05:00:00",
+        "duration_sec": 63,
+        "views": 125793772,
+        "likes": 5183905,
+        "comments": 515683,
+        "engagement_rate": 0.0453,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000299/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000304",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "drop from BMW: first impressions",
+        "published_at": "2026-03-17T20:00:00",
+        "duration_sec": 962,
+        "views": 118359532,
+        "likes": 6178313,
+        "comments": 704420,
+        "engagement_rate": 0.0582,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000304/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000289",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "New BMW series reveal",
+        "published_at": "2026-05-01T12:00:00",
+        "duration_sec": 88,
+        "views": 110919026,
+        "likes": 3844774,
+        "comments": 462474,
+        "engagement_rate": 0.0388,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000289/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000287",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "BMW just changed the game with lineup",
+        "published_at": "2026-02-28T16:00:00",
+        "duration_sec": 1372,
+        "views": 98656426,
+        "likes": 3512998,
+        "comments": 470713,
+        "engagement_rate": 0.0404,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000287/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000292",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "New BMW release reveal",
+        "published_at": "2026-04-14T06:00:00",
+        "duration_sec": 207,
+        "views": 97738340,
+        "likes": 4319957,
+        "comments": 581475,
+        "engagement_rate": 0.0501,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000292/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000294",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "The real story behind BMW",
+        "published_at": "2026-03-13T05:00:00",
+        "duration_sec": 367,
+        "views": 88336329,
+        "likes": 5235344,
+        "comments": 518155,
+        "engagement_rate": 0.0651,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000294/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000305",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "New BMW edition reveal",
+        "published_at": "2026-03-12T07:00:00",
+        "duration_sec": 592,
+        "views": 68266600,
+        "likes": 11137582,
+        "comments": 1603159,
+        "engagement_rate": 0.1866,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000305/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000295",
+        "brand_id": "brand_012",
+        "channel_id": "UCdfa36897d0d79626c26c3a",
+        "title": "Inside BMW's 2026 strategy",
+        "published_at": "2026-02-28T03:00:00",
+        "duration_sec": 804,
+        "views": 61710256,
+        "likes": 2651477,
+        "comments": 183067,
+        "engagement_rate": 0.0459,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000295/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000364",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "BMW earnings call summary",
+        "posted_at": "2026-03-06T05:00:00",
+        "author": "u/MidnightMod",
+        "score": 12274,
+        "num_comments": 1043,
+        "sentiment": -0.173,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000364/"
+      },
+      {
+        "post_id": "t3_0000361",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Tried BMW \u2014 here's my take",
+        "posted_at": "2026-04-04T08:00:00",
+        "author": "u/CulturalCritic",
+        "score": 12150,
+        "num_comments": 650,
+        "sentiment": 0.296,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000361/"
+      },
+      {
+        "post_id": "t3_0000359",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Trying to cancel BMW \u2014 nightmare",
+        "posted_at": "2026-03-11T20:00:00",
+        "author": "u/BrandLurker",
+        "score": 4189,
+        "num_comments": 561,
+        "sentiment": -0.049,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000359/"
+      },
+      {
+        "post_id": "t3_0000373",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "BMW TikTok meme has me dying",
+        "posted_at": "2026-04-24T12:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 3645,
+        "num_comments": 931,
+        "sentiment": 0.189,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000373/"
+      },
+      {
+        "post_id": "t3_0000380",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Need help with my BMW order",
+        "posted_at": "2026-03-08T05:00:00",
+        "author": "u/SocialSarah",
+        "score": 2233,
+        "num_comments": 461,
+        "sentiment": -0.504,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000380/"
+      },
+      {
+        "post_id": "t3_0000371",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "30 days with BMW's campaign",
+        "posted_at": "2026-03-17T18:00:00",
+        "author": "u/SocialSarah",
+        "score": 1355,
+        "num_comments": 197,
+        "sentiment": -0.583,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000371/"
+      },
+      {
+        "post_id": "t3_0000352",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Tried BMW \u2014 here's my take",
+        "posted_at": "2026-04-26T15:00:00",
+        "author": "u/StreamingNerd",
+        "score": 1188,
+        "num_comments": 165,
+        "sentiment": 0.09,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000352/"
+      },
+      {
+        "post_id": "t3_0000358",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "BMW just teamed up with a creator",
+        "posted_at": "2026-04-15T16:00:00",
+        "author": "u/StreamingNerd",
+        "score": 1050,
+        "num_comments": 55,
+        "sentiment": 0.315,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000358/"
+      },
+      {
+        "post_id": "t3_0000370",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Need help with my BMW order",
+        "posted_at": "2026-03-25T02:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 731,
+        "num_comments": 87,
+        "sentiment": 0.106,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000370/"
+      },
+      {
+        "post_id": "t3_0000360",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Is anyone else fed up with BMW lately?",
+        "posted_at": "2026-03-27T12:00:00",
+        "author": "u/SignalSeeker",
+        "score": 657,
+        "num_comments": 119,
+        "sentiment": -0.603,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000360/"
+      },
+      {
+        "post_id": "t3_0000382",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Trying to cancel BMW \u2014 nightmare",
+        "posted_at": "2026-04-23T17:00:00",
+        "author": "u/SocialSarah",
+        "score": 579,
+        "num_comments": 127,
+        "sentiment": -0.223,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000382/"
+      },
+      {
+        "post_id": "t3_0000376",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "First look at BMW's edition",
+        "posted_at": "2026-04-08T02:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 383,
+        "num_comments": 80,
+        "sentiment": 0.39,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000376/"
+      },
+      {
+        "post_id": "t3_0000357",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "BMW just announced the new drop \u2014 thoughts?",
+        "posted_at": "2026-02-23T01:00:00",
+        "author": "u/UnpaidMod",
+        "score": 361,
+        "num_comments": 20,
+        "sentiment": 0.495,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000357/"
+      },
+      {
+        "post_id": "t3_0000378",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "Why I'm switching to BMW",
+        "posted_at": "2026-04-17T06:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 334,
+        "num_comments": 99,
+        "sentiment": -0.076,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000378/"
+      },
+      {
+        "post_id": "t3_0000368",
+        "brand_id": "brand_012",
+        "brand_name_match": "BMW",
+        "subreddit": "r/BMW",
+        "title": "BMW partnership announcement",
+        "posted_at": "2026-04-02T04:00:00",
+        "author": "u/MidnightMod",
+        "score": 321,
+        "num_comments": 47,
+        "sentiment": 0.381,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/BMW/comments/t3_0000368/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "BMW",
+        "title": "BMW",
+        "category": "brand",
+        "pageviews_28d": 10223,
+        "pageviews_growth_pct": 174.66,
+        "pageviews_volatility": 0.9569,
+        "related_brands": [
+          "brand_012"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT views +30% MoM driven by recent product reveal",
+      "Dominant Reddit topic cluster: product-review",
+      "Reddit sentiment elevated at +0.34 \u2014 fan-driven engagement in r/BMW",
+      "Wikipedia pageviews surged +56% \u2014 news cycle is active",
+      "Reddit mention velocity up 37% \u2014 emerging conversation cluster"
+    ],
+    "ai_summary": "BMW's cross-channel attention has accelerated sharply in the past 28 days, with a +30% YouTube subscriber lift and matching uplift in r/BMW sentiment (avg +0.34). Wikipedia pageview volatility (+56% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-14",
+        "views": 90
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-15",
+        "views": 110
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-16",
+        "views": 104
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-17",
+        "views": 86
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-18",
+        "views": 89
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-19",
+        "views": 104
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-20",
+        "views": 122
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-21",
+        "views": 109
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-22",
+        "views": 80
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-23",
+        "views": 87
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-24",
+        "views": 81
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-25",
+        "views": 83
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-26",
+        "views": 79
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-27",
+        "views": 101
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-02-28",
+        "views": 81
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-01",
+        "views": 75
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-02",
+        "views": 88
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-03",
+        "views": 71
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-04",
+        "views": 93
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-05",
+        "views": 99
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-06",
+        "views": 105
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-07",
+        "views": 122
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-08",
+        "views": 125
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-09",
+        "views": 112
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-10",
+        "views": 133
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-11",
+        "views": 124
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-12",
+        "views": 118
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-13",
+        "views": 133
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-14",
+        "views": 122
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-15",
+        "views": 127
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-16",
+        "views": 135
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-17",
+        "views": 142
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-18",
+        "views": 146
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-19",
+        "views": 125
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-20",
+        "views": 135
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-21",
+        "views": 134
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-22",
+        "views": 140
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-23",
+        "views": 140
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-24",
+        "views": 135
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-25",
+        "views": 152
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-26",
+        "views": 145
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-27",
+        "views": 157
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-28",
+        "views": 160
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-29",
+        "views": 150
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-30",
+        "views": 139
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-03-31",
+        "views": 111
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-01",
+        "views": 104
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-02",
+        "views": 107
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-03",
+        "views": 110
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-04",
+        "views": 121
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-05",
+        "views": 116
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-06",
+        "views": 107
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-07",
+        "views": 115
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-08",
+        "views": 111
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-09",
+        "views": 109
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-10",
+        "views": 123
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-11",
+        "views": 103
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-12",
+        "views": 117
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-13",
+        "views": 116
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-14",
+        "views": 121
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-15",
+        "views": 114
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-16",
+        "views": 330
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-17",
+        "views": 287
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-18",
+        "views": 263
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-19",
+        "views": 1102
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-20",
+        "views": 969
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-21",
+        "views": 828
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-22",
+        "views": 721
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-23",
+        "views": 639
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-24",
+        "views": 553
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-25",
+        "views": 502
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-26",
+        "views": 415
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-27",
+        "views": 381
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-28",
+        "views": 364
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-29",
+        "views": 324
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-04-30",
+        "views": 287
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-01",
+        "views": 266
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-02",
+        "views": 246
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-03",
+        "views": 226
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-04",
+        "views": 213
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-05",
+        "views": 194
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-06",
+        "views": 191
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-07",
+        "views": 186
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-08",
+        "views": 167
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-09",
+        "views": 170
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-10",
+        "views": 146
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-11",
+        "views": 140
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-12",
+        "views": 160
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-13",
+        "views": 138
+      },
+      {
+        "topic_id": "BMW",
+        "date": "2026-05-14",
+        "views": 145
+      }
+    ]
+  }
+}

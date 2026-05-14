@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_013",
+    "brand_handle": "@mercedesbenz",
+    "brand_name": "Mercedes-Benz",
+    "vertical": "Auto",
+    "hq_country": "Germany",
+    "established_year": 1926,
+    "description": "Mercedes-Benz is a luxury auto brand established in 1926, headquartered in Germany.",
+    "yt_channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+    "yt_subscribers": 988887,
+    "yt_views_total": 814483823,
+    "yt_videos_count": 4464,
+    "yt_views_28d": 45682514,
+    "yt_subs_growth_28d_pct": 18.96,
+    "reddit_mentions_28d": 133,
+    "reddit_avg_sentiment": -0.188,
+    "reddit_top_subreddit": "r/mercedes_benz",
+    "reddit_velocity_28d": 0.099,
+    "wiki_pageviews_28d": 1788856,
+    "wiki_pageviews_growth_28d_pct": 60.68,
+    "attention_score": 53.17,
+    "signal_bucket": "hot",
+    "share_of_voice": 14.58,
+    "last_signal_change": "2026-05-08",
+    "videos": [
+      {
+        "video_id": "yt_000318",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Mercedes-Benz vs the competition",
+        "published_at": "2026-04-23T10:00:00",
+        "duration_sec": 1139,
+        "views": 30223391,
+        "likes": 1224817,
+        "comments": 67009,
+        "engagement_rate": 0.0427,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000318/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000320",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "The real story behind Mercedes-Benz",
+        "published_at": "2026-04-30T08:00:00",
+        "duration_sec": 87,
+        "views": 8014890,
+        "likes": 1423459,
+        "comments": 138824,
+        "engagement_rate": 0.1949,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000320/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000310",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "New Mercedes-Benz lineup reveal",
+        "published_at": "2026-03-10T18:00:00",
+        "duration_sec": 395,
+        "views": 4956186,
+        "likes": 289533,
+        "comments": 44937,
+        "engagement_rate": 0.0675,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000310/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000314",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "What nobody tells you about Mercedes-Benz",
+        "published_at": "2026-02-27T21:00:00",
+        "duration_sec": 70,
+        "views": 4823120,
+        "likes": 276946,
+        "comments": 19411,
+        "engagement_rate": 0.0614,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000314/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000321",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "What nobody tells you about Mercedes-Benz",
+        "published_at": "2026-05-06T13:00:00",
+        "duration_sec": 59,
+        "views": 4646676,
+        "likes": 216602,
+        "comments": 13335,
+        "engagement_rate": 0.0495,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000321/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000327",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Mercedes-Benz unveils model",
+        "published_at": "2026-02-13T16:00:00",
+        "duration_sec": 1739,
+        "views": 4627085,
+        "likes": 96442,
+        "comments": 6576,
+        "engagement_rate": 0.0223,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000327/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000329",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Behind the scenes at Mercedes-Benz",
+        "published_at": "2026-05-08T01:00:00",
+        "duration_sec": 81,
+        "views": 4608579,
+        "likes": 287470,
+        "comments": 47977,
+        "engagement_rate": 0.0728,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000329/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000328",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Mercedes-Benz vs the competition",
+        "published_at": "2026-04-10T15:00:00",
+        "duration_sec": 1418,
+        "views": 4590353,
+        "likes": 271509,
+        "comments": 19587,
+        "engagement_rate": 0.0634,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000328/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000313",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Mercedes-Benz unveils lineup",
+        "published_at": "2026-04-10T09:00:00",
+        "duration_sec": 332,
+        "views": 4451651,
+        "likes": 130528,
+        "comments": 16676,
+        "engagement_rate": 0.0331,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000313/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000311",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "What nobody tells you about Mercedes-Benz",
+        "published_at": "2026-05-03T07:00:00",
+        "duration_sec": 272,
+        "views": 4130645,
+        "likes": 104388,
+        "comments": 8451,
+        "engagement_rate": 0.0273,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000311/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000316",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "The real story behind Mercedes-Benz",
+        "published_at": "2026-02-19T13:00:00",
+        "duration_sec": 73,
+        "views": 3545905,
+        "likes": 89771,
+        "comments": 9811,
+        "engagement_rate": 0.0281,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000316/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000326",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "2026 Mercedes-Benz platform review",
+        "published_at": "2026-03-16T12:00:00",
+        "duration_sec": 551,
+        "views": 3118833,
+        "likes": 228403,
+        "comments": 19870,
+        "engagement_rate": 0.0796,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000326/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000312",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Inside Mercedes-Benz's 2026 strategy",
+        "published_at": "2026-04-17T10:00:00",
+        "duration_sec": 446,
+        "views": 2174850,
+        "likes": 145317,
+        "comments": 20347,
+        "engagement_rate": 0.0762,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000312/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000317",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Mercedes-Benz CEO on the future of consumer attention",
+        "published_at": "2026-02-12T09:00:00",
+        "duration_sec": 982,
+        "views": 1985458,
+        "likes": 62252,
+        "comments": 10255,
+        "engagement_rate": 0.0365,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000317/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000325",
+        "brand_id": "brand_013",
+        "channel_id": "UC7b9d5efbcfeb5fe1dc3720",
+        "title": "Inside Mercedes-Benz's 2026 strategy",
+        "published_at": "2026-03-03T14:00:00",
+        "duration_sec": 1481,
+        "views": 1874844,
+        "likes": 88490,
+        "comments": 10384,
+        "engagement_rate": 0.0527,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000325/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000396",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Honest review of the Mercedes-Benz collection",
+        "posted_at": "2026-04-13T04:00:00",
+        "author": "u/PixelPirate",
+        "score": 12134,
+        "num_comments": 3046,
+        "sentiment": -0.116,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000396/"
+      },
+      {
+        "post_id": "t3_0000399",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "30 days with Mercedes-Benz's campaign",
+        "posted_at": "2026-03-28T06:00:00",
+        "author": "u/SocialSarah",
+        "score": 9649,
+        "num_comments": 1365,
+        "sentiment": 0.169,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000399/"
+      },
+      {
+        "post_id": "t3_0000401",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Mercedes-Benz x [collab] is actually cool",
+        "posted_at": "2026-03-02T13:00:00",
+        "author": "u/SocialSarah",
+        "score": 8017,
+        "num_comments": 1727,
+        "sentiment": 0.261,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000401/"
+      },
+      {
+        "post_id": "t3_0000397",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Tried Mercedes-Benz \u2014 here's my take",
+        "posted_at": "2026-04-06T00:00:00",
+        "author": "u/StreamingNerd",
+        "score": 7593,
+        "num_comments": 2258,
+        "sentiment": -0.134,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000397/"
+      },
+      {
+        "post_id": "t3_0000387",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "First look at Mercedes-Benz's series",
+        "posted_at": "2026-04-04T05:00:00",
+        "author": "u/MidwestDad88",
+        "score": 6850,
+        "num_comments": 1920,
+        "sentiment": 0.398,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000387/"
+      },
+      {
+        "post_id": "t3_0000393",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Honest review of the Mercedes-Benz experience",
+        "posted_at": "2026-05-04T15:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 6107,
+        "num_comments": 1757,
+        "sentiment": -0.105,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000393/"
+      },
+      {
+        "post_id": "t3_0000392",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Anyone else having issues with Mercedes-Benz?",
+        "posted_at": "2026-04-07T02:00:00",
+        "author": "u/SignalSeeker",
+        "score": 3612,
+        "num_comments": 418,
+        "sentiment": -0.364,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000392/"
+      },
+      {
+        "post_id": "t3_0000384",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Boycotting Mercedes-Benz after this week",
+        "posted_at": "2026-04-30T08:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2322,
+        "num_comments": 589,
+        "sentiment": -0.665,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000384/"
+      },
+      {
+        "post_id": "t3_0000407",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Mercedes-Benz just announced the new platform \u2014 thoughts?",
+        "posted_at": "2026-04-04T16:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 1048,
+        "num_comments": 153,
+        "sentiment": 0.283,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000407/"
+      },
+      {
+        "post_id": "t3_0000406",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Anyone seen the new Mercedes-Benz collection drop?",
+        "posted_at": "2026-05-03T08:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 1021,
+        "num_comments": 154,
+        "sentiment": 0.281,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000406/"
+      },
+      {
+        "post_id": "t3_0000408",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Need help with my Mercedes-Benz order",
+        "posted_at": "2026-04-16T02:00:00",
+        "author": "u/MarketingPro42",
+        "score": 246,
+        "num_comments": 39,
+        "sentiment": -0.292,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000408/"
+      },
+      {
+        "post_id": "t3_0000388",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Mercedes-Benz customer service is impossible to reach",
+        "posted_at": "2026-03-11T14:00:00",
+        "author": "u/MidnightMod",
+        "score": 199,
+        "num_comments": 40,
+        "sentiment": -0.284,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000388/"
+      },
+      {
+        "post_id": "t3_0000389",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Mercedes-Benz partnership announcement",
+        "posted_at": "2026-03-28T02:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 177,
+        "num_comments": 44,
+        "sentiment": 0.584,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000389/"
+      },
+      {
+        "post_id": "t3_0000395",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Mercedes-Benz just announced the new lineup \u2014 thoughts?",
+        "posted_at": "2026-02-27T04:00:00",
+        "author": "u/UnpaidMod",
+        "score": 166,
+        "num_comments": 44,
+        "sentiment": 0.061,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000395/"
+      },
+      {
+        "post_id": "t3_0000398",
+        "brand_id": "brand_013",
+        "brand_name_match": "Mercedes-Benz",
+        "subreddit": "r/mercedes_benz",
+        "title": "Trying to cancel Mercedes-Benz \u2014 nightmare",
+        "posted_at": "2026-05-10T22:00:00",
+        "author": "u/UnpaidMod",
+        "score": 158,
+        "num_comments": 44,
+        "sentiment": -0.162,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/mercedes_benz/comments/t3_0000398/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Mercedes-Benz",
+        "title": "Mercedes-Benz",
+        "category": "brand",
+        "pageviews_28d": 2261202,
+        "pageviews_growth_pct": -29.43,
+        "pageviews_volatility": 0.5054,
+        "related_brands": [
+          "brand_013"
+        ]
+      },
+      {
+        "topic_id": "Coachella_2025",
+        "title": "Coachella 2025",
+        "category": "event",
+        "pageviews_28d": 726937,
+        "pageviews_growth_pct": -59.68,
+        "pageviews_volatility": 0.5997,
+        "related_brands": [
+          "brand_028",
+          "brand_013",
+          "brand_035"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit sentiment dipped to -0.19 in r/mercedes_benz after pricing or service complaints",
+      "Wikipedia pageviews surged +61% \u2014 news cycle is active",
+      "Top YouTube asset: \"Mercedes-Benz vs the competition\"",
+      "YT views +19% MoM driven by recent product reveal",
+      "Dominant Reddit topic cluster: product-review"
+    ],
+    "ai_summary": "Mercedes-Benz is running hot in the Auto panel with an attention score of 53. YouTube and Reddit are reinforcing each other \u2014 views +19% and r/mercedes_benz sentiment of -0.19 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-14",
+        "views": 66914
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-15",
+        "views": 47716
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-16",
+        "views": 69792
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-17",
+        "views": 59186
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-18",
+        "views": 65559
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-19",
+        "views": 80421
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-20",
+        "views": 75291
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-21",
+        "views": 79546
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-22",
+        "views": 76699
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-23",
+        "views": 70337
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-24",
+        "views": 77977
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-25",
+        "views": 73121
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-26",
+        "views": 69853
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-27",
+        "views": 71397
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-02-28",
+        "views": 65320
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-01",
+        "views": 58316
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-02",
+        "views": 67513
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-03",
+        "views": 63283
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-04",
+        "views": 66730
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-05",
+        "views": 57440
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-06",
+        "views": 69718
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-07",
+        "views": 73261
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-08",
+        "views": 72659
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-09",
+        "views": 68717
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-10",
+        "views": 73348
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-11",
+        "views": 69646
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-12",
+        "views": 73757
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-13",
+        "views": 76859
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-14",
+        "views": 73329
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-15",
+        "views": 74557
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-16",
+        "views": 72837
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-17",
+        "views": 71053
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-18",
+        "views": 71209
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-19",
+        "views": 73148
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-20",
+        "views": 68759
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-21",
+        "views": 60043
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-22",
+        "views": 62265
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-23",
+        "views": 59419
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-24",
+        "views": 72051
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-25",
+        "views": 68839
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-26",
+        "views": 80638
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-27",
+        "views": 71397
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-28",
+        "views": 65652
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-29",
+        "views": 69397
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-30",
+        "views": 65540
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-03-31",
+        "views": 62935
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-01",
+        "views": 59220
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-02",
+        "views": 66036
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-03",
+        "views": 68644
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-04",
+        "views": 57787
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-05",
+        "views": 63864
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-06",
+        "views": 237903
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-07",
+        "views": 206257
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-08",
+        "views": 184325
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-09",
+        "views": 159935
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-10",
+        "views": 145171
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-11",
+        "views": 140244
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-12",
+        "views": 135707
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-13",
+        "views": 253281
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-14",
+        "views": 228630
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-15",
+        "views": 209331
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-16",
+        "views": 181078
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-17",
+        "views": 167484
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-18",
+        "views": 138041
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-19",
+        "views": 129439
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-20",
+        "views": 114878
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-21",
+        "views": 105152
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-22",
+        "views": 97890
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-23",
+        "views": 95060
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-24",
+        "views": 94155
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-25",
+        "views": 87332
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-26",
+        "views": 81958
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-27",
+        "views": 76649
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-28",
+        "views": 81114
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-29",
+        "views": 73438
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-04-30",
+        "views": 72351
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-01",
+        "views": 56252
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-02",
+        "views": 51098
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-03",
+        "views": 63107
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-04",
+        "views": 51625
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-05",
+        "views": 67218
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-06",
+        "views": 54104
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-07",
+        "views": 60131
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-08",
+        "views": 73177
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-09",
+        "views": 66270
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-10",
+        "views": 61327
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-11",
+        "views": 55181
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-12",
+        "views": 65495
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-13",
+        "views": 58713
+      },
+      {
+        "topic_id": "Mercedes-Benz",
+        "date": "2026-05-14",
+        "views": 62563
+      }
+    ]
+  }
+}

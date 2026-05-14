@@ -1,0 +1,270 @@
+@import "tailwindcss";
+@import 'leaflet/dist/leaflet.css';
+
+/*
+ * Lighthouse Media — editorial / trade-pub design system.
+ *
+ * Visual language references Variety, Adweek, Vice, and the modern media
+ * agency aesthetic: warm charcoal + electric magenta accent + cyan signal
+ * color, DM Serif Display for editorial headlines, JetBrains Mono for
+ * metrics. Bold, contemporary, attention-economy.
+ *
+ * Like the FinServ demo, brand colors (Fivetran/Snowflake) are absent —
+ * Lighthouse owns the chrome. ODI lives in the architecture page.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Surfaces — warm charcoal stack */
+  --bg:            #0e0d10;  /* near-black with a warm cast */
+  --bg-2:          #16151a;  /* card backgrounds */
+  --bg-3:          #1f1d24;  /* raised surfaces */
+  --paper:         #f7f3ec;  /* warm off-white for light blocks */
+  --paper-deep:    #ece7dc;
+  --hairline:      rgba(255, 255, 255, 0.08);
+  --hairline-soft: rgba(255, 255, 255, 0.04);
+  --hairline-paper:#d8d2c4;  /* hairlines on paper surfaces */
+
+  /* Ink */
+  --ink:           #f7f3ec;  /* primary text on dark */
+  --ink-muted:     #b5afa0;  /* secondary text on dark */
+  --ink-soft:      #6f6a5e;  /* tertiary */
+  --ink-deep:      #0e0d10;  /* primary text on paper */
+  --ink-paper-mid: #4a4536;
+
+  /* Editorial accents */
+  --magenta:        #ff3e7f;  /* primary accent — bold media energy */
+  --magenta-bright: #ff6da0;
+  --magenta-dim:    #c9305f;
+  --magenta-bg:     rgba(255, 62, 127, 0.12);
+  --cyan:           #00e5ff;  /* signal / growth */
+  --cyan-bright:    #5dffff;
+  --cyan-dim:       #00a3b8;
+  --cyan-bg:        rgba(0, 229, 255, 0.10);
+
+  /* Status — adjusted for dark editorial */
+  --up:           #2dd4a7;
+  --up-bg:        rgba(45, 212, 167, 0.12);
+  --down:         #fb4570;
+  --down-bg:      rgba(251, 69, 112, 0.12);
+  --warn:         #f5b14a;
+  --warn-bg:      rgba(245, 177, 74, 0.12);
+
+  /* ODI medallion */
+  --bronze:        #d97706;
+  --bronze-bg:     rgba(217, 119, 6, 0.15);
+  --silver:        #cbd5e1;
+  --silver-bg:     rgba(203, 213, 225, 0.10);
+  --gold-layer:    #fbbf24;
+  --gold-bg:       rgba(251, 191, 36, 0.15);
+}
+
+@theme {
+  --color-charcoal-50:  #faf9f8;
+  --color-charcoal-100: #e7e5e1;
+  --color-charcoal-200: #c4c0b8;
+  --color-charcoal-300: #8c8780;
+  --color-charcoal-400: #5a564f;
+  --color-charcoal-500: #36322c;
+  --color-charcoal-600: #25221e;
+  --color-charcoal-700: #1f1d24;
+  --color-charcoal-800: #16151a;
+  --color-charcoal-900: #0e0d10;
+
+  --color-magenta-50:  #fff0f5;
+  --color-magenta-100: #ffd6e2;
+  --color-magenta-200: #ffa6c0;
+  --color-magenta-300: #ff70a0;
+  --color-magenta-400: #ff558e;
+  --color-magenta-500: #ff3e7f;
+  --color-magenta-600: #e0286b;
+  --color-magenta-700: #b71a55;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: "DM Serif Display", "Source Serif Pro", Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+html, body {
+  background-color: var(--bg);
+  color: var(--ink);
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, .font-display {
+  font-family: "DM Serif Display", "Source Serif Pro", Georgia, serif;
+  font-weight: 400;        /* DM Serif Display is naturally heavy */
+  letter-spacing: -0.015em;
+}
+
+/* Editorial rule — slim magenta bar */
+.editorial-rail {
+  height: 3px;
+  background: linear-gradient(90deg, transparent 0%, var(--magenta) 25%, var(--magenta-bright) 50%, var(--magenta) 75%, transparent 100%);
+}
+
+/* Status pills */
+.signal-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.125rem 0.625rem;
+  border-radius: 0.25rem;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border: 1px solid transparent;
+  font-family: "Inter", sans-serif;
+}
+.signal-pill::before {
+  content: "";
+  display: inline-block;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 9999px;
+  background: currentColor;
+}
+.signal-pill.up      { background: var(--up-bg);      color: var(--up);      border-color: rgba(45,212,167,0.3); }
+.signal-pill.down    { background: var(--down-bg);    color: var(--down);    border-color: rgba(251,69,112,0.3); }
+.signal-pill.warn    { background: var(--warn-bg);    color: var(--warn);    border-color: rgba(245,177,74,0.3); }
+.signal-pill.neutral { background: var(--bg-3);       color: var(--ink-muted); border-color: var(--hairline); }
+.signal-pill.magenta { background: var(--magenta-bg); color: var(--magenta); border-color: rgba(255,62,127,0.35); }
+.signal-pill.cyan    { background: var(--cyan-bg);    color: var(--cyan-bright); border-color: rgba(0,229,255,0.3); }
+
+/* Light-variant for paper surfaces */
+.signal-pill.up-light    { background: #ecfdf5; color: #047857; border-color: #a7f3d0; }
+.signal-pill.down-light  { background: #fef2f2; color: #b91c1c; border-color: #fecdd3; }
+.signal-pill.warn-light  { background: #fffbeb; color: #b45309; border-color: #fde68a; }
+.signal-pill.neutral-light { background: #f1ece1; color: #4a4536; border-color: #d8d2c4; }
+
+/* ODI medallion chips */
+.layer-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.1875rem 0.625rem;
+  border-radius: 0.25rem;
+  font-size: 0.625rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-family: "JetBrains Mono", monospace;
+}
+.layer-chip.bronze { background: var(--bronze-bg); color: var(--bronze); border: 1px solid rgba(217,119,6,0.3); }
+.layer-chip.silver { background: var(--silver-bg); color: var(--silver); border: 1px solid rgba(203,213,225,0.2); }
+.layer-chip.gold   { background: var(--gold-bg);   color: var(--gold-layer); border: 1px solid rgba(251,191,36,0.3); }
+
+/* Card surfaces — dark by default */
+.editorial-card {
+  background: var(--bg-2);
+  border: 1px solid var(--hairline);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.editorial-card-header {
+  padding: 0.875rem 1rem;
+  border-bottom: 1px solid var(--hairline-soft);
+  background: linear-gradient(180deg, var(--bg-2) 0%, var(--bg-3) 100%);
+}
+
+/* Paper card — for light blocks */
+.paper-card {
+  background: var(--paper);
+  color: var(--ink-deep);
+  border: 1px solid var(--hairline-paper);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+/* Eyebrow — small magenta caps */
+.eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--magenta);
+}
+.eyebrow-cyan {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--cyan);
+}
+.eyebrow-ink {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--ink-paper-mid);
+}
+
+/* Metric tile */
+.metric-tile {
+  position: relative;
+  background: var(--bg-2);
+  border: 1px solid var(--hairline);
+  border-radius: 0.5rem;
+  padding: 1rem 1.125rem;
+}
+.metric-tile-label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-muted);
+}
+.metric-tile-value {
+  font-family: "DM Serif Display", Georgia, serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--ink);
+  line-height: 1.05;
+  margin-top: 0.375rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+/* Channel-style badge for brand cards */
+.platform-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.125rem 0.4375rem;
+  border-radius: 9999px;
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.platform-badge.youtube { background: rgba(255,0,0,0.15); color: #ff5a5a; }
+.platform-badge.reddit  { background: rgba(255,69,0,0.15); color: #ff8b4a; }
+.platform-badge.wikipedia { background: rgba(255,255,255,0.08); color: #d4d0c4; }
+
+/* Map + Leaflet */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  border-radius: 0.5rem;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-2); }
+::-webkit-scrollbar-thumb { background: #36322c; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #5a564f; }
+
+/* Focus ring */
+*:focus-visible {
+  outline: 2px solid var(--magenta);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+.tabular { font-variant-numeric: tabular-nums; }
+.handle  { font-family: "JetBrains Mono", monospace; font-weight: 500; }

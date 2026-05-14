@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_053",
+    "brand_handle": "@airbnb",
+    "brand_name": "Airbnb",
+    "vertical": "Travel",
+    "hq_country": "US",
+    "established_year": 2008,
+    "description": "Airbnb is a travel brand established in 2008, headquartered in US.",
+    "yt_channel_id": "UC6d785501e2b59644605b10",
+    "yt_subscribers": 549099,
+    "yt_views_total": 417418351,
+    "yt_videos_count": 546,
+    "yt_views_28d": 25043254,
+    "yt_subs_growth_28d_pct": 9.0,
+    "reddit_mentions_28d": 313,
+    "reddit_avg_sentiment": 0.481,
+    "reddit_top_subreddit": "r/AirBnB",
+    "reddit_velocity_28d": 0.417,
+    "wiki_pageviews_28d": 308849,
+    "wiki_pageviews_growth_28d_pct": 74.96,
+    "attention_score": 60.83,
+    "signal_bucket": "hot",
+    "share_of_voice": 22.3,
+    "last_signal_change": "2026-04-30",
+    "videos": [
+      {
+        "video_id": "yt_001313",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Inside Airbnb's 2026 strategy",
+        "published_at": "2026-04-19T13:00:00",
+        "duration_sec": 219,
+        "views": 30337860,
+        "likes": 784071,
+        "comments": 52958,
+        "engagement_rate": 0.0276,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001313/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001307",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "New Airbnb lineup reveal",
+        "published_at": "2026-04-02T15:00:00",
+        "duration_sec": 1247,
+        "views": 15502002,
+        "likes": 2939482,
+        "comments": 292237,
+        "engagement_rate": 0.2085,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001307/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001314",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Airbnb unveils collection",
+        "published_at": "2026-02-28T07:00:00",
+        "duration_sec": 374,
+        "views": 2358774,
+        "likes": 41295,
+        "comments": 6707,
+        "engagement_rate": 0.0204,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001314/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001319",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "2026 Airbnb collection review",
+        "published_at": "2026-03-01T00:00:00",
+        "duration_sec": 48,
+        "views": 2242607,
+        "likes": 90426,
+        "comments": 9595,
+        "engagement_rate": 0.0446,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001319/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001320",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Airbnb vs the competition",
+        "published_at": "2026-04-20T08:00:00",
+        "duration_sec": 1271,
+        "views": 2154298,
+        "likes": 44803,
+        "comments": 5833,
+        "engagement_rate": 0.0235,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001320/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001309",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Why we chose Airbnb",
+        "published_at": "2026-05-04T00:00:00",
+        "duration_sec": 381,
+        "views": 2114477,
+        "likes": 112629,
+        "comments": 18986,
+        "engagement_rate": 0.0622,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001309/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001296",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Why we chose Airbnb",
+        "published_at": "2026-02-24T17:00:00",
+        "duration_sec": 1716,
+        "views": 2030824,
+        "likes": 138616,
+        "comments": 10908,
+        "engagement_rate": 0.0736,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001296/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001298",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "The real story behind Airbnb",
+        "published_at": "2026-04-09T16:00:00",
+        "duration_sec": 72,
+        "views": 2008019,
+        "likes": 109322,
+        "comments": 13781,
+        "engagement_rate": 0.0613,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001298/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001317",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Why we chose Airbnb",
+        "published_at": "2026-03-31T08:00:00",
+        "duration_sec": 82,
+        "views": 1989661,
+        "likes": 130509,
+        "comments": 18327,
+        "engagement_rate": 0.0748,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001317/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001299",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Why we chose Airbnb",
+        "published_at": "2026-02-19T03:00:00",
+        "duration_sec": 86,
+        "views": 1618558,
+        "likes": 75931,
+        "comments": 8554,
+        "engagement_rate": 0.0522,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001299/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001300",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Airbnb vs the competition",
+        "published_at": "2026-02-26T08:00:00",
+        "duration_sec": 917,
+        "views": 1519312,
+        "likes": 105742,
+        "comments": 14461,
+        "engagement_rate": 0.0791,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001300/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001311",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Airbnb CEO on the future of the brand",
+        "published_at": "2026-04-05T07:00:00",
+        "duration_sec": 1694,
+        "views": 1449789,
+        "likes": 37347,
+        "comments": 5506,
+        "engagement_rate": 0.0296,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001311/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001305",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "How Airbnb is reimagining the brand",
+        "published_at": "2026-02-15T09:00:00",
+        "duration_sec": 90,
+        "views": 1406086,
+        "likes": 41482,
+        "comments": 2614,
+        "engagement_rate": 0.0314,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001305/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001303",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "New Airbnb collection reveal",
+        "published_at": "2026-05-09T12:00:00",
+        "duration_sec": 55,
+        "views": 1338163,
+        "likes": 26352,
+        "comments": 4375,
+        "engagement_rate": 0.023,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001303/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001306",
+        "brand_id": "brand_053",
+        "channel_id": "UC6d785501e2b59644605b10",
+        "title": "Airbnb vs the competition",
+        "published_at": "2026-04-02T04:00:00",
+        "duration_sec": 774,
+        "views": 1323217,
+        "likes": 56674,
+        "comments": 8104,
+        "engagement_rate": 0.049,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001306/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001580",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Quick Airbnb question",
+        "posted_at": "2026-02-12T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 12886,
+        "num_comments": 2853,
+        "sentiment": -0.04,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001580/"
+      },
+      {
+        "post_id": "t3_0001587",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Honest review of the Airbnb campaign",
+        "posted_at": "2026-05-09T05:00:00",
+        "author": "u/StreamingNerd",
+        "score": 6028,
+        "num_comments": 1488,
+        "sentiment": -0.448,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001587/"
+      },
+      {
+        "post_id": "t3_0001603",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Need help with my Airbnb order",
+        "posted_at": "2026-04-12T14:00:00",
+        "author": "u/SocialSarah",
+        "score": 4271,
+        "num_comments": 403,
+        "sentiment": -0.176,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001603/"
+      },
+      {
+        "post_id": "t3_0001599",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Anyone else having issues with Airbnb?",
+        "posted_at": "2026-04-24T23:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 4245,
+        "num_comments": 861,
+        "sentiment": -0.432,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001599/"
+      },
+      {
+        "post_id": "t3_0001594",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Open thread: Airbnb",
+        "posted_at": "2026-04-12T01:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 3967,
+        "num_comments": 1124,
+        "sentiment": -0.242,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001594/"
+      },
+      {
+        "post_id": "t3_0001586",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Airbnb did WHAT?",
+        "posted_at": "2026-02-17T12:00:00",
+        "author": "u/CreatorLens",
+        "score": 2739,
+        "num_comments": 697,
+        "sentiment": -0.52,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001586/"
+      },
+      {
+        "post_id": "t3_0001578",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Anyone else having issues with Airbnb?",
+        "posted_at": "2026-02-21T06:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 1944,
+        "num_comments": 142,
+        "sentiment": 0.13,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001578/"
+      },
+      {
+        "post_id": "t3_0001582",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Tried Airbnb \u2014 here's my take",
+        "posted_at": "2026-03-07T05:00:00",
+        "author": "u/SignalSeeker",
+        "score": 1511,
+        "num_comments": 172,
+        "sentiment": -0.176,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001582/"
+      },
+      {
+        "post_id": "t3_0001601",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "30 days with Airbnb's platform",
+        "posted_at": "2026-03-26T17:00:00",
+        "author": "u/CreatorLens",
+        "score": 1141,
+        "num_comments": 117,
+        "sentiment": 0.365,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001601/"
+      },
+      {
+        "post_id": "t3_0001597",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Hot take on the Airbnb collab",
+        "posted_at": "2026-03-10T10:00:00",
+        "author": "u/UnpaidMod",
+        "score": 646,
+        "num_comments": 92,
+        "sentiment": 0.075,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001597/"
+      },
+      {
+        "post_id": "t3_0001579",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Boycotting Airbnb after this week",
+        "posted_at": "2026-05-08T13:00:00",
+        "author": "u/MidwestDad88",
+        "score": 631,
+        "num_comments": 109,
+        "sentiment": -0.616,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001579/"
+      },
+      {
+        "post_id": "t3_0001584",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Boycotting Airbnb after this week",
+        "posted_at": "2026-03-27T00:00:00",
+        "author": "u/MarketingPro42",
+        "score": 505,
+        "num_comments": 74,
+        "sentiment": -0.143,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001584/"
+      },
+      {
+        "post_id": "t3_0001589",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "First look at Airbnb's flagship",
+        "posted_at": "2026-02-16T19:00:00",
+        "author": "u/MidnightMod",
+        "score": 340,
+        "num_comments": 46,
+        "sentiment": 0.65,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001589/"
+      },
+      {
+        "post_id": "t3_0001595",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Airbnb beat / missed \u2014 let's discuss",
+        "posted_at": "2026-05-07T23:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 265,
+        "num_comments": 20,
+        "sentiment": -0.003,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001595/"
+      },
+      {
+        "post_id": "t3_0001581",
+        "brand_id": "brand_053",
+        "brand_name_match": "Airbnb",
+        "subreddit": "r/AirBnB",
+        "title": "Airbnb TikTok meme has me dying",
+        "posted_at": "2026-02-18T22:00:00",
+        "author": "u/TacoCritic",
+        "score": 249,
+        "num_comments": 25,
+        "sentiment": -0.288,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/AirBnB/comments/t3_0001581/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Airbnb",
+        "title": "Airbnb",
+        "category": "brand",
+        "pageviews_28d": 324383,
+        "pageviews_growth_pct": -37.25,
+        "pageviews_volatility": 0.5301,
+        "related_brands": [
+          "brand_053"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +75% \u2014 news cycle is active",
+      "Reddit mention velocity up 42% \u2014 emerging conversation cluster",
+      "Reddit sentiment elevated at +0.48 \u2014 fan-driven engagement in r/AirBnB",
+      "Dominant Reddit topic cluster: controversy",
+      "Top YouTube asset: \"Inside Airbnb's 2026 strategy\""
+    ],
+    "ai_summary": "Airbnb is running hot in the Travel panel with an attention score of 61. YouTube and Reddit are reinforcing each other \u2014 views +9% and r/AirBnB sentiment of +0.48 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-14",
+        "views": 9630
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-15",
+        "views": 9911
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-16",
+        "views": 9738
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-17",
+        "views": 11043
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-18",
+        "views": 10775
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-19",
+        "views": 10452
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-20",
+        "views": 10708
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-21",
+        "views": 11159
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-22",
+        "views": 12579
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-23",
+        "views": 12614
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-24",
+        "views": 11703
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-25",
+        "views": 12591
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-26",
+        "views": 13943
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-27",
+        "views": 15472
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-02-28",
+        "views": 16000
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-01",
+        "views": 14443
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-02",
+        "views": 36646
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-03",
+        "views": 32495
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-04",
+        "views": 29099
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-05",
+        "views": 24042
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-06",
+        "views": 22749
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-07",
+        "views": 21653
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-08",
+        "views": 20215
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-09",
+        "views": 18180
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-10",
+        "views": 17074
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-11",
+        "views": 14283
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-12",
+        "views": 13984
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-13",
+        "views": 58094
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-14",
+        "views": 49952
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-15",
+        "views": 43873
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-16",
+        "views": 38870
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-17",
+        "views": 34933
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-18",
+        "views": 31727
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-19",
+        "views": 29100
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-20",
+        "views": 25083
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-21",
+        "views": 23644
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-22",
+        "views": 22337
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-23",
+        "views": 19030
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-24",
+        "views": 19954
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-25",
+        "views": 18668
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-26",
+        "views": 17844
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-27",
+        "views": 15783
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-28",
+        "views": 13310
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-29",
+        "views": 11577
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-30",
+        "views": 13894
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-03-31",
+        "views": 14303
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-01",
+        "views": 12144
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-02",
+        "views": 32258
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-03",
+        "views": 28924
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-04",
+        "views": 26103
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-05",
+        "views": 22957
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-06",
+        "views": 20639
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-07",
+        "views": 19620
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-08",
+        "views": 18962
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-09",
+        "views": 17452
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-10",
+        "views": 17798
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-11",
+        "views": 15587
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-12",
+        "views": 13488
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-13",
+        "views": 14461
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-14",
+        "views": 14408
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-15",
+        "views": 13310
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-16",
+        "views": 13445
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-17",
+        "views": 15075
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-18",
+        "views": 14542
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-19",
+        "views": 14649
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-20",
+        "views": 13779
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-21",
+        "views": 12035
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-22",
+        "views": 12416
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-23",
+        "views": 9588
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-24",
+        "views": 9238
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-25",
+        "views": 10839
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-26",
+        "views": 10650
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-27",
+        "views": 11018
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-28",
+        "views": 10644
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-29",
+        "views": 11810
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-04-30",
+        "views": 12394
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-01",
+        "views": 13171
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-02",
+        "views": 12174
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-03",
+        "views": 11912
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-04",
+        "views": 11021
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-05",
+        "views": 10384
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-06",
+        "views": 9003
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-07",
+        "views": 9737
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-08",
+        "views": 10391
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-09",
+        "views": 9570
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-10",
+        "views": 10051
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-11",
+        "views": 10654
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-12",
+        "views": 12926
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-13",
+        "views": 12930
+      },
+      {
+        "topic_id": "Airbnb",
+        "date": "2026-05-14",
+        "views": 11782
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+version: 2
+
+models:
+    - name: stg_yt__channels
+      description: Conformed YouTube channel master. One row per channel_id.
+      columns:
+          - name: channel_id
+            description: YouTube channel ID.
+            data_tests:
+                - not_null
+                - unique
+          - name: channel_handle
+            description: Channel @handle, lowercased.
+          - name: channel_title
+            description: Channel display name.
+          - name: description
+            description: Channel description text.
+          - name: country
+            description: ISO-2 country code.
+          - name: subscribers
+            description: Subscriber count snapshot.
+          - name: views_total
+            description: Lifetime view count snapshot.
+          - name: videos_count
+            description: Lifetime upload count snapshot.
+          - name: created_at
+            description: Channel creation timestamp.
+          - name: thumbnail_url
+            description: URL to the channel avatar.
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: stg_yt__videos
+      description: Conformed YouTube videos. One row per video_id.
+      columns:
+          - name: video_id
+            description: YouTube video ID.
+            data_tests:
+                - not_null
+                - unique
+          - name: channel_id
+            description: Owning channel ID.
+            data_tests:
+                - not_null
+                - relationships:
+                      to: ref('stg_yt__channels')
+                      field: channel_id
+                      config:
+                          severity: warn
+          - name: title
+            description: Video title.
+          - name: description
+            description: Video description.
+          - name: published_at
+            description: Publication timestamp.
+            data_tests:
+                - not_null
+          - name: duration_sec
+            description: Duration in seconds.
+          - name: views
+            description: View count snapshot.
+          - name: likes
+            description: Like count snapshot.
+          - name: comments
+            description: Comment count snapshot.
+          - name: category_id
+            description: Numeric YouTube category ID.
+          - name: category
+            description: Mapped category label.
+          - name: thumbnail_url
+            description: Thumbnail URL.
+          - name: tags
+            description: Comma-separated tag string.
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: stg_reddit__posts
+      description: Conformed Reddit posts. One row per post_id.
+      columns:
+          - name: post_id
+            description: Reddit post identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: subreddit
+            description: Subreddit name (lowercased, no r/ prefix).
+            data_tests:
+                - not_null
+          - name: title
+            description: Post title.
+            data_tests:
+                - not_null
+          - name: selftext
+            description: Body text (empty for link posts).
+          - name: author
+            description: Reddit username.
+          - name: posted_at
+            description: Post creation timestamp.
+            data_tests:
+                - not_null
+          - name: score
+            description: Net upvotes minus downvotes.
+          - name: num_comments
+            description: Comment count snapshot.
+          - name: url
+            description: Post permalink URL.
+          - name: domain
+            description: Linked-domain or self.<sub>.
+          - name: over_18
+            description: NSFW flag.
+          - name: search_text
+            description: Title + selftext normalized (lowercased, punctuation stripped) for token matching.
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: stg_reddit__subreddits
+      description: Conformed subreddit metadata. One row per subreddit.
+      columns:
+          - name: subreddit
+            description: Subreddit name (lowercased).
+            data_tests:
+                - not_null
+                - unique
+          - name: title
+            description: Subreddit display title.
+          - name: description
+            description: Subreddit sidebar text.
+          - name: subscribers
+            description: Subscriber count snapshot.
+          - name: created_at
+            description: Subreddit creation timestamp.
+          - name: lang
+            description: Declared language code.
+          - name: over_18
+            description: NSFW flag.
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: stg_wiki__topics
+      description: Conformed Wikipedia topic master. One row per article slug.
+      columns:
+          - name: topic_id
+            description: Wikipedia article slug.
+            data_tests:
+                - not_null
+                - unique
+          - name: title
+            description: Article display title.
+          - name: extract
+            description: Short intro extract.
+          - name: category
+            description: Normalized category bucket.
+            data_tests:
+                - accepted_values:
+                      values:
+                          - brand
+                          - industry
+                          - culture
+                          - event
+                          - person
+          - name: lang
+            description: Wikipedia language edition code.
+          - name: last_modified
+            description: Article last-modified timestamp.
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: stg_wiki__pageviews
+      description: Conformed daily pageview observations. One row per (topic_id, date).
+      columns:
+          - name: topic_id
+            description: Wikipedia article slug.
+            data_tests:
+                - not_null
+                - relationships:
+                      to: ref('stg_wiki__topics')
+                      field: topic_id
+                      config:
+                          severity: warn
+          - name: date
+            description: Observation date.
+            data_tests:
+                - not_null
+          - name: views
+            description: Daily pageview count.
+            data_tests:
+                - not_null
+          - name: loaded_at
+            description: Fivetran sync timestamp.
+
+    - name: int_brand_channel_map
+      description: |
+          Bridge resolving YouTube channels to brand_ids. Uses seed
+          channel_id exact match plus a fuzzy fallback on channel_handle
+          and channel_title.
+      columns:
+          - name: channel_id
+            description: YouTube channel ID.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_id
+            description: Resolved brand_id from the seed panel.
+            data_tests:
+                - not_null
+          - name: brand_handle
+            description: Brand canonical at-handle.
+          - name: brand_name
+            description: Brand display name.
+          - name: vertical
+            description: Brand vertical.
+          - name: match_method
+            description: Rule that resolved the channel.
+            data_tests:
+                - accepted_values:
+                      values:
+                          - exact_channel_id
+                          - fuzzy_handle
+                          - fuzzy_title
+          - name: match_confidence
+            description: Heuristic confidence in [0,1].
+
+    - name: int_brand_conversations
+      description: |
+          Reddit posts joined to brand_id by token match against the seed
+          brand_name / brand_handle. Posts that mention no panel brand
+          pass through with NULL brand_id.
+      columns:
+          - name: post_id
+            description: Reddit post identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: subreddit
+            description: Subreddit name (lowercased).
+            data_tests:
+                - not_null
+          - name: title
+            description: Post title.
+          - name: selftext
+            description: Post body.
+          - name: author
+            description: Reddit username.
+          - name: posted_at
+            description: Post creation timestamp.
+            data_tests:
+                - not_null
+          - name: score
+            description: Net upvotes minus downvotes.
+          - name: num_comments
+            description: Comment count.
+          - name: url
+            description: Permalink URL.
+          - name: brand_id
+            description: Matched brand_id (nullable).
+          - name: brand_name_match
+            description: Brand name that matched (nullable).
+          - name: brand_vertical
+            description: Vertical of the matched brand (nullable).
+
+    - name: int_brand_topics
+      description: |
+          Bridge resolving wiki topics to brand_ids by seed exact match
+          (wiki_topic_id) with a fuzzy fallback on slugged brand_name vs.
+          slugged article title.
+      columns:
+          - name: topic_id
+            description: Wikipedia article slug.
+            data_tests:
+                - not_null
+          - name: brand_id
+            description: Resolved brand_id.
+            data_tests:
+                - not_null
+          - name: match_method
+            description: Rule that resolved the topic.
+            data_tests:
+                - accepted_values:
+                      values:
+                          - exact_topic_slug
+                          - fuzzy_title
+          - name: match_confidence
+            description: Heuristic confidence in [0,1].
+
+    - name: int_pageviews_growth
+      description: |
+          Daily pageviews enriched with 7-day / 28-day rolling sums,
+          window-over-prior-window growth rates, and a 28-day volatility
+          ratio (stddev/mean).
+      columns:
+          - name: topic_id
+            description: Wikipedia article slug.
+            data_tests:
+                - not_null
+          - name: date
+            description: Observation date.
+            data_tests:
+                - not_null
+          - name: views
+            description: Daily pageview count.
+          - name: views_7d
+            description: Rolling 7-day sum.
+          - name: views_7d_prior
+            description: Sum of the prior 7-day window (days t-13..t-7).
+          - name: views_28d
+            description: Rolling 28-day sum.
+          - name: views_28d_prior
+            description: Sum of the prior 28-day window (days t-55..t-28).
+          - name: views_7d_growth_pct
+            description: Percent change vs. prior 7-day window.
+          - name: views_28d_growth_pct
+            description: Percent change vs. prior 28-day window.
+          - name: views_28d_volatility
+            description: 28-day stddev divided by 28-day mean.

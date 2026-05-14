@@ -1,0 +1,68 @@
+version: 2
+
+seeds:
+    - name: brand_to_channel_seed
+      description: |
+          Lighthouse Media's brand panel. Maps a canonical brand_id and
+          brand_handle to the YouTube channel ID, Wikipedia article slug,
+          vertical, HQ country, and founding year that the cross-source
+          rollups use to fuse the three bronze feeds (YouTube, Reddit,
+          Wikipedia) into a single brand row.
+      config:
+          column_types:
+              brand_id: varchar(64)
+              brand_handle: varchar(64)
+              brand_name: varchar(128)
+              yt_channel_id: varchar(64)
+              wiki_topic_id: varchar(128)
+              vertical: varchar(32)
+              hq_country: varchar(8)
+              established_year: integer
+              description: varchar(512)
+      columns:
+          - name: brand_id
+            description: Stable lower-snake-case brand identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_handle
+            description: Canonical at-handle (e.g. @nike) used across the demo.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_name
+            description: Display name of the brand.
+            data_tests:
+                - not_null
+          - name: yt_channel_id
+            description: YouTube channel ID (UC... 24-character format).
+            data_tests:
+                - not_null
+          - name: wiki_topic_id
+            description: Wikipedia article slug used as the topic key.
+            data_tests:
+                - not_null
+          - name: vertical
+            description: Industry vertical (matches the Vertical type the frontend uses).
+            data_tests:
+                - not_null
+                - accepted_values:
+                      values:
+                          - CPG
+                          - Retail
+                          - Auto
+                          - Tech
+                          - Finance
+                          - Streaming
+                          - QSR
+                          - Beauty
+                          - Fashion
+                          - Travel
+                          - Gaming
+                          - Entertainment
+          - name: hq_country
+            description: ISO-2 country code for the brand's HQ.
+          - name: established_year
+            description: Year the brand was founded.
+          - name: description
+            description: Short freeform description of the brand.

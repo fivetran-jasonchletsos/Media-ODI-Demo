@@ -1,0 +1,947 @@
+{
+  "brand": {
+    "brand_id": "brand_048",
+    "brand_handle": "@adidas",
+    "brand_name": "Adidas",
+    "vertical": "Fashion",
+    "hq_country": "Germany",
+    "established_year": 1949,
+    "description": "Adidas is a athletic apparel brand established in 1949, headquartered in Germany.",
+    "yt_channel_id": "UCa968db3c7aca825be0db62",
+    "yt_subscribers": 17281,
+    "yt_views_total": 5211262,
+    "yt_videos_count": 3936,
+    "yt_views_28d": 166537,
+    "yt_subs_growth_28d_pct": 3.27,
+    "reddit_mentions_28d": 92,
+    "reddit_avg_sentiment": 0.6,
+    "reddit_top_subreddit": "r/adidas",
+    "reddit_velocity_28d": 0.342,
+    "wiki_pageviews_28d": 197670,
+    "wiki_pageviews_growth_28d_pct": 65.67,
+    "attention_score": 59.0,
+    "signal_bucket": "hot",
+    "share_of_voice": 20.53,
+    "last_signal_change": "2026-04-17",
+    "videos": [
+      {
+        "video_id": "yt_001201",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "New Adidas series reveal",
+        "published_at": "2026-04-26T14:00:00",
+        "duration_sec": 475,
+        "views": 202208,
+        "likes": 7195,
+        "comments": 710,
+        "engagement_rate": 0.0391,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001201/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001188",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "New Adidas model reveal",
+        "published_at": "2026-03-25T21:00:00",
+        "duration_sec": 57,
+        "views": 12490,
+        "likes": 421,
+        "comments": 58,
+        "engagement_rate": 0.0384,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001188/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001197",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Why we chose Adidas",
+        "published_at": "2026-03-31T23:00:00",
+        "duration_sec": 1070,
+        "views": 11857,
+        "likes": 692,
+        "comments": 56,
+        "engagement_rate": 0.0631,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001197/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001194",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "I tried Adidas's new series for 30 days",
+        "published_at": "2026-05-12T12:00:00",
+        "duration_sec": 772,
+        "views": 11843,
+        "likes": 638,
+        "comments": 45,
+        "engagement_rate": 0.0577,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001194/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001183",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Why we chose Adidas",
+        "published_at": "2026-02-27T10:00:00",
+        "duration_sec": 86,
+        "views": 10430,
+        "likes": 1745,
+        "comments": 181,
+        "engagement_rate": 0.1847,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001183/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001205",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "The real story behind Adidas",
+        "published_at": "2026-03-30T12:00:00",
+        "duration_sec": 763,
+        "views": 9798,
+        "likes": 434,
+        "comments": 75,
+        "engagement_rate": 0.0519,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001205/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001200",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "I tried Adidas's new drop for 30 days",
+        "published_at": "2026-05-03T05:00:00",
+        "duration_sec": 548,
+        "views": 8903,
+        "likes": 417,
+        "comments": 50,
+        "engagement_rate": 0.0525,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001200/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001182",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Adidas vs the competition",
+        "published_at": "2026-02-23T04:00:00",
+        "duration_sec": 1200,
+        "views": 8853,
+        "likes": 303,
+        "comments": 44,
+        "engagement_rate": 0.0392,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001182/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001204",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "2026 Adidas drop review",
+        "published_at": "2026-02-20T17:00:00",
+        "duration_sec": 1690,
+        "views": 8464,
+        "likes": 318,
+        "comments": 50,
+        "engagement_rate": 0.0435,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001204/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001195",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Adidas just changed the game with collection",
+        "published_at": "2026-03-31T07:00:00",
+        "duration_sec": 233,
+        "views": 8380,
+        "likes": 402,
+        "comments": 28,
+        "engagement_rate": 0.0513,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001195/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001192",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "The real story behind Adidas",
+        "published_at": "2026-04-13T07:00:00",
+        "duration_sec": 60,
+        "views": 8049,
+        "likes": 320,
+        "comments": 38,
+        "engagement_rate": 0.0445,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001192/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001190",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "The real story behind Adidas",
+        "published_at": "2026-03-05T21:00:00",
+        "duration_sec": 1623,
+        "views": 7664,
+        "likes": 166,
+        "comments": 21,
+        "engagement_rate": 0.0244,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001190/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001193",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Adidas CEO on the future of the category",
+        "published_at": "2026-02-20T11:00:00",
+        "duration_sec": 528,
+        "views": 7217,
+        "likes": 445,
+        "comments": 72,
+        "engagement_rate": 0.0716,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001193/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001189",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Adidas vs the competition",
+        "published_at": "2026-04-24T12:00:00",
+        "duration_sec": 63,
+        "views": 6614,
+        "likes": 135,
+        "comments": 18,
+        "engagement_rate": 0.0231,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001189/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001199",
+        "brand_id": "brand_048",
+        "channel_id": "UCa968db3c7aca825be0db62",
+        "title": "Adidas just changed the game with release",
+        "published_at": "2026-03-28T19:00:00",
+        "duration_sec": 458,
+        "views": 6095,
+        "likes": 382,
+        "comments": 21,
+        "engagement_rate": 0.0661,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001199/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001463",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Adidas pricing change is a slap in the face",
+        "posted_at": "2026-02-12T18:00:00",
+        "author": "u/PixelPirate",
+        "score": 14166,
+        "num_comments": 2162,
+        "sentiment": -0.173,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001463/"
+      },
+      {
+        "post_id": "t3_0001458",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Anyone else having issues with Adidas?",
+        "posted_at": "2026-03-27T05:00:00",
+        "author": "u/QuietBuyer",
+        "score": 13215,
+        "num_comments": 1002,
+        "sentiment": -0.095,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001458/"
+      },
+      {
+        "post_id": "t3_0001466",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Why I'm switching to Adidas",
+        "posted_at": "2026-02-20T16:00:00",
+        "author": "u/QuietBuyer",
+        "score": 12030,
+        "num_comments": 2840,
+        "sentiment": -0.238,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001466/"
+      },
+      {
+        "post_id": "t3_0001455",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Random Adidas thought",
+        "posted_at": "2026-03-15T05:00:00",
+        "author": "u/MidwestDad88",
+        "score": 9175,
+        "num_comments": 1332,
+        "sentiment": -0.244,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001455/"
+      },
+      {
+        "post_id": "t3_0001446",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Adidas earnings call summary",
+        "posted_at": "2026-03-21T18:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 7273,
+        "num_comments": 1079,
+        "sentiment": -0.134,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001446/"
+      },
+      {
+        "post_id": "t3_0001453",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Honest review of the Adidas drop",
+        "posted_at": "2026-03-23T21:00:00",
+        "author": "u/PixelPirate",
+        "score": 3030,
+        "num_comments": 442,
+        "sentiment": 0.059,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001453/"
+      },
+      {
+        "post_id": "t3_0001449",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Honest review of the Adidas drop",
+        "posted_at": "2026-02-18T07:00:00",
+        "author": "u/ThriftyTina",
+        "score": 3011,
+        "num_comments": 285,
+        "sentiment": 0.252,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001449/"
+      },
+      {
+        "post_id": "t3_0001465",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Adidas just teamed up with a creator",
+        "posted_at": "2026-03-23T16:00:00",
+        "author": "u/TacoCritic",
+        "score": 1802,
+        "num_comments": 323,
+        "sentiment": 0.442,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001465/"
+      },
+      {
+        "post_id": "t3_0001461",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Adidas's new flagship launch is wild",
+        "posted_at": "2026-03-08T07:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 1232,
+        "num_comments": 328,
+        "sentiment": 0.405,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001461/"
+      },
+      {
+        "post_id": "t3_0001462",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Honest review of the Adidas lineup",
+        "posted_at": "2026-03-06T14:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1098,
+        "num_comments": 185,
+        "sentiment": 0.034,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001462/"
+      },
+      {
+        "post_id": "t3_0001467",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Why I'm switching to Adidas",
+        "posted_at": "2026-04-10T14:00:00",
+        "author": "u/BrandLurker",
+        "score": 894,
+        "num_comments": 204,
+        "sentiment": -0.24,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001467/"
+      },
+      {
+        "post_id": "t3_0001454",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "The Adidas discourse is unhinged today",
+        "posted_at": "2026-02-21T03:00:00",
+        "author": "u/CulturalCritic",
+        "score": 623,
+        "num_comments": 180,
+        "sentiment": 0.126,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001454/"
+      },
+      {
+        "post_id": "t3_0001447",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "Boycotting Adidas after this week",
+        "posted_at": "2026-03-11T13:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 471,
+        "num_comments": 66,
+        "sentiment": -0.622,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001447/"
+      },
+      {
+        "post_id": "t3_0001443",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "The Adidas discourse is unhinged today",
+        "posted_at": "2026-05-10T15:00:00",
+        "author": "u/MidwestDad88",
+        "score": 439,
+        "num_comments": 101,
+        "sentiment": 0.149,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001443/"
+      },
+      {
+        "post_id": "t3_0001452",
+        "brand_id": "brand_048",
+        "brand_name_match": "Adidas",
+        "subreddit": "r/adidas",
+        "title": "30 days with Adidas's platform",
+        "posted_at": "2026-03-21T16:00:00",
+        "author": "u/CreatorLens",
+        "score": 272,
+        "num_comments": 24,
+        "sentiment": 0.042,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/adidas/comments/t3_0001452/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Adidas",
+        "title": "Adidas",
+        "category": "brand",
+        "pageviews_28d": 409241,
+        "pageviews_growth_pct": 46.48,
+        "pageviews_volatility": 0.6336,
+        "related_brands": [
+          "brand_048"
+        ]
+      },
+      {
+        "topic_id": "Retail_media_network",
+        "title": "Retail media network",
+        "category": "industry",
+        "pageviews_28d": 270254,
+        "pageviews_growth_pct": -25.49,
+        "pageviews_volatility": 0.4037,
+        "related_brands": [
+          "brand_019",
+          "brand_048"
+        ]
+      },
+      {
+        "topic_id": "Taylor_Swift_Eras_Tour",
+        "title": "Taylor Swift Eras Tour",
+        "category": "person",
+        "pageviews_28d": 730293,
+        "pageviews_growth_pct": -10.73,
+        "pageviews_volatility": 0.5668,
+        "related_brands": [
+          "brand_054",
+          "brand_048"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT subscriber growth steady at +3.3% over the past 28d",
+      "Reddit mention velocity up 34% \u2014 emerging conversation cluster",
+      "Reddit sentiment elevated at +0.60 \u2014 fan-driven engagement in r/adidas",
+      "Dominant Reddit topic cluster: product-review"
+    ],
+    "ai_summary": "Adidas is running hot in the Fashion panel with an attention score of 59. YouTube and Reddit are reinforcing each other \u2014 views +3% and r/adidas sentiment of +0.60 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-14",
+        "views": 6830
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-15",
+        "views": 5898
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-16",
+        "views": 6417
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-17",
+        "views": 7116
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-18",
+        "views": 6799
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-19",
+        "views": 6187
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-20",
+        "views": 5786
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-21",
+        "views": 6516
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-22",
+        "views": 7122
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-23",
+        "views": 7559
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-24",
+        "views": 7633
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-25",
+        "views": 7709
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-26",
+        "views": 7529
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-27",
+        "views": 8082
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-02-28",
+        "views": 6727
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-01",
+        "views": 6762
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-02",
+        "views": 6912
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-03",
+        "views": 6853
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-04",
+        "views": 5836
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-05",
+        "views": 7095
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-06",
+        "views": 6553
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-07",
+        "views": 6682
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-08",
+        "views": 6724
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-09",
+        "views": 6670
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-10",
+        "views": 6453
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-11",
+        "views": 7690
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-12",
+        "views": 7848
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-13",
+        "views": 8452
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-14",
+        "views": 7835
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-15",
+        "views": 6789
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-16",
+        "views": 7437
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-17",
+        "views": 6580
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-18",
+        "views": 5982
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-19",
+        "views": 6591
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-20",
+        "views": 5560
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-21",
+        "views": 6634
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-22",
+        "views": 5704
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-23",
+        "views": 6975
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-24",
+        "views": 7533
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-25",
+        "views": 7243
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-26",
+        "views": 6735
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-27",
+        "views": 6649
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-28",
+        "views": 7689
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-29",
+        "views": 7226
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-30",
+        "views": 7442
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-03-31",
+        "views": 6442
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-01",
+        "views": 5896
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-02",
+        "views": 7374
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-03",
+        "views": 7561
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-04",
+        "views": 6755
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-05",
+        "views": 6980
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-06",
+        "views": 6513
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-07",
+        "views": 6487
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-08",
+        "views": 7282
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-09",
+        "views": 7973
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-10",
+        "views": 25192
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-11",
+        "views": 22595
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-12",
+        "views": 21406
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-13",
+        "views": 18770
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-14",
+        "views": 16916
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-15",
+        "views": 15482
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-16",
+        "views": 14368
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-17",
+        "views": 14188
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-18",
+        "views": 38523
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-19",
+        "views": 34206
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-20",
+        "views": 29958
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-21",
+        "views": 26465
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-22",
+        "views": 22827
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-23",
+        "views": 20788
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-24",
+        "views": 18932
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-25",
+        "views": 17002
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-26",
+        "views": 15239
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-27",
+        "views": 13617
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-28",
+        "views": 11657
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-29",
+        "views": 11266
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-04-30",
+        "views": 11917
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-01",
+        "views": 11103
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-02",
+        "views": 9472
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-03",
+        "views": 9005
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-04",
+        "views": 8896
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-05",
+        "views": 8341
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-06",
+        "views": 8080
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-07",
+        "views": 7544
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-08",
+        "views": 7519
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-09",
+        "views": 9123
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-10",
+        "views": 8940
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-11",
+        "views": 8527
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-12",
+        "views": 9008
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-13",
+        "views": 8993
+      },
+      {
+        "topic_id": "Adidas",
+        "date": "2026-05-14",
+        "views": 8105
+      }
+    ]
+  }
+}

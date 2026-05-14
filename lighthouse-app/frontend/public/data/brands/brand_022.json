@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_022",
+    "brand_handle": "@nvidia",
+    "brand_name": "NVIDIA",
+    "vertical": "Tech",
+    "hq_country": "US",
+    "established_year": 1993,
+    "description": "NVIDIA is a semiconductor brand established in 1993, headquartered in US.",
+    "yt_channel_id": "UC088472395b2697109252aa",
+    "yt_subscribers": 26740071,
+    "yt_views_total": 22415391567,
+    "yt_videos_count": 2456,
+    "yt_views_28d": 724114863,
+    "yt_subs_growth_28d_pct": 33.29,
+    "reddit_mentions_28d": 1952,
+    "reddit_avg_sentiment": 0.256,
+    "reddit_top_subreddit": "r/nvidia",
+    "reddit_velocity_28d": 0.49,
+    "wiki_pageviews_28d": 3243,
+    "wiki_pageviews_growth_28d_pct": 9.67,
+    "attention_score": 60.31,
+    "signal_bucket": "hot",
+    "share_of_voice": 16.7,
+    "last_signal_change": "2026-04-27",
+    "videos": [
+      {
+        "video_id": "yt_000528",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "Inside NVIDIA's 2026 strategy",
+        "published_at": "2026-03-24T17:00:00",
+        "duration_sec": 70,
+        "views": 62159644,
+        "likes": 3443117,
+        "comments": 544720,
+        "engagement_rate": 0.0642,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000528/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000542",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "Inside NVIDIA's 2026 strategy",
+        "published_at": "2026-05-11T17:00:00",
+        "duration_sec": 1175,
+        "views": 59977838,
+        "likes": 1400967,
+        "comments": 122349,
+        "engagement_rate": 0.0254,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000542/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000538",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "NVIDIA unveils series",
+        "published_at": "2026-02-12T21:00:00",
+        "duration_sec": 551,
+        "views": 57413059,
+        "likes": 2487681,
+        "comments": 399576,
+        "engagement_rate": 0.0503,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000538/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000547",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "2026 NVIDIA platform review",
+        "published_at": "2026-05-12T12:00:00",
+        "duration_sec": 767,
+        "views": 53213331,
+        "likes": 1524489,
+        "comments": 260162,
+        "engagement_rate": 0.0335,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000547/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000549",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "release from NVIDIA: first impressions",
+        "published_at": "2026-04-12T14:00:00",
+        "duration_sec": 1283,
+        "views": 52406664,
+        "likes": 3046558,
+        "comments": 440841,
+        "engagement_rate": 0.0665,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000549/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000530",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "What nobody tells you about NVIDIA",
+        "published_at": "2026-04-27T03:00:00",
+        "duration_sec": 272,
+        "views": 51969237,
+        "likes": 2933716,
+        "comments": 305893,
+        "engagement_rate": 0.0623,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000530/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000540",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "Behind the scenes at NVIDIA",
+        "published_at": "2026-05-11T03:00:00",
+        "duration_sec": 1738,
+        "views": 47005120,
+        "likes": 2175374,
+        "comments": 282424,
+        "engagement_rate": 0.0523,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000540/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000523",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "NVIDIA CEO on the future of creators",
+        "published_at": "2026-03-23T16:00:00",
+        "duration_sec": 435,
+        "views": 46155626,
+        "likes": 2753979,
+        "comments": 195504,
+        "engagement_rate": 0.0639,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000523/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000535",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "New NVIDIA edition reveal",
+        "published_at": "2026-04-11T07:00:00",
+        "duration_sec": 582,
+        "views": 38971990,
+        "likes": 2404449,
+        "comments": 353858,
+        "engagement_rate": 0.0708,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000535/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000527",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "NVIDIA unveils campaign",
+        "published_at": "2026-03-30T12:00:00",
+        "duration_sec": 75,
+        "views": 35196039,
+        "likes": 1428062,
+        "comments": 226002,
+        "engagement_rate": 0.047,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000527/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000546",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "I tried NVIDIA's new drop for 30 days",
+        "published_at": "2026-03-21T16:00:00",
+        "duration_sec": 528,
+        "views": 34649461,
+        "likes": 740504,
+        "comments": 42846,
+        "engagement_rate": 0.0226,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000546/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000526",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "NVIDIA just changed the game with experience",
+        "published_at": "2026-05-06T15:00:00",
+        "duration_sec": 974,
+        "views": 34246117,
+        "likes": 1272733,
+        "comments": 128581,
+        "engagement_rate": 0.0409,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000526/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000548",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "Why we chose NVIDIA",
+        "published_at": "2026-04-03T22:00:00",
+        "duration_sec": 85,
+        "views": 33721066,
+        "likes": 1716980,
+        "comments": 156287,
+        "engagement_rate": 0.0556,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000548/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000534",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "How NVIDIA is reimagining the brand",
+        "published_at": "2026-03-09T12:00:00",
+        "duration_sec": 317,
+        "views": 32820354,
+        "likes": 1491727,
+        "comments": 118120,
+        "engagement_rate": 0.0491,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000534/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000539",
+        "brand_id": "brand_022",
+        "channel_id": "UC088472395b2697109252aa",
+        "title": "How NVIDIA is reimagining creators",
+        "published_at": "2026-04-08T17:00:00",
+        "duration_sec": 87,
+        "views": 32521510,
+        "likes": 603287,
+        "comments": 78119,
+        "engagement_rate": 0.021,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000539/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000660",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "30 days with NVIDIA's drop",
+        "posted_at": "2026-03-02T08:00:00",
+        "author": "u/QuietBuyer",
+        "score": 10654,
+        "num_comments": 1354,
+        "sentiment": 0.023,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000660/"
+      },
+      {
+        "post_id": "t3_0000657",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "NVIDIA beat / missed \u2014 let's discuss",
+        "posted_at": "2026-02-25T14:00:00",
+        "author": "u/ThriftyTina",
+        "score": 10037,
+        "num_comments": 1595,
+        "sentiment": 0.076,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000657/"
+      },
+      {
+        "post_id": "t3_0000667",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Anyone seen the new NVIDIA flagship drop?",
+        "posted_at": "2026-03-30T22:00:00",
+        "author": "u/SocialSarah",
+        "score": 7279,
+        "num_comments": 752,
+        "sentiment": 0.096,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000667/"
+      },
+      {
+        "post_id": "t3_0000664",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Need help with my NVIDIA order",
+        "posted_at": "2026-04-09T18:00:00",
+        "author": "u/AgencyLifer",
+        "score": 6486,
+        "num_comments": 1169,
+        "sentiment": -0.365,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000664/"
+      },
+      {
+        "post_id": "t3_0000646",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Anyone else having issues with NVIDIA?",
+        "posted_at": "2026-03-11T05:00:00",
+        "author": "u/AgencyLifer",
+        "score": 4830,
+        "num_comments": 1157,
+        "sentiment": 0.094,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000646/"
+      },
+      {
+        "post_id": "t3_0000659",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Trying to cancel NVIDIA \u2014 nightmare",
+        "posted_at": "2026-04-13T03:00:00",
+        "author": "u/AgencyLifer",
+        "score": 3118,
+        "num_comments": 894,
+        "sentiment": -0.06,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000659/"
+      },
+      {
+        "post_id": "t3_0000676",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Honest review of the NVIDIA drop",
+        "posted_at": "2026-04-24T17:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 2765,
+        "num_comments": 512,
+        "sentiment": 0.025,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000676/"
+      },
+      {
+        "post_id": "t3_0000670",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Boycotting NVIDIA after this week",
+        "posted_at": "2026-03-12T21:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 2434,
+        "num_comments": 340,
+        "sentiment": -0.505,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000670/"
+      },
+      {
+        "post_id": "t3_0000650",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Why I'm switching to NVIDIA",
+        "posted_at": "2026-04-09T04:00:00",
+        "author": "u/UnpaidMod",
+        "score": 2136,
+        "num_comments": 628,
+        "sentiment": -0.158,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000650/"
+      },
+      {
+        "post_id": "t3_0000654",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "What the NVIDIA numbers actually mean",
+        "posted_at": "2026-03-26T11:00:00",
+        "author": "u/SocialSarah",
+        "score": 1583,
+        "num_comments": 380,
+        "sentiment": 0.495,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000654/"
+      },
+      {
+        "post_id": "t3_0000665",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Need help with my NVIDIA order",
+        "posted_at": "2026-05-02T23:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 1211,
+        "num_comments": 319,
+        "sentiment": -0.147,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000665/"
+      },
+      {
+        "post_id": "t3_0000651",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "What the NVIDIA numbers actually mean",
+        "posted_at": "2026-05-02T09:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1030,
+        "num_comments": 289,
+        "sentiment": -0.183,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000651/"
+      },
+      {
+        "post_id": "t3_0000671",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Need help with my NVIDIA order",
+        "posted_at": "2026-02-25T01:00:00",
+        "author": "u/QuietBuyer",
+        "score": 708,
+        "num_comments": 164,
+        "sentiment": -0.158,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000671/"
+      },
+      {
+        "post_id": "t3_0000673",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "Anyone seen the new NVIDIA drop drop?",
+        "posted_at": "2026-03-10T07:00:00",
+        "author": "u/SignalSeeker",
+        "score": 676,
+        "num_comments": 183,
+        "sentiment": 0.232,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000673/"
+      },
+      {
+        "post_id": "t3_0000661",
+        "brand_id": "brand_022",
+        "brand_name_match": "NVIDIA",
+        "subreddit": "r/nvidia",
+        "title": "NVIDIA TikTok meme has me dying",
+        "posted_at": "2026-04-24T13:00:00",
+        "author": "u/SignalSeeker",
+        "score": 649,
+        "num_comments": 71,
+        "sentiment": 0.36,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/nvidia/comments/t3_0000661/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Nvidia",
+        "title": "NVIDIA",
+        "category": "brand",
+        "pageviews_28d": 3036,
+        "pageviews_growth_pct": 10.32,
+        "pageviews_volatility": 0.3326,
+        "related_brands": [
+          "brand_022"
+        ]
+      },
+      {
+        "topic_id": "Esports_World_Cup",
+        "title": "Esports World Cup",
+        "category": "event",
+        "pageviews_28d": 761211,
+        "pageviews_growth_pct": -67.76,
+        "pageviews_volatility": 0.7202,
+        "related_brands": [
+          "brand_043",
+          "brand_038",
+          "brand_022"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT views +33% MoM driven by recent product reveal",
+      "Top YouTube asset: \"Inside NVIDIA's 2026 strategy\"",
+      "Dominant Reddit topic cluster: product-review",
+      "Reddit mention velocity up 49% \u2014 emerging conversation cluster",
+      "Reddit conversation balanced (sentiment +0.26) across r/nvidia"
+    ],
+    "ai_summary": "NVIDIA is running hot in the Tech panel with an attention score of 60. YouTube and Reddit are reinforcing each other \u2014 views +33% and r/nvidia sentiment of +0.26 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-14",
+        "views": 113
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-15",
+        "views": 119
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-16",
+        "views": 114
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-17",
+        "views": 103
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-18",
+        "views": 112
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-19",
+        "views": 105
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-20",
+        "views": 115
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-21",
+        "views": 110
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-22",
+        "views": 113
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-23",
+        "views": 120
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-24",
+        "views": 121
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-25",
+        "views": 116
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-26",
+        "views": 102
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-27",
+        "views": 98
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-02-28",
+        "views": 86
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-01",
+        "views": 98
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-02",
+        "views": 121
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-03",
+        "views": 117
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-04",
+        "views": 138
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-05",
+        "views": 131
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-06",
+        "views": 129
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-07",
+        "views": 120
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-08",
+        "views": 124
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-09",
+        "views": 109
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-10",
+        "views": 130
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-11",
+        "views": 285
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-12",
+        "views": 265
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-13",
+        "views": 251
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-14",
+        "views": 228
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-15",
+        "views": 188
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-16",
+        "views": 180
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-17",
+        "views": 188
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-18",
+        "views": 173
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-19",
+        "views": 157
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-20",
+        "views": 130
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-21",
+        "views": 139
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-22",
+        "views": 122
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-23",
+        "views": 132
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-24",
+        "views": 113
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-25",
+        "views": 109
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-26",
+        "views": 117
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-27",
+        "views": 113
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-28",
+        "views": 105
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-29",
+        "views": 102
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-30",
+        "views": 94
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-03-31",
+        "views": 80
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-01",
+        "views": 83
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-02",
+        "views": 82
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-03",
+        "views": 89
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-04",
+        "views": 71
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-05",
+        "views": 107
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-06",
+        "views": 87
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-07",
+        "views": 90
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-08",
+        "views": 86
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-09",
+        "views": 85
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-10",
+        "views": 91
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-11",
+        "views": 80
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-12",
+        "views": 102
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-13",
+        "views": 89
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-14",
+        "views": 79
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-15",
+        "views": 88
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-16",
+        "views": 87
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-17",
+        "views": 94
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-18",
+        "views": 98
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-19",
+        "views": 80
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-20",
+        "views": 95
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-21",
+        "views": 71
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-22",
+        "views": 77
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-23",
+        "views": 70
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-24",
+        "views": 72
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-25",
+        "views": 95
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-26",
+        "views": 83
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-27",
+        "views": 104
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-28",
+        "views": 101
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-29",
+        "views": 109
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-04-30",
+        "views": 107
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-01",
+        "views": 104
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-02",
+        "views": 105
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-03",
+        "views": 122
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-04",
+        "views": 129
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-05",
+        "views": 131
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-06",
+        "views": 138
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-07",
+        "views": 132
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-08",
+        "views": 144
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-09",
+        "views": 134
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-10",
+        "views": 126
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-11",
+        "views": 124
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-12",
+        "views": 122
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-13",
+        "views": 136
+      },
+      {
+        "topic_id": "Nvidia",
+        "date": "2026-05-14",
+        "views": 133
+      }
+    ]
+  }
+}

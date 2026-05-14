@@ -1,0 +1,950 @@
+{
+  "brand": {
+    "brand_id": "brand_058",
+    "brand_handle": "@playstation",
+    "brand_name": "PlayStation",
+    "vertical": "Gaming",
+    "hq_country": "Japan",
+    "established_year": 1994,
+    "description": "PlayStation is a gaming brand established in 1994, headquartered in Japan.",
+    "yt_channel_id": "UC92f1af0db7dd7a6f89f0bf",
+    "yt_subscribers": 24568,
+    "yt_views_total": 33139325,
+    "yt_videos_count": 3886,
+    "yt_views_28d": 1522778,
+    "yt_subs_growth_28d_pct": 12.42,
+    "reddit_mentions_28d": 488,
+    "reddit_avg_sentiment": 0.6,
+    "reddit_top_subreddit": "r/PS5",
+    "reddit_velocity_28d": -0.003,
+    "wiki_pageviews_28d": 465468,
+    "wiki_pageviews_growth_28d_pct": 33.82,
+    "attention_score": 51.17,
+    "signal_bucket": "hot",
+    "share_of_voice": 37.47,
+    "last_signal_change": "2026-05-02",
+    "videos": [
+      {
+        "video_id": "yt_001443",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "What nobody tells you about PlayStation",
+        "published_at": "2026-03-12T17:00:00",
+        "duration_sec": 1270,
+        "views": 135778,
+        "likes": 4386,
+        "comments": 625,
+        "engagement_rate": 0.0369,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001443/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001429",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "The real story behind PlayStation",
+        "published_at": "2026-02-13T07:00:00",
+        "duration_sec": 702,
+        "views": 130144,
+        "likes": 2747,
+        "comments": 433,
+        "engagement_rate": 0.0244,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001429/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001432",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "Why we chose PlayStation",
+        "published_at": "2026-02-14T16:00:00",
+        "duration_sec": 82,
+        "views": 129163,
+        "likes": 2414,
+        "comments": 180,
+        "engagement_rate": 0.0201,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001432/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001440",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "Why we chose PlayStation",
+        "published_at": "2026-04-14T02:00:00",
+        "duration_sec": 55,
+        "views": 121605,
+        "likes": 7740,
+        "comments": 739,
+        "engagement_rate": 0.0697,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001440/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001442",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "PlayStation CEO on the future of creators",
+        "published_at": "2026-03-05T23:00:00",
+        "duration_sec": 69,
+        "views": 119875,
+        "likes": 2414,
+        "comments": 289,
+        "engagement_rate": 0.0225,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001442/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001438",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "I tried PlayStation's new campaign for 30 days",
+        "published_at": "2026-02-16T01:00:00",
+        "duration_sec": 54,
+        "views": 118513,
+        "likes": 6708,
+        "comments": 384,
+        "engagement_rate": 0.0598,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001438/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001425",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "New PlayStation experience reveal",
+        "published_at": "2026-04-29T09:00:00",
+        "duration_sec": 505,
+        "views": 118276,
+        "likes": 5808,
+        "comments": 973,
+        "engagement_rate": 0.0573,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001425/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001434",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "I tried PlayStation's new series for 30 days",
+        "published_at": "2026-03-09T03:00:00",
+        "duration_sec": 67,
+        "views": 113500,
+        "likes": 3748,
+        "comments": 274,
+        "engagement_rate": 0.0354,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001434/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001421",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "PlayStation vs the competition",
+        "published_at": "2026-04-17T16:00:00",
+        "duration_sec": 71,
+        "views": 106500,
+        "likes": 7204,
+        "comments": 682,
+        "engagement_rate": 0.074,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001421/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001444",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "New PlayStation lineup reveal",
+        "published_at": "2026-04-26T18:00:00",
+        "duration_sec": 63,
+        "views": 90474,
+        "likes": 3936,
+        "comments": 240,
+        "engagement_rate": 0.0462,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001444/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001433",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "How PlayStation is reimagining the industry",
+        "published_at": "2026-05-10T15:00:00",
+        "duration_sec": 1622,
+        "views": 89009,
+        "likes": 1602,
+        "comments": 240,
+        "engagement_rate": 0.0207,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001433/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001441",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "PlayStation CEO on the future of the next decade",
+        "published_at": "2026-03-05T20:00:00",
+        "duration_sec": 1454,
+        "views": 76074,
+        "likes": 4994,
+        "comments": 606,
+        "engagement_rate": 0.0736,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001441/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001431",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "I tried PlayStation's new collection for 30 days",
+        "published_at": "2026-03-10T12:00:00",
+        "duration_sec": 1051,
+        "views": 70223,
+        "likes": 2736,
+        "comments": 188,
+        "engagement_rate": 0.0416,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001431/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001427",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "New PlayStation platform reveal",
+        "published_at": "2026-02-25T23:00:00",
+        "duration_sec": 580,
+        "views": 62414,
+        "likes": 3437,
+        "comments": 479,
+        "engagement_rate": 0.0627,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001427/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001430",
+        "brand_id": "brand_058",
+        "channel_id": "UC92f1af0db7dd7a6f89f0bf",
+        "title": "Behind the scenes at PlayStation",
+        "published_at": "2026-02-25T20:00:00",
+        "duration_sec": 1115,
+        "views": 57324,
+        "likes": 3452,
+        "comments": 223,
+        "engagement_rate": 0.0641,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001430/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001742",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Anyone else thinking about PlayStation?",
+        "posted_at": "2026-02-16T12:00:00",
+        "author": "u/CulturalCritic",
+        "score": 11915,
+        "num_comments": 3355,
+        "sentiment": 0.015,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001742/"
+      },
+      {
+        "post_id": "t3_0001743",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Why I'm switching to PlayStation",
+        "posted_at": "2026-04-11T21:00:00",
+        "author": "u/MarketingPro42",
+        "score": 11758,
+        "num_comments": 1634,
+        "sentiment": -0.184,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001743/"
+      },
+      {
+        "post_id": "t3_0001733",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation just announced the new collection \u2014 thoughts?",
+        "posted_at": "2026-04-15T05:00:00",
+        "author": "u/BrandLurker",
+        "score": 11333,
+        "num_comments": 1683,
+        "sentiment": 0.386,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001733/"
+      },
+      {
+        "post_id": "t3_0001736",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation customer service is impossible to reach",
+        "posted_at": "2026-03-30T00:00:00",
+        "author": "u/BrandLurker",
+        "score": 9110,
+        "num_comments": 2066,
+        "sentiment": 0.296,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001736/"
+      },
+      {
+        "post_id": "t3_0001755",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Honest review of the PlayStation model",
+        "posted_at": "2026-03-30T06:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 2077,
+        "num_comments": 261,
+        "sentiment": -0.609,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001755/"
+      },
+      {
+        "post_id": "t3_0001739",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation partnership announcement",
+        "posted_at": "2026-03-15T18:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 1746,
+        "num_comments": 145,
+        "sentiment": 0.201,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001739/"
+      },
+      {
+        "post_id": "t3_0001734",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Is anyone else fed up with PlayStation lately?",
+        "posted_at": "2026-03-21T16:00:00",
+        "author": "u/PixelPirate",
+        "score": 1477,
+        "num_comments": 356,
+        "sentiment": -0.16,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001734/"
+      },
+      {
+        "post_id": "t3_0001727",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation guidance for next quarter",
+        "posted_at": "2026-04-17T21:00:00",
+        "author": "u/AgencyLifer",
+        "score": 1210,
+        "num_comments": 294,
+        "sentiment": 0.142,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001727/"
+      },
+      {
+        "post_id": "t3_0001728",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation just announced the new series \u2014 thoughts?",
+        "posted_at": "2026-04-13T01:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 1160,
+        "num_comments": 258,
+        "sentiment": 0.141,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001728/"
+      },
+      {
+        "post_id": "t3_0001749",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "PlayStation's new edition launch is wild",
+        "posted_at": "2026-04-19T17:00:00",
+        "author": "u/CulturalCritic",
+        "score": 591,
+        "num_comments": 124,
+        "sentiment": 0.385,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001749/"
+      },
+      {
+        "post_id": "t3_0001737",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Need help with my PlayStation order",
+        "posted_at": "2026-02-20T14:00:00",
+        "author": "u/MidnightMod",
+        "score": 552,
+        "num_comments": 51,
+        "sentiment": -0.194,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001737/"
+      },
+      {
+        "post_id": "t3_0001740",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Anyone else having issues with PlayStation?",
+        "posted_at": "2026-03-20T01:00:00",
+        "author": "u/QuietBuyer",
+        "score": 513,
+        "num_comments": 35,
+        "sentiment": -0.007,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001740/"
+      },
+      {
+        "post_id": "t3_0001729",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Why I'm switching to PlayStation",
+        "posted_at": "2026-04-23T10:00:00",
+        "author": "u/MidwestDad88",
+        "score": 431,
+        "num_comments": 60,
+        "sentiment": -0.086,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001729/"
+      },
+      {
+        "post_id": "t3_0001752",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "Anyone seen the new PlayStation lineup drop?",
+        "posted_at": "2026-03-03T08:00:00",
+        "author": "u/MarketingPro42",
+        "score": 372,
+        "num_comments": 92,
+        "sentiment": 0.051,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001752/"
+      },
+      {
+        "post_id": "t3_0001754",
+        "brand_id": "brand_058",
+        "brand_name_match": "PlayStation",
+        "subreddit": "r/PS5",
+        "title": "First look at PlayStation's release",
+        "posted_at": "2026-02-18T13:00:00",
+        "author": "u/CulturalCritic",
+        "score": 310,
+        "num_comments": 76,
+        "sentiment": 0.273,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/PS5/comments/t3_0001754/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "PlayStation",
+        "title": "PlayStation",
+        "category": "brand",
+        "pageviews_28d": 428504,
+        "pageviews_growth_pct": -47.1,
+        "pageviews_volatility": 0.4792,
+        "related_brands": [
+          "brand_058"
+        ]
+      },
+      {
+        "topic_id": "CES_2025",
+        "title": "CES 2025",
+        "category": "event",
+        "pageviews_28d": 520328,
+        "pageviews_growth_pct": -40.01,
+        "pageviews_volatility": 0.5777,
+        "related_brands": [
+          "brand_004",
+          "brand_058",
+          "brand_054",
+          "brand_042"
+        ]
+      },
+      {
+        "topic_id": "Elon_Musk",
+        "title": "Elon Musk",
+        "category": "person",
+        "pageviews_28d": 438228,
+        "pageviews_growth_pct": -11.06,
+        "pageviews_volatility": 0.464,
+        "related_brands": [
+          "brand_006",
+          "brand_031",
+          "brand_058"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +34% \u2014 news cycle is active",
+      "Dominant Reddit topic cluster: launch",
+      "YT views +12% MoM driven by recent product reveal",
+      "Top YouTube asset: \"What nobody tells you about PlayStation\""
+    ],
+    "ai_summary": "PlayStation is running hot in the Gaming panel with an attention score of 51. YouTube and Reddit are reinforcing each other \u2014 views +12% and r/PS5 sentiment of +0.60 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-14",
+        "views": 17010
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-15",
+        "views": 13757
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-16",
+        "views": 13400
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-17",
+        "views": 18223
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-18",
+        "views": 18752
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-19",
+        "views": 16961
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-20",
+        "views": 18433
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-21",
+        "views": 14188
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-22",
+        "views": 14639
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-23",
+        "views": 15966
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-24",
+        "views": 16470
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-25",
+        "views": 19798
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-26",
+        "views": 18673
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-27",
+        "views": 20765
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-02-28",
+        "views": 19900
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-01",
+        "views": 20926
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-02",
+        "views": 22071
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-03",
+        "views": 21071
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-04",
+        "views": 19104
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-05",
+        "views": 19872
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-06",
+        "views": 17919
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-07",
+        "views": 18886
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-08",
+        "views": 19255
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-09",
+        "views": 19104
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-10",
+        "views": 18865
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-11",
+        "views": 16351
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-12",
+        "views": 15766
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-13",
+        "views": 13497
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-14",
+        "views": 16226
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-15",
+        "views": 17944
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-16",
+        "views": 18318
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-17",
+        "views": 18652
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-18",
+        "views": 18568
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-19",
+        "views": 20986
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-20",
+        "views": 20306
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-21",
+        "views": 18654
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-22",
+        "views": 19272
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-23",
+        "views": 18683
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-24",
+        "views": 19386
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-25",
+        "views": 21137
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-26",
+        "views": 20863
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-27",
+        "views": 20186
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-28",
+        "views": 69120
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-29",
+        "views": 62163
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-30",
+        "views": 55500
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-03-31",
+        "views": 49395
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-01",
+        "views": 42873
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-02",
+        "views": 36252
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-03",
+        "views": 32862
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-04",
+        "views": 30870
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-05",
+        "views": 31378
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-06",
+        "views": 27076
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-07",
+        "views": 29148
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-08",
+        "views": 25864
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-09",
+        "views": 22575
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-10",
+        "views": 23894
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-11",
+        "views": 22103
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-12",
+        "views": 20434
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-13",
+        "views": 18320
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-14",
+        "views": 16976
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-15",
+        "views": 18361
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-16",
+        "views": 16308
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-17",
+        "views": 16726
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-18",
+        "views": 17090
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-19",
+        "views": 14061
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-20",
+        "views": 14028
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-21",
+        "views": 13799
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-22",
+        "views": 12677
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-23",
+        "views": 13391
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-24",
+        "views": 16805
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-25",
+        "views": 15398
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-26",
+        "views": 14648
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-27",
+        "views": 13412
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-28",
+        "views": 14526
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-29",
+        "views": 12905
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-04-30",
+        "views": 15097
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-01",
+        "views": 13518
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-02",
+        "views": 12256
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-03",
+        "views": 15842
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-04",
+        "views": 17228
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-05",
+        "views": 16675
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-06",
+        "views": 15836
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-07",
+        "views": 16822
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-08",
+        "views": 17704
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-09",
+        "views": 16721
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-10",
+        "views": 16729
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-11",
+        "views": 14829
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-12",
+        "views": 16763
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-13",
+        "views": 15982
+      },
+      {
+        "topic_id": "PlayStation",
+        "date": "2026-05-14",
+        "views": 17036
+      }
+    ]
+  }
+}

@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_049",
+    "brand_handle": "@lululemon",
+    "brand_name": "Lululemon",
+    "vertical": "Fashion",
+    "hq_country": "US",
+    "established_year": 1998,
+    "description": "Lululemon is a athletic apparel brand established in 1998, headquartered in US.",
+    "yt_channel_id": "UCf105abe37becc6d0524420",
+    "yt_subscribers": 6790650,
+    "yt_views_total": 1902278721,
+    "yt_videos_count": 168,
+    "yt_views_28d": 108908499,
+    "yt_subs_growth_28d_pct": 6.94,
+    "reddit_mentions_28d": 78,
+    "reddit_avg_sentiment": 0.592,
+    "reddit_top_subreddit": "r/lululemon",
+    "reddit_velocity_28d": 0.619,
+    "wiki_pageviews_28d": 59797,
+    "wiki_pageviews_growth_28d_pct": 53.46,
+    "attention_score": 61.06,
+    "signal_bucket": "breakout",
+    "share_of_voice": 21.25,
+    "last_signal_change": "2026-04-21",
+    "videos": [
+      {
+        "video_id": "yt_001209",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "The real story behind Lululemon",
+        "published_at": "2026-04-17T08:00:00",
+        "duration_sec": 90,
+        "views": 68171396,
+        "likes": 2039683,
+        "comments": 183464,
+        "engagement_rate": 0.0326,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001209/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001230",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Inside Lululemon's 2026 strategy",
+        "published_at": "2026-04-01T20:00:00",
+        "duration_sec": 82,
+        "views": 35855893,
+        "likes": 2565683,
+        "comments": 242733,
+        "engagement_rate": 0.0783,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001230/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001225",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Behind the scenes at Lululemon",
+        "published_at": "2026-05-09T14:00:00",
+        "duration_sec": 917,
+        "views": 11349891,
+        "likes": 347776,
+        "comments": 25021,
+        "engagement_rate": 0.0328,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001225/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001213",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Lululemon unveils model",
+        "published_at": "2026-03-06T07:00:00",
+        "duration_sec": 67,
+        "views": 11131869,
+        "likes": 756118,
+        "comments": 76251,
+        "engagement_rate": 0.0748,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001213/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001208",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Lululemon just changed the game with release",
+        "published_at": "2026-05-12T18:00:00",
+        "duration_sec": 845,
+        "views": 10682002,
+        "likes": 224437,
+        "comments": 36957,
+        "engagement_rate": 0.0245,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001208/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001222",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Lululemon unveils drop",
+        "published_at": "2026-03-07T02:00:00",
+        "duration_sec": 50,
+        "views": 9517289,
+        "likes": 406576,
+        "comments": 57913,
+        "engagement_rate": 0.0488,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001222/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001227",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "I tried Lululemon's new experience for 30 days",
+        "published_at": "2026-03-02T15:00:00",
+        "duration_sec": 393,
+        "views": 8840566,
+        "likes": 533480,
+        "comments": 37793,
+        "engagement_rate": 0.0646,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001227/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001211",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "How Lululemon is reimagining the customer journey",
+        "published_at": "2026-04-02T23:00:00",
+        "duration_sec": 46,
+        "views": 8539323,
+        "likes": 197389,
+        "comments": 29298,
+        "engagement_rate": 0.0265,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001211/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001210",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Behind the scenes at Lululemon",
+        "published_at": "2026-04-17T21:00:00",
+        "duration_sec": 553,
+        "views": 7692599,
+        "likes": 297063,
+        "comments": 50404,
+        "engagement_rate": 0.0452,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001210/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001228",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Lululemon vs the competition",
+        "published_at": "2026-02-28T14:00:00",
+        "duration_sec": 309,
+        "views": 7603657,
+        "likes": 203347,
+        "comments": 31055,
+        "engagement_rate": 0.0308,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001228/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001218",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "2026 Lululemon flagship review",
+        "published_at": "2026-04-06T08:00:00",
+        "duration_sec": 495,
+        "views": 7333789,
+        "likes": 313608,
+        "comments": 48958,
+        "engagement_rate": 0.0494,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001218/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001212",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Lululemon unveils collection",
+        "published_at": "2026-03-24T05:00:00",
+        "duration_sec": 242,
+        "views": 7062085,
+        "likes": 469931,
+        "comments": 25083,
+        "engagement_rate": 0.0701,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001212/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001215",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "Inside Lululemon's 2026 strategy",
+        "published_at": "2026-03-27T14:00:00",
+        "duration_sec": 90,
+        "views": 6414576,
+        "likes": 343487,
+        "comments": 21264,
+        "engagement_rate": 0.0569,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001215/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001217",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "campaign from Lululemon: first impressions",
+        "published_at": "2026-04-02T22:00:00",
+        "duration_sec": 182,
+        "views": 6180401,
+        "likes": 314107,
+        "comments": 44387,
+        "engagement_rate": 0.058,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001217/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001224",
+        "brand_id": "brand_049",
+        "channel_id": "UCf105abe37becc6d0524420",
+        "title": "2026 Lululemon release review",
+        "published_at": "2026-04-29T12:00:00",
+        "duration_sec": 972,
+        "views": 5733956,
+        "likes": 243185,
+        "comments": 32769,
+        "engagement_rate": 0.0481,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001224/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001493",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon's new model launch is wild",
+        "posted_at": "2026-03-09T16:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 9905,
+        "num_comments": 2956,
+        "sentiment": 0.4,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001493/"
+      },
+      {
+        "post_id": "t3_0001490",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon's new release launch is wild",
+        "posted_at": "2026-04-15T11:00:00",
+        "author": "u/SignalSeeker",
+        "score": 8543,
+        "num_comments": 1128,
+        "sentiment": -0.101,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001490/"
+      },
+      {
+        "post_id": "t3_0001476",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Boycotting Lululemon after this week",
+        "posted_at": "2026-02-13T12:00:00",
+        "author": "u/MidwestDad88",
+        "score": 5039,
+        "num_comments": 1191,
+        "sentiment": -0.442,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001476/"
+      },
+      {
+        "post_id": "t3_0001481",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Why Lululemon is so polarizing",
+        "posted_at": "2026-04-01T10:00:00",
+        "author": "u/ThriftyTina",
+        "score": 4977,
+        "num_comments": 710,
+        "sentiment": 0.277,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001481/"
+      },
+      {
+        "post_id": "t3_0001492",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "First look at Lululemon's drop",
+        "posted_at": "2026-03-09T17:00:00",
+        "author": "u/PixelPirate",
+        "score": 2833,
+        "num_comments": 698,
+        "sentiment": 0.208,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001492/"
+      },
+      {
+        "post_id": "t3_0001470",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon's new experience launch is wild",
+        "posted_at": "2026-03-03T23:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2433,
+        "num_comments": 414,
+        "sentiment": -0.1,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001470/"
+      },
+      {
+        "post_id": "t3_0001487",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Honest review of the Lululemon release",
+        "posted_at": "2026-02-27T22:00:00",
+        "author": "u/TacoCritic",
+        "score": 2169,
+        "num_comments": 448,
+        "sentiment": -0.081,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001487/"
+      },
+      {
+        "post_id": "t3_0001473",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon pricing change is a slap in the face",
+        "posted_at": "2026-03-29T00:00:00",
+        "author": "u/SocialSarah",
+        "score": 1616,
+        "num_comments": 236,
+        "sentiment": -0.465,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001473/"
+      },
+      {
+        "post_id": "t3_0001472",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Tried Lululemon \u2014 here's my take",
+        "posted_at": "2026-03-06T23:00:00",
+        "author": "u/MarketingPro42",
+        "score": 1321,
+        "num_comments": 157,
+        "sentiment": 0.06,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001472/"
+      },
+      {
+        "post_id": "t3_0001482",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon did WHAT?",
+        "posted_at": "2026-05-10T13:00:00",
+        "author": "u/SocialSarah",
+        "score": 1056,
+        "num_comments": 255,
+        "sentiment": -0.388,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001482/"
+      },
+      {
+        "post_id": "t3_0001496",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon just announced the new collection \u2014 thoughts?",
+        "posted_at": "2026-02-24T05:00:00",
+        "author": "u/AgencyLifer",
+        "score": 973,
+        "num_comments": 146,
+        "sentiment": 0.061,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001496/"
+      },
+      {
+        "post_id": "t3_0001495",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon pricing change is a slap in the face",
+        "posted_at": "2026-03-19T05:00:00",
+        "author": "u/QuietBuyer",
+        "score": 744,
+        "num_comments": 47,
+        "sentiment": -0.237,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001495/"
+      },
+      {
+        "post_id": "t3_0001469",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Hot take on the Lululemon collab",
+        "posted_at": "2026-04-13T04:00:00",
+        "author": "u/MarketingPro42",
+        "score": 737,
+        "num_comments": 98,
+        "sentiment": 0.143,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001469/"
+      },
+      {
+        "post_id": "t3_0001485",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "Lululemon is having a moment",
+        "posted_at": "2026-04-10T13:00:00",
+        "author": "u/SignalSeeker",
+        "score": 601,
+        "num_comments": 118,
+        "sentiment": 0.008,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001485/"
+      },
+      {
+        "post_id": "t3_0001477",
+        "brand_id": "brand_049",
+        "brand_name_match": "Lululemon",
+        "subreddit": "r/lululemon",
+        "title": "First look at Lululemon's platform",
+        "posted_at": "2026-02-28T05:00:00",
+        "author": "u/UnpaidMod",
+        "score": 223,
+        "num_comments": 17,
+        "sentiment": 0.268,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/lululemon/comments/t3_0001477/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Lululemon_Athletica",
+        "title": "Lululemon",
+        "category": "brand",
+        "pageviews_28d": 67168,
+        "pageviews_growth_pct": -11.63,
+        "pageviews_volatility": 0.448,
+        "related_brands": [
+          "brand_049"
+        ]
+      },
+      {
+        "topic_id": "Generative_AI_advertising",
+        "title": "Generative AI advertising",
+        "category": "industry",
+        "pageviews_28d": 378759,
+        "pageviews_growth_pct": 38.5,
+        "pageviews_volatility": 0.5951,
+        "related_brands": [
+          "brand_034",
+          "brand_049",
+          "brand_026"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit mention velocity up 62% \u2014 emerging conversation cluster",
+      "YT subscriber growth steady at +6.9% over the past 28d",
+      "Reddit sentiment elevated at +0.59 \u2014 fan-driven engagement in r/lululemon",
+      "Top YouTube asset: \"The real story behind Lululemon\"",
+      "Wikipedia pageviews surged +53% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Lululemon's cross-channel attention has accelerated sharply in the past 28 days, with a +7% YouTube subscriber lift and matching uplift in r/lululemon sentiment (avg +0.59). Wikipedia pageview volatility (+53% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-14",
+        "views": 1956
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-15",
+        "views": 2353
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-16",
+        "views": 2132
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-17",
+        "views": 2200
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-18",
+        "views": 2333
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-19",
+        "views": 2154
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-20",
+        "views": 2337
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-21",
+        "views": 2145
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-22",
+        "views": 1935
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-23",
+        "views": 2094
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-24",
+        "views": 2155
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-25",
+        "views": 2155
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-26",
+        "views": 1945
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-27",
+        "views": 2372
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-02-28",
+        "views": 2303
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-01",
+        "views": 2309
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-02",
+        "views": 2522
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-03",
+        "views": 2452
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-04",
+        "views": 2773
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-05",
+        "views": 2448
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-06",
+        "views": 2691
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-07",
+        "views": 2596
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-08",
+        "views": 2617
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-09",
+        "views": 2381
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-10",
+        "views": 2505
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-11",
+        "views": 2651
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-12",
+        "views": 2799
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-13",
+        "views": 9236
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-14",
+        "views": 8140
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-15",
+        "views": 7061
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-16",
+        "views": 6523
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-17",
+        "views": 5947
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-18",
+        "views": 5188
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-19",
+        "views": 4415
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-20",
+        "views": 4145
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-21",
+        "views": 4106
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-22",
+        "views": 3281
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-23",
+        "views": 3290
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-24",
+        "views": 3273
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-25",
+        "views": 3181
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-26",
+        "views": 2753
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-27",
+        "views": 2664
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-28",
+        "views": 2896
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-29",
+        "views": 2608
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-30",
+        "views": 2763
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-03-31",
+        "views": 2425
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-01",
+        "views": 2707
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-02",
+        "views": 2858
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-03",
+        "views": 2958
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-04",
+        "views": 2650
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-05",
+        "views": 2812
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-06",
+        "views": 2746
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-07",
+        "views": 2550
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-08",
+        "views": 2599
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-09",
+        "views": 2101
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-10",
+        "views": 1942
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-11",
+        "views": 2102
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-12",
+        "views": 2325
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-13",
+        "views": 2050
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-14",
+        "views": 2143
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-15",
+        "views": 2181
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-16",
+        "views": 1897
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-17",
+        "views": 2236
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-18",
+        "views": 2451
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-19",
+        "views": 2063
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-20",
+        "views": 1782
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-21",
+        "views": 1803
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-22",
+        "views": 2084
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-23",
+        "views": 2356
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-24",
+        "views": 2280
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-25",
+        "views": 2460
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-26",
+        "views": 2382
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-27",
+        "views": 2100
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-28",
+        "views": 2247
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-29",
+        "views": 2214
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-04-30",
+        "views": 2270
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-01",
+        "views": 2349
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-02",
+        "views": 2355
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-03",
+        "views": 2643
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-04",
+        "views": 2484
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-05",
+        "views": 2626
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-06",
+        "views": 2527
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-07",
+        "views": 2469
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-08",
+        "views": 2809
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-09",
+        "views": 2635
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-10",
+        "views": 2758
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-11",
+        "views": 2758
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-12",
+        "views": 2821
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-13",
+        "views": 2538
+      },
+      {
+        "topic_id": "Lululemon_Athletica",
+        "date": "2026-05-14",
+        "views": 2668
+      }
+    ]
+  }
+}

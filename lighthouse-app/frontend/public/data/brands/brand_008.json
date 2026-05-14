@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_008",
+    "brand_handle": "@costco",
+    "brand_name": "Costco",
+    "vertical": "Retail",
+    "hq_country": "US",
+    "established_year": 1983,
+    "description": "Costco is a warehouse club brand established in 1983, headquartered in US.",
+    "yt_channel_id": "UC9600880e326968a9e14d05",
+    "yt_subscribers": 60314,
+    "yt_views_total": 77511475,
+    "yt_videos_count": 2697,
+    "yt_views_28d": 1721225,
+    "yt_subs_growth_28d_pct": 14.97,
+    "reddit_mentions_28d": 1085,
+    "reddit_avg_sentiment": 0.343,
+    "reddit_top_subreddit": "r/Costco",
+    "reddit_velocity_28d": -0.143,
+    "wiki_pageviews_28d": 2890,
+    "wiki_pageviews_growth_28d_pct": 54.5,
+    "attention_score": 54.4,
+    "signal_bucket": "hot",
+    "share_of_voice": 23.15,
+    "last_signal_change": "2026-04-21",
+    "videos": [
+      {
+        "video_id": "yt_000202",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Why we chose Costco",
+        "published_at": "2026-04-15T18:00:00",
+        "duration_sec": 53,
+        "views": 152022,
+        "likes": 10517,
+        "comments": 1619,
+        "engagement_rate": 0.0798,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000202/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000186",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Inside Costco's 2026 strategy",
+        "published_at": "2026-05-05T09:00:00",
+        "duration_sec": 78,
+        "views": 150001,
+        "likes": 7739,
+        "comments": 1172,
+        "engagement_rate": 0.0594,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000186/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000190",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Costco CEO on the future of design",
+        "published_at": "2026-03-30T15:00:00",
+        "duration_sec": 922,
+        "views": 146426,
+        "likes": 10602,
+        "comments": 766,
+        "engagement_rate": 0.0776,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000190/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000192",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "New Costco series reveal",
+        "published_at": "2026-02-24T14:00:00",
+        "duration_sec": 84,
+        "views": 144728,
+        "likes": 7978,
+        "comments": 1388,
+        "engagement_rate": 0.0647,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000192/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000179",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Costco just changed the game with lineup",
+        "published_at": "2026-03-28T18:00:00",
+        "duration_sec": 337,
+        "views": 132823,
+        "likes": 7997,
+        "comments": 1095,
+        "engagement_rate": 0.0685,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000179/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000195",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Costco just changed the game with release",
+        "published_at": "2026-04-29T22:00:00",
+        "duration_sec": 66,
+        "views": 115786,
+        "likes": 7620,
+        "comments": 935,
+        "engagement_rate": 0.0739,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000195/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000189",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Behind the scenes at Costco",
+        "published_at": "2026-04-20T14:00:00",
+        "duration_sec": 902,
+        "views": 111928,
+        "likes": 2726,
+        "comments": 257,
+        "engagement_rate": 0.0267,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000189/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000187",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Costco just changed the game with collection",
+        "published_at": "2026-03-28T19:00:00",
+        "duration_sec": 1251,
+        "views": 110928,
+        "likes": 2058,
+        "comments": 348,
+        "engagement_rate": 0.0217,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000187/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000191",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "I tried Costco's new model for 30 days",
+        "published_at": "2026-02-16T06:00:00",
+        "duration_sec": 1228,
+        "views": 109638,
+        "likes": 5975,
+        "comments": 1012,
+        "engagement_rate": 0.0637,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000191/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000194",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Why we chose Costco",
+        "published_at": "2026-03-29T07:00:00",
+        "duration_sec": 1581,
+        "views": 104332,
+        "likes": 2687,
+        "comments": 417,
+        "engagement_rate": 0.0298,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000194/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000177",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "Costco vs the competition",
+        "published_at": "2026-03-09T20:00:00",
+        "duration_sec": 85,
+        "views": 95979,
+        "likes": 5281,
+        "comments": 453,
+        "engagement_rate": 0.0597,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000177/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000201",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "What nobody tells you about Costco",
+        "published_at": "2026-04-04T22:00:00",
+        "duration_sec": 671,
+        "views": 93056,
+        "likes": 4724,
+        "comments": 327,
+        "engagement_rate": 0.0543,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000201/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000197",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "model from Costco: first impressions",
+        "published_at": "2026-04-04T17:00:00",
+        "duration_sec": 1404,
+        "views": 90008,
+        "likes": 12193,
+        "comments": 1860,
+        "engagement_rate": 0.1561,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000197/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000203",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "What nobody tells you about Costco",
+        "published_at": "2026-03-24T07:00:00",
+        "duration_sec": 462,
+        "views": 85770,
+        "likes": 1586,
+        "comments": 193,
+        "engagement_rate": 0.0207,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000203/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000180",
+        "brand_id": "brand_008",
+        "channel_id": "UC9600880e326968a9e14d05",
+        "title": "I tried Costco's new release for 30 days",
+        "published_at": "2026-04-24T22:00:00",
+        "duration_sec": 307,
+        "views": 84890,
+        "likes": 2862,
+        "comments": 160,
+        "engagement_rate": 0.0356,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000180/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000240",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Costco did WHAT?",
+        "posted_at": "2026-04-10T14:00:00",
+        "author": "u/ThriftyTina",
+        "score": 14799,
+        "num_comments": 3257,
+        "sentiment": -1.0,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000240/"
+      },
+      {
+        "post_id": "t3_0000247",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "The Costco discourse is unhinged today",
+        "posted_at": "2026-03-01T10:00:00",
+        "author": "u/QuietBuyer",
+        "score": 14770,
+        "num_comments": 1657,
+        "sentiment": 0.454,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000247/"
+      },
+      {
+        "post_id": "t3_0000232",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "The Costco discourse is unhinged today",
+        "posted_at": "2026-05-06T05:00:00",
+        "author": "u/SignalSeeker",
+        "score": 12509,
+        "num_comments": 1914,
+        "sentiment": -0.036,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000232/"
+      },
+      {
+        "post_id": "t3_0000248",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Boycotting Costco after this week",
+        "posted_at": "2026-04-23T18:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 10953,
+        "num_comments": 1179,
+        "sentiment": -0.549,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000248/"
+      },
+      {
+        "post_id": "t3_0000227",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Why Costco is so polarizing",
+        "posted_at": "2026-03-06T19:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 10767,
+        "num_comments": 1269,
+        "sentiment": 0.132,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000227/"
+      },
+      {
+        "post_id": "t3_0000242",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Honest review of the Costco model",
+        "posted_at": "2026-05-01T20:00:00",
+        "author": "u/MidwestDad88",
+        "score": 10616,
+        "num_comments": 1747,
+        "sentiment": 0.122,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000242/"
+      },
+      {
+        "post_id": "t3_0000229",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Costco customer service is impossible to reach",
+        "posted_at": "2026-02-20T12:00:00",
+        "author": "u/MidwestDad88",
+        "score": 10366,
+        "num_comments": 1220,
+        "sentiment": -0.351,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000229/"
+      },
+      {
+        "post_id": "t3_0000255",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Anyone seen the new Costco lineup drop?",
+        "posted_at": "2026-03-07T16:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 6482,
+        "num_comments": 1641,
+        "sentiment": 0.311,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000255/"
+      },
+      {
+        "post_id": "t3_0000246",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Why Costco is so polarizing",
+        "posted_at": "2026-05-10T17:00:00",
+        "author": "u/PixelPirate",
+        "score": 5456,
+        "num_comments": 1400,
+        "sentiment": 0.517,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000246/"
+      },
+      {
+        "post_id": "t3_0000234",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Tried Costco \u2014 here's my take",
+        "posted_at": "2026-04-20T04:00:00",
+        "author": "u/SignalSeeker",
+        "score": 5302,
+        "num_comments": 657,
+        "sentiment": -0.039,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000234/"
+      },
+      {
+        "post_id": "t3_0000230",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "What the Costco numbers actually mean",
+        "posted_at": "2026-03-06T06:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 5036,
+        "num_comments": 1206,
+        "sentiment": -0.012,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000230/"
+      },
+      {
+        "post_id": "t3_0000253",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Costco beat / missed \u2014 let's discuss",
+        "posted_at": "2026-04-01T07:00:00",
+        "author": "u/TacoCritic",
+        "score": 1794,
+        "num_comments": 477,
+        "sentiment": 0.364,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000253/"
+      },
+      {
+        "post_id": "t3_0000245",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "First look at Costco's experience",
+        "posted_at": "2026-03-09T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1357,
+        "num_comments": 344,
+        "sentiment": 0.01,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000245/"
+      },
+      {
+        "post_id": "t3_0000228",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Why Costco is so polarizing",
+        "posted_at": "2026-04-11T23:00:00",
+        "author": "u/CreatorLens",
+        "score": 1329,
+        "num_comments": 326,
+        "sentiment": 0.157,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000228/"
+      },
+      {
+        "post_id": "t3_0000236",
+        "brand_id": "brand_008",
+        "brand_name_match": "Costco",
+        "subreddit": "r/Costco",
+        "title": "Quick Costco question",
+        "posted_at": "2026-02-19T10:00:00",
+        "author": "u/StreamingNerd",
+        "score": 783,
+        "num_comments": 56,
+        "sentiment": 0.43,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/Costco/comments/t3_0000236/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Costco",
+        "title": "Costco",
+        "category": "brand",
+        "pageviews_28d": 2736,
+        "pageviews_growth_pct": -4.97,
+        "pageviews_volatility": 0.7211,
+        "related_brands": [
+          "brand_008"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Dominant Reddit topic cluster: culture",
+      "Wikipedia pageviews surged +54% \u2014 news cycle is active",
+      "Reddit sentiment elevated at +0.34 \u2014 fan-driven engagement in r/Costco",
+      "Top YouTube asset: \"Why we chose Costco\"",
+      "YT views +15% MoM driven by recent product reveal"
+    ],
+    "ai_summary": "Costco is running hot in the Retail panel with an attention score of 54. YouTube and Reddit are reinforcing each other \u2014 views +15% and r/Costco sentiment of +0.34 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-14",
+        "views": 110
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-15",
+        "views": 109
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-16",
+        "views": 107
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-17",
+        "views": 103
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-18",
+        "views": 103
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-19",
+        "views": 261
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-20",
+        "views": 246
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-21",
+        "views": 660
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-22",
+        "views": 571
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-23",
+        "views": 480
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-24",
+        "views": 431
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-25",
+        "views": 387
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-26",
+        "views": 353
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-27",
+        "views": 311
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-02-28",
+        "views": 275
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-01",
+        "views": 263
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-02",
+        "views": 239
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-03",
+        "views": 231
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-04",
+        "views": 208
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-05",
+        "views": 190
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-06",
+        "views": 173
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-07",
+        "views": 189
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-08",
+        "views": 151
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-09",
+        "views": 143
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-10",
+        "views": 145
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-11",
+        "views": 142
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-12",
+        "views": 125
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-13",
+        "views": 120
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-14",
+        "views": 113
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-15",
+        "views": 114
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-16",
+        "views": 119
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-17",
+        "views": 122
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-18",
+        "views": 93
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-19",
+        "views": 101
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-20",
+        "views": 108
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-21",
+        "views": 114
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-22",
+        "views": 126
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-23",
+        "views": 115
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-24",
+        "views": 126
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-25",
+        "views": 139
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-26",
+        "views": 131
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-27",
+        "views": 118
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-28",
+        "views": 124
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-29",
+        "views": 124
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-30",
+        "views": 119
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-03-31",
+        "views": 104
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-01",
+        "views": 87
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-02",
+        "views": 99
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-03",
+        "views": 90
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-04",
+        "views": 85
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-05",
+        "views": 90
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-06",
+        "views": 85
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-07",
+        "views": 99
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-08",
+        "views": 80
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-09",
+        "views": 89
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-10",
+        "views": 80
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-11",
+        "views": 82
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-12",
+        "views": 86
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-13",
+        "views": 90
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-14",
+        "views": 101
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-15",
+        "views": 92
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-16",
+        "views": 96
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-17",
+        "views": 106
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-18",
+        "views": 87
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-19",
+        "views": 111
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-20",
+        "views": 90
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-21",
+        "views": 86
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-22",
+        "views": 75
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-23",
+        "views": 74
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-24",
+        "views": 80
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-25",
+        "views": 94
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-26",
+        "views": 88
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-27",
+        "views": 84
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-28",
+        "views": 83
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-29",
+        "views": 88
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-04-30",
+        "views": 98
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-01",
+        "views": 100
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-02",
+        "views": 89
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-03",
+        "views": 101
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-04",
+        "views": 115
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-05",
+        "views": 114
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-06",
+        "views": 120
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-07",
+        "views": 112
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-08",
+        "views": 114
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-09",
+        "views": 114
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-10",
+        "views": 119
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-11",
+        "views": 100
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-12",
+        "views": 112
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-13",
+        "views": 88
+      },
+      {
+        "topic_id": "Costco",
+        "date": "2026-05-14",
+        "views": 94
+      }
+    ]
+  }
+}

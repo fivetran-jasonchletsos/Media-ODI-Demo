@@ -1,0 +1,950 @@
+{
+  "brand": {
+    "brand_id": "brand_043",
+    "brand_handle": "@glossier",
+    "brand_name": "Glossier",
+    "vertical": "Beauty",
+    "hq_country": "US",
+    "established_year": 2014,
+    "description": "Glossier is a beauty brand established in 2014, headquartered in US.",
+    "yt_channel_id": "UC701bac248bec2b2daa684c",
+    "yt_subscribers": 18594,
+    "yt_views_total": 5712066,
+    "yt_videos_count": 1712,
+    "yt_views_28d": 265500,
+    "yt_subs_growth_28d_pct": 10.36,
+    "reddit_mentions_28d": 83,
+    "reddit_avg_sentiment": -0.152,
+    "reddit_top_subreddit": "r/glossier",
+    "reddit_velocity_28d": 0.456,
+    "wiki_pageviews_28d": 884498,
+    "wiki_pageviews_growth_28d_pct": 66.04,
+    "attention_score": 55.83,
+    "signal_bucket": "hot",
+    "share_of_voice": 21.97,
+    "last_signal_change": "2026-04-15",
+    "videos": [
+      {
+        "video_id": "yt_001062",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "I tried Glossier's new campaign for 30 days",
+        "published_at": "2026-05-09T03:00:00",
+        "duration_sec": 304,
+        "views": 301429,
+        "likes": 49276,
+        "comments": 5144,
+        "engagement_rate": 0.1805,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001062/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001067",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier CEO on the future of sustainability",
+        "published_at": "2026-03-26T01:00:00",
+        "duration_sec": 56,
+        "views": 164598,
+        "likes": 10295,
+        "comments": 565,
+        "engagement_rate": 0.066,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001067/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001054",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier unveils campaign",
+        "published_at": "2026-03-08T06:00:00",
+        "duration_sec": 71,
+        "views": 29658,
+        "likes": 1327,
+        "comments": 137,
+        "engagement_rate": 0.0494,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001054/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001073",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier unveils lineup",
+        "published_at": "2026-03-14T13:00:00",
+        "duration_sec": 417,
+        "views": 29049,
+        "likes": 784,
+        "comments": 50,
+        "engagement_rate": 0.0287,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001073/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001068",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "New Glossier campaign reveal",
+        "published_at": "2026-04-21T23:00:00",
+        "duration_sec": 75,
+        "views": 26330,
+        "likes": 1327,
+        "comments": 106,
+        "engagement_rate": 0.0544,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001068/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001070",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier vs the competition",
+        "published_at": "2026-02-19T08:00:00",
+        "duration_sec": 1782,
+        "views": 25663,
+        "likes": 840,
+        "comments": 60,
+        "engagement_rate": 0.0351,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001070/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001074",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Behind the scenes at Glossier",
+        "published_at": "2026-03-24T04:00:00",
+        "duration_sec": 219,
+        "views": 25204,
+        "likes": 489,
+        "comments": 76,
+        "engagement_rate": 0.0224,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001074/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001053",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "The real story behind Glossier",
+        "published_at": "2026-04-10T05:00:00",
+        "duration_sec": 309,
+        "views": 24982,
+        "likes": 432,
+        "comments": 72,
+        "engagement_rate": 0.0202,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001053/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001057",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Behind the scenes at Glossier",
+        "published_at": "2026-05-10T07:00:00",
+        "duration_sec": 82,
+        "views": 24777,
+        "likes": 682,
+        "comments": 115,
+        "engagement_rate": 0.0322,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001057/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001072",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Why we chose Glossier",
+        "published_at": "2026-02-20T20:00:00",
+        "duration_sec": 886,
+        "views": 24445,
+        "likes": 600,
+        "comments": 97,
+        "engagement_rate": 0.0285,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001072/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001060",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier vs the competition",
+        "published_at": "2026-03-04T16:00:00",
+        "duration_sec": 524,
+        "views": 24329,
+        "likes": 850,
+        "comments": 106,
+        "engagement_rate": 0.0393,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001060/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001061",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Why we chose Glossier",
+        "published_at": "2026-03-26T20:00:00",
+        "duration_sec": 90,
+        "views": 24287,
+        "likes": 873,
+        "comments": 70,
+        "engagement_rate": 0.0388,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001061/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001064",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "New Glossier experience reveal",
+        "published_at": "2026-05-06T17:00:00",
+        "duration_sec": 50,
+        "views": 19496,
+        "likes": 631,
+        "comments": 51,
+        "engagement_rate": 0.035,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001064/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001071",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "2026 Glossier lineup review",
+        "published_at": "2026-04-16T22:00:00",
+        "duration_sec": 83,
+        "views": 19189,
+        "likes": 750,
+        "comments": 66,
+        "engagement_rate": 0.0425,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001071/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001066",
+        "brand_id": "brand_043",
+        "channel_id": "UC701bac248bec2b2daa684c",
+        "title": "Glossier CEO on the future of creators",
+        "published_at": "2026-03-13T11:00:00",
+        "duration_sec": 55,
+        "views": 19140,
+        "likes": 1108,
+        "comments": 162,
+        "engagement_rate": 0.0664,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001066/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001308",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Glossier beat / missed \u2014 let's discuss",
+        "posted_at": "2026-03-11T18:00:00",
+        "author": "u/MidnightMod",
+        "score": 10856,
+        "num_comments": 2750,
+        "sentiment": -0.05,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001308/"
+      },
+      {
+        "post_id": "t3_0001293",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Honest review of the Glossier experience",
+        "posted_at": "2026-04-19T05:00:00",
+        "author": "u/UnpaidMod",
+        "score": 10433,
+        "num_comments": 1186,
+        "sentiment": -0.044,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001293/"
+      },
+      {
+        "post_id": "t3_0001303",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "The Glossier discourse is unhinged today",
+        "posted_at": "2026-04-16T23:00:00",
+        "author": "u/CulturalCritic",
+        "score": 7798,
+        "num_comments": 1198,
+        "sentiment": -0.063,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001303/"
+      },
+      {
+        "post_id": "t3_0001313",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "30 days with Glossier's drop",
+        "posted_at": "2026-03-18T13:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 7330,
+        "num_comments": 1912,
+        "sentiment": -0.302,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001313/"
+      },
+      {
+        "post_id": "t3_0001298",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Tried Glossier \u2014 here's my take",
+        "posted_at": "2026-02-14T03:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 4595,
+        "num_comments": 290,
+        "sentiment": 0.274,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001298/"
+      },
+      {
+        "post_id": "t3_0001301",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Anyone seen the new Glossier edition drop?",
+        "posted_at": "2026-03-29T20:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 2729,
+        "num_comments": 741,
+        "sentiment": 0.122,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001301/"
+      },
+      {
+        "post_id": "t3_0001311",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Is anyone else fed up with Glossier lately?",
+        "posted_at": "2026-05-01T04:00:00",
+        "author": "u/MarketingPro42",
+        "score": 1686,
+        "num_comments": 318,
+        "sentiment": -0.466,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001311/"
+      },
+      {
+        "post_id": "t3_0001297",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Need help with my Glossier order",
+        "posted_at": "2026-04-27T11:00:00",
+        "author": "u/SocialSarah",
+        "score": 1490,
+        "num_comments": 279,
+        "sentiment": -0.204,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001297/"
+      },
+      {
+        "post_id": "t3_0001309",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Glossier TikTok meme has me dying",
+        "posted_at": "2026-03-10T01:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 1060,
+        "num_comments": 310,
+        "sentiment": 0.471,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001309/"
+      },
+      {
+        "post_id": "t3_0001299",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Anyone seen the new Glossier series drop?",
+        "posted_at": "2026-02-22T15:00:00",
+        "author": "u/TacoCritic",
+        "score": 815,
+        "num_comments": 109,
+        "sentiment": -0.253,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001299/"
+      },
+      {
+        "post_id": "t3_0001318",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Glossier did WHAT?",
+        "posted_at": "2026-03-09T16:00:00",
+        "author": "u/StreamingNerd",
+        "score": 580,
+        "num_comments": 126,
+        "sentiment": -0.608,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001318/"
+      },
+      {
+        "post_id": "t3_0001312",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Glossier did WHAT?",
+        "posted_at": "2026-03-22T09:00:00",
+        "author": "u/UnpaidMod",
+        "score": 486,
+        "num_comments": 95,
+        "sentiment": -0.296,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001312/"
+      },
+      {
+        "post_id": "t3_0001302",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Anyone seen the new Glossier release drop?",
+        "posted_at": "2026-04-21T03:00:00",
+        "author": "u/QuietBuyer",
+        "score": 362,
+        "num_comments": 60,
+        "sentiment": -0.074,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001302/"
+      },
+      {
+        "post_id": "t3_0001316",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "The Glossier discourse is unhinged today",
+        "posted_at": "2026-05-07T17:00:00",
+        "author": "u/MidnightMod",
+        "score": 247,
+        "num_comments": 60,
+        "sentiment": 0.45,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001316/"
+      },
+      {
+        "post_id": "t3_0001315",
+        "brand_id": "brand_043",
+        "brand_name_match": "Glossier",
+        "subreddit": "r/glossier",
+        "title": "Glossier just announced the new platform \u2014 thoughts?",
+        "posted_at": "2026-02-14T01:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 219,
+        "num_comments": 56,
+        "sentiment": 0.447,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/glossier/comments/t3_0001315/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Glossier",
+        "title": "Glossier",
+        "category": "brand",
+        "pageviews_28d": 899370,
+        "pageviews_growth_pct": -28.16,
+        "pageviews_volatility": 0.2787,
+        "related_brands": [
+          "brand_043"
+        ]
+      },
+      {
+        "topic_id": "Streaming_wars",
+        "title": "Streaming wars",
+        "category": "culture",
+        "pageviews_28d": 746262,
+        "pageviews_growth_pct": 11.62,
+        "pageviews_volatility": 0.2246,
+        "related_brands": [
+          "brand_043",
+          "brand_035",
+          "brand_033",
+          "brand_051"
+        ]
+      },
+      {
+        "topic_id": "Esports_World_Cup",
+        "title": "Esports World Cup",
+        "category": "event",
+        "pageviews_28d": 761211,
+        "pageviews_growth_pct": -67.76,
+        "pageviews_volatility": 0.7202,
+        "related_brands": [
+          "brand_043",
+          "brand_038",
+          "brand_022"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit mention velocity up 46% \u2014 emerging conversation cluster",
+      "Dominant Reddit topic cluster: product-review",
+      "Reddit sentiment dipped to -0.15 in r/glossier after pricing or service complaints",
+      "YT views +10% MoM driven by recent product reveal"
+    ],
+    "ai_summary": "Glossier is running hot in the Beauty panel with an attention score of 56. YouTube and Reddit are reinforcing each other \u2014 views +10% and r/glossier sentiment of -0.15 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-14",
+        "views": 32868
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-15",
+        "views": 34582
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-16",
+        "views": 31713
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-17",
+        "views": 28984
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-18",
+        "views": 27354
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-19",
+        "views": 28969
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-20",
+        "views": 29544
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-21",
+        "views": 34452
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-22",
+        "views": 32337
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-23",
+        "views": 34295
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-24",
+        "views": 35522
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-25",
+        "views": 32286
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-26",
+        "views": 32559
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-27",
+        "views": 32324
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-02-28",
+        "views": 26320
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-01",
+        "views": 31315
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-02",
+        "views": 30870
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-03",
+        "views": 34143
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-04",
+        "views": 30760
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-05",
+        "views": 34116
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-06",
+        "views": 38217
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-07",
+        "views": 34959
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-08",
+        "views": 31416
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-09",
+        "views": 34845
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-10",
+        "views": 29223
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-11",
+        "views": 29100
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-12",
+        "views": 26760
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-13",
+        "views": 32120
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-14",
+        "views": 27627
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-15",
+        "views": 33485
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-16",
+        "views": 27616
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-17",
+        "views": 31889
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-18",
+        "views": 26779
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-19",
+        "views": 28120
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-20",
+        "views": 83299
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-21",
+        "views": 73212
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-22",
+        "views": 70672
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-23",
+        "views": 62843
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-24",
+        "views": 56545
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-25",
+        "views": 51472
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-26",
+        "views": 51611
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-27",
+        "views": 49609
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-28",
+        "views": 44426
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-29",
+        "views": 43455
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-30",
+        "views": 42504
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-03-31",
+        "views": 40957
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-01",
+        "views": 41695
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-02",
+        "views": 42519
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-03",
+        "views": 39862
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-04",
+        "views": 38050
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-05",
+        "views": 35379
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-06",
+        "views": 33556
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-07",
+        "views": 36427
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-08",
+        "views": 32466
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-09",
+        "views": 29616
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-10",
+        "views": 33721
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-11",
+        "views": 37431
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-12",
+        "views": 43216
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-13",
+        "views": 38319
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-14",
+        "views": 32491
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-15",
+        "views": 33472
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-16",
+        "views": 33019
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-17",
+        "views": 32946
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-18",
+        "views": 34284
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-19",
+        "views": 33697
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-20",
+        "views": 37975
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-21",
+        "views": 34669
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-22",
+        "views": 34138
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-23",
+        "views": 38002
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-24",
+        "views": 34400
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-25",
+        "views": 29781
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-26",
+        "views": 30979
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-27",
+        "views": 31077
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-28",
+        "views": 31804
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-29",
+        "views": 32269
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-04-30",
+        "views": 34542
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-01",
+        "views": 38519
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-02",
+        "views": 37810
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-03",
+        "views": 31677
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-04",
+        "views": 27923
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-05",
+        "views": 22438
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-06",
+        "views": 24552
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-07",
+        "views": 27745
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-08",
+        "views": 33823
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-09",
+        "views": 30517
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-10",
+        "views": 34004
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-11",
+        "views": 33103
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-12",
+        "views": 24695
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-13",
+        "views": 30667
+      },
+      {
+        "topic_id": "Glossier",
+        "date": "2026-05-14",
+        "views": 31334
+      }
+    ]
+  }
+}

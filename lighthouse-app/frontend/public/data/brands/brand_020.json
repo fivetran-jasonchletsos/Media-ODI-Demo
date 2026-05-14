@@ -1,0 +1,923 @@
+{
+  "brand": {
+    "brand_id": "brand_020",
+    "brand_handle": "@google",
+    "brand_name": "Google",
+    "vertical": "Tech",
+    "hq_country": "US",
+    "established_year": 1998,
+    "description": "Google is a internet brand established in 1998, headquartered in US.",
+    "yt_channel_id": "UC2b681c0a24baff8899d716",
+    "yt_subscribers": 47721,
+    "yt_views_total": 16703303,
+    "yt_videos_count": 737,
+    "yt_views_28d": 555723,
+    "yt_subs_growth_28d_pct": 29.45,
+    "reddit_mentions_28d": 184,
+    "reddit_avg_sentiment": -0.249,
+    "reddit_top_subreddit": "r/google",
+    "reddit_velocity_28d": 0.799,
+    "wiki_pageviews_28d": 575111,
+    "wiki_pageviews_growth_28d_pct": 76.9,
+    "attention_score": 74.06,
+    "signal_bucket": "breakout",
+    "share_of_voice": 20.5,
+    "last_signal_change": "2026-04-22",
+    "videos": [
+      {
+        "video_id": "yt_000469",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "How Google is reimagining the category",
+        "published_at": "2026-03-18T11:00:00",
+        "duration_sec": 86,
+        "views": 276561,
+        "likes": 8980,
+        "comments": 1160,
+        "engagement_rate": 0.0367,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000469/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000492",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "What nobody tells you about Google",
+        "published_at": "2026-05-07T04:00:00",
+        "duration_sec": 1265,
+        "views": 49609,
+        "likes": 2906,
+        "comments": 458,
+        "engagement_rate": 0.0678,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000492/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000481",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "The real story behind Google",
+        "published_at": "2026-02-22T11:00:00",
+        "duration_sec": 83,
+        "views": 47701,
+        "likes": 7776,
+        "comments": 1134,
+        "engagement_rate": 0.1868,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000481/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000474",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Inside Google's 2026 strategy",
+        "published_at": "2026-05-10T04:00:00",
+        "duration_sec": 711,
+        "views": 45849,
+        "likes": 1429,
+        "comments": 183,
+        "engagement_rate": 0.0352,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000474/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000470",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google vs the competition",
+        "published_at": "2026-05-02T14:00:00",
+        "duration_sec": 332,
+        "views": 44905,
+        "likes": 2845,
+        "comments": 439,
+        "engagement_rate": 0.0731,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000470/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000489",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "New Google drop reveal",
+        "published_at": "2026-03-02T09:00:00",
+        "duration_sec": 830,
+        "views": 43540,
+        "likes": 1040,
+        "comments": 75,
+        "engagement_rate": 0.0256,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000489/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000471",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "2026 Google model review",
+        "published_at": "2026-02-28T01:00:00",
+        "duration_sec": 1668,
+        "views": 41810,
+        "likes": 2734,
+        "comments": 439,
+        "engagement_rate": 0.0759,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000471/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000482",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google vs the competition",
+        "published_at": "2026-04-14T02:00:00",
+        "duration_sec": 277,
+        "views": 38043,
+        "likes": 1621,
+        "comments": 124,
+        "engagement_rate": 0.0459,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000482/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000476",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Behind the scenes at Google",
+        "published_at": "2026-05-08T16:00:00",
+        "duration_sec": 579,
+        "views": 37609,
+        "likes": 1289,
+        "comments": 213,
+        "engagement_rate": 0.0399,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000476/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000480",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google vs the competition",
+        "published_at": "2026-02-28T17:00:00",
+        "duration_sec": 1743,
+        "views": 31906,
+        "likes": 747,
+        "comments": 61,
+        "engagement_rate": 0.0253,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000480/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000495",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google just changed the game with collection",
+        "published_at": "2026-03-26T08:00:00",
+        "duration_sec": 430,
+        "views": 25717,
+        "likes": 1015,
+        "comments": 152,
+        "engagement_rate": 0.0454,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000495/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000488",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "The real story behind Google",
+        "published_at": "2026-04-18T20:00:00",
+        "duration_sec": 48,
+        "views": 25435,
+        "likes": 1051,
+        "comments": 170,
+        "engagement_rate": 0.048,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000488/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000473",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google unveils release",
+        "published_at": "2026-03-05T13:00:00",
+        "duration_sec": 1248,
+        "views": 23314,
+        "likes": 1553,
+        "comments": 260,
+        "engagement_rate": 0.0778,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000473/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000490",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "How Google is reimagining consumer attention",
+        "published_at": "2026-02-28T00:00:00",
+        "duration_sec": 78,
+        "views": 22978,
+        "likes": 1308,
+        "comments": 210,
+        "engagement_rate": 0.0661,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000490/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000493",
+        "brand_id": "brand_020",
+        "channel_id": "UC2b681c0a24baff8899d716",
+        "title": "Google vs the competition",
+        "published_at": "2026-05-05T01:00:00",
+        "duration_sec": 49,
+        "views": 22176,
+        "likes": 1626,
+        "comments": 101,
+        "engagement_rate": 0.0779,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000493/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000598",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Why I'm switching to Google",
+        "posted_at": "2026-02-26T19:00:00",
+        "author": "u/BrandLurker",
+        "score": 13680,
+        "num_comments": 2387,
+        "sentiment": 0.089,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/google/comments/t3_0000598/"
+      },
+      {
+        "post_id": "t3_0000588",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Need help with my Google order",
+        "posted_at": "2026-04-22T15:00:00",
+        "author": "u/TacoCritic",
+        "score": 9655,
+        "num_comments": 2863,
+        "sentiment": -0.118,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/google/comments/t3_0000588/"
+      },
+      {
+        "post_id": "t3_0000614",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google did WHAT?",
+        "posted_at": "2026-03-04T08:00:00",
+        "author": "u/MarketingPro42",
+        "score": 7070,
+        "num_comments": 1532,
+        "sentiment": -0.577,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/google/comments/t3_0000614/"
+      },
+      {
+        "post_id": "t3_0000593",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Trying to cancel Google \u2014 nightmare",
+        "posted_at": "2026-02-25T10:00:00",
+        "author": "u/AgencyLifer",
+        "score": 5029,
+        "num_comments": 1406,
+        "sentiment": -0.21,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/google/comments/t3_0000593/"
+      },
+      {
+        "post_id": "t3_0000596",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google is having a moment",
+        "posted_at": "2026-02-15T17:00:00",
+        "author": "u/AgencyLifer",
+        "score": 3337,
+        "num_comments": 185,
+        "sentiment": 0.394,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/google/comments/t3_0000596/"
+      },
+      {
+        "post_id": "t3_0000608",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Why Google is so polarizing",
+        "posted_at": "2026-02-12T16:00:00",
+        "author": "u/QuietBuyer",
+        "score": 2361,
+        "num_comments": 617,
+        "sentiment": -0.131,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/google/comments/t3_0000608/"
+      },
+      {
+        "post_id": "t3_0000602",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google TikTok meme has me dying",
+        "posted_at": "2026-02-25T02:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2242,
+        "num_comments": 614,
+        "sentiment": 0.154,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/google/comments/t3_0000602/"
+      },
+      {
+        "post_id": "t3_0000591",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Is anyone else fed up with Google lately?",
+        "posted_at": "2026-03-31T23:00:00",
+        "author": "u/CreatorLens",
+        "score": 1950,
+        "num_comments": 144,
+        "sentiment": -0.386,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/google/comments/t3_0000591/"
+      },
+      {
+        "post_id": "t3_0000601",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google beat / missed \u2014 let's discuss",
+        "posted_at": "2026-02-19T02:00:00",
+        "author": "u/CulturalCritic",
+        "score": 1665,
+        "num_comments": 494,
+        "sentiment": -0.073,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/google/comments/t3_0000601/"
+      },
+      {
+        "post_id": "t3_0000590",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Random Google thought",
+        "posted_at": "2026-05-10T13:00:00",
+        "author": "u/MidwestDad88",
+        "score": 1287,
+        "num_comments": 218,
+        "sentiment": 0.262,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/google/comments/t3_0000590/"
+      },
+      {
+        "post_id": "t3_0000617",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google TikTok meme has me dying",
+        "posted_at": "2026-02-19T05:00:00",
+        "author": "u/UnpaidMod",
+        "score": 1120,
+        "num_comments": 255,
+        "sentiment": 0.415,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/google/comments/t3_0000617/"
+      },
+      {
+        "post_id": "t3_0000599",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "30 days with Google's lineup",
+        "posted_at": "2026-03-04T12:00:00",
+        "author": "u/TacoCritic",
+        "score": 1018,
+        "num_comments": 72,
+        "sentiment": 0.177,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/google/comments/t3_0000599/"
+      },
+      {
+        "post_id": "t3_0000607",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google customer service is impossible to reach",
+        "posted_at": "2026-04-25T03:00:00",
+        "author": "u/QuietBuyer",
+        "score": 808,
+        "num_comments": 145,
+        "sentiment": -0.3,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/google/comments/t3_0000607/"
+      },
+      {
+        "post_id": "t3_0000605",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "30 days with Google's model",
+        "posted_at": "2026-02-14T23:00:00",
+        "author": "u/PixelPirate",
+        "score": 725,
+        "num_comments": 77,
+        "sentiment": 0.205,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/google/comments/t3_0000605/"
+      },
+      {
+        "post_id": "t3_0000611",
+        "brand_id": "brand_020",
+        "brand_name_match": "Google",
+        "subreddit": "r/google",
+        "title": "Google's new collection launch is wild",
+        "posted_at": "2026-02-16T11:00:00",
+        "author": "u/StreamingNerd",
+        "score": 641,
+        "num_comments": 108,
+        "sentiment": 0.111,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/google/comments/t3_0000611/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Google",
+        "title": "Google",
+        "category": "brand",
+        "pageviews_28d": 513001,
+        "pageviews_growth_pct": -13.7,
+        "pageviews_volatility": 0.4947,
+        "related_brands": [
+          "brand_020"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +77% \u2014 news cycle is active",
+      "YT views +29% MoM driven by recent product reveal",
+      "Top YouTube asset: \"How Google is reimagining the category\"",
+      "Reddit sentiment dipped to -0.25 in r/google after pricing or service complaints"
+    ],
+    "ai_summary": "Google's cross-channel attention has accelerated sharply in the past 28 days, with a +29% YouTube subscriber lift and matching uplift in r/google sentiment (avg -0.25). Wikipedia pageview volatility (+77% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Google",
+        "date": "2026-02-14",
+        "views": 20670
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-15",
+        "views": 21244
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-16",
+        "views": 20483
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-17",
+        "views": 22906
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-18",
+        "views": 23182
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-19",
+        "views": 21210
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-20",
+        "views": 22727
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-21",
+        "views": 22175
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-22",
+        "views": 78974
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-23",
+        "views": 73398
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-24",
+        "views": 67091
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-25",
+        "views": 61614
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-26",
+        "views": 56718
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-27",
+        "views": 49811
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-02-28",
+        "views": 43776
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-01",
+        "views": 41004
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-02",
+        "views": 37912
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-03",
+        "views": 35902
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-04",
+        "views": 32510
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-05",
+        "views": 31801
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-06",
+        "views": 30312
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-07",
+        "views": 26445
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-08",
+        "views": 26298
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-09",
+        "views": 22678
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-10",
+        "views": 17472
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-11",
+        "views": 18586
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-12",
+        "views": 16186
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-13",
+        "views": 18362
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-14",
+        "views": 19870
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-15",
+        "views": 22840
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-16",
+        "views": 22673
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-17",
+        "views": 22948
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-18",
+        "views": 24535
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-19",
+        "views": 20765
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-20",
+        "views": 20508
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-21",
+        "views": 18456
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-22",
+        "views": 21493
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-23",
+        "views": 21493
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-24",
+        "views": 20712
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-25",
+        "views": 21936
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-26",
+        "views": 25085
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-27",
+        "views": 23437
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-28",
+        "views": 20016
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-29",
+        "views": 23085
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-30",
+        "views": 20628
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-03-31",
+        "views": 19943
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-01",
+        "views": 20781
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-02",
+        "views": 20506
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-03",
+        "views": 22805
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-04",
+        "views": 21963
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-05",
+        "views": 21107
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-06",
+        "views": 20394
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-07",
+        "views": 20799
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-08",
+        "views": 19763
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-09",
+        "views": 22332
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-10",
+        "views": 23005
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-11",
+        "views": 19675
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-12",
+        "views": 22157
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-13",
+        "views": 20623
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-14",
+        "views": 20231
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-15",
+        "views": 23224
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-16",
+        "views": 18250
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-17",
+        "views": 18994
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-18",
+        "views": 17921
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-19",
+        "views": 20995
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-20",
+        "views": 18004
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-21",
+        "views": 20515
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-22",
+        "views": 19280
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-23",
+        "views": 12665
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-24",
+        "views": 19192
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-25",
+        "views": 22763
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-26",
+        "views": 17472
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-27",
+        "views": 16354
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-28",
+        "views": 17764
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-29",
+        "views": 19206
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-04-30",
+        "views": 21665
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-01",
+        "views": 18774
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-02",
+        "views": 16123
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-03",
+        "views": 17813
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-04",
+        "views": 16350
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-05",
+        "views": 18582
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-06",
+        "views": 17822
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-07",
+        "views": 20493
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-08",
+        "views": 16869
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-09",
+        "views": 16329
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-10",
+        "views": 17463
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-11",
+        "views": 15981
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-12",
+        "views": 18706
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-13",
+        "views": 20203
+      },
+      {
+        "topic_id": "Google",
+        "date": "2026-05-14",
+        "views": 18703
+      }
+    ]
+  }
+}

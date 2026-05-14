@@ -1,0 +1,938 @@
+{
+  "brand": {
+    "brand_id": "brand_039",
+    "brand_handle": "@chipotle",
+    "brand_name": "Chipotle",
+    "vertical": "QSR",
+    "hq_country": "US",
+    "established_year": 1993,
+    "description": "Chipotle is a fast casual brand established in 1993, headquartered in US.",
+    "yt_channel_id": "UC97a7a570c8ede9be3bb8ca",
+    "yt_subscribers": 129087,
+    "yt_views_total": 29828368,
+    "yt_videos_count": 3465,
+    "yt_views_28d": 824956,
+    "yt_subs_growth_28d_pct": 22.89,
+    "reddit_mentions_28d": 188,
+    "reddit_avg_sentiment": -0.108,
+    "reddit_top_subreddit": "r/Chipotle",
+    "reddit_velocity_28d": 0.431,
+    "wiki_pageviews_28d": 17847,
+    "wiki_pageviews_growth_28d_pct": 54.81,
+    "attention_score": 59.9,
+    "signal_bucket": "hot",
+    "share_of_voice": 22.74,
+    "last_signal_change": "2026-05-01",
+    "videos": [
+      {
+        "video_id": "yt_000975",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "model from Chipotle: first impressions",
+        "published_at": "2026-04-22T03:00:00",
+        "duration_sec": 69,
+        "views": 565205,
+        "likes": 26014,
+        "comments": 4531,
+        "engagement_rate": 0.054,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000975/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000957",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "flagship from Chipotle: first impressions",
+        "published_at": "2026-02-19T14:00:00",
+        "duration_sec": 48,
+        "views": 71403,
+        "likes": 2547,
+        "comments": 388,
+        "engagement_rate": 0.0411,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000957/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000955",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Behind the scenes at Chipotle",
+        "published_at": "2026-04-06T14:00:00",
+        "duration_sec": 409,
+        "views": 69877,
+        "likes": 3053,
+        "comments": 168,
+        "engagement_rate": 0.0461,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000955/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000965",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Chipotle just changed the game with lineup",
+        "published_at": "2026-03-17T01:00:00",
+        "duration_sec": 684,
+        "views": 69156,
+        "likes": 1990,
+        "comments": 177,
+        "engagement_rate": 0.0313,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000965/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000977",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Chipotle unveils platform",
+        "published_at": "2026-02-15T21:00:00",
+        "duration_sec": 49,
+        "views": 68245,
+        "likes": 2333,
+        "comments": 389,
+        "engagement_rate": 0.0399,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000977/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000978",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "What nobody tells you about Chipotle",
+        "published_at": "2026-04-03T22:00:00",
+        "duration_sec": 1246,
+        "views": 67184,
+        "likes": 2491,
+        "comments": 217,
+        "engagement_rate": 0.0403,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000978/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000971",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "2026 Chipotle flagship review",
+        "published_at": "2026-04-10T19:00:00",
+        "duration_sec": 558,
+        "views": 60471,
+        "likes": 2579,
+        "comments": 299,
+        "engagement_rate": 0.0476,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000971/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000963",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Chipotle vs the competition",
+        "published_at": "2026-03-05T15:00:00",
+        "duration_sec": 63,
+        "views": 57459,
+        "likes": 3956,
+        "comments": 246,
+        "engagement_rate": 0.0731,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000963/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000956",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Chipotle just changed the game with model",
+        "published_at": "2026-02-23T12:00:00",
+        "duration_sec": 1188,
+        "views": 53251,
+        "likes": 1102,
+        "comments": 96,
+        "engagement_rate": 0.0225,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000956/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000960",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "experience from Chipotle: first impressions",
+        "published_at": "2026-05-07T20:00:00",
+        "duration_sec": 1104,
+        "views": 51193,
+        "likes": 2006,
+        "comments": 316,
+        "engagement_rate": 0.0454,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000960/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000973",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "I tried Chipotle's new edition for 30 days",
+        "published_at": "2026-04-15T02:00:00",
+        "duration_sec": 998,
+        "views": 50570,
+        "likes": 3270,
+        "comments": 473,
+        "engagement_rate": 0.074,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000973/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000969",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "Chipotle just changed the game with flagship",
+        "published_at": "2026-02-21T23:00:00",
+        "duration_sec": 81,
+        "views": 49861,
+        "likes": 3504,
+        "comments": 297,
+        "engagement_rate": 0.0762,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000969/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000979",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "2026 Chipotle campaign review",
+        "published_at": "2026-04-22T11:00:00",
+        "duration_sec": 52,
+        "views": 43952,
+        "likes": 2357,
+        "comments": 367,
+        "engagement_rate": 0.062,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000979/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000967",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "I tried Chipotle's new drop for 30 days",
+        "published_at": "2026-05-09T10:00:00",
+        "duration_sec": 305,
+        "views": 43626,
+        "likes": 2994,
+        "comments": 402,
+        "engagement_rate": 0.0778,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000967/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000970",
+        "brand_id": "brand_039",
+        "channel_id": "UC97a7a570c8ede9be3bb8ca",
+        "title": "New Chipotle experience reveal",
+        "published_at": "2026-02-14T09:00:00",
+        "duration_sec": 1306,
+        "views": 36723,
+        "likes": 979,
+        "comments": 92,
+        "engagement_rate": 0.0292,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000970/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001190",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle just announced the new drop \u2014 thoughts?",
+        "posted_at": "2026-03-26T02:00:00",
+        "author": "u/PixelPirate",
+        "score": 4952,
+        "num_comments": 1438,
+        "sentiment": 0.376,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001190/"
+      },
+      {
+        "post_id": "t3_0001193",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle x [collab] is actually cool",
+        "posted_at": "2026-04-24T03:00:00",
+        "author": "u/QuietBuyer",
+        "score": 4828,
+        "num_comments": 560,
+        "sentiment": 0.262,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001193/"
+      },
+      {
+        "post_id": "t3_0001184",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "30 days with Chipotle's release",
+        "posted_at": "2026-03-19T12:00:00",
+        "author": "u/UnpaidMod",
+        "score": 1894,
+        "num_comments": 459,
+        "sentiment": -0.103,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001184/"
+      },
+      {
+        "post_id": "t3_0001189",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle did WHAT?",
+        "posted_at": "2026-04-24T10:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 1821,
+        "num_comments": 140,
+        "sentiment": -0.321,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001189/"
+      },
+      {
+        "post_id": "t3_0001192",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle did WHAT?",
+        "posted_at": "2026-02-17T10:00:00",
+        "author": "u/PixelPirate",
+        "score": 1635,
+        "num_comments": 162,
+        "sentiment": -0.29,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001192/"
+      },
+      {
+        "post_id": "t3_0001173",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle x [collab] is actually cool",
+        "posted_at": "2026-03-14T00:00:00",
+        "author": "u/TacoCritic",
+        "score": 1275,
+        "num_comments": 312,
+        "sentiment": 0.079,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001173/"
+      },
+      {
+        "post_id": "t3_0001197",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle just announced the new release \u2014 thoughts?",
+        "posted_at": "2026-03-03T16:00:00",
+        "author": "u/SocialSarah",
+        "score": 1177,
+        "num_comments": 349,
+        "sentiment": 0.203,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001197/"
+      },
+      {
+        "post_id": "t3_0001186",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Honest review of the Chipotle edition",
+        "posted_at": "2026-03-07T15:00:00",
+        "author": "u/MidnightMod",
+        "score": 689,
+        "num_comments": 101,
+        "sentiment": -0.004,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001186/"
+      },
+      {
+        "post_id": "t3_0001195",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle is having a moment",
+        "posted_at": "2026-04-29T02:00:00",
+        "author": "u/SignalSeeker",
+        "score": 659,
+        "num_comments": 192,
+        "sentiment": 0.31,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001195/"
+      },
+      {
+        "post_id": "t3_0001172",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "First look at Chipotle's lineup",
+        "posted_at": "2026-05-02T06:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 629,
+        "num_comments": 185,
+        "sentiment": -0.031,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001172/"
+      },
+      {
+        "post_id": "t3_0001198",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "First look at Chipotle's campaign",
+        "posted_at": "2026-03-15T19:00:00",
+        "author": "u/PixelPirate",
+        "score": 271,
+        "num_comments": 49,
+        "sentiment": 0.421,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001198/"
+      },
+      {
+        "post_id": "t3_0001174",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Is anyone else fed up with Chipotle lately?",
+        "posted_at": "2026-04-21T23:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 232,
+        "num_comments": 49,
+        "sentiment": -0.484,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001174/"
+      },
+      {
+        "post_id": "t3_0001180",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Trying to cancel Chipotle \u2014 nightmare",
+        "posted_at": "2026-02-22T05:00:00",
+        "author": "u/CulturalCritic",
+        "score": 221,
+        "num_comments": 46,
+        "sentiment": 0.14,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001180/"
+      },
+      {
+        "post_id": "t3_0001196",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle pricing change is a slap in the face",
+        "posted_at": "2026-03-04T16:00:00",
+        "author": "u/SignalSeeker",
+        "score": 178,
+        "num_comments": 26,
+        "sentiment": -0.617,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001196/"
+      },
+      {
+        "post_id": "t3_0001187",
+        "brand_id": "brand_039",
+        "brand_name_match": "Chipotle",
+        "subreddit": "r/Chipotle",
+        "title": "Chipotle just announced the new platform \u2014 thoughts?",
+        "posted_at": "2026-03-30T08:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 123,
+        "num_comments": 14,
+        "sentiment": 0.161,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Chipotle/comments/t3_0001187/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "title": "Chipotle",
+        "category": "brand",
+        "pageviews_28d": 31825,
+        "pageviews_growth_pct": 61.31,
+        "pageviews_volatility": 0.5298,
+        "related_brands": [
+          "brand_039"
+        ]
+      },
+      {
+        "topic_id": "MrBeast",
+        "title": "MrBeast",
+        "category": "person",
+        "pageviews_28d": 653409,
+        "pageviews_growth_pct": -47.49,
+        "pageviews_volatility": 0.4878,
+        "related_brands": [
+          "brand_009",
+          "brand_039",
+          "brand_032",
+          "brand_001"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit mention velocity up 43% \u2014 emerging conversation cluster",
+      "Wikipedia pageviews surged +55% \u2014 news cycle is active",
+      "Reddit sentiment dipped to -0.11 in r/Chipotle after pricing or service complaints",
+      "Top YouTube asset: \"model from Chipotle: first impressions\"",
+      "YT views +23% MoM driven by recent product reveal"
+    ],
+    "ai_summary": "Chipotle is running hot in the QSR panel with an attention score of 60. YouTube and Reddit are reinforcing each other \u2014 views +23% and r/Chipotle sentiment of -0.11 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-14",
+        "views": 556
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-15",
+        "views": 663
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-16",
+        "views": 813
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-17",
+        "views": 695
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-18",
+        "views": 706
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-19",
+        "views": 719
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-20",
+        "views": 705
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-21",
+        "views": 609
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-22",
+        "views": 523
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-23",
+        "views": 501
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-24",
+        "views": 607
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-25",
+        "views": 601
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-26",
+        "views": 665
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-27",
+        "views": 579
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-02-28",
+        "views": 620
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-01",
+        "views": 595
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-02",
+        "views": 596
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-03",
+        "views": 685
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-04",
+        "views": 700
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-05",
+        "views": 708
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-06",
+        "views": 663
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-07",
+        "views": 690
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-08",
+        "views": 622
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-09",
+        "views": 591
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-10",
+        "views": 658
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-11",
+        "views": 584
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-12",
+        "views": 674
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-13",
+        "views": 667
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-14",
+        "views": 655
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-15",
+        "views": 660
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-16",
+        "views": 659
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-17",
+        "views": 603
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-18",
+        "views": 604
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-19",
+        "views": 658
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-20",
+        "views": 715
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-21",
+        "views": 614
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-22",
+        "views": 715
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-23",
+        "views": 796
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-24",
+        "views": 862
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-25",
+        "views": 882
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-26",
+        "views": 852
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-27",
+        "views": 603
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-28",
+        "views": 648
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-29",
+        "views": 654
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-30",
+        "views": 607
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-03-31",
+        "views": 607
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-01",
+        "views": 555
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-02",
+        "views": 680
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-03",
+        "views": 604
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-04",
+        "views": 569
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-05",
+        "views": 516
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-06",
+        "views": 590
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-07",
+        "views": 703
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-08",
+        "views": 709
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-09",
+        "views": 745
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-10",
+        "views": 801
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-11",
+        "views": 780
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-12",
+        "views": 668
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-13",
+        "views": 813
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-14",
+        "views": 831
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-15",
+        "views": 825
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-16",
+        "views": 785
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-17",
+        "views": 773
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-18",
+        "views": 627
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-19",
+        "views": 726
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-20",
+        "views": 715
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-21",
+        "views": 640
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-22",
+        "views": 652
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-23",
+        "views": 679
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-24",
+        "views": 711
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-25",
+        "views": 710
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-26",
+        "views": 635
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-27",
+        "views": 581
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-28",
+        "views": 535
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-29",
+        "views": 579
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-04-30",
+        "views": 2940
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-01",
+        "views": 2729
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-02",
+        "views": 2370
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-03",
+        "views": 2002
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-04",
+        "views": 1722
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-05",
+        "views": 1662
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-06",
+        "views": 1389
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-07",
+        "views": 1441
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-08",
+        "views": 1244
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-09",
+        "views": 1127
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-10",
+        "views": 1017
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-11",
+        "views": 1001
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-12",
+        "views": 936
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-13",
+        "views": 790
+      },
+      {
+        "topic_id": "Chipotle_Mexican_Grill",
+        "date": "2026-05-14",
+        "views": 892
+      }
+    ]
+  }
+}

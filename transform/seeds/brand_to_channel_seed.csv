@@ -1,0 +1,61 @@
+brand_id,brand_handle,brand_name,yt_channel_id,wiki_topic_id,vertical,hq_country,established_year,description
+nike,@nike,Nike,UCUFgkRb0ZHc4Rpq15T1MoAQ,Nike,Fashion,US,1964,Athletic footwear and apparel company.
+apple,@apple,Apple,UCE_M8A5yxnLfW0KghEeajjw,Apple_Inc.,Tech,US,1976,Consumer electronics and software maker.
+tesla,@tesla,Tesla,UC5WjFrtBdufl6CZojX3D8dQ,Tesla_Inc.,Auto,US,2003,Electric vehicles and clean energy.
+netflix,@netflix,Netflix,UCWOA1ZGywLbqmigxE4Qlvuw,Netflix,Streaming,US,1997,Subscription streaming entertainment service.
+spotify,@spotify,Spotify,UCQ1UxRFhAQ3lkw1jJ0VZyhg,Spotify,Streaming,SE,2006,Audio streaming platform.
+cocacola,@cocacola,Coca-Cola,UCBl_Zojir3T3oxQ9wgcVrPQ,Coca-Cola,CPG,US,1892,Carbonated soft-drink maker.
+mcdonalds,@mcdonalds,McDonald's,UCRWyDhcaY0nntqGoQ2hyzqg,McDonald's,QSR,US,1940,Fast-food restaurant chain.
+amazon,@amazon,Amazon,UCSKsiK5535PuJ4kK_ndU37A,Amazon_(company),Retail,US,1994,E-commerce, cloud, and devices conglomerate.
+disney,@disney,Disney,UCuvFB8DqEvk4Tc8O3thMexQ,The_Walt_Disney_Company,Entertainment,US,1923,Diversified media and entertainment.
+starbucks,@starbucks,Starbucks,UCmQ2pf3rT_K5HsUNQ5MS-yQ,Starbucks,QSR,US,1971,Specialty coffee retailer.
+adidas,@adidas,Adidas,UCw7XEbF_VYrqcGuwk6Sq_eQ,Adidas,Fashion,DE,1949,Athletic apparel and footwear maker.
+pepsi,@pepsi,Pepsi,UC2dyWfPpEFNZXAVycHmRtoQ,Pepsi,CPG,US,1898,Carbonated soft-drink brand.
+sony,@sony,Sony,UCsvn_Po0SmunchJYOWpOxMg,Sony,Tech,JP,1946,Consumer electronics and entertainment.
+microsoft,@microsoft,Microsoft,UCJ24N4O0bP7LGLBDvye7oCA,Microsoft,Tech,US,1975,Software, cloud, and devices company.
+google,@google,Google,UCK8sQmJBp8GCxrOtXWBpyEA,Google,Tech,US,1998,Search, advertising, and cloud services.
+meta,@meta,Meta,UCh4PZeFa9hVXcOf6vKqLb6Q,Meta_Platforms,Tech,US,2004,Social networking and metaverse company.
+samsung,@samsung,Samsung,UCweOkPb1wVVH0Q0Tlj4a5Pw,Samsung,Tech,KR,1938,Electronics and consumer-device maker.
+lego,@lego,Lego,UCC1AcZ8VywA-At63K7zVCHQ,Lego,Entertainment,DK,1932,Plastic construction-toy manufacturer.
+sephora,@sephora,Sephora,UC9P0Hk-EUVl9CqW0e09iKuw,Sephora,Beauty,FR,1969,Multi-brand cosmetics retailer.
+target,@target,Target,UCkSCGuwBmAcAviIfvgUgQzg,Target_Corporation,Retail,US,1902,Big-box retailer.
+walmart,@walmart,Walmart,UCFAS-pVlAVZxc2vXgQAhBkA,Walmart,Retail,US,1962,Discount retail chain.
+costco,@costco,Costco,UCPSn7gG78F4xUcvOnGScRpw,Costco,Retail,US,1983,Membership warehouse retailer.
+uber,@uber,Uber,UCsPaPfNGW1V1pjN1Z83v9Tw,Uber,Tech,US,2009,Ride-hailing and delivery platform.
+lyft,@lyft,Lyft,UCp_oNYxhTUVoZBCu4nMtBgg,Lyft,Tech,US,2012,Ride-sharing platform.
+doordash,@doordash,DoorDash,UCZQpZQc-bRyy_X2RPvK1JKw,DoorDash,Tech,US,2013,On-demand food-delivery service.
+stripe,@stripe,Stripe,UCSf3l_h1XlVm5kf6_HuFP-Q,Stripe_(company),Tech,US,2010,Online payments infrastructure.
+shopify,@shopify,Shopify,UCBnZ16ahKA2DZ_T5W0FPUXg,Shopify,Tech,CA,2006,E-commerce platform for merchants.
+airbnb,@airbnb,Airbnb,UCQ9_5aN8FqxFy21k0NN9Y4w,Airbnb,Travel,US,2008,Short-term rental marketplace.
+roblox,@roblox,Roblox,UCqj0i_Jch9JIDjE6mWXfBxA,Roblox,Gaming,US,2004,User-generated game platform.
+activision,@activision,Activision,UC0lT9d-eaIVPNGqL9zEs4-A,Activision,Gaming,US,1979,Video game publisher.
+ea,@ea,EA,UCIHBybdoneVVpaQK7xMz1ww,Electronic_Arts,Gaming,US,1982,Video game publisher.
+ubisoft,@ubisoft,Ubisoft,UCBMvc6jvuTxH6TNo9ThpYjg,Ubisoft,Gaming,FR,1986,Video game publisher.
+sony_music,@sonymusic,Sony Music,UCT9zcQNlyht7fRlcjmflRSA,Sony_Music_Entertainment,Entertainment,US,1929,Recorded-music company.
+universal_music,@universalmusic,Universal Music,UCdgWFcGcSqpfd_t4lOSPyHA,Universal_Music_Group,Entertainment,NL,1934,Recorded-music conglomerate.
+warner_music,@warnermusic,Warner Music,UCAaTYbHnZcdfTHa_l_VYW9w,Warner_Music_Group,Entertainment,US,1958,Recorded-music conglomerate.
+tidal,@tidal,Tidal,UCm0pHyMV3VV5p4nzZkZbSog,Tidal_(service),Streaming,NO,2014,High-fidelity music streaming service.
+hbo,@hbo,HBO,UCVTQuK2CaWaTgSsoNkn5AiQ,HBO,Streaming,US,1972,Premium cable network and streamer.
+hulu,@hulu,Hulu,UCM3wPS6sUg7zr3wgqr_Sk6Q,Hulu,Streaming,US,2007,Subscription streaming service.
+paramount,@paramount,Paramount,UCF9imwPMSGz4Vq1NiTWCC7g,Paramount_Pictures,Streaming,US,1912,Film studio and streamer.
+disney_plus,@disneyplus,Disney+,UCIrgJt-uMHU75WkzgQqAuRA,Disney%2B,Streaming,US,2019,Subscription streaming service from Disney.
+peacock,@peacock,Peacock,UCi-O1bnHqLEoXJqLZbN1QWA,Peacock_(streaming_service),Streaming,US,2020,NBCUniversal subscription streaming service.
+fx,@fx,FX,UC44dXq0DKqQepNUC4xBsRgg,FX_(TV_channel),Entertainment,US,1994,Cable television network.
+bmw,@bmw,BMW,UCO5IQ70V7l-XpHW40HwaGsw,BMW,Auto,DE,1916,Luxury vehicle manufacturer.
+mercedesbenz,@mercedesbenz,Mercedes-Benz,UCBkmaJDXa9pFvfntpkjnHnQ,Mercedes-Benz,Auto,DE,1926,Luxury vehicle manufacturer.
+ford,@ford,Ford,UC3KfH-iqRDmFwR2eItuYpzg,Ford_Motor_Company,Auto,US,1903,Automobile manufacturer.
+gm,@gm,General Motors,UC8wmS3v_TIaWZkXuq_J-jHA,General_Motors,Auto,US,1908,Automobile manufacturer.
+toyota,@toyota,Toyota,UC50jFcw8h7v_KuOSpzybxsg,Toyota,Auto,JP,1937,Automobile manufacturer.
+honda,@honda,Honda,UCJ04ZD8FuLKBGZ81qOR_J9Q,Honda,Auto,JP,1948,Automobile and motorcycle manufacturer.
+hyundai,@hyundai,Hyundai,UCLk_Yqz31qE7uZ8mFGV1zMQ,Hyundai_Motor_Company,Auto,KR,1967,Automobile manufacturer.
+chanel,@chanel,Chanel,UCYWvFlVlhh4_qfFAQ4pXBlw,Chanel,Fashion,FR,1910,Luxury fashion and beauty house.
+loreal,@loreal,L'Oreal,UCwRkRoIvBJ-uH4ZH5J5tlqg,L%27Or%C3%A9al,Beauty,FR,1909,Cosmetics and personal-care company.
+fenty,@fenty,Fenty Beauty,UCXz4hSnpaTRZH2y_eMTk6mw,Fenty_Beauty,Beauty,US,2017,Inclusive beauty brand by Rihanna.
+chipotle,@chipotle,Chipotle,UCqfzVE9YwM4tZTBcCXr46OQ,Chipotle_Mexican_Grill,QSR,US,1993,Fast-casual restaurant chain.
+chickfila,@chickfila,Chick-fil-A,UCB7e7n0Vt-IhMnj8U-XLP2Q,Chick-fil-A,QSR,US,1946,Chicken fast-food chain.
+delta,@delta,Delta Air Lines,UChlxh-7ZUYZl1FXTtR4Cxhw,Delta_Air_Lines,Travel,US,1925,Major U.S. airline.
+united,@united,United Airlines,UCxQOWxRPmGB-3wF6ujBwlMA,United_Airlines,Travel,US,1926,Major U.S. airline.
+marriott,@marriott,Marriott,UClZL7eEf21LD8vrLeqyqfPw,Marriott_International,Travel,US,1927,Global hotel chain.
+nintendo,@nintendo,Nintendo,UCGIY_O-8vW4rfX98KlMkvRg,Nintendo,Gaming,JP,1889,Video game hardware and software maker.
+oreo,@oreo,Oreo,UCSDQH5DG7DEdUEFFRcA0SAg,Oreo,CPG,US,1912,Cookie brand from Mondelez.
+gucci,@gucci,Gucci,UCt1FRVxw1KH-i7l1nP0H2yA,Gucci,Fashion,IT,1921,Luxury fashion house.

@@ -1,0 +1,356 @@
+version: 2
+
+models:
+    - name: dim_brands
+      description: |
+          Brand dimension — one row per brand_id with every cross-source
+          rollup the demo UI reads. Column names + types mirror the
+          frontend Brand interface exactly.
+      columns:
+          - name: brand_id
+            description: Stable brand identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_handle
+            description: Canonical at-handle (e.g. @nike).
+            data_tests:
+                - not_null
+          - name: brand_name
+            description: Brand display name.
+            data_tests:
+                - not_null
+          - name: vertical
+            description: Industry vertical bucket.
+            data_tests:
+                - accepted_values:
+                      values:
+                          - CPG
+                          - Retail
+                          - Auto
+                          - Tech
+                          - Finance
+                          - Streaming
+                          - QSR
+                          - Beauty
+                          - Fashion
+                          - Travel
+                          - Gaming
+                          - Entertainment
+          - name: hq_country
+            description: ISO-2 country of HQ.
+          - name: established_year
+            description: Founding year.
+          - name: description
+            description: Short brand description.
+          - name: yt_channel_id
+            description: Resolved YouTube channel ID.
+          - name: yt_subscribers
+            description: YouTube subscriber count snapshot.
+          - name: yt_views_total
+            description: Lifetime YouTube view count.
+          - name: yt_videos_count
+            description: Lifetime YouTube upload count.
+          - name: yt_views_28d
+            description: Sum of views on videos published in the last 28 days.
+          - name: yt_subs_growth_28d_pct
+            description: Approximate 28-day subscriber-growth percent.
+          - name: reddit_mentions_28d
+            description: Reddit posts mentioning the brand in the last 28 days.
+            data_tests:
+                - not_null
+          - name: reddit_avg_sentiment
+            description: Average sentiment ([-1,1]) of those Reddit posts.
+            data_tests:
+                - not_null
+          - name: reddit_top_subreddit
+            description: Subreddit with the most mentions in the last 28 days.
+          - name: reddit_velocity_28d
+            description: Mentions-growth rate vs. the prior 28-day window.
+            data_tests:
+                - not_null
+          - name: wiki_pageviews_28d
+            description: Sum of 28-day Wikipedia pageviews across the brand's topics.
+            data_tests:
+                - not_null
+          - name: wiki_pageviews_growth_28d_pct
+            description: Average percent growth in pageviews vs. the prior 28d window.
+          - name: attention_score
+            description: Cross-source attention score (0-100).
+            data_tests:
+                - not_null
+                - dbt_expectations.expect_column_values_to_be_between:
+                      min_value: 0
+                      max_value: 100
+          - name: signal_bucket
+            description: cold | warming | hot | breakout.
+            data_tests:
+                - not_null
+                - accepted_values:
+                      values:
+                          - cold
+                          - warming
+                          - hot
+                          - breakout
+          - name: share_of_voice
+            description: Brand's share of Reddit mentions within its vertical (0-100).
+            data_tests:
+                - not_null
+          - name: last_signal_change
+            description: Timestamp at which the signal was last evaluated.
+
+    - name: dim_dates
+      description: Date spine 2020-01-01 through 2030-12-31 for time-series joins.
+      columns:
+          - name: date_day
+            description: Calendar date.
+            data_tests:
+                - not_null
+                - unique
+          - name: year
+            description: Calendar year.
+          - name: quarter
+            description: Calendar quarter.
+          - name: month
+            description: Calendar month.
+          - name: day_of_month
+            description: Day of month.
+          - name: day_of_week
+            description: ISO day of week (1=Mon, 7=Sun).
+          - name: day_of_year
+            description: Day of year.
+          - name: iso_week
+            description: ISO week number.
+          - name: month_name
+            description: Full month name.
+          - name: day_name
+            description: Full weekday name.
+          - name: is_weekday
+            description: True if Monday-Friday.
+          - name: year_month_key
+            description: Integer key YYYYMM.
+          - name: year_quarter_key
+            description: Integer key YYYYQ.
+
+    - name: fct_videos
+      description: |
+          One row per YouTube video attributed to a brand. Columns match
+          the frontend Video type exactly. engagement_rate is computed
+          as (likes + comments) / views.
+      columns:
+          - name: video_id
+            description: YouTube video ID.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_id
+            description: Resolved brand_id.
+            data_tests:
+                - not_null
+                - relationships:
+                      to: ref('dim_brands')
+                      field: brand_id
+          - name: channel_id
+            description: Owning YouTube channel ID.
+            data_tests:
+                - not_null
+          - name: title
+            description: Video title.
+          - name: published_at
+            description: Publication timestamp.
+            data_tests:
+                - not_null
+          - name: duration_sec
+            description: Duration in seconds.
+          - name: views
+            description: View count snapshot.
+          - name: likes
+            description: Like count snapshot.
+          - name: comments
+            description: Comment count snapshot.
+          - name: engagement_rate
+            description: (likes + comments) / views (0.0 when views = 0).
+          - name: category
+            description: Mapped YouTube category label.
+          - name: thumbnail_url
+            description: Thumbnail URL.
+
+    - name: fct_conversations
+      description: |
+          One row per Reddit post (mentions of a brand or unattributed
+          chatter). Columns match the frontend Conversation type.
+          Sentiment is a keyword-polarity score in [-1, 1]; topic_cluster
+          is one of 8 derived buckets.
+      columns:
+          - name: post_id
+            description: Reddit post identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_id
+            description: Matched brand_id (nullable for unattributed posts).
+          - name: brand_name_match
+            description: Brand name that matched (nullable).
+          - name: subreddit
+            description: Subreddit name (lowercased).
+            data_tests:
+                - not_null
+          - name: title
+            description: Post title.
+          - name: posted_at
+            description: Post creation timestamp.
+            data_tests:
+                - not_null
+          - name: author
+            description: Reddit username.
+          - name: score
+            description: Net upvotes minus downvotes.
+          - name: num_comments
+            description: Comment count snapshot.
+          - name: sentiment
+            description: Keyword-polarity sentiment in [-1, 1].
+            data_tests:
+                - not_null
+                - dbt_expectations.expect_column_values_to_be_between:
+                      min_value: -1
+                      max_value: 1
+          - name: topic_cluster
+            description: One of 8 derived topic buckets.
+            data_tests:
+                - not_null
+                - accepted_values:
+                      values:
+                          - launch
+                          - controversy
+                          - product_review
+                          - support
+                          - partnership
+                          - earnings
+                          - culture
+                          - other
+          - name: url
+            description: Permalink URL to the Reddit post.
+
+    - name: fct_topic_pageviews
+      description: |
+          One row per (topic_id, date) — daily pageviews enriched with
+          28-day rolling totals, growth, and volatility (stddev/mean over
+          28d). related_brands is an array of brand_ids the topic touches.
+      columns:
+          - name: topic_id
+            description: Wikipedia article slug.
+            data_tests:
+                - not_null
+          - name: title
+            description: Article title.
+          - name: category
+            description: Topic category bucket.
+            data_tests:
+                - accepted_values:
+                      values:
+                          - brand
+                          - industry
+                          - culture
+                          - event
+                          - person
+          - name: date
+            description: Observation date.
+            data_tests:
+                - not_null
+          - name: views
+            description: Daily pageview count.
+          - name: pageviews_28d
+            description: Rolling 28-day pageview sum.
+            data_tests:
+                - not_null
+          - name: pageviews_growth_pct
+            description: Percent growth vs. the prior 28-day window.
+          - name: pageviews_volatility
+            description: 28-day stddev divided by 28-day mean of daily views.
+            data_tests:
+                - not_null
+          - name: related_brands
+            description: Array of brand_ids related to this topic.
+
+    - name: fct_brand_signal
+      description: |
+          Cross-source attention model. One row per brand with a 0-100
+          attention_score blended from YouTube view growth, Reddit
+          velocity + sentiment magnitude, Wikipedia pageview growth,
+          and within-vertical share of voice. Bucketed into cold /
+          warming / hot / breakout.
+      columns:
+          - name: brand_id
+            description: Brand identifier.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_name
+            description: Brand display name.
+          - name: vertical
+            description: Industry vertical.
+          - name: yt_score
+            description: YouTube component (max 30).
+          - name: reddit_score
+            description: Reddit component (max 30).
+          - name: wiki_score
+            description: Wikipedia component (max 25).
+          - name: sov_score
+            description: Share-of-voice component (max 15).
+          - name: attention_score
+            description: Composite attention score 0-100.
+            data_tests:
+                - not_null
+                - dbt_expectations.expect_column_values_to_be_between:
+                      min_value: 0
+                      max_value: 100
+          - name: signal_bucket
+            description: cold | warming | hot | breakout.
+            data_tests:
+                - not_null
+                - accepted_values:
+                      values:
+                          - cold
+                          - warming
+                          - hot
+                          - breakout
+          - name: share_of_voice
+            description: Brand's share of vertical mentions, scaled 0-100.
+          - name: yt_views_28d
+            description: Sum of last-28d video views.
+          - name: reddit_mentions_28d
+            description: Mentions in the last 28 days.
+          - name: reddit_avg_sentiment
+            description: Average sentiment over last 28 days.
+          - name: reddit_velocity_28d
+            description: Mentions growth vs. prior 28d window.
+          - name: wiki_pageviews_28d
+            description: Sum of last-28d pageviews across the brand's topics.
+          - name: wiki_pageviews_growth_28d_pct
+            description: Average percent growth of pageviews.
+          - name: last_signal_change
+            description: Timestamp of the last signal evaluation.
+          - name: built_at
+            description: Build timestamp.
+
+    - name: mart_vertical_health
+      description: |
+          Vertical roll-up matching the frontend VerticalRollup type:
+          brand_count, total_videos, total_conversations,
+          avg_attention_score, top_topic_id.
+      columns:
+          - name: vertical
+            description: Industry vertical.
+            data_tests:
+                - not_null
+                - unique
+          - name: brand_count
+            description: Distinct brands in the vertical.
+          - name: total_videos
+            description: Total attributed videos.
+          - name: total_conversations
+            description: Total attributed Reddit conversations.
+          - name: avg_attention_score
+            description: Average attention score across the vertical.
+          - name: top_topic_id
+            description: Wikipedia slug of the highest-viewed topic in the vertical.

@@ -1,0 +1,214 @@
+version: 2
+
+sources:
+    - name: bronze_youtube
+      description: |
+          Raw YouTube channel and video data landed as Iceberg tables in
+          S3 by the Fivetran custom YouTube Data API connector.
+      database: awsdatacatalog
+      schema: bronze_youtube
+      loader: fivetran_custom_youtube
+      tables:
+          - name: channels
+            description: One row per YouTube channel that Lighthouse tracks.
+            columns:
+                - name: channel_id
+                  description: YouTube channel ID (UC... 24 chars).
+                  data_tests:
+                      - not_null
+                      - unique
+                - name: channel_handle
+                  description: Channel @handle as displayed on YouTube.
+                - name: channel_title
+                  description: Channel display name.
+                - name: description
+                  description: Channel "About" description text.
+                - name: country
+                  description: ISO-2 country code declared by the channel.
+                - name: subscribers
+                  description: Subscriber count snapshot.
+                - name: views_total
+                  description: Lifetime view count snapshot.
+                - name: videos_count
+                  description: Lifetime video upload count snapshot.
+                - name: created_at
+                  description: Channel creation timestamp.
+                - name: thumbnail_url
+                  description: URL to the channel avatar image.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.
+
+          - name: videos
+            description: One row per uploaded video.
+            columns:
+                - name: video_id
+                  description: YouTube video ID.
+                  data_tests:
+                      - not_null
+                      - unique
+                - name: channel_id
+                  description: Owning channel ID.
+                  data_tests:
+                      - not_null
+                - name: title
+                  description: Video title.
+                - name: description
+                  description: Video description text.
+                - name: published_at
+                  description: Publication timestamp.
+                  data_tests:
+                      - not_null
+                - name: duration_sec
+                  description: Duration in seconds (parsed from ISO8601).
+                - name: views
+                  description: View count snapshot.
+                - name: likes
+                  description: Like count snapshot.
+                - name: comments
+                  description: Comment count snapshot.
+                - name: category_id
+                  description: YouTube category numeric ID.
+                - name: thumbnail_url
+                  description: URL to the highest-res thumbnail.
+                - name: tags
+                  description: Comma-separated tag string from the API.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.
+
+    - name: bronze_reddit
+      description: |
+          Raw Reddit posts and subreddit metadata landed by the Fivetran
+          custom Reddit connector.
+      database: awsdatacatalog
+      schema: bronze_reddit
+      loader: fivetran_custom_reddit
+      tables:
+          - name: posts
+            description: One row per Reddit post (link or self-post).
+            columns:
+                - name: post_id
+                  description: Reddit post identifier (t3_ id, with prefix stripped).
+                  data_tests:
+                      - not_null
+                      - unique
+                - name: subreddit
+                  description: Subreddit name (without the r/ prefix).
+                  data_tests:
+                      - not_null
+                - name: title
+                  description: Post title.
+                  data_tests:
+                      - not_null
+                - name: selftext
+                  description: Body text (empty for link posts).
+                - name: author
+                  description: Reddit username of the author.
+                - name: created_utc
+                  description: UTC timestamp the post was created.
+                  data_tests:
+                      - not_null
+                - name: score
+                  description: Net upvotes minus downvotes snapshot.
+                - name: num_comments
+                  description: Comment-count snapshot.
+                - name: url
+                  description: Permalink URL to the post.
+                - name: domain
+                  description: Domain of the linked URL (or self.<sub>).
+                - name: over_18
+                  description: NSFW flag from Reddit.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.
+
+          - name: subreddits
+            description: One row per subreddit observed.
+            columns:
+                - name: subreddit
+                  description: Subreddit name (without the r/ prefix).
+                  data_tests:
+                      - not_null
+                      - unique
+                - name: title
+                  description: Subreddit display title.
+                - name: description
+                  description: Subreddit description / sidebar text.
+                - name: subscribers
+                  description: Subscriber count snapshot.
+                - name: created_utc
+                  description: UTC timestamp the subreddit was created.
+                - name: lang
+                  description: Declared language code.
+                - name: over_18
+                  description: NSFW flag from Reddit.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.
+
+    - name: bronze_wikipedia
+      description: |
+          Wikipedia topic metadata and daily pageview observations landed
+          by the Fivetran custom Wikipedia connector (REST API +
+          pageviews endpoint).
+      database: awsdatacatalog
+      schema: bronze_wikipedia
+      loader: fivetran_custom_wikipedia
+      tables:
+          - name: topics
+            description: One row per Wikipedia article that Lighthouse tracks.
+            columns:
+                - name: topic_id
+                  description: Wikipedia article slug (URL-encoded).
+                  data_tests:
+                      - not_null
+                      - unique
+                - name: title
+                  description: Article display title.
+                - name: extract
+                  description: Short text extract from the article intro.
+                - name: category
+                  description: Free-text category label (brand, industry, culture, event, person).
+                - name: lang
+                  description: Wikipedia language edition (en, es, etc.).
+                - name: last_modified
+                  description: Article last-modified timestamp.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.
+
+          - name: pageviews
+            description: One row per (topic, date) daily pageview observation.
+            columns:
+                - name: topic_id
+                  description: Wikipedia article slug.
+                  data_tests:
+                      - not_null
+                - name: date
+                  description: Date of the observation.
+                  data_tests:
+                      - not_null
+                - name: views
+                  description: Daily pageview count.
+                - name: _fivetran_synced
+                  description: Sync timestamp.
+                  data_tests:
+                      - not_null
+                - name: _fivetran_deleted
+                  description: Soft-delete flag.

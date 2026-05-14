@@ -1,0 +1,939 @@
+{
+  "brand": {
+    "brand_id": "brand_033",
+    "brand_handle": "@hbomax",
+    "brand_name": "HBO Max",
+    "vertical": "Streaming",
+    "hq_country": "US",
+    "established_year": 2020,
+    "description": "HBO Max is a streaming brand established in 2020, headquartered in US.",
+    "yt_channel_id": "UC552894754face429dccf69",
+    "yt_subscribers": 37298,
+    "yt_views_total": 46271169,
+    "yt_videos_count": 1451,
+    "yt_views_28d": 2723423,
+    "yt_subs_growth_28d_pct": 27.43,
+    "reddit_mentions_28d": 1067,
+    "reddit_avg_sentiment": -0.275,
+    "reddit_top_subreddit": "r/HBOMax",
+    "reddit_velocity_28d": 0.51,
+    "wiki_pageviews_28d": 12489,
+    "wiki_pageviews_growth_28d_pct": 73.08,
+    "attention_score": 69.48,
+    "signal_bucket": "breakout",
+    "share_of_voice": 21.42,
+    "last_signal_change": "2026-05-07",
+    "videos": [
+      {
+        "video_id": "yt_000808",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "What nobody tells you about HBO Max",
+        "published_at": "2026-02-23T05:00:00",
+        "duration_sec": 66,
+        "views": 2893300,
+        "likes": 176861,
+        "comments": 16486,
+        "engagement_rate": 0.0668,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000808/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000821",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max unveils collection",
+        "published_at": "2026-04-24T15:00:00",
+        "duration_sec": 1018,
+        "views": 271158,
+        "likes": 14174,
+        "comments": 1084,
+        "engagement_rate": 0.0563,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000821/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000809",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max unveils edition",
+        "published_at": "2026-03-07T18:00:00",
+        "duration_sec": 68,
+        "views": 241445,
+        "likes": 14220,
+        "comments": 1007,
+        "engagement_rate": 0.0631,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000809/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000810",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "Why we chose HBO Max",
+        "published_at": "2026-03-03T01:00:00",
+        "duration_sec": 60,
+        "views": 219776,
+        "likes": 10412,
+        "comments": 596,
+        "engagement_rate": 0.0501,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000810/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000817",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max CEO on the future of the brand",
+        "published_at": "2026-04-03T01:00:00",
+        "duration_sec": 257,
+        "views": 202518,
+        "likes": 13601,
+        "comments": 1038,
+        "engagement_rate": 0.0723,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000817/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000805",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max vs the competition",
+        "published_at": "2026-02-17T11:00:00",
+        "duration_sec": 270,
+        "views": 195110,
+        "likes": 7379,
+        "comments": 1183,
+        "engagement_rate": 0.0439,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000805/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000824",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "New HBO Max experience reveal",
+        "published_at": "2026-03-26T05:00:00",
+        "duration_sec": 1749,
+        "views": 190147,
+        "likes": 9808,
+        "comments": 756,
+        "engagement_rate": 0.0556,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000824/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000825",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max just changed the game with series",
+        "published_at": "2026-04-26T08:00:00",
+        "duration_sec": 510,
+        "views": 172936,
+        "likes": 8529,
+        "comments": 1204,
+        "engagement_rate": 0.0563,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000825/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000814",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max unveils drop",
+        "published_at": "2026-03-21T07:00:00",
+        "duration_sec": 1182,
+        "views": 161857,
+        "likes": 3100,
+        "comments": 304,
+        "engagement_rate": 0.021,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000814/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000807",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "New HBO Max drop reveal",
+        "published_at": "2026-03-17T11:00:00",
+        "duration_sec": 313,
+        "views": 149408,
+        "likes": 25138,
+        "comments": 1954,
+        "engagement_rate": 0.1813,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000807/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000818",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "I tried HBO Max's new campaign for 30 days",
+        "published_at": "2026-04-02T04:00:00",
+        "duration_sec": 1544,
+        "views": 148753,
+        "likes": 8216,
+        "comments": 1360,
+        "engagement_rate": 0.0644,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000818/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000822",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "Behind the scenes at HBO Max",
+        "published_at": "2026-03-14T00:00:00",
+        "duration_sec": 65,
+        "views": 145490,
+        "likes": 2752,
+        "comments": 206,
+        "engagement_rate": 0.0203,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000822/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000820",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "HBO Max just changed the game with edition",
+        "published_at": "2026-03-03T11:00:00",
+        "duration_sec": 70,
+        "views": 136351,
+        "likes": 9220,
+        "comments": 1049,
+        "engagement_rate": 0.0753,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000820/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000816",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "How HBO Max is reimagining the next decade",
+        "published_at": "2026-04-16T09:00:00",
+        "duration_sec": 82,
+        "views": 127925,
+        "likes": 5747,
+        "comments": 828,
+        "engagement_rate": 0.0514,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000816/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000815",
+        "brand_id": "brand_033",
+        "channel_id": "UC552894754face429dccf69",
+        "title": "Behind the scenes at HBO Max",
+        "published_at": "2026-04-14T06:00:00",
+        "duration_sec": 383,
+        "views": 119215,
+        "likes": 6068,
+        "comments": 914,
+        "engagement_rate": 0.0586,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000815/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000989",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max is having a moment",
+        "posted_at": "2026-03-28T09:00:00",
+        "author": "u/TacoCritic",
+        "score": 10002,
+        "num_comments": 2735,
+        "sentiment": 0.252,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000989/"
+      },
+      {
+        "post_id": "t3_0001007",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Boycotting HBO Max after this week",
+        "posted_at": "2026-04-04T17:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 8302,
+        "num_comments": 600,
+        "sentiment": -0.549,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001007/"
+      },
+      {
+        "post_id": "t3_0000994",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max is having a moment",
+        "posted_at": "2026-03-16T10:00:00",
+        "author": "u/AgencyLifer",
+        "score": 5614,
+        "num_comments": 710,
+        "sentiment": 0.189,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000994/"
+      },
+      {
+        "post_id": "t3_0001011",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max is having a moment",
+        "posted_at": "2026-04-24T00:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 4590,
+        "num_comments": 394,
+        "sentiment": 0.341,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001011/"
+      },
+      {
+        "post_id": "t3_0001005",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Boycotting HBO Max after this week",
+        "posted_at": "2026-03-06T08:00:00",
+        "author": "u/CreatorLens",
+        "score": 1635,
+        "num_comments": 265,
+        "sentiment": -0.656,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001005/"
+      },
+      {
+        "post_id": "t3_0000991",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Tried HBO Max \u2014 here's my take",
+        "posted_at": "2026-05-03T03:00:00",
+        "author": "u/QuietBuyer",
+        "score": 1064,
+        "num_comments": 195,
+        "sentiment": 0.27,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000991/"
+      },
+      {
+        "post_id": "t3_0000990",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max did WHAT?",
+        "posted_at": "2026-03-08T04:00:00",
+        "author": "u/StreamingNerd",
+        "score": 907,
+        "num_comments": 267,
+        "sentiment": -0.469,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000990/"
+      },
+      {
+        "post_id": "t3_0001003",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Anyone else thinking about HBO Max?",
+        "posted_at": "2026-02-25T06:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 768,
+        "num_comments": 147,
+        "sentiment": 0.06,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001003/"
+      },
+      {
+        "post_id": "t3_0000988",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Why HBO Max is so polarizing",
+        "posted_at": "2026-02-13T15:00:00",
+        "author": "u/CreatorLens",
+        "score": 667,
+        "num_comments": 75,
+        "sentiment": 0.686,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000988/"
+      },
+      {
+        "post_id": "t3_0000987",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max just announced the new release \u2014 thoughts?",
+        "posted_at": "2026-03-07T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 546,
+        "num_comments": 142,
+        "sentiment": 0.239,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000987/"
+      },
+      {
+        "post_id": "t3_0000993",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max did WHAT?",
+        "posted_at": "2026-04-02T05:00:00",
+        "author": "u/QuietBuyer",
+        "score": 451,
+        "num_comments": 66,
+        "sentiment": -0.348,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000993/"
+      },
+      {
+        "post_id": "t3_0001010",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "The HBO Max discourse is unhinged today",
+        "posted_at": "2026-03-10T02:00:00",
+        "author": "u/SocialSarah",
+        "score": 432,
+        "num_comments": 33,
+        "sentiment": 0.074,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001010/"
+      },
+      {
+        "post_id": "t3_0000998",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "First look at HBO Max's drop",
+        "posted_at": "2026-03-28T22:00:00",
+        "author": "u/StreamingNerd",
+        "score": 341,
+        "num_comments": 75,
+        "sentiment": 0.168,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0000998/"
+      },
+      {
+        "post_id": "t3_0001000",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "HBO Max partnership announcement",
+        "posted_at": "2026-03-12T19:00:00",
+        "author": "u/BrandLurker",
+        "score": 331,
+        "num_comments": 17,
+        "sentiment": 0.29,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001000/"
+      },
+      {
+        "post_id": "t3_0001002",
+        "brand_id": "brand_033",
+        "brand_name_match": "HBO Max",
+        "subreddit": "r/HBOMax",
+        "title": "Tried HBO Max \u2014 here's my take",
+        "posted_at": "2026-05-10T10:00:00",
+        "author": "u/MarketingPro42",
+        "score": 310,
+        "num_comments": 71,
+        "sentiment": 0.115,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/HBOMax/comments/t3_0001002/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Max_(streaming_service)",
+        "title": "HBO Max",
+        "category": "brand",
+        "pageviews_28d": 14794,
+        "pageviews_growth_pct": 11.59,
+        "pageviews_volatility": 0.2386,
+        "related_brands": [
+          "brand_033"
+        ]
+      },
+      {
+        "topic_id": "Streaming_wars",
+        "title": "Streaming wars",
+        "category": "culture",
+        "pageviews_28d": 746262,
+        "pageviews_growth_pct": 11.62,
+        "pageviews_volatility": 0.2246,
+        "related_brands": [
+          "brand_043",
+          "brand_035",
+          "brand_033",
+          "brand_051"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit mention velocity up 51% \u2014 emerging conversation cluster",
+      "Reddit sentiment dipped to -0.28 in r/HBOMax after pricing or service complaints",
+      "Dominant Reddit topic cluster: culture",
+      "YT views +27% MoM driven by recent product reveal",
+      "Top YouTube asset: \"What nobody tells you about HBO Max\"",
+      "Wikipedia pageviews surged +73% \u2014 news cycle is active"
+    ],
+    "ai_summary": "HBO Max's cross-channel attention has accelerated sharply in the past 28 days, with a +27% YouTube subscriber lift and matching uplift in r/HBOMax sentiment (avg -0.28). Wikipedia pageview volatility (+73% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-14",
+        "views": 484
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-15",
+        "views": 561
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-16",
+        "views": 515
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-17",
+        "views": 515
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-18",
+        "views": 476
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-19",
+        "views": 513
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-20",
+        "views": 478
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-21",
+        "views": 445
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-22",
+        "views": 459
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-23",
+        "views": 493
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-24",
+        "views": 535
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-25",
+        "views": 568
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-26",
+        "views": 569
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-27",
+        "views": 524
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-02-28",
+        "views": 402
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-01",
+        "views": 414
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-02",
+        "views": 408
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-03",
+        "views": 385
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-04",
+        "views": 409
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-05",
+        "views": 380
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-06",
+        "views": 322
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-07",
+        "views": 370
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-08",
+        "views": 337
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-09",
+        "views": 305
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-10",
+        "views": 321
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-11",
+        "views": 362
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-12",
+        "views": 301
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-13",
+        "views": 363
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-14",
+        "views": 301
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-15",
+        "views": 279
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-16",
+        "views": 387
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-17",
+        "views": 372
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-18",
+        "views": 383
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-19",
+        "views": 466
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-20",
+        "views": 426
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-21",
+        "views": 392
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-22",
+        "views": 457
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-23",
+        "views": 377
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-24",
+        "views": 427
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-25",
+        "views": 422
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-26",
+        "views": 426
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-27",
+        "views": 392
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-28",
+        "views": 430
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-29",
+        "views": 411
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-30",
+        "views": 446
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-03-31",
+        "views": 455
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-01",
+        "views": 481
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-02",
+        "views": 528
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-03",
+        "views": 510
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-04",
+        "views": 454
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-05",
+        "views": 501
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-06",
+        "views": 480
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-07",
+        "views": 449
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-08",
+        "views": 500
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-09",
+        "views": 505
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-10",
+        "views": 489
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-11",
+        "views": 529
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-12",
+        "views": 557
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-13",
+        "views": 562
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-14",
+        "views": 538
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-15",
+        "views": 533
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-16",
+        "views": 580
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-17",
+        "views": 572
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-18",
+        "views": 553
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-19",
+        "views": 565
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-20",
+        "views": 626
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-21",
+        "views": 660
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-22",
+        "views": 634
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-23",
+        "views": 548
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-24",
+        "views": 584
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-25",
+        "views": 521
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-26",
+        "views": 474
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-27",
+        "views": 430
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-28",
+        "views": 482
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-29",
+        "views": 474
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-04-30",
+        "views": 438
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-01",
+        "views": 475
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-02",
+        "views": 426
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-03",
+        "views": 447
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-04",
+        "views": 481
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-05",
+        "views": 465
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-06",
+        "views": 424
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-07",
+        "views": 415
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-08",
+        "views": 455
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-09",
+        "views": 452
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-10",
+        "views": 454
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-11",
+        "views": 381
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-12",
+        "views": 347
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-13",
+        "views": 1015
+      },
+      {
+        "topic_id": "Max_(streaming_service)",
+        "date": "2026-05-14",
+        "views": 996
+      }
+    ]
+  }
+}

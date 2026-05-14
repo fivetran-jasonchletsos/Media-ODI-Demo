@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_005",
+    "brand_handle": "@gatorade",
+    "brand_name": "Gatorade",
+    "vertical": "CPG",
+    "hq_country": "US",
+    "established_year": 1965,
+    "description": "Gatorade is a sports drink brand established in 1965, headquartered in US.",
+    "yt_channel_id": "UC964286b5fa49626b8ac8ff",
+    "yt_subscribers": 1366495,
+    "yt_views_total": 920977085,
+    "yt_videos_count": 495,
+    "yt_views_28d": 40284126,
+    "yt_subs_growth_28d_pct": 25.92,
+    "reddit_mentions_28d": 1849,
+    "reddit_avg_sentiment": 0.555,
+    "reddit_top_subreddit": "r/Gatorade",
+    "reddit_velocity_28d": 0.653,
+    "wiki_pageviews_28d": 17980,
+    "wiki_pageviews_growth_28d_pct": 25.34,
+    "attention_score": 63.87,
+    "signal_bucket": "breakout",
+    "share_of_voice": 23.61,
+    "last_signal_change": "2026-05-07",
+    "videos": [
+      {
+        "video_id": "yt_000124",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Behind the scenes at Gatorade",
+        "published_at": "2026-03-22T00:00:00",
+        "duration_sec": 1162,
+        "views": 84803338,
+        "likes": 4403077,
+        "comments": 722604,
+        "engagement_rate": 0.0604,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000124/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000110",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Gatorade CEO on the future of the brand",
+        "published_at": "2026-03-25T10:00:00",
+        "duration_sec": 764,
+        "views": 4869407,
+        "likes": 127815,
+        "comments": 8428,
+        "engagement_rate": 0.028,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000110/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000109",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "What nobody tells you about Gatorade",
+        "published_at": "2026-03-19T13:00:00",
+        "duration_sec": 89,
+        "views": 4732458,
+        "likes": 738047,
+        "comments": 107267,
+        "engagement_rate": 0.1786,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000109/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000119",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Gatorade unveils platform",
+        "published_at": "2026-02-18T13:00:00",
+        "duration_sec": 1336,
+        "views": 4492621,
+        "likes": 267619,
+        "comments": 38638,
+        "engagement_rate": 0.0682,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000119/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000121",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Inside Gatorade's 2026 strategy",
+        "published_at": "2026-03-10T07:00:00",
+        "duration_sec": 530,
+        "views": 3939241,
+        "likes": 225799,
+        "comments": 24001,
+        "engagement_rate": 0.0634,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000121/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000111",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "New Gatorade experience reveal",
+        "published_at": "2026-04-15T00:00:00",
+        "duration_sec": 1548,
+        "views": 3734169,
+        "likes": 144323,
+        "comments": 15337,
+        "engagement_rate": 0.0428,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000111/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000118",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Why we chose Gatorade",
+        "published_at": "2026-04-15T18:00:00",
+        "duration_sec": 52,
+        "views": 3625450,
+        "likes": 145741,
+        "comments": 13046,
+        "engagement_rate": 0.0438,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000118/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000116",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "The real story behind Gatorade",
+        "published_at": "2026-04-24T10:00:00",
+        "duration_sec": 467,
+        "views": 2984568,
+        "likes": 91350,
+        "comments": 11831,
+        "engagement_rate": 0.0346,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000116/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000113",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Gatorade just changed the game with series",
+        "published_at": "2026-03-17T17:00:00",
+        "duration_sec": 79,
+        "views": 2737226,
+        "likes": 173270,
+        "comments": 15454,
+        "engagement_rate": 0.0689,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000113/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000126",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Gatorade vs the competition",
+        "published_at": "2026-02-18T04:00:00",
+        "duration_sec": 227,
+        "views": 2150144,
+        "likes": 117856,
+        "comments": 7292,
+        "engagement_rate": 0.0582,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000126/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000115",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "The real story behind Gatorade",
+        "published_at": "2026-03-10T23:00:00",
+        "duration_sec": 1380,
+        "views": 1879433,
+        "likes": 47590,
+        "comments": 6825,
+        "engagement_rate": 0.029,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000115/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000114",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "series from Gatorade: first impressions",
+        "published_at": "2026-04-04T20:00:00",
+        "duration_sec": 446,
+        "views": 1794964,
+        "likes": 118565,
+        "comments": 19487,
+        "engagement_rate": 0.0769,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000114/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000128",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Gatorade CEO on the future of sustainability",
+        "published_at": "2026-05-10T18:00:00",
+        "duration_sec": 82,
+        "views": 1789293,
+        "likes": 85252,
+        "comments": 11372,
+        "engagement_rate": 0.054,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000128/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000127",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "lineup from Gatorade: first impressions",
+        "published_at": "2026-03-06T23:00:00",
+        "duration_sec": 288,
+        "views": 1658736,
+        "likes": 90727,
+        "comments": 10564,
+        "engagement_rate": 0.0611,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000127/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000125",
+        "brand_id": "brand_005",
+        "channel_id": "UC964286b5fa49626b8ac8ff",
+        "title": "Inside Gatorade's 2026 strategy",
+        "published_at": "2026-04-12T18:00:00",
+        "duration_sec": 449,
+        "views": 1641269,
+        "likes": 62154,
+        "comments": 7408,
+        "engagement_rate": 0.0424,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000125/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000128",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Tried Gatorade \u2014 here's my take",
+        "posted_at": "2026-03-06T12:00:00",
+        "author": "u/SocialSarah",
+        "score": 12910,
+        "num_comments": 3529,
+        "sentiment": 0.095,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000128/"
+      },
+      {
+        "post_id": "t3_0000141",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "30 days with Gatorade's lineup",
+        "posted_at": "2026-03-26T19:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 9277,
+        "num_comments": 2401,
+        "sentiment": 0.259,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000141/"
+      },
+      {
+        "post_id": "t3_0000126",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "30 days with Gatorade's drop",
+        "posted_at": "2026-05-10T19:00:00",
+        "author": "u/CreatorLens",
+        "score": 6151,
+        "num_comments": 763,
+        "sentiment": 0.218,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000126/"
+      },
+      {
+        "post_id": "t3_0000144",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Is anyone else fed up with Gatorade lately?",
+        "posted_at": "2026-03-16T10:00:00",
+        "author": "u/AgencyLifer",
+        "score": 5903,
+        "num_comments": 1415,
+        "sentiment": -0.341,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000144/"
+      },
+      {
+        "post_id": "t3_0000150",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Gatorade did WHAT?",
+        "posted_at": "2026-04-19T07:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 4936,
+        "num_comments": 444,
+        "sentiment": -0.588,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000150/"
+      },
+      {
+        "post_id": "t3_0000154",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Honest review of the Gatorade flagship",
+        "posted_at": "2026-03-10T13:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2085,
+        "num_comments": 545,
+        "sentiment": 0.597,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000154/"
+      },
+      {
+        "post_id": "t3_0000142",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Anyone seen the new Gatorade collection drop?",
+        "posted_at": "2026-05-09T19:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 1976,
+        "num_comments": 590,
+        "sentiment": 0.026,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000142/"
+      },
+      {
+        "post_id": "t3_0000135",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Gatorade customer service is impossible to reach",
+        "posted_at": "2026-04-18T03:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 956,
+        "num_comments": 124,
+        "sentiment": -0.617,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000135/"
+      },
+      {
+        "post_id": "t3_0000140",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Anyone seen the new Gatorade lineup drop?",
+        "posted_at": "2026-04-05T19:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 697,
+        "num_comments": 129,
+        "sentiment": 0.249,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000140/"
+      },
+      {
+        "post_id": "t3_0000152",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Gatorade pricing change is a slap in the face",
+        "posted_at": "2026-03-15T19:00:00",
+        "author": "u/AgencyLifer",
+        "score": 418,
+        "num_comments": 52,
+        "sentiment": -0.28,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000152/"
+      },
+      {
+        "post_id": "t3_0000136",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "First look at Gatorade's drop",
+        "posted_at": "2026-02-25T10:00:00",
+        "author": "u/PixelPirate",
+        "score": 273,
+        "num_comments": 36,
+        "sentiment": 0.354,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000136/"
+      },
+      {
+        "post_id": "t3_0000124",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "First look at Gatorade's platform",
+        "posted_at": "2026-05-05T08:00:00",
+        "author": "u/PixelPirate",
+        "score": 205,
+        "num_comments": 28,
+        "sentiment": -0.411,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000124/"
+      },
+      {
+        "post_id": "t3_0000147",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "30 days with Gatorade's model",
+        "posted_at": "2026-04-07T10:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 160,
+        "num_comments": 17,
+        "sentiment": 0.513,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000147/"
+      },
+      {
+        "post_id": "t3_0000139",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Boycotting Gatorade after this week",
+        "posted_at": "2026-02-18T09:00:00",
+        "author": "u/ThriftyTina",
+        "score": 151,
+        "num_comments": 12,
+        "sentiment": -0.338,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000139/"
+      },
+      {
+        "post_id": "t3_0000134",
+        "brand_id": "brand_005",
+        "brand_name_match": "Gatorade",
+        "subreddit": "r/Gatorade",
+        "title": "Gatorade partnership announcement",
+        "posted_at": "2026-04-17T06:00:00",
+        "author": "u/CulturalCritic",
+        "score": 142,
+        "num_comments": 10,
+        "sentiment": 0.191,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Gatorade/comments/t3_0000134/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Gatorade",
+        "title": "Gatorade",
+        "category": "brand",
+        "pageviews_28d": 20552,
+        "pageviews_growth_pct": -28.88,
+        "pageviews_volatility": 0.43,
+        "related_brands": [
+          "brand_005"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Top YouTube asset: \"Behind the scenes at Gatorade\"",
+      "Reddit mention velocity up 65% \u2014 emerging conversation cluster",
+      "YT views +26% MoM driven by recent product reveal",
+      "Reddit sentiment elevated at +0.56 \u2014 fan-driven engagement in r/Gatorade",
+      "Wikipedia pageviews surged +25% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Gatorade's cross-channel attention has accelerated sharply in the past 28 days, with a +26% YouTube subscriber lift and matching uplift in r/Gatorade sentiment (avg +0.56). Wikipedia pageview volatility (+25% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-14",
+        "views": 616
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-15",
+        "views": 619
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-16",
+        "views": 679
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-17",
+        "views": 590
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-18",
+        "views": 516
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-19",
+        "views": 618
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-20",
+        "views": 627
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-21",
+        "views": 545
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-22",
+        "views": 616
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-23",
+        "views": 663
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-24",
+        "views": 752
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-25",
+        "views": 644
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-26",
+        "views": 738
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-27",
+        "views": 679
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-02-28",
+        "views": 620
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-01",
+        "views": 629
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-02",
+        "views": 721
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-03",
+        "views": 698
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-04",
+        "views": 688
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-05",
+        "views": 645
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-06",
+        "views": 577
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-07",
+        "views": 647
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-08",
+        "views": 719
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-09",
+        "views": 690
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-10",
+        "views": 603
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-11",
+        "views": 640
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-12",
+        "views": 591
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-13",
+        "views": 626
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-14",
+        "views": 736
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-15",
+        "views": 817
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-16",
+        "views": 843
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-17",
+        "views": 758
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-18",
+        "views": 755
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-19",
+        "views": 880
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-20",
+        "views": 781
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-21",
+        "views": 767
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-22",
+        "views": 779
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-23",
+        "views": 2482
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-24",
+        "views": 2122
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-25",
+        "views": 1920
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-26",
+        "views": 1702
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-27",
+        "views": 1427
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-28",
+        "views": 1336
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-29",
+        "views": 1360
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-30",
+        "views": 1179
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-03-31",
+        "views": 1031
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-01",
+        "views": 1000
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-02",
+        "views": 937
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-03",
+        "views": 747
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-04",
+        "views": 829
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-05",
+        "views": 814
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-06",
+        "views": 836
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-07",
+        "views": 821
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-08",
+        "views": 818
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-09",
+        "views": 860
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-10",
+        "views": 714
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-11",
+        "views": 659
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-12",
+        "views": 633
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-13",
+        "views": 629
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-14",
+        "views": 661
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-15",
+        "views": 562
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-16",
+        "views": 493
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-17",
+        "views": 509
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-18",
+        "views": 548
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-19",
+        "views": 540
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-20",
+        "views": 634
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-21",
+        "views": 591
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-22",
+        "views": 580
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-23",
+        "views": 667
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-24",
+        "views": 605
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-25",
+        "views": 563
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-26",
+        "views": 577
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-27",
+        "views": 577
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-28",
+        "views": 566
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-29",
+        "views": 576
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-04-30",
+        "views": 720
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-01",
+        "views": 676
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-02",
+        "views": 668
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-03",
+        "views": 682
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-04",
+        "views": 732
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-05",
+        "views": 724
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-06",
+        "views": 740
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-07",
+        "views": 693
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-08",
+        "views": 627
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-09",
+        "views": 668
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-10",
+        "views": 1356
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-11",
+        "views": 1387
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-12",
+        "views": 1264
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-13",
+        "views": 1091
+      },
+      {
+        "topic_id": "Gatorade",
+        "date": "2026-05-14",
+        "views": 991
+      }
+    ]
+  }
+}

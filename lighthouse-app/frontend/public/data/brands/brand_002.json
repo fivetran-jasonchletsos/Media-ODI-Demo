@@ -1,0 +1,923 @@
+{
+  "brand": {
+    "brand_id": "brand_002",
+    "brand_handle": "@pepsi",
+    "brand_name": "Pepsi",
+    "vertical": "CPG",
+    "hq_country": "US",
+    "established_year": 1898,
+    "description": "Pepsi is a beverage brand established in 1898, headquartered in US.",
+    "yt_channel_id": "UC77357f5b7841e75d117c54",
+    "yt_subscribers": 22211,
+    "yt_views_total": 4170600,
+    "yt_videos_count": 337,
+    "yt_views_28d": 162402,
+    "yt_subs_growth_28d_pct": 23.64,
+    "reddit_mentions_28d": 410,
+    "reddit_avg_sentiment": 0.12,
+    "reddit_top_subreddit": "r/pepsi",
+    "reddit_velocity_28d": 0.194,
+    "wiki_pageviews_28d": 8285,
+    "wiki_pageviews_growth_28d_pct": 66.93,
+    "attention_score": 62.43,
+    "signal_bucket": "breakout",
+    "share_of_voice": 23.08,
+    "last_signal_change": "2026-04-23",
+    "videos": [
+      {
+        "video_id": "yt_000049",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Pepsi unveils campaign",
+        "published_at": "2026-02-28T11:00:00",
+        "duration_sec": 387,
+        "views": 27590,
+        "likes": 1628,
+        "comments": 250,
+        "engagement_rate": 0.0681,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000049/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000037",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "The real story behind Pepsi",
+        "published_at": "2026-02-17T08:00:00",
+        "duration_sec": 64,
+        "views": 15015,
+        "likes": 602,
+        "comments": 82,
+        "engagement_rate": 0.0456,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000037/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000033",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "model from Pepsi: first impressions",
+        "published_at": "2026-02-19T13:00:00",
+        "duration_sec": 48,
+        "views": 14595,
+        "likes": 941,
+        "comments": 72,
+        "engagement_rate": 0.0694,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000033/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000047",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "The real story behind Pepsi",
+        "published_at": "2026-03-23T05:00:00",
+        "duration_sec": 183,
+        "views": 14278,
+        "likes": 882,
+        "comments": 58,
+        "engagement_rate": 0.0658,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000047/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000031",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Pepsi CEO on the future of the industry",
+        "published_at": "2026-05-08T15:00:00",
+        "duration_sec": 76,
+        "views": 13475,
+        "likes": 557,
+        "comments": 79,
+        "engagement_rate": 0.0472,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000031/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000039",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "I tried Pepsi's new flagship for 30 days",
+        "published_at": "2026-04-30T02:00:00",
+        "duration_sec": 1729,
+        "views": 13174,
+        "likes": 837,
+        "comments": 128,
+        "engagement_rate": 0.0733,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000039/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000048",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "How Pepsi is reimagining consumer attention",
+        "published_at": "2026-03-25T07:00:00",
+        "duration_sec": 1624,
+        "views": 12729,
+        "likes": 293,
+        "comments": 16,
+        "engagement_rate": 0.0243,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000048/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000028",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "2026 Pepsi series review",
+        "published_at": "2026-03-09T16:00:00",
+        "duration_sec": 311,
+        "views": 11529,
+        "likes": 291,
+        "comments": 19,
+        "engagement_rate": 0.0269,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000028/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000044",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "The real story behind Pepsi",
+        "published_at": "2026-04-24T06:00:00",
+        "duration_sec": 87,
+        "views": 11452,
+        "likes": 267,
+        "comments": 25,
+        "engagement_rate": 0.0255,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000044/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000040",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Inside Pepsi's 2026 strategy",
+        "published_at": "2026-03-19T14:00:00",
+        "duration_sec": 87,
+        "views": 10703,
+        "likes": 247,
+        "comments": 25,
+        "engagement_rate": 0.0254,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000040/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000042",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "What nobody tells you about Pepsi",
+        "published_at": "2026-03-28T21:00:00",
+        "duration_sec": 81,
+        "views": 10286,
+        "likes": 249,
+        "comments": 23,
+        "engagement_rate": 0.0264,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000042/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000026",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Pepsi vs the competition",
+        "published_at": "2026-04-06T17:00:00",
+        "duration_sec": 83,
+        "views": 10008,
+        "likes": 537,
+        "comments": 70,
+        "engagement_rate": 0.0607,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000026/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000038",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "The real story behind Pepsi",
+        "published_at": "2026-02-24T20:00:00",
+        "duration_sec": 1163,
+        "views": 9959,
+        "likes": 353,
+        "comments": 40,
+        "engagement_rate": 0.0395,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000038/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000043",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Pepsi unveils edition",
+        "published_at": "2026-03-19T07:00:00",
+        "duration_sec": 84,
+        "views": 9626,
+        "likes": 1423,
+        "comments": 205,
+        "engagement_rate": 0.1691,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000043/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000050",
+        "brand_id": "brand_002",
+        "channel_id": "UC77357f5b7841e75d117c54",
+        "title": "Pepsi CEO on the future of consumer attention",
+        "published_at": "2026-04-11T11:00:00",
+        "duration_sec": 82,
+        "views": 6677,
+        "likes": 252,
+        "comments": 17,
+        "engagement_rate": 0.0403,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000050/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000050",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Anyone else having issues with Pepsi?",
+        "posted_at": "2026-02-17T07:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 12419,
+        "num_comments": 3653,
+        "sentiment": 0.01,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000050/"
+      },
+      {
+        "post_id": "t3_0000064",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "30 days with Pepsi's model",
+        "posted_at": "2026-04-03T20:00:00",
+        "author": "u/PixelPirate",
+        "score": 12062,
+        "num_comments": 1173,
+        "sentiment": 0.167,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000064/"
+      },
+      {
+        "post_id": "t3_0000045",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi x [collab] is actually cool",
+        "posted_at": "2026-04-25T16:00:00",
+        "author": "u/QuietBuyer",
+        "score": 9893,
+        "num_comments": 2540,
+        "sentiment": 0.149,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000045/"
+      },
+      {
+        "post_id": "t3_0000044",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi just teamed up with a creator",
+        "posted_at": "2026-04-30T17:00:00",
+        "author": "u/CreatorLens",
+        "score": 8094,
+        "num_comments": 1356,
+        "sentiment": 0.513,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000044/"
+      },
+      {
+        "post_id": "t3_0000047",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Honest review of the Pepsi collection",
+        "posted_at": "2026-03-18T07:00:00",
+        "author": "u/SignalSeeker",
+        "score": 5777,
+        "num_comments": 1723,
+        "sentiment": 0.458,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000047/"
+      },
+      {
+        "post_id": "t3_0000058",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Random Pepsi thought",
+        "posted_at": "2026-04-27T12:00:00",
+        "author": "u/CreatorLens",
+        "score": 2984,
+        "num_comments": 166,
+        "sentiment": -0.008,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000058/"
+      },
+      {
+        "post_id": "t3_0000052",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi TikTok meme has me dying",
+        "posted_at": "2026-02-24T01:00:00",
+        "author": "u/CulturalCritic",
+        "score": 746,
+        "num_comments": 192,
+        "sentiment": 0.174,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000052/"
+      },
+      {
+        "post_id": "t3_0000063",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Random Pepsi thought",
+        "posted_at": "2026-05-01T03:00:00",
+        "author": "u/PixelPirate",
+        "score": 630,
+        "num_comments": 133,
+        "sentiment": 0.078,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000063/"
+      },
+      {
+        "post_id": "t3_0000039",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi is having a moment",
+        "posted_at": "2026-03-10T21:00:00",
+        "author": "u/CreatorLens",
+        "score": 477,
+        "num_comments": 89,
+        "sentiment": 0.09,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000039/"
+      },
+      {
+        "post_id": "t3_0000056",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "The Pepsi discourse is unhinged today",
+        "posted_at": "2026-05-11T00:00:00",
+        "author": "u/SignalSeeker",
+        "score": 403,
+        "num_comments": 58,
+        "sentiment": 0.147,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000056/"
+      },
+      {
+        "post_id": "t3_0000057",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi earnings call summary",
+        "posted_at": "2026-05-13T00:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 311,
+        "num_comments": 60,
+        "sentiment": 0.325,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000057/"
+      },
+      {
+        "post_id": "t3_0000068",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi TikTok meme has me dying",
+        "posted_at": "2026-02-18T17:00:00",
+        "author": "u/SignalSeeker",
+        "score": 304,
+        "num_comments": 60,
+        "sentiment": 0.184,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000068/"
+      },
+      {
+        "post_id": "t3_0000053",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Anyone else thinking about Pepsi?",
+        "posted_at": "2026-03-16T23:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 283,
+        "num_comments": 22,
+        "sentiment": -0.028,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000053/"
+      },
+      {
+        "post_id": "t3_0000035",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Pepsi's new lineup launch is wild",
+        "posted_at": "2026-05-05T21:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 262,
+        "num_comments": 22,
+        "sentiment": 0.079,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000035/"
+      },
+      {
+        "post_id": "t3_0000036",
+        "brand_id": "brand_002",
+        "brand_name_match": "Pepsi",
+        "subreddit": "r/pepsi",
+        "title": "Random Pepsi thought",
+        "posted_at": "2026-04-15T05:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 201,
+        "num_comments": 19,
+        "sentiment": 0.193,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/pepsi/comments/t3_0000036/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Pepsi",
+        "title": "Pepsi",
+        "category": "brand",
+        "pageviews_28d": 9565,
+        "pageviews_growth_pct": -29.79,
+        "pageviews_volatility": 0.4356,
+        "related_brands": [
+          "brand_002"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit conversation balanced (sentiment +0.12) across r/pepsi",
+      "Dominant Reddit topic cluster: culture",
+      "Top YouTube asset: \"Pepsi unveils campaign\"",
+      "YT views +24% MoM driven by recent product reveal"
+    ],
+    "ai_summary": "Pepsi's cross-channel attention has accelerated sharply in the past 28 days, with a +24% YouTube subscriber lift and matching uplift in r/pepsi sentiment (avg +0.12). Wikipedia pageview volatility (+67% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-14",
+        "views": 319
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-15",
+        "views": 341
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-16",
+        "views": 348
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-17",
+        "views": 313
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-18",
+        "views": 252
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-19",
+        "views": 284
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-20",
+        "views": 255
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-21",
+        "views": 355
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-22",
+        "views": 319
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-23",
+        "views": 316
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-24",
+        "views": 306
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-25",
+        "views": 316
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-26",
+        "views": 304
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-27",
+        "views": 285
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-02-28",
+        "views": 255
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-01",
+        "views": 277
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-02",
+        "views": 318
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-03",
+        "views": 315
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-04",
+        "views": 271
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-05",
+        "views": 248
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-06",
+        "views": 274
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-07",
+        "views": 280
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-08",
+        "views": 295
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-09",
+        "views": 287
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-10",
+        "views": 346
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-11",
+        "views": 292
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-12",
+        "views": 334
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-13",
+        "views": 308
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-14",
+        "views": 311
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-15",
+        "views": 253
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-16",
+        "views": 271
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-17",
+        "views": 304
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-18",
+        "views": 308
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-19",
+        "views": 302
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-20",
+        "views": 248
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-21",
+        "views": 297
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-22",
+        "views": 268
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-23",
+        "views": 270
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-24",
+        "views": 316
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-25",
+        "views": 302
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-26",
+        "views": 267
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-27",
+        "views": 308
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-28",
+        "views": 283
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-29",
+        "views": 1200
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-30",
+        "views": 1055
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-03-31",
+        "views": 925
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-01",
+        "views": 821
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-02",
+        "views": 724
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-03",
+        "views": 681
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-04",
+        "views": 588
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-05",
+        "views": 521
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-06",
+        "views": 493
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-07",
+        "views": 450
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-08",
+        "views": 477
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-09",
+        "views": 449
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-10",
+        "views": 412
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-11",
+        "views": 399
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-12",
+        "views": 389
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-13",
+        "views": 334
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-14",
+        "views": 382
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-15",
+        "views": 405
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-16",
+        "views": 359
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-17",
+        "views": 400
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-18",
+        "views": 399
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-19",
+        "views": 413
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-20",
+        "views": 368
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-21",
+        "views": 346
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-22",
+        "views": 358
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-23",
+        "views": 392
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-24",
+        "views": 306
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-25",
+        "views": 347
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-26",
+        "views": 393
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-27",
+        "views": 391
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-28",
+        "views": 376
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-29",
+        "views": 354
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-04-30",
+        "views": 343
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-01",
+        "views": 316
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-02",
+        "views": 334
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-03",
+        "views": 328
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-04",
+        "views": 336
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-05",
+        "views": 350
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-06",
+        "views": 314
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-07",
+        "views": 352
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-08",
+        "views": 337
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-09",
+        "views": 312
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-10",
+        "views": 296
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-11",
+        "views": 289
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-12",
+        "views": 267
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-13",
+        "views": 275
+      },
+      {
+        "topic_id": "Pepsi",
+        "date": "2026-05-14",
+        "views": 273
+      }
+    ]
+  }
+}

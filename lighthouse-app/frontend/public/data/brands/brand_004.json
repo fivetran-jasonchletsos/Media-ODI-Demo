@@ -1,0 +1,938 @@
+{
+  "brand": {
+    "brand_id": "brand_004",
+    "brand_handle": "@monster",
+    "brand_name": "Monster",
+    "vertical": "CPG",
+    "hq_country": "US",
+    "established_year": 2002,
+    "description": "Monster is a energy drink brand established in 2002, headquartered in US.",
+    "yt_channel_id": "UCe63d88bd7bf3060458dced",
+    "yt_subscribers": 1710663,
+    "yt_views_total": 1522022137,
+    "yt_videos_count": 3883,
+    "yt_views_28d": 57439514,
+    "yt_subs_growth_28d_pct": 33.92,
+    "reddit_mentions_28d": 74,
+    "reddit_avg_sentiment": 0.252,
+    "reddit_top_subreddit": "r/MonsterEnergy",
+    "reddit_velocity_28d": 0.612,
+    "wiki_pageviews_28d": 110091,
+    "wiki_pageviews_growth_28d_pct": 66.17,
+    "attention_score": 79.01,
+    "signal_bucket": "breakout",
+    "share_of_voice": 29.21,
+    "last_signal_change": "2026-05-05",
+    "videos": [
+      {
+        "video_id": "yt_000100",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Monster vs the competition",
+        "published_at": "2026-03-05T01:00:00",
+        "duration_sec": 47,
+        "views": 84500616,
+        "likes": 4974943,
+        "comments": 710058,
+        "engagement_rate": 0.0673,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000100/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000089",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Monster CEO on the future of design",
+        "published_at": "2026-04-24T18:00:00",
+        "duration_sec": 1422,
+        "views": 9425687,
+        "likes": 601450,
+        "comments": 41739,
+        "engagement_rate": 0.0682,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000089/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000095",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "The real story behind Monster",
+        "published_at": "2026-04-18T17:00:00",
+        "duration_sec": 62,
+        "views": 4852441,
+        "likes": 283299,
+        "comments": 38274,
+        "engagement_rate": 0.0663,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000095/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000085",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "The real story behind Monster",
+        "published_at": "2026-03-24T05:00:00",
+        "duration_sec": 307,
+        "views": 4815950,
+        "likes": 128558,
+        "comments": 22614,
+        "engagement_rate": 0.0314,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000085/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000091",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "What nobody tells you about Monster",
+        "published_at": "2026-02-15T21:00:00",
+        "duration_sec": 1230,
+        "views": 4525059,
+        "likes": 223378,
+        "comments": 29186,
+        "engagement_rate": 0.0558,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000091/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000088",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Monster unveils edition",
+        "published_at": "2026-05-03T12:00:00",
+        "duration_sec": 410,
+        "views": 4304303,
+        "likes": 229340,
+        "comments": 14552,
+        "engagement_rate": 0.0567,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000088/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000082",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "How Monster is reimagining the brand",
+        "published_at": "2026-03-01T23:00:00",
+        "duration_sec": 693,
+        "views": 4048154,
+        "likes": 117389,
+        "comments": 14777,
+        "engagement_rate": 0.0326,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000082/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000106",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Behind the scenes at Monster",
+        "published_at": "2026-03-05T03:00:00",
+        "duration_sec": 1106,
+        "views": 3971328,
+        "likes": 87025,
+        "comments": 11909,
+        "engagement_rate": 0.0249,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000106/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000087",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "2026 Monster edition review",
+        "published_at": "2026-03-06T00:00:00",
+        "duration_sec": 400,
+        "views": 3842843,
+        "likes": 143975,
+        "comments": 17256,
+        "engagement_rate": 0.042,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000087/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000092",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Monster just changed the game with campaign",
+        "published_at": "2026-05-06T06:00:00",
+        "duration_sec": 1673,
+        "views": 3812999,
+        "likes": 151124,
+        "comments": 12115,
+        "engagement_rate": 0.0428,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000092/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000096",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "What nobody tells you about Monster",
+        "published_at": "2026-03-02T01:00:00",
+        "duration_sec": 849,
+        "views": 3602751,
+        "likes": 242631,
+        "comments": 41300,
+        "engagement_rate": 0.0788,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000096/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000098",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Inside Monster's 2026 strategy",
+        "published_at": "2026-02-23T01:00:00",
+        "duration_sec": 82,
+        "views": 3570723,
+        "likes": 189085,
+        "comments": 19004,
+        "engagement_rate": 0.0583,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000098/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000099",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "What nobody tells you about Monster",
+        "published_at": "2026-05-12T07:00:00",
+        "duration_sec": 388,
+        "views": 3479683,
+        "likes": 122320,
+        "comments": 7244,
+        "engagement_rate": 0.0372,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000099/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000108",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "Why we chose Monster",
+        "published_at": "2026-05-05T10:00:00",
+        "duration_sec": 442,
+        "views": 3070953,
+        "likes": 175709,
+        "comments": 9672,
+        "engagement_rate": 0.0604,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000108/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000084",
+        "brand_id": "brand_004",
+        "channel_id": "UCe63d88bd7bf3060458dced",
+        "title": "New Monster campaign reveal",
+        "published_at": "2026-04-02T01:00:00",
+        "duration_sec": 384,
+        "views": 2840084,
+        "likes": 88690,
+        "comments": 9305,
+        "engagement_rate": 0.0345,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000084/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000102",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "30 days with Monster's campaign",
+        "posted_at": "2026-05-10T09:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 8073,
+        "num_comments": 1530,
+        "sentiment": 0.352,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000102/"
+      },
+      {
+        "post_id": "t3_0000118",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Monster just announced the new edition \u2014 thoughts?",
+        "posted_at": "2026-05-10T21:00:00",
+        "author": "u/ThriftyTina",
+        "score": 5760,
+        "num_comments": 685,
+        "sentiment": 0.007,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000118/"
+      },
+      {
+        "post_id": "t3_0000108",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Monster just teamed up with a creator",
+        "posted_at": "2026-04-25T18:00:00",
+        "author": "u/SocialSarah",
+        "score": 5573,
+        "num_comments": 1621,
+        "sentiment": 0.275,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000108/"
+      },
+      {
+        "post_id": "t3_0000117",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Quick Monster question",
+        "posted_at": "2026-02-16T05:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 4988,
+        "num_comments": 539,
+        "sentiment": -0.065,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000117/"
+      },
+      {
+        "post_id": "t3_0000120",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Monster just announced the new release \u2014 thoughts?",
+        "posted_at": "2026-03-10T14:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 3203,
+        "num_comments": 267,
+        "sentiment": 0.085,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000120/"
+      },
+      {
+        "post_id": "t3_0000105",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "First look at Monster's experience",
+        "posted_at": "2026-03-12T09:00:00",
+        "author": "u/ThriftyTina",
+        "score": 2473,
+        "num_comments": 454,
+        "sentiment": 0.279,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000105/"
+      },
+      {
+        "post_id": "t3_0000098",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Tried Monster \u2014 here's my take",
+        "posted_at": "2026-02-26T10:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 2229,
+        "num_comments": 420,
+        "sentiment": 0.14,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000098/"
+      },
+      {
+        "post_id": "t3_0000099",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Monster is having a moment",
+        "posted_at": "2026-03-28T03:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 1535,
+        "num_comments": 451,
+        "sentiment": 0.484,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000099/"
+      },
+      {
+        "post_id": "t3_0000113",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Monster pricing change is a slap in the face",
+        "posted_at": "2026-04-06T18:00:00",
+        "author": "u/UnpaidMod",
+        "score": 1389,
+        "num_comments": 310,
+        "sentiment": 0.094,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000113/"
+      },
+      {
+        "post_id": "t3_0000110",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Boycotting Monster after this week",
+        "posted_at": "2026-03-24T10:00:00",
+        "author": "u/StreamingNerd",
+        "score": 1178,
+        "num_comments": 163,
+        "sentiment": -0.217,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000110/"
+      },
+      {
+        "post_id": "t3_0000094",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "The Monster discourse is unhinged today",
+        "posted_at": "2026-05-06T15:00:00",
+        "author": "u/StreamingNerd",
+        "score": 667,
+        "num_comments": 191,
+        "sentiment": 0.672,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000094/"
+      },
+      {
+        "post_id": "t3_0000106",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "30 days with Monster's lineup",
+        "posted_at": "2026-03-16T11:00:00",
+        "author": "u/MarketingPro42",
+        "score": 441,
+        "num_comments": 33,
+        "sentiment": 0.486,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000106/"
+      },
+      {
+        "post_id": "t3_0000109",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Anyone else thinking about Monster?",
+        "posted_at": "2026-02-16T12:00:00",
+        "author": "u/PixelPirate",
+        "score": 413,
+        "num_comments": 108,
+        "sentiment": 0.192,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000109/"
+      },
+      {
+        "post_id": "t3_0000096",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Anyone seen the new Monster campaign drop?",
+        "posted_at": "2026-02-25T10:00:00",
+        "author": "u/UnpaidMod",
+        "score": 411,
+        "num_comments": 81,
+        "sentiment": 0.122,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000096/"
+      },
+      {
+        "post_id": "t3_0000114",
+        "brand_id": "brand_004",
+        "brand_name_match": "Monster",
+        "subreddit": "r/MonsterEnergy",
+        "title": "Anyone else having issues with Monster?",
+        "posted_at": "2026-04-25T15:00:00",
+        "author": "u/CreatorLens",
+        "score": 382,
+        "num_comments": 47,
+        "sentiment": -0.215,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/MonsterEnergy/comments/t3_0000114/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Monster_Beverage",
+        "title": "Monster",
+        "category": "brand",
+        "pageviews_28d": 199874,
+        "pageviews_growth_pct": 33.35,
+        "pageviews_volatility": 0.6192,
+        "related_brands": [
+          "brand_004"
+        ]
+      },
+      {
+        "topic_id": "CES_2025",
+        "title": "CES 2025",
+        "category": "event",
+        "pageviews_28d": 520328,
+        "pageviews_growth_pct": -40.01,
+        "pageviews_volatility": 0.5777,
+        "related_brands": [
+          "brand_004",
+          "brand_058",
+          "brand_054",
+          "brand_042"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +66% \u2014 news cycle is active",
+      "Dominant Reddit topic cluster: launch",
+      "Reddit mention velocity up 61% \u2014 emerging conversation cluster",
+      "YT views +34% MoM driven by recent product reveal",
+      "Reddit conversation balanced (sentiment +0.25) across r/MonsterEnergy"
+    ],
+    "ai_summary": "Monster's cross-channel attention has accelerated sharply in the past 28 days, with a +34% YouTube subscriber lift and matching uplift in r/MonsterEnergy sentiment (avg +0.25). Wikipedia pageview volatility (+66% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-14",
+        "views": 4439
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-15",
+        "views": 4916
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-16",
+        "views": 4385
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-17",
+        "views": 4707
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-18",
+        "views": 3814
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-19",
+        "views": 3868
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-20",
+        "views": 4078
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-21",
+        "views": 3727
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-22",
+        "views": 3342
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-23",
+        "views": 3249
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-24",
+        "views": 3147
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-25",
+        "views": 3333
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-26",
+        "views": 2934
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-27",
+        "views": 3222
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-02-28",
+        "views": 3797
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-01",
+        "views": 2815
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-02",
+        "views": 2934
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-03",
+        "views": 3211
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-04",
+        "views": 3543
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-05",
+        "views": 3951
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-06",
+        "views": 3989
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-07",
+        "views": 3908
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-08",
+        "views": 4265
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-09",
+        "views": 3907
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-10",
+        "views": 3883
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-11",
+        "views": 4338
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-12",
+        "views": 4008
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-13",
+        "views": 4165
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-14",
+        "views": 4607
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-15",
+        "views": 4585
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-16",
+        "views": 4517
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-17",
+        "views": 4522
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-18",
+        "views": 3929
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-19",
+        "views": 3486
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-20",
+        "views": 3747
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-21",
+        "views": 3693
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-22",
+        "views": 10138
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-23",
+        "views": 9305
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-24",
+        "views": 8800
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-25",
+        "views": 7788
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-26",
+        "views": 7099
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-27",
+        "views": 7169
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-28",
+        "views": 5654
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-29",
+        "views": 5747
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-30",
+        "views": 5163
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-03-31",
+        "views": 5040
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-01",
+        "views": 4638
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-02",
+        "views": 4983
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-03",
+        "views": 5092
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-04",
+        "views": 4731
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-05",
+        "views": 4928
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-06",
+        "views": 4577
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-07",
+        "views": 4173
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-08",
+        "views": 4221
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-09",
+        "views": 4162
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-10",
+        "views": 4472
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-11",
+        "views": 4189
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-12",
+        "views": 3415
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-13",
+        "views": 4292
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-14",
+        "views": 4216
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-15",
+        "views": 4363
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-16",
+        "views": 4090
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-17",
+        "views": 4471
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-18",
+        "views": 4342
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-19",
+        "views": 4479
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-20",
+        "views": 4000
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-21",
+        "views": 3476
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-22",
+        "views": 3945
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-23",
+        "views": 4476
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-24",
+        "views": 3706
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-25",
+        "views": 3924
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-26",
+        "views": 3591
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-27",
+        "views": 3546
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-28",
+        "views": 3650
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-29",
+        "views": 3882
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-04-30",
+        "views": 4267
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-01",
+        "views": 4614
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-02",
+        "views": 4536
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-03",
+        "views": 4477
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-04",
+        "views": 4758
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-05",
+        "views": 4647
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-06",
+        "views": 4740
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-07",
+        "views": 21101
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-08",
+        "views": 18443
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-09",
+        "views": 16438
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-10",
+        "views": 14965
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-11",
+        "views": 13185
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-12",
+        "views": 11860
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-13",
+        "views": 10526
+      },
+      {
+        "topic_id": "Monster_Beverage",
+        "date": "2026-05-14",
+        "views": 9829
+      }
+    ]
+  }
+}

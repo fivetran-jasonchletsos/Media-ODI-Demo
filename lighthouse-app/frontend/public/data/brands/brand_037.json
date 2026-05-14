@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_037",
+    "brand_handle": "@mcdonalds",
+    "brand_name": "McDonald's",
+    "vertical": "QSR",
+    "hq_country": "US",
+    "established_year": 1940,
+    "description": "McDonald's is a fast food brand established in 1940, headquartered in US.",
+    "yt_channel_id": "UCab77b70037475007e0bf5f",
+    "yt_subscribers": 404984,
+    "yt_views_total": 291254968,
+    "yt_videos_count": 2689,
+    "yt_views_28d": 9595950,
+    "yt_subs_growth_28d_pct": 34.37,
+    "reddit_mentions_28d": 18,
+    "reddit_avg_sentiment": 0.6,
+    "reddit_top_subreddit": "r/McDonalds",
+    "reddit_velocity_28d": -0.091,
+    "wiki_pageviews_28d": 1401,
+    "wiki_pageviews_growth_28d_pct": 23.61,
+    "attention_score": 64.99,
+    "signal_bucket": "breakout",
+    "share_of_voice": 24.67,
+    "last_signal_change": "2026-05-12",
+    "videos": [
+      {
+        "video_id": "yt_000923",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's just changed the game with model",
+        "published_at": "2026-03-20T09:00:00",
+        "duration_sec": 878,
+        "views": 8626813,
+        "likes": 394712,
+        "comments": 65489,
+        "engagement_rate": 0.0533,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000923/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000912",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's CEO on the future of the customer journey",
+        "published_at": "2026-05-01T00:00:00",
+        "duration_sec": 294,
+        "views": 1031706,
+        "likes": 43289,
+        "comments": 6791,
+        "engagement_rate": 0.0485,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000912/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000920",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's CEO on the future of the customer journey",
+        "published_at": "2026-04-26T13:00:00",
+        "duration_sec": 1493,
+        "views": 1027983,
+        "likes": 67389,
+        "comments": 6644,
+        "engagement_rate": 0.072,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000920/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000928",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "Inside McDonald's's 2026 strategy",
+        "published_at": "2026-02-24T05:00:00",
+        "duration_sec": 1612,
+        "views": 1007767,
+        "likes": 54154,
+        "comments": 4582,
+        "engagement_rate": 0.0583,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000928/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000910",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "edition from McDonald's: first impressions",
+        "published_at": "2026-04-20T08:00:00",
+        "duration_sec": 559,
+        "views": 927000,
+        "likes": 25349,
+        "comments": 2222,
+        "engagement_rate": 0.0297,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000910/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000921",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's CEO on the future of design",
+        "published_at": "2026-05-10T18:00:00",
+        "duration_sec": 910,
+        "views": 908623,
+        "likes": 57286,
+        "comments": 4514,
+        "engagement_rate": 0.068,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000921/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000911",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "Inside McDonald's's 2026 strategy",
+        "published_at": "2026-05-10T00:00:00",
+        "duration_sec": 66,
+        "views": 788697,
+        "likes": 30638,
+        "comments": 4426,
+        "engagement_rate": 0.0445,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000911/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000914",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "2026 McDonald's platform review",
+        "published_at": "2026-04-14T08:00:00",
+        "duration_sec": 53,
+        "views": 716017,
+        "likes": 40102,
+        "comments": 5032,
+        "engagement_rate": 0.063,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000914/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000913",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "Inside McDonald's's 2026 strategy",
+        "published_at": "2026-04-03T09:00:00",
+        "duration_sec": 311,
+        "views": 713296,
+        "likes": 36565,
+        "comments": 3962,
+        "engagement_rate": 0.0568,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000913/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000919",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "Behind the scenes at McDonald's",
+        "published_at": "2026-03-07T16:00:00",
+        "duration_sec": 580,
+        "views": 699783,
+        "likes": 17448,
+        "comments": 1847,
+        "engagement_rate": 0.0276,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000919/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000915",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's unveils flagship",
+        "published_at": "2026-02-17T15:00:00",
+        "duration_sec": 1546,
+        "views": 650356,
+        "likes": 44332,
+        "comments": 7214,
+        "engagement_rate": 0.0793,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000915/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000927",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "2026 McDonald's drop review",
+        "published_at": "2026-03-25T16:00:00",
+        "duration_sec": 500,
+        "views": 644785,
+        "likes": 34656,
+        "comments": 4989,
+        "engagement_rate": 0.0615,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000927/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000930",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "What nobody tells you about McDonald's",
+        "published_at": "2026-03-11T07:00:00",
+        "duration_sec": 1369,
+        "views": 581440,
+        "likes": 22252,
+        "comments": 2723,
+        "engagement_rate": 0.043,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000930/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000926",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "What nobody tells you about McDonald's",
+        "published_at": "2026-04-29T04:00:00",
+        "duration_sec": 1075,
+        "views": 504006,
+        "likes": 24720,
+        "comments": 1728,
+        "engagement_rate": 0.0525,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000926/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000924",
+        "brand_id": "brand_037",
+        "channel_id": "UCab77b70037475007e0bf5f",
+        "title": "McDonald's unveils campaign",
+        "published_at": "2026-03-21T20:00:00",
+        "duration_sec": 54,
+        "views": 458873,
+        "likes": 19163,
+        "comments": 1550,
+        "engagement_rate": 0.0451,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000924/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001133",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "Hot take on the McDonald's collab",
+        "posted_at": "2026-04-03T18:00:00",
+        "author": "u/ThriftyTina",
+        "score": 13955,
+        "num_comments": 3060,
+        "sentiment": 0.267,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001133/"
+      },
+      {
+        "post_id": "t3_0001118",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "First look at McDonald's's lineup",
+        "posted_at": "2026-03-03T06:00:00",
+        "author": "u/MidnightMod",
+        "score": 12669,
+        "num_comments": 3322,
+        "sentiment": -0.126,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001118/"
+      },
+      {
+        "post_id": "t3_0001132",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's pricing change is a slap in the face",
+        "posted_at": "2026-03-09T17:00:00",
+        "author": "u/StreamingNerd",
+        "score": 8028,
+        "num_comments": 1398,
+        "sentiment": -0.515,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001132/"
+      },
+      {
+        "post_id": "t3_0001117",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "Tried McDonald's \u2014 here's my take",
+        "posted_at": "2026-04-24T10:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 5471,
+        "num_comments": 718,
+        "sentiment": -0.03,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001117/"
+      },
+      {
+        "post_id": "t3_0001113",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's just announced the new model \u2014 thoughts?",
+        "posted_at": "2026-03-13T21:00:00",
+        "author": "u/SignalSeeker",
+        "score": 4059,
+        "num_comments": 641,
+        "sentiment": 0.358,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001113/"
+      },
+      {
+        "post_id": "t3_0001116",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's customer service is impossible to reach",
+        "posted_at": "2026-02-14T18:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 2687,
+        "num_comments": 799,
+        "sentiment": 0.159,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001116/"
+      },
+      {
+        "post_id": "t3_0001131",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "Honest review of the McDonald's release",
+        "posted_at": "2026-02-24T02:00:00",
+        "author": "u/QuietBuyer",
+        "score": 2635,
+        "num_comments": 768,
+        "sentiment": -0.105,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001131/"
+      },
+      {
+        "post_id": "t3_0001110",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's TikTok meme has me dying",
+        "posted_at": "2026-03-27T23:00:00",
+        "author": "u/CulturalCritic",
+        "score": 2409,
+        "num_comments": 172,
+        "sentiment": -0.016,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001110/"
+      },
+      {
+        "post_id": "t3_0001138",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's x [collab] is actually cool",
+        "posted_at": "2026-04-14T22:00:00",
+        "author": "u/TacoCritic",
+        "score": 2285,
+        "num_comments": 663,
+        "sentiment": 0.278,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001138/"
+      },
+      {
+        "post_id": "t3_0001111",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's is having a moment",
+        "posted_at": "2026-03-14T10:00:00",
+        "author": "u/SocialSarah",
+        "score": 1403,
+        "num_comments": 263,
+        "sentiment": 0.258,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001111/"
+      },
+      {
+        "post_id": "t3_0001127",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "Why McDonald's is so polarizing",
+        "posted_at": "2026-04-02T10:00:00",
+        "author": "u/PixelPirate",
+        "score": 1194,
+        "num_comments": 251,
+        "sentiment": 0.559,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001127/"
+      },
+      {
+        "post_id": "t3_0001134",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's TikTok meme has me dying",
+        "posted_at": "2026-03-17T04:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 1067,
+        "num_comments": 268,
+        "sentiment": 0.039,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001134/"
+      },
+      {
+        "post_id": "t3_0001124",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's partnership announcement",
+        "posted_at": "2026-03-27T01:00:00",
+        "author": "u/UnpaidMod",
+        "score": 858,
+        "num_comments": 245,
+        "sentiment": 0.119,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001124/"
+      },
+      {
+        "post_id": "t3_0001135",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's did WHAT?",
+        "posted_at": "2026-02-18T00:00:00",
+        "author": "u/MidnightMod",
+        "score": 853,
+        "num_comments": 43,
+        "sentiment": -0.714,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001135/"
+      },
+      {
+        "post_id": "t3_0001126",
+        "brand_id": "brand_037",
+        "brand_name_match": "McDonald's",
+        "subreddit": "r/McDonalds",
+        "title": "McDonald's just announced the new release \u2014 thoughts?",
+        "posted_at": "2026-04-12T09:00:00",
+        "author": "u/UnpaidMod",
+        "score": 551,
+        "num_comments": 112,
+        "sentiment": 0.193,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/McDonalds/comments/t3_0001126/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "McDonald%27s",
+        "title": "McDonald's",
+        "category": "brand",
+        "pageviews_28d": 1270,
+        "pageviews_growth_pct": -13.13,
+        "pageviews_volatility": 0.3313,
+        "related_brands": [
+          "brand_037"
+        ]
+      },
+      {
+        "topic_id": "Apple_Vision_Pro",
+        "title": "Apple Vision Pro",
+        "category": "industry",
+        "pageviews_28d": 242059,
+        "pageviews_growth_pct": -33.6,
+        "pageviews_volatility": 0.3852,
+        "related_brands": [
+          "brand_037",
+          "brand_059",
+          "brand_052",
+          "brand_027"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Top YouTube asset: \"McDonald's just changed the game with model\"",
+      "Reddit sentiment elevated at +0.60 \u2014 fan-driven engagement in r/McDonalds",
+      "Dominant Reddit topic cluster: culture",
+      "YT views +34% MoM driven by recent product reveal"
+    ],
+    "ai_summary": "McDonald's's cross-channel attention has accelerated sharply in the past 28 days, with a +34% YouTube subscriber lift and matching uplift in r/McDonalds sentiment (avg +0.60). Wikipedia pageview volatility (+24% w/w) suggests the news cycle remains active and the breakout signal is durable into the next 14 days.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-14",
+        "views": 51
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-15",
+        "views": 53
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-16",
+        "views": 57
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-17",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-18",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-19",
+        "views": 43
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-20",
+        "views": 41
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-21",
+        "views": 39
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-22",
+        "views": 40
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-23",
+        "views": 38
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-24",
+        "views": 40
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-25",
+        "views": 45
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-26",
+        "views": 39
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-27",
+        "views": 41
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-02-28",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-01",
+        "views": 53
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-02",
+        "views": 52
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-03",
+        "views": 52
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-04",
+        "views": 51
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-05",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-06",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-07",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-08",
+        "views": 53
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-09",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-10",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-11",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-12",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-13",
+        "views": 128
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-14",
+        "views": 119
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-15",
+        "views": 113
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-16",
+        "views": 104
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-17",
+        "views": 98
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-18",
+        "views": 90
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-19",
+        "views": 80
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-20",
+        "views": 75
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-21",
+        "views": 68
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-22",
+        "views": 70
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-23",
+        "views": 72
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-24",
+        "views": 63
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-25",
+        "views": 56
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-26",
+        "views": 55
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-27",
+        "views": 57
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-28",
+        "views": 44
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-29",
+        "views": 42
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-30",
+        "views": 51
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-03-31",
+        "views": 45
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-01",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-02",
+        "views": 47
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-03",
+        "views": 53
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-04",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-05",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-06",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-07",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-08",
+        "views": 41
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-09",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-10",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-11",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-12",
+        "views": 47
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-13",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-14",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-15",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-16",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-17",
+        "views": 51
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-18",
+        "views": 50
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-19",
+        "views": 45
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-20",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-21",
+        "views": 47
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-22",
+        "views": 42
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-23",
+        "views": 49
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-24",
+        "views": 52
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-25",
+        "views": 47
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-26",
+        "views": 34
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-27",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-28",
+        "views": 40
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-29",
+        "views": 41
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-04-30",
+        "views": 34
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-01",
+        "views": 30
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-02",
+        "views": 35
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-03",
+        "views": 35
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-04",
+        "views": 41
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-05",
+        "views": 46
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-06",
+        "views": 51
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-07",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-08",
+        "views": 45
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-09",
+        "views": 38
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-10",
+        "views": 48
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-11",
+        "views": 54
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-12",
+        "views": 57
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-13",
+        "views": 61
+      },
+      {
+        "topic_id": "McDonald%27s",
+        "date": "2026-05-14",
+        "views": 54
+      }
+    ]
+  }
+}

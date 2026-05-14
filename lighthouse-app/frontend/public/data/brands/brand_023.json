@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_023",
+    "brand_handle": "@samsung",
+    "brand_name": "Samsung",
+    "vertical": "Tech",
+    "hq_country": "Korea",
+    "established_year": 1969,
+    "description": "Samsung is a consumer electronics brand established in 1969, headquartered in Korea.",
+    "yt_channel_id": "UC90e01d6464588b26c3c8e1",
+    "yt_subscribers": 38302479,
+    "yt_views_total": 18382126928,
+    "yt_videos_count": 619,
+    "yt_views_28d": 880555844,
+    "yt_subs_growth_28d_pct": -2.71,
+    "reddit_mentions_28d": 220,
+    "reddit_avg_sentiment": 0.203,
+    "reddit_top_subreddit": "r/samsung",
+    "reddit_velocity_28d": 0.638,
+    "wiki_pageviews_28d": 3308,
+    "wiki_pageviews_growth_28d_pct": 76.08,
+    "attention_score": 54.74,
+    "signal_bucket": "hot",
+    "share_of_voice": 15.16,
+    "last_signal_change": "2026-05-03",
+    "videos": [
+      {
+        "video_id": "yt_000572",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung unveils model",
+        "published_at": "2026-03-19T03:00:00",
+        "duration_sec": 570,
+        "views": 467899814,
+        "likes": 30126257,
+        "comments": 5120004,
+        "engagement_rate": 0.0753,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000572/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000552",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Behind the scenes at Samsung",
+        "published_at": "2026-03-19T05:00:00",
+        "duration_sec": 1295,
+        "views": 69166050,
+        "likes": 3041439,
+        "comments": 226283,
+        "engagement_rate": 0.0472,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000552/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000560",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung CEO on the future of sustainability",
+        "published_at": "2026-02-15T20:00:00",
+        "duration_sec": 515,
+        "views": 69066761,
+        "likes": 2100626,
+        "comments": 275891,
+        "engagement_rate": 0.0344,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000560/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000564",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung vs the competition",
+        "published_at": "2026-03-10T09:00:00",
+        "duration_sec": 1421,
+        "views": 68058923,
+        "likes": 1404455,
+        "comments": 106199,
+        "engagement_rate": 0.0222,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000564/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000571",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung unveils edition",
+        "published_at": "2026-03-16T07:00:00",
+        "duration_sec": 884,
+        "views": 64856620,
+        "likes": 3685191,
+        "comments": 483033,
+        "engagement_rate": 0.0643,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000571/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000575",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "The real story behind Samsung",
+        "published_at": "2026-05-05T13:00:00",
+        "duration_sec": 185,
+        "views": 63908596,
+        "likes": 1685440,
+        "comments": 194886,
+        "engagement_rate": 0.0294,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000575/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000569",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "New Samsung flagship reveal",
+        "published_at": "2026-04-04T15:00:00",
+        "duration_sec": 580,
+        "views": 61353638,
+        "likes": 1081582,
+        "comments": 189263,
+        "engagement_rate": 0.0207,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000569/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000568",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung vs the competition",
+        "published_at": "2026-04-17T03:00:00",
+        "duration_sec": 1219,
+        "views": 60928563,
+        "likes": 1889091,
+        "comments": 332844,
+        "engagement_rate": 0.0365,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000568/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000563",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung unveils edition",
+        "published_at": "2026-02-17T05:00:00",
+        "duration_sec": 265,
+        "views": 56590637,
+        "likes": 2584788,
+        "comments": 275841,
+        "engagement_rate": 0.0505,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000563/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000570",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "What nobody tells you about Samsung",
+        "published_at": "2026-04-16T09:00:00",
+        "duration_sec": 444,
+        "views": 54646526,
+        "likes": 3435677,
+        "comments": 253777,
+        "engagement_rate": 0.0675,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000570/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000559",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung vs the competition",
+        "published_at": "2026-04-17T18:00:00",
+        "duration_sec": 269,
+        "views": 54398518,
+        "likes": 2746706,
+        "comments": 151119,
+        "engagement_rate": 0.0533,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000559/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000556",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Samsung unveils collection",
+        "published_at": "2026-03-30T18:00:00",
+        "duration_sec": 1557,
+        "views": 52614732,
+        "likes": 2612349,
+        "comments": 227047,
+        "engagement_rate": 0.054,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000556/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000567",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "How Samsung is reimagining loyalty",
+        "published_at": "2026-03-28T22:00:00",
+        "duration_sec": 1650,
+        "views": 49323017,
+        "likes": 3515605,
+        "comments": 213035,
+        "engagement_rate": 0.0756,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000567/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000562",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "The real story behind Samsung",
+        "published_at": "2026-03-05T15:00:00",
+        "duration_sec": 54,
+        "views": 48364705,
+        "likes": 1189617,
+        "comments": 144644,
+        "engagement_rate": 0.0276,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000562/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000576",
+        "brand_id": "brand_023",
+        "channel_id": "UC90e01d6464588b26c3c8e1",
+        "title": "Why we chose Samsung",
+        "published_at": "2026-04-26T18:00:00",
+        "duration_sec": 64,
+        "views": 46626362,
+        "likes": 2270860,
+        "comments": 305223,
+        "engagement_rate": 0.0552,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000576/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000681",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung earnings call summary",
+        "posted_at": "2026-02-12T09:00:00",
+        "author": "u/UnpaidMod",
+        "score": 13885,
+        "num_comments": 3257,
+        "sentiment": 0.075,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000681/"
+      },
+      {
+        "post_id": "t3_0000693",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Anyone else having issues with Samsung?",
+        "posted_at": "2026-02-25T12:00:00",
+        "author": "u/AgencyLifer",
+        "score": 13884,
+        "num_comments": 3252,
+        "sentiment": -0.047,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000693/"
+      },
+      {
+        "post_id": "t3_0000697",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung pricing change is a slap in the face",
+        "posted_at": "2026-04-19T01:00:00",
+        "author": "u/UnpaidMod",
+        "score": 10221,
+        "num_comments": 2502,
+        "sentiment": -0.345,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000697/"
+      },
+      {
+        "post_id": "t3_0000694",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung is having a moment",
+        "posted_at": "2026-03-13T00:00:00",
+        "author": "u/TacoCritic",
+        "score": 4224,
+        "num_comments": 621,
+        "sentiment": 0.265,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000694/"
+      },
+      {
+        "post_id": "t3_0000684",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung customer service is impossible to reach",
+        "posted_at": "2026-02-16T07:00:00",
+        "author": "u/SocialSarah",
+        "score": 4098,
+        "num_comments": 533,
+        "sentiment": 0.001,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000684/"
+      },
+      {
+        "post_id": "t3_0000680",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung is having a moment",
+        "posted_at": "2026-04-27T01:00:00",
+        "author": "u/StreamingNerd",
+        "score": 2571,
+        "num_comments": 392,
+        "sentiment": 0.067,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000680/"
+      },
+      {
+        "post_id": "t3_0000692",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Honest review of the Samsung campaign",
+        "posted_at": "2026-03-15T11:00:00",
+        "author": "u/SocialSarah",
+        "score": 2559,
+        "num_comments": 565,
+        "sentiment": 0.039,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000692/"
+      },
+      {
+        "post_id": "t3_0000679",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung's new platform launch is wild",
+        "posted_at": "2026-04-20T23:00:00",
+        "author": "u/CreatorLens",
+        "score": 2396,
+        "num_comments": 563,
+        "sentiment": -0.045,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000679/"
+      },
+      {
+        "post_id": "t3_0000690",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "First look at Samsung's experience",
+        "posted_at": "2026-05-07T19:00:00",
+        "author": "u/SignalSeeker",
+        "score": 1719,
+        "num_comments": 179,
+        "sentiment": 0.005,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000690/"
+      },
+      {
+        "post_id": "t3_0000696",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung's new drop launch is wild",
+        "posted_at": "2026-04-14T09:00:00",
+        "author": "u/MidwestDad88",
+        "score": 1184,
+        "num_comments": 331,
+        "sentiment": 0.093,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000696/"
+      },
+      {
+        "post_id": "t3_0000688",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Hot take on the Samsung collab",
+        "posted_at": "2026-03-19T17:00:00",
+        "author": "u/BrandLurker",
+        "score": 539,
+        "num_comments": 80,
+        "sentiment": 0.314,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000688/"
+      },
+      {
+        "post_id": "t3_0000695",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Trying to cancel Samsung \u2014 nightmare",
+        "posted_at": "2026-04-15T12:00:00",
+        "author": "u/MidwestDad88",
+        "score": 412,
+        "num_comments": 100,
+        "sentiment": -0.396,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000695/"
+      },
+      {
+        "post_id": "t3_0000678",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Why I'm switching to Samsung",
+        "posted_at": "2026-05-05T21:00:00",
+        "author": "u/MarketingPro42",
+        "score": 394,
+        "num_comments": 35,
+        "sentiment": 0.479,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000678/"
+      },
+      {
+        "post_id": "t3_0000699",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Anyone seen the new Samsung model drop?",
+        "posted_at": "2026-04-30T22:00:00",
+        "author": "u/MidnightMod",
+        "score": 387,
+        "num_comments": 35,
+        "sentiment": 0.183,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000699/"
+      },
+      {
+        "post_id": "t3_0000682",
+        "brand_id": "brand_023",
+        "brand_name_match": "Samsung",
+        "subreddit": "r/samsung",
+        "title": "Samsung's new series launch is wild",
+        "posted_at": "2026-03-11T11:00:00",
+        "author": "u/MarketingPro42",
+        "score": 237,
+        "num_comments": 14,
+        "sentiment": 0.457,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/samsung/comments/t3_0000682/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Samsung_Electronics",
+        "title": "Samsung",
+        "category": "brand",
+        "pageviews_28d": 9159,
+        "pageviews_growth_pct": 160.42,
+        "pageviews_volatility": 0.7237,
+        "related_brands": [
+          "brand_023"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Top YouTube asset: \"Samsung unveils model\"",
+      "Wikipedia pageviews surged +76% \u2014 news cycle is active",
+      "YT subscriber growth turned negative (-2.7%) \u2014 content cadence slipping",
+      "Reddit conversation balanced (sentiment +0.20) across r/samsung",
+      "Reddit mention velocity up 64% \u2014 emerging conversation cluster"
+    ],
+    "ai_summary": "Samsung is running hot in the Tech panel with an attention score of 55. YouTube and Reddit are reinforcing each other \u2014 views +-3% and r/samsung sentiment of +0.20 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-14",
+        "views": 112
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-15",
+        "views": 357
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-16",
+        "views": 322
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-17",
+        "views": 275
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-18",
+        "views": 267
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-19",
+        "views": 236
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-20",
+        "views": 217
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-21",
+        "views": 210
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-22",
+        "views": 197
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-23",
+        "views": 175
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-24",
+        "views": 169
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-25",
+        "views": 176
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-26",
+        "views": 161
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-27",
+        "views": 151
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-02-28",
+        "views": 135
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-01",
+        "views": 137
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-02",
+        "views": 151
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-03",
+        "views": 132
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-04",
+        "views": 137
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-05",
+        "views": 154
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-06",
+        "views": 154
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-07",
+        "views": 136
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-08",
+        "views": 139
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-09",
+        "views": 147
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-10",
+        "views": 134
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-11",
+        "views": 148
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-12",
+        "views": 138
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-13",
+        "views": 124
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-14",
+        "views": 126
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-15",
+        "views": 108
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-16",
+        "views": 106
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-17",
+        "views": 114
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-18",
+        "views": 94
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-19",
+        "views": 106
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-20",
+        "views": 120
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-21",
+        "views": 116
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-22",
+        "views": 125
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-23",
+        "views": 135
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-24",
+        "views": 126
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-25",
+        "views": 124
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-26",
+        "views": 143
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-27",
+        "views": 133
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-28",
+        "views": 146
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-29",
+        "views": 115
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-30",
+        "views": 122
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-03-31",
+        "views": 122
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-01",
+        "views": 123
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-02",
+        "views": 105
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-03",
+        "views": 106
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-04",
+        "views": 101
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-05",
+        "views": 102
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-06",
+        "views": 118
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-07",
+        "views": 137
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-08",
+        "views": 127
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-09",
+        "views": 131
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-10",
+        "views": 123
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-11",
+        "views": 134
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-12",
+        "views": 139
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-13",
+        "views": 141
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-14",
+        "views": 131
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-15",
+        "views": 139
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-16",
+        "views": 133
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-17",
+        "views": 137
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-18",
+        "views": 151
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-19",
+        "views": 147
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-20",
+        "views": 455
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-21",
+        "views": 374
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-22",
+        "views": 335
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-23",
+        "views": 297
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-24",
+        "views": 258
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-25",
+        "views": 883
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-26",
+        "views": 774
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-27",
+        "views": 679
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-28",
+        "views": 603
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-29",
+        "views": 525
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-04-30",
+        "views": 463
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-01",
+        "views": 423
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-02",
+        "views": 364
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-03",
+        "views": 319
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-04",
+        "views": 274
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-05",
+        "views": 258
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-06",
+        "views": 239
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-07",
+        "views": 211
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-08",
+        "views": 191
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-09",
+        "views": 173
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-10",
+        "views": 147
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-11",
+        "views": 138
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-12",
+        "views": 127
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-13",
+        "views": 108
+      },
+      {
+        "topic_id": "Samsung_Electronics",
+        "date": "2026-05-14",
+        "views": 106
+      }
+    ]
+  }
+}

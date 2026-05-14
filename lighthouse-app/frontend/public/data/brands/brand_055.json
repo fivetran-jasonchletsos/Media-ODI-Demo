@@ -1,0 +1,924 @@
+{
+  "brand": {
+    "brand_id": "brand_055",
+    "brand_handle": "@delta",
+    "brand_name": "Delta",
+    "vertical": "Travel",
+    "hq_country": "US",
+    "established_year": 1924,
+    "description": "Delta is a airline brand established in 1924, headquartered in US.",
+    "yt_channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+    "yt_subscribers": 1742524,
+    "yt_views_total": 2369293030,
+    "yt_videos_count": 1058,
+    "yt_views_28d": 116886727,
+    "yt_subs_growth_28d_pct": 1.55,
+    "reddit_mentions_28d": 51,
+    "reddit_avg_sentiment": 0.279,
+    "reddit_top_subreddit": "r/delta",
+    "reddit_velocity_28d": 0.722,
+    "wiki_pageviews_28d": 79565,
+    "wiki_pageviews_growth_28d_pct": 70.8,
+    "attention_score": 55.3,
+    "signal_bucket": "hot",
+    "share_of_voice": 20.27,
+    "last_signal_change": "2026-05-01",
+    "videos": [
+      {
+        "video_id": "yt_001350",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta just changed the game with series",
+        "published_at": "2026-04-28T22:00:00",
+        "duration_sec": 1062,
+        "views": 73631511,
+        "likes": 4043174,
+        "comments": 523853,
+        "engagement_rate": 0.062,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001350/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001361",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta CEO on the future of consumer attention",
+        "published_at": "2026-03-25T05:00:00",
+        "duration_sec": 1792,
+        "views": 11680437,
+        "likes": 1668343,
+        "comments": 286447,
+        "engagement_rate": 0.1674,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001361/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001362",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta unveils flagship",
+        "published_at": "2026-03-23T19:00:00",
+        "duration_sec": 54,
+        "views": 11491122,
+        "likes": 217777,
+        "comments": 21692,
+        "engagement_rate": 0.0208,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001362/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001347",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "The real story behind Delta",
+        "published_at": "2026-03-23T10:00:00",
+        "duration_sec": 878,
+        "views": 11363786,
+        "likes": 591593,
+        "comments": 98192,
+        "engagement_rate": 0.0607,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001347/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001365",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "I tried Delta's new series for 30 days",
+        "published_at": "2026-04-18T20:00:00",
+        "duration_sec": 377,
+        "views": 10854625,
+        "likes": 380214,
+        "comments": 29342,
+        "engagement_rate": 0.0377,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001365/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001345",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "How Delta is reimagining the category",
+        "published_at": "2026-02-17T06:00:00",
+        "duration_sec": 89,
+        "views": 9815254,
+        "likes": 613765,
+        "comments": 86658,
+        "engagement_rate": 0.0714,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001345/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001364",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta just changed the game with flagship",
+        "published_at": "2026-03-17T11:00:00",
+        "duration_sec": 1227,
+        "views": 9601676,
+        "likes": 477362,
+        "comments": 41639,
+        "engagement_rate": 0.0541,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001364/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001346",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "New Delta campaign reveal",
+        "published_at": "2026-02-15T23:00:00",
+        "duration_sec": 611,
+        "views": 9535533,
+        "likes": 660366,
+        "comments": 53001,
+        "engagement_rate": 0.0748,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001346/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001351",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta CEO on the future of loyalty",
+        "published_at": "2026-03-28T08:00:00",
+        "duration_sec": 447,
+        "views": 9070485,
+        "likes": 426930,
+        "comments": 62264,
+        "engagement_rate": 0.0539,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001351/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001359",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "I tried Delta's new model for 30 days",
+        "published_at": "2026-04-10T12:00:00",
+        "duration_sec": 181,
+        "views": 8986001,
+        "likes": 618167,
+        "comments": 65615,
+        "engagement_rate": 0.0761,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001359/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001352",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Inside Delta's 2026 strategy",
+        "published_at": "2026-03-26T14:00:00",
+        "duration_sec": 767,
+        "views": 7566685,
+        "likes": 443951,
+        "comments": 47713,
+        "engagement_rate": 0.065,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001352/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001349",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "Delta just changed the game with collection",
+        "published_at": "2026-05-11T02:00:00",
+        "duration_sec": 414,
+        "views": 6806312,
+        "likes": 307735,
+        "comments": 17039,
+        "engagement_rate": 0.0477,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001349/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001353",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "I tried Delta's new model for 30 days",
+        "published_at": "2026-03-07T23:00:00",
+        "duration_sec": 90,
+        "views": 6336845,
+        "likes": 370373,
+        "comments": 22269,
+        "engagement_rate": 0.062,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001353/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001343",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "How Delta is reimagining the customer journey",
+        "published_at": "2026-02-27T02:00:00",
+        "duration_sec": 68,
+        "views": 5372163,
+        "likes": 322651,
+        "comments": 29364,
+        "engagement_rate": 0.0655,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001343/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001358",
+        "brand_id": "brand_055",
+        "channel_id": "UCa4cbd21f4a3d17e82ad5cb",
+        "title": "I tried Delta's new edition for 30 days",
+        "published_at": "2026-03-10T13:00:00",
+        "duration_sec": 53,
+        "views": 5151493,
+        "likes": 342548,
+        "comments": 38202,
+        "engagement_rate": 0.0739,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001358/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001655",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Is anyone else fed up with Delta lately?",
+        "posted_at": "2026-05-12T09:00:00",
+        "author": "u/MarketingPro42",
+        "score": 13133,
+        "num_comments": 3928,
+        "sentiment": -0.486,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/delta/comments/t3_0001655/"
+      },
+      {
+        "post_id": "t3_0001641",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Delta beat / missed \u2014 let's discuss",
+        "posted_at": "2026-04-10T02:00:00",
+        "author": "u/BrandLurker",
+        "score": 12069,
+        "num_comments": 2797,
+        "sentiment": 0.189,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/delta/comments/t3_0001641/"
+      },
+      {
+        "post_id": "t3_0001651",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Anyone else having issues with Delta?",
+        "posted_at": "2026-02-19T18:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 11820,
+        "num_comments": 2442,
+        "sentiment": -0.109,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/delta/comments/t3_0001651/"
+      },
+      {
+        "post_id": "t3_0001638",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Trying to cancel Delta \u2014 nightmare",
+        "posted_at": "2026-04-01T05:00:00",
+        "author": "u/SignalSeeker",
+        "score": 10184,
+        "num_comments": 2834,
+        "sentiment": -0.023,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/delta/comments/t3_0001638/"
+      },
+      {
+        "post_id": "t3_0001656",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Delta pricing change is a slap in the face",
+        "posted_at": "2026-03-02T07:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 7831,
+        "num_comments": 2158,
+        "sentiment": -0.193,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/delta/comments/t3_0001656/"
+      },
+      {
+        "post_id": "t3_0001652",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Trying to cancel Delta \u2014 nightmare",
+        "posted_at": "2026-05-10T09:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 5956,
+        "num_comments": 1396,
+        "sentiment": -0.265,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/delta/comments/t3_0001652/"
+      },
+      {
+        "post_id": "t3_0001663",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "The Delta discourse is unhinged today",
+        "posted_at": "2026-04-12T09:00:00",
+        "author": "u/BrandLurker",
+        "score": 5873,
+        "num_comments": 1623,
+        "sentiment": 0.112,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/delta/comments/t3_0001663/"
+      },
+      {
+        "post_id": "t3_0001647",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Delta beat / missed \u2014 let's discuss",
+        "posted_at": "2026-02-12T23:00:00",
+        "author": "u/CreatorLens",
+        "score": 5853,
+        "num_comments": 834,
+        "sentiment": 0.095,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/delta/comments/t3_0001647/"
+      },
+      {
+        "post_id": "t3_0001664",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "30 days with Delta's flagship",
+        "posted_at": "2026-02-12T09:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 4277,
+        "num_comments": 1055,
+        "sentiment": 0.164,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/delta/comments/t3_0001664/"
+      },
+      {
+        "post_id": "t3_0001658",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Honest review of the Delta platform",
+        "posted_at": "2026-03-05T00:00:00",
+        "author": "u/QuietBuyer",
+        "score": 3326,
+        "num_comments": 924,
+        "sentiment": -0.094,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/delta/comments/t3_0001658/"
+      },
+      {
+        "post_id": "t3_0001648",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "First look at Delta's collection",
+        "posted_at": "2026-04-06T10:00:00",
+        "author": "u/PixelPirate",
+        "score": 3131,
+        "num_comments": 264,
+        "sentiment": 0.146,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/delta/comments/t3_0001648/"
+      },
+      {
+        "post_id": "t3_0001644",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Delta is having a moment",
+        "posted_at": "2026-05-09T15:00:00",
+        "author": "u/AgencyLifer",
+        "score": 2431,
+        "num_comments": 497,
+        "sentiment": 0.968,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/delta/comments/t3_0001644/"
+      },
+      {
+        "post_id": "t3_0001662",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "30 days with Delta's flagship",
+        "posted_at": "2026-04-13T12:00:00",
+        "author": "u/MarketingPro42",
+        "score": 2131,
+        "num_comments": 497,
+        "sentiment": 0.276,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/delta/comments/t3_0001662/"
+      },
+      {
+        "post_id": "t3_0001649",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Tried Delta \u2014 here's my take",
+        "posted_at": "2026-03-05T06:00:00",
+        "author": "u/ThriftyTina",
+        "score": 1075,
+        "num_comments": 213,
+        "sentiment": -0.255,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/delta/comments/t3_0001649/"
+      },
+      {
+        "post_id": "t3_0001665",
+        "brand_id": "brand_055",
+        "brand_name_match": "Delta",
+        "subreddit": "r/delta",
+        "title": "Delta TikTok meme has me dying",
+        "posted_at": "2026-04-20T18:00:00",
+        "author": "u/BrandLurker",
+        "score": 796,
+        "num_comments": 148,
+        "sentiment": 1.0,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/delta/comments/t3_0001665/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Delta_Air_Lines",
+        "title": "Delta",
+        "category": "brand",
+        "pageviews_28d": 69374,
+        "pageviews_growth_pct": -40.37,
+        "pageviews_volatility": 0.4571,
+        "related_brands": [
+          "brand_055"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Reddit mention velocity up 72% \u2014 emerging conversation cluster",
+      "Top YouTube asset: \"Delta just changed the game with series\"",
+      "Dominant Reddit topic cluster: product-review",
+      "Reddit conversation balanced (sentiment +0.28) across r/delta",
+      "Wikipedia pageviews surged +71% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Delta is running hot in the Travel panel with an attention score of 55. YouTube and Reddit are reinforcing each other \u2014 views +2% and r/delta sentiment of +0.28 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-14",
+        "views": 2519
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-15",
+        "views": 3096
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-16",
+        "views": 2896
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-17",
+        "views": 3035
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-18",
+        "views": 3224
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-19",
+        "views": 2609
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-20",
+        "views": 2622
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-21",
+        "views": 2491
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-22",
+        "views": 2532
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-23",
+        "views": 2971
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-24",
+        "views": 2905
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-25",
+        "views": 3137
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-26",
+        "views": 2808
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-27",
+        "views": 2381
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-02-28",
+        "views": 2305
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-01",
+        "views": 2723
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-02",
+        "views": 2808
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-03",
+        "views": 2636
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-04",
+        "views": 3125
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-05",
+        "views": 2558
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-06",
+        "views": 3027
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-07",
+        "views": 3075
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-08",
+        "views": 2739
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-09",
+        "views": 3045
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-10",
+        "views": 3437
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-11",
+        "views": 3440
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-12",
+        "views": 3033
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-13",
+        "views": 2980
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-14",
+        "views": 3093
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-15",
+        "views": 2831
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-16",
+        "views": 2881
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-17",
+        "views": 2576
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-18",
+        "views": 2188
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-19",
+        "views": 2181
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-20",
+        "views": 2467
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-21",
+        "views": 2194
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-22",
+        "views": 2448
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-23",
+        "views": 2084
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-24",
+        "views": 10037
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-25",
+        "views": 9321
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-26",
+        "views": 8029
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-27",
+        "views": 7135
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-28",
+        "views": 6167
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-29",
+        "views": 5588
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-30",
+        "views": 5048
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-03-31",
+        "views": 4754
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-01",
+        "views": 4642
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-02",
+        "views": 4664
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-03",
+        "views": 3945
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-04",
+        "views": 3685
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-05",
+        "views": 4055
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-06",
+        "views": 3639
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-07",
+        "views": 3766
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-08",
+        "views": 3426
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-09",
+        "views": 2899
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-10",
+        "views": 2884
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-11",
+        "views": 2956
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-12",
+        "views": 2679
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-13",
+        "views": 2017
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-14",
+        "views": 1872
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-15",
+        "views": 1919
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-16",
+        "views": 2015
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-17",
+        "views": 2372
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-18",
+        "views": 2236
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-19",
+        "views": 2311
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-20",
+        "views": 2519
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-21",
+        "views": 2219
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-22",
+        "views": 2510
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-23",
+        "views": 2501
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-24",
+        "views": 2407
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-25",
+        "views": 2134
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-26",
+        "views": 2138
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-27",
+        "views": 2388
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-28",
+        "views": 2076
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-29",
+        "views": 1915
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-04-30",
+        "views": 2467
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-01",
+        "views": 2280
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-02",
+        "views": 2683
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-03",
+        "views": 2855
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-04",
+        "views": 2699
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-05",
+        "views": 2699
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-06",
+        "views": 2543
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-07",
+        "views": 2748
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-08",
+        "views": 2920
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-09",
+        "views": 2654
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-10",
+        "views": 2270
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-11",
+        "views": 2431
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-12",
+        "views": 2942
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-13",
+        "views": 2833
+      },
+      {
+        "topic_id": "Delta_Air_Lines",
+        "date": "2026-05-14",
+        "views": 2624
+      }
+    ]
+  }
+}

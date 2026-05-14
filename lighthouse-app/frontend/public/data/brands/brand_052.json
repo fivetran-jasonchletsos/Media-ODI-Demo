@@ -1,0 +1,937 @@
+{
+  "brand": {
+    "brand_id": "brand_052",
+    "brand_handle": "@gucci",
+    "brand_name": "Gucci",
+    "vertical": "Fashion",
+    "hq_country": "Italy",
+    "established_year": 1921,
+    "description": "Gucci is a luxury fashion brand established in 1921, headquartered in Italy.",
+    "yt_channel_id": "UC5a16280f3a79c354078a95",
+    "yt_subscribers": 15346,
+    "yt_views_total": 4284063,
+    "yt_videos_count": 1853,
+    "yt_views_28d": 144910,
+    "yt_subs_growth_28d_pct": 8.5,
+    "reddit_mentions_28d": 1057,
+    "reddit_avg_sentiment": -0.022,
+    "reddit_top_subreddit": "r/Gucci",
+    "reddit_velocity_28d": 0.746,
+    "wiki_pageviews_28d": 24637,
+    "wiki_pageviews_growth_28d_pct": 63.49,
+    "attention_score": 58.33,
+    "signal_bucket": "hot",
+    "share_of_voice": 20.3,
+    "last_signal_change": "2026-04-25",
+    "videos": [
+      {
+        "video_id": "yt_001282",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Gucci just changed the game with flagship",
+        "published_at": "2026-02-27T16:00:00",
+        "duration_sec": 204,
+        "views": 15730,
+        "likes": 495,
+        "comments": 78,
+        "engagement_rate": 0.0364,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001282/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001291",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Inside Gucci's 2026 strategy",
+        "published_at": "2026-05-06T10:00:00",
+        "duration_sec": 359,
+        "views": 15509,
+        "likes": 417,
+        "comments": 55,
+        "engagement_rate": 0.0304,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001291/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001273",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Gucci unveils lineup",
+        "published_at": "2026-03-13T01:00:00",
+        "duration_sec": 71,
+        "views": 15474,
+        "likes": 513,
+        "comments": 32,
+        "engagement_rate": 0.0352,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001273/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001284",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "2026 Gucci edition review",
+        "published_at": "2026-05-09T06:00:00",
+        "duration_sec": 580,
+        "views": 15239,
+        "likes": 697,
+        "comments": 70,
+        "engagement_rate": 0.0503,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001284/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001292",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Inside Gucci's 2026 strategy",
+        "published_at": "2026-04-10T13:00:00",
+        "duration_sec": 664,
+        "views": 14946,
+        "likes": 799,
+        "comments": 85,
+        "engagement_rate": 0.0591,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001292/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001289",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Gucci vs the competition",
+        "published_at": "2026-04-20T06:00:00",
+        "duration_sec": 83,
+        "views": 14749,
+        "likes": 361,
+        "comments": 53,
+        "engagement_rate": 0.0281,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001289/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001278",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "lineup from Gucci: first impressions",
+        "published_at": "2026-04-03T08:00:00",
+        "duration_sec": 1239,
+        "views": 14192,
+        "likes": 527,
+        "comments": 46,
+        "engagement_rate": 0.0404,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001278/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001279",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Inside Gucci's 2026 strategy",
+        "published_at": "2026-02-23T20:00:00",
+        "duration_sec": 83,
+        "views": 13501,
+        "likes": 922,
+        "comments": 153,
+        "engagement_rate": 0.0796,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001279/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001280",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Gucci unveils platform",
+        "published_at": "2026-05-03T09:00:00",
+        "duration_sec": 50,
+        "views": 13323,
+        "likes": 821,
+        "comments": 62,
+        "engagement_rate": 0.0663,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001280/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001295",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Why we chose Gucci",
+        "published_at": "2026-03-13T13:00:00",
+        "duration_sec": 90,
+        "views": 12869,
+        "likes": 748,
+        "comments": 114,
+        "engagement_rate": 0.067,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001295/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001293",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Gucci just changed the game with campaign",
+        "published_at": "2026-04-28T20:00:00",
+        "duration_sec": 258,
+        "views": 12413,
+        "likes": 702,
+        "comments": 94,
+        "engagement_rate": 0.0641,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001293/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001285",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "2026 Gucci lineup review",
+        "published_at": "2026-03-25T20:00:00",
+        "duration_sec": 274,
+        "views": 11411,
+        "likes": 444,
+        "comments": 55,
+        "engagement_rate": 0.0437,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001285/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001294",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "I tried Gucci's new series for 30 days",
+        "published_at": "2026-03-23T18:00:00",
+        "duration_sec": 1201,
+        "views": 10555,
+        "likes": 1990,
+        "comments": 234,
+        "engagement_rate": 0.2107,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001294/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001277",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "I tried Gucci's new model for 30 days",
+        "published_at": "2026-03-23T04:00:00",
+        "duration_sec": 315,
+        "views": 10192,
+        "likes": 593,
+        "comments": 102,
+        "engagement_rate": 0.0682,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001277/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_001274",
+        "brand_id": "brand_052",
+        "channel_id": "UC5a16280f3a79c354078a95",
+        "title": "Why we chose Gucci",
+        "published_at": "2026-04-07T15:00:00",
+        "duration_sec": 76,
+        "views": 10189,
+        "likes": 530,
+        "comments": 71,
+        "engagement_rate": 0.059,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_001274/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0001554",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci is having a moment",
+        "posted_at": "2026-03-21T02:00:00",
+        "author": "u/ThriftyTina",
+        "score": 14423,
+        "num_comments": 1392,
+        "sentiment": 0.686,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001554/"
+      },
+      {
+        "post_id": "t3_0001570",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci is having a moment",
+        "posted_at": "2026-03-13T23:00:00",
+        "author": "u/AgencyLifer",
+        "score": 6543,
+        "num_comments": 1278,
+        "sentiment": 0.123,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001570/"
+      },
+      {
+        "post_id": "t3_0001552",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Need help with my Gucci order",
+        "posted_at": "2026-02-18T00:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 3134,
+        "num_comments": 477,
+        "sentiment": 0.167,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001552/"
+      },
+      {
+        "post_id": "t3_0001568",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci TikTok meme has me dying",
+        "posted_at": "2026-04-12T13:00:00",
+        "author": "u/MidwestDad88",
+        "score": 3011,
+        "num_comments": 291,
+        "sentiment": 0.178,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001568/"
+      },
+      {
+        "post_id": "t3_0001573",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Why Gucci is so polarizing",
+        "posted_at": "2026-03-09T23:00:00",
+        "author": "u/UnpaidMod",
+        "score": 2557,
+        "num_comments": 190,
+        "sentiment": 0.087,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001573/"
+      },
+      {
+        "post_id": "t3_0001565",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "30 days with Gucci's flagship",
+        "posted_at": "2026-02-21T09:00:00",
+        "author": "u/CulturalCritic",
+        "score": 1984,
+        "num_comments": 170,
+        "sentiment": 0.692,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001565/"
+      },
+      {
+        "post_id": "t3_0001569",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "What the Gucci numbers actually mean",
+        "posted_at": "2026-03-06T15:00:00",
+        "author": "u/CreatorLens",
+        "score": 1784,
+        "num_comments": 401,
+        "sentiment": 0.09,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001569/"
+      },
+      {
+        "post_id": "t3_0001575",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "What the Gucci numbers actually mean",
+        "posted_at": "2026-04-18T10:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 1364,
+        "num_comments": 86,
+        "sentiment": 0.337,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001575/"
+      },
+      {
+        "post_id": "t3_0001559",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Anyone seen the new Gucci lineup drop?",
+        "posted_at": "2026-04-04T00:00:00",
+        "author": "u/QuietBuyer",
+        "score": 760,
+        "num_comments": 129,
+        "sentiment": 0.395,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001559/"
+      },
+      {
+        "post_id": "t3_0001553",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci's new lineup launch is wild",
+        "posted_at": "2026-03-04T22:00:00",
+        "author": "u/SocialSarah",
+        "score": 750,
+        "num_comments": 222,
+        "sentiment": 0.041,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001553/"
+      },
+      {
+        "post_id": "t3_0001557",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci pricing change is a slap in the face",
+        "posted_at": "2026-03-21T13:00:00",
+        "author": "u/BrandLurker",
+        "score": 705,
+        "num_comments": 38,
+        "sentiment": -0.651,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001557/"
+      },
+      {
+        "post_id": "t3_0001560",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci just announced the new flagship \u2014 thoughts?",
+        "posted_at": "2026-05-04T00:00:00",
+        "author": "u/BrandLurker",
+        "score": 587,
+        "num_comments": 51,
+        "sentiment": 0.065,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001560/"
+      },
+      {
+        "post_id": "t3_0001566",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci just announced the new edition \u2014 thoughts?",
+        "posted_at": "2026-02-14T11:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 408,
+        "num_comments": 24,
+        "sentiment": 0.044,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001566/"
+      },
+      {
+        "post_id": "t3_0001555",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci just teamed up with a creator",
+        "posted_at": "2026-04-16T18:00:00",
+        "author": "u/AdSpendDaily",
+        "score": 402,
+        "num_comments": 20,
+        "sentiment": 0.233,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001555/"
+      },
+      {
+        "post_id": "t3_0001567",
+        "brand_id": "brand_052",
+        "brand_name_match": "Gucci",
+        "subreddit": "r/Gucci",
+        "title": "Gucci just announced the new collection \u2014 thoughts?",
+        "posted_at": "2026-05-02T02:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 328,
+        "num_comments": 86,
+        "sentiment": 0.123,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/Gucci/comments/t3_0001567/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Gucci",
+        "title": "Gucci",
+        "category": "brand",
+        "pageviews_28d": 35055,
+        "pageviews_growth_pct": 45.41,
+        "pageviews_volatility": 0.4809,
+        "related_brands": [
+          "brand_052"
+        ]
+      },
+      {
+        "topic_id": "Apple_Vision_Pro",
+        "title": "Apple Vision Pro",
+        "category": "industry",
+        "pageviews_28d": 242059,
+        "pageviews_growth_pct": -33.6,
+        "pageviews_volatility": 0.3852,
+        "related_brands": [
+          "brand_037",
+          "brand_059",
+          "brand_052",
+          "brand_027"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "YT subscriber growth steady at +8.5% over the past 28d",
+      "Reddit conversation balanced (sentiment -0.02) across r/Gucci",
+      "Dominant Reddit topic cluster: launch",
+      "Wikipedia pageviews surged +63% \u2014 news cycle is active"
+    ],
+    "ai_summary": "Gucci is running hot in the Fashion panel with an attention score of 58. YouTube and Reddit are reinforcing each other \u2014 views +8% and r/Gucci sentiment of -0.02 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-14",
+        "views": 868
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-15",
+        "views": 959
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-16",
+        "views": 892
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-17",
+        "views": 863
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-18",
+        "views": 776
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-19",
+        "views": 860
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-20",
+        "views": 918
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-21",
+        "views": 894
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-22",
+        "views": 757
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-23",
+        "views": 805
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-24",
+        "views": 2963
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-25",
+        "views": 2731
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-26",
+        "views": 2486
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-27",
+        "views": 2193
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-02-28",
+        "views": 2016
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-01",
+        "views": 1899
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-02",
+        "views": 1623
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-03",
+        "views": 1642
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-04",
+        "views": 1574
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-05",
+        "views": 1330
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-06",
+        "views": 1421
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-07",
+        "views": 1390
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-08",
+        "views": 1345
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-09",
+        "views": 1155
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-10",
+        "views": 1038
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-11",
+        "views": 953
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-12",
+        "views": 1103
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-13",
+        "views": 1070
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-14",
+        "views": 1041
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-15",
+        "views": 996
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-16",
+        "views": 1001
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-17",
+        "views": 913
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-18",
+        "views": 1019
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-19",
+        "views": 914
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-20",
+        "views": 1049
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-21",
+        "views": 1041
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-22",
+        "views": 962
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-23",
+        "views": 929
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-24",
+        "views": 974
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-25",
+        "views": 967
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-26",
+        "views": 888
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-27",
+        "views": 869
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-28",
+        "views": 697
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-29",
+        "views": 728
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-30",
+        "views": 955
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-03-31",
+        "views": 833
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-01",
+        "views": 870
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-02",
+        "views": 919
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-03",
+        "views": 769
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-04",
+        "views": 785
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-05",
+        "views": 818
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-06",
+        "views": 809
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-07",
+        "views": 859
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-08",
+        "views": 798
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-09",
+        "views": 890
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-10",
+        "views": 836
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-11",
+        "views": 792
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-12",
+        "views": 789
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-13",
+        "views": 786
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-14",
+        "views": 859
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-15",
+        "views": 838
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-16",
+        "views": 799
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-17",
+        "views": 839
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-18",
+        "views": 797
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-19",
+        "views": 853
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-20",
+        "views": 672
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-21",
+        "views": 783
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-22",
+        "views": 811
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-23",
+        "views": 767
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-24",
+        "views": 669
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-25",
+        "views": 839
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-26",
+        "views": 753
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-27",
+        "views": 795
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-28",
+        "views": 866
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-29",
+        "views": 860
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-04-30",
+        "views": 823
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-01",
+        "views": 846
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-02",
+        "views": 904
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-03",
+        "views": 872
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-04",
+        "views": 3175
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-05",
+        "views": 2705
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-06",
+        "views": 2493
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-07",
+        "views": 2186
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-08",
+        "views": 2001
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-09",
+        "views": 1857
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-10",
+        "views": 1644
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-11",
+        "views": 1495
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-12",
+        "views": 1296
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-13",
+        "views": 1268
+      },
+      {
+        "topic_id": "Gucci",
+        "date": "2026-05-14",
+        "views": 1186
+      }
+    ]
+  }
+}

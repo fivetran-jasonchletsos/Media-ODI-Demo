@@ -1,0 +1,936 @@
+{
+  "brand": {
+    "brand_id": "brand_006",
+    "brand_handle": "@walmart",
+    "brand_name": "Walmart",
+    "vertical": "Retail",
+    "hq_country": "US",
+    "established_year": 1962,
+    "description": "Walmart is a discount retail brand established in 1962, headquartered in US.",
+    "yt_channel_id": "UC6474065d0a8e43d902aebe",
+    "yt_subscribers": 12171649,
+    "yt_views_total": 1890799513,
+    "yt_videos_count": 3030,
+    "yt_views_28d": 41704112,
+    "yt_subs_growth_28d_pct": 5.68,
+    "reddit_mentions_28d": 1429,
+    "reddit_avg_sentiment": 0.348,
+    "reddit_top_subreddit": "r/walmart",
+    "reddit_velocity_28d": 0.37,
+    "wiki_pageviews_28d": 3672,
+    "wiki_pageviews_growth_28d_pct": 52.91,
+    "attention_score": 53.71,
+    "signal_bucket": "hot",
+    "share_of_voice": 22.86,
+    "last_signal_change": "2026-04-15",
+    "videos": [
+      {
+        "video_id": "yt_000145",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "Walmart just changed the game with campaign",
+        "published_at": "2026-05-09T01:00:00",
+        "duration_sec": 1520,
+        "views": 19397237,
+        "likes": 619630,
+        "comments": 92261,
+        "engagement_rate": 0.0367,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000145/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000149",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "release from Walmart: first impressions",
+        "published_at": "2026-04-25T19:00:00",
+        "duration_sec": 410,
+        "views": 4744808,
+        "likes": 134475,
+        "comments": 15971,
+        "engagement_rate": 0.0317,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000149/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000139",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-02-25T09:00:00",
+        "duration_sec": 1694,
+        "views": 4615334,
+        "likes": 884388,
+        "comments": 120785,
+        "engagement_rate": 0.2178,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000139/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000133",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "I tried Walmart's new collection for 30 days",
+        "published_at": "2026-04-05T11:00:00",
+        "duration_sec": 773,
+        "views": 4513204,
+        "likes": 331366,
+        "comments": 23779,
+        "engagement_rate": 0.0787,
+        "category": "Sports",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000133/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000143",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "Walmart unveils series",
+        "published_at": "2026-03-07T09:00:00",
+        "duration_sec": 423,
+        "views": 3694956,
+        "likes": 699513,
+        "comments": 38571,
+        "engagement_rate": 0.1998,
+        "category": "People & Blogs",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000143/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000146",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "I tried Walmart's new model for 30 days",
+        "published_at": "2026-03-27T14:00:00",
+        "duration_sec": 414,
+        "views": 3460673,
+        "likes": 245803,
+        "comments": 23973,
+        "engagement_rate": 0.078,
+        "category": "News & Politics",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000146/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000140",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-04-29T17:00:00",
+        "duration_sec": 87,
+        "views": 3352413,
+        "likes": 241065,
+        "comments": 23830,
+        "engagement_rate": 0.079,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000140/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000147",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "Walmart unveils collection",
+        "published_at": "2026-03-28T10:00:00",
+        "duration_sec": 1209,
+        "views": 3092830,
+        "likes": 112573,
+        "comments": 7401,
+        "engagement_rate": 0.0388,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000147/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000144",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "series from Walmart: first impressions",
+        "published_at": "2026-04-11T08:00:00",
+        "duration_sec": 462,
+        "views": 2954344,
+        "likes": 93328,
+        "comments": 6857,
+        "engagement_rate": 0.0339,
+        "category": "Gaming",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000144/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000141",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-05-11T21:00:00",
+        "duration_sec": 1645,
+        "views": 2766839,
+        "likes": 137390,
+        "comments": 13441,
+        "engagement_rate": 0.0545,
+        "category": "Film & Animation",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000141/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000132",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-05-01T19:00:00",
+        "duration_sec": 1740,
+        "views": 2737803,
+        "likes": 61856,
+        "comments": 7621,
+        "engagement_rate": 0.0254,
+        "category": "Howto & Style",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000132/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000138",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-04-05T02:00:00",
+        "duration_sec": 1437,
+        "views": 2677795,
+        "likes": 81207,
+        "comments": 11233,
+        "engagement_rate": 0.0345,
+        "category": "Autos & Vehicles",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000138/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000134",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "2026 Walmart series review",
+        "published_at": "2026-04-04T16:00:00",
+        "duration_sec": 76,
+        "views": 2382606,
+        "likes": 108091,
+        "comments": 8785,
+        "engagement_rate": 0.0491,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000134/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000130",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "What nobody tells you about Walmart",
+        "published_at": "2026-03-16T09:00:00",
+        "duration_sec": 362,
+        "views": 2369687,
+        "likes": 125519,
+        "comments": 15809,
+        "engagement_rate": 0.0596,
+        "category": "Entertainment",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000130/hqdefault.jpg"
+      },
+      {
+        "video_id": "yt_000142",
+        "brand_id": "brand_006",
+        "channel_id": "UC6474065d0a8e43d902aebe",
+        "title": "Why we chose Walmart",
+        "published_at": "2026-04-23T13:00:00",
+        "duration_sec": 427,
+        "views": 2297188,
+        "likes": 57967,
+        "comments": 3974,
+        "engagement_rate": 0.027,
+        "category": "Science & Technology",
+        "thumbnail_url": "https://i.ytimg.com/vi/yt_000142/hqdefault.jpg"
+      }
+    ],
+    "conversations": [
+      {
+        "post_id": "t3_0000168",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Hot take on the Walmart collab",
+        "posted_at": "2026-03-24T21:00:00",
+        "author": "u/MarketingPro42",
+        "score": 6591,
+        "num_comments": 563,
+        "sentiment": 0.423,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000168/"
+      },
+      {
+        "post_id": "t3_0000180",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Anyone else having issues with Walmart?",
+        "posted_at": "2026-04-03T18:00:00",
+        "author": "u/CulturalCritic",
+        "score": 4979,
+        "num_comments": 1042,
+        "sentiment": -0.456,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000180/"
+      },
+      {
+        "post_id": "t3_0000172",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Walmart customer service is impossible to reach",
+        "posted_at": "2026-04-12T03:00:00",
+        "author": "u/SneakerHead2049",
+        "score": 4210,
+        "num_comments": 755,
+        "sentiment": 0.028,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000172/"
+      },
+      {
+        "post_id": "t3_0000188",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Anyone else having issues with Walmart?",
+        "posted_at": "2026-04-22T15:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 4046,
+        "num_comments": 297,
+        "sentiment": -0.133,
+        "topic_cluster": "support",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000188/"
+      },
+      {
+        "post_id": "t3_0000160",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Why Walmart is so polarizing",
+        "posted_at": "2026-02-22T18:00:00",
+        "author": "u/SocialSarah",
+        "score": 2110,
+        "num_comments": 235,
+        "sentiment": -0.746,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000160/"
+      },
+      {
+        "post_id": "t3_0000162",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Quick Walmart question",
+        "posted_at": "2026-04-26T16:00:00",
+        "author": "u/CoffeeAndKPIs",
+        "score": 2070,
+        "num_comments": 150,
+        "sentiment": 0.448,
+        "topic_cluster": "other",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000162/"
+      },
+      {
+        "post_id": "t3_0000178",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Walmart pricing change is a slap in the face",
+        "posted_at": "2026-03-09T13:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 1800,
+        "num_comments": 328,
+        "sentiment": -0.184,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000178/"
+      },
+      {
+        "post_id": "t3_0000177",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Is anyone else fed up with Walmart lately?",
+        "posted_at": "2026-03-30T10:00:00",
+        "author": "u/StreamingNerd",
+        "score": 1548,
+        "num_comments": 334,
+        "sentiment": -0.574,
+        "topic_cluster": "controversy",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000177/"
+      },
+      {
+        "post_id": "t3_0000174",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Honest review of the Walmart drop",
+        "posted_at": "2026-03-04T17:00:00",
+        "author": "u/CulturalCritic",
+        "score": 1450,
+        "num_comments": 164,
+        "sentiment": -0.132,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000174/"
+      },
+      {
+        "post_id": "t3_0000163",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "First look at Walmart's edition",
+        "posted_at": "2026-02-23T05:00:00",
+        "author": "u/MediaPlannerX",
+        "score": 686,
+        "num_comments": 197,
+        "sentiment": 0.263,
+        "topic_cluster": "launch",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000163/"
+      },
+      {
+        "post_id": "t3_0000169",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Walmart TikTok meme has me dying",
+        "posted_at": "2026-05-12T06:00:00",
+        "author": "u/DataDrivenDan",
+        "score": 577,
+        "num_comments": 124,
+        "sentiment": -0.142,
+        "topic_cluster": "culture",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000169/"
+      },
+      {
+        "post_id": "t3_0000176",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Walmart partnership announcement",
+        "posted_at": "2026-04-12T19:00:00",
+        "author": "u/StreamingNerd",
+        "score": 558,
+        "num_comments": 165,
+        "sentiment": 0.232,
+        "topic_cluster": "partnership",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000176/"
+      },
+      {
+        "post_id": "t3_0000184",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Why I'm switching to Walmart",
+        "posted_at": "2026-04-06T06:00:00",
+        "author": "u/MarketingPro42",
+        "score": 492,
+        "num_comments": 97,
+        "sentiment": 0.037,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000184/"
+      },
+      {
+        "post_id": "t3_0000175",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Walmart beat / missed \u2014 let's discuss",
+        "posted_at": "2026-04-04T07:00:00",
+        "author": "u/ThriftyTina",
+        "score": 239,
+        "num_comments": 14,
+        "sentiment": -0.067,
+        "topic_cluster": "earnings",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000175/"
+      },
+      {
+        "post_id": "t3_0000164",
+        "brand_id": "brand_006",
+        "brand_name_match": "Walmart",
+        "subreddit": "r/walmart",
+        "title": "Tried Walmart \u2014 here's my take",
+        "posted_at": "2026-04-17T22:00:00",
+        "author": "u/QuietBuyer",
+        "score": 235,
+        "num_comments": 29,
+        "sentiment": -0.392,
+        "topic_cluster": "product-review",
+        "url": "https://reddit.com/r/walmart/comments/t3_0000164/"
+      }
+    ],
+    "topics": [
+      {
+        "topic_id": "Walmart",
+        "title": "Walmart",
+        "category": "brand",
+        "pageviews_28d": 4770,
+        "pageviews_growth_pct": -18.61,
+        "pageviews_volatility": 0.4307,
+        "related_brands": [
+          "brand_006"
+        ]
+      },
+      {
+        "topic_id": "Elon_Musk",
+        "title": "Elon Musk",
+        "category": "person",
+        "pageviews_28d": 438228,
+        "pageviews_growth_pct": -11.06,
+        "pageviews_volatility": 0.464,
+        "related_brands": [
+          "brand_006",
+          "brand_031",
+          "brand_058"
+        ]
+      }
+    ],
+    "signal_factors": [
+      "Wikipedia pageviews surged +53% \u2014 news cycle is active",
+      "Top YouTube asset: \"Walmart just changed the game with campaign\"",
+      "YT subscriber growth steady at +5.7% over the past 28d",
+      "Reddit sentiment elevated at +0.35 \u2014 fan-driven engagement in r/walmart"
+    ],
+    "ai_summary": "Walmart is running hot in the Retail panel with an attention score of 54. YouTube and Reddit are reinforcing each other \u2014 views +6% and r/walmart sentiment of +0.35 \u2014 while Wikipedia interest tracks slightly behind. Worth flagging for paid social pacing teams.",
+    "pageviews_timeline": [
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-14",
+        "views": 142
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-15",
+        "views": 142
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-16",
+        "views": 156
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-17",
+        "views": 145
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-18",
+        "views": 139
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-19",
+        "views": 151
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-20",
+        "views": 158
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-21",
+        "views": 167
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-22",
+        "views": 160
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-23",
+        "views": 161
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-24",
+        "views": 152
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-25",
+        "views": 153
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-26",
+        "views": 142
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-27",
+        "views": 138
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-02-28",
+        "views": 157
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-01",
+        "views": 139
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-02",
+        "views": 171
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-03",
+        "views": 179
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-04",
+        "views": 159
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-05",
+        "views": 160
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-06",
+        "views": 159
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-07",
+        "views": 164
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-08",
+        "views": 160
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-09",
+        "views": 171
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-10",
+        "views": 161
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-11",
+        "views": 151
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-12",
+        "views": 154
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-13",
+        "views": 152
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-14",
+        "views": 153
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-15",
+        "views": 175
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-16",
+        "views": 160
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-17",
+        "views": 151
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-18",
+        "views": 144
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-19",
+        "views": 140
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-20",
+        "views": 130
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-21",
+        "views": 133
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-22",
+        "views": 131
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-23",
+        "views": 135
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-24",
+        "views": 491
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-25",
+        "views": 434
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-26",
+        "views": 378
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-27",
+        "views": 345
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-28",
+        "views": 288
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-29",
+        "views": 265
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-30",
+        "views": 244
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-03-31",
+        "views": 242
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-01",
+        "views": 230
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-02",
+        "views": 223
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-03",
+        "views": 200
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-04",
+        "views": 191
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-05",
+        "views": 169
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-06",
+        "views": 154
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-07",
+        "views": 154
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-08",
+        "views": 146
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-09",
+        "views": 145
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-10",
+        "views": 156
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-11",
+        "views": 145
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-12",
+        "views": 138
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-13",
+        "views": 139
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-14",
+        "views": 129
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-15",
+        "views": 161
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-16",
+        "views": 165
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-17",
+        "views": 175
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-18",
+        "views": 161
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-19",
+        "views": 148
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-20",
+        "views": 155
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-21",
+        "views": 137
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-22",
+        "views": 165
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-23",
+        "views": 140
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-24",
+        "views": 135
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-25",
+        "views": 151
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-26",
+        "views": 129
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-27",
+        "views": 128
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-28",
+        "views": 150
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-29",
+        "views": 152
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-04-30",
+        "views": 156
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-01",
+        "views": 180
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-02",
+        "views": 184
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-03",
+        "views": 161
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-04",
+        "views": 151
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-05",
+        "views": 155
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-06",
+        "views": 146
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-07",
+        "views": 145
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-08",
+        "views": 136
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-09",
+        "views": 129
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-10",
+        "views": 99
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-11",
+        "views": 119
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-12",
+        "views": 129
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-13",
+        "views": 507
+      },
+      {
+        "topic_id": "Walmart",
+        "date": "2026-05-14",
+        "views": 447
+      }
+    ]
+  }
+}

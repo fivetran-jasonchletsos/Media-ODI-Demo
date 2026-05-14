@@ -1,0 +1,214 @@
+version: 2
+
+# ============================================================
+# Lighthouse Media ODI semantic layer.
+#
+# Seven reusable metrics covering the demo themes: cross-source
+# attention, content output, audience engagement, conversation
+# velocity + sentiment, and topical interest.
+# ============================================================
+
+semantic_models:
+    - name: videos
+      description: YouTube video performance.
+      model: ref('fct_videos')
+      defaults:
+          agg_time_dimension: published_at
+      entities:
+          - name: video
+            type: primary
+            expr: video_id
+          - name: brand
+            type: foreign
+            expr: brand_id
+      dimensions:
+          - name: published_at
+            type: time
+            type_params:
+                time_granularity: day
+          - name: category
+            type: categorical
+      measures:
+          - name: views_total
+            description: Sum of views across videos.
+            agg: sum
+            expr: views
+          - name: views_total_28d
+            description: Sum of views for videos published in the last 28 days.
+            agg: sum
+            expr: case when published_at >= date_add('day', -28, current_date) then views else 0 end
+          - name: engagement_rate_total
+            description: Sum of engagement_rate (use with average aggregation).
+            agg: sum
+            expr: engagement_rate
+          - name: video_count
+            description: Count of videos.
+            agg: count
+            expr: video_id
+
+    - name: conversations
+      description: Reddit conversations attributed to brands.
+      model: ref('fct_conversations')
+      defaults:
+          agg_time_dimension: posted_at
+      entities:
+          - name: conversation
+            type: primary
+            expr: post_id
+          - name: brand
+            type: foreign
+            expr: brand_id
+      dimensions:
+          - name: posted_at
+            type: time
+            type_params:
+                time_granularity: day
+          - name: subreddit
+            type: categorical
+          - name: topic_cluster
+            type: categorical
+      measures:
+          - name: mention_count
+            description: Count of Reddit posts.
+            agg: count
+            expr: post_id
+          - name: mention_count_28d
+            description: Count of Reddit posts in the last 28 days.
+            agg: sum
+            expr: case when posted_at >= date_add('day', -28, current_date) then 1 else 0 end
+          - name: mention_count_prior_28d
+            description: Count of Reddit posts in the prior 28-day window.
+            agg: sum
+            expr: case when posted_at >= date_add('day', -56, current_date) and posted_at < date_add('day', -28, current_date) then 1 else 0 end
+          - name: sentiment_total
+            description: Sum of sentiment (use with average aggregation).
+            agg: sum
+            expr: sentiment
+
+    - name: brand_signal
+      description: Cross-source brand attention score.
+      model: ref('fct_brand_signal')
+      defaults:
+          agg_time_dimension: built_at
+      entities:
+          - name: brand
+            type: primary
+            expr: brand_id
+      dimensions:
+          - name: built_at
+            type: time
+            type_params:
+                time_granularity: day
+          - name: vertical
+            type: categorical
+          - name: signal_bucket
+            type: categorical
+      measures:
+          - name: attention_score_total
+            description: Sum of attention_score (used with average aggregation).
+            agg: sum
+            expr: attention_score
+          - name: brand_count
+            description: Count of distinct scored brands.
+            agg: count_distinct
+            expr: brand_id
+
+    - name: brands
+      description: Brand dimension fundamentals.
+      model: ref('dim_brands')
+      defaults:
+          agg_time_dimension: last_signal_change
+      entities:
+          - name: brand
+            type: primary
+            expr: brand_id
+      dimensions:
+          - name: vertical
+            type: categorical
+          - name: last_signal_change
+            type: time
+            type_params:
+                time_granularity: day
+      measures:
+          - name: yt_views_28d_total
+            description: Sum of last-28d YouTube views across brands.
+            agg: sum
+            expr: yt_views_28d
+          - name: yt_subs_growth_28d_total
+            description: Sum of yt_subs_growth_28d_pct (use with average).
+            agg: sum
+            expr: yt_subs_growth_28d_pct
+          - name: wiki_pageviews_growth_28d_total
+            description: Sum of wiki_pageviews_growth_28d_pct (use with average).
+            agg: sum
+            expr: wiki_pageviews_growth_28d_pct
+
+metrics:
+    - name: yt_views_28d
+      label: YouTube Views (28d)
+      description: |
+          Sum of YouTube views across videos published in the trailing
+          28 days. Headline content-volume signal.
+      type: simple
+      type_params:
+          measure: views_total_28d
+
+    - name: yt_subs_growth_28d
+      label: YouTube Subscriber Growth (28d)
+      description: |
+          Average 28-day subscriber-growth proxy across the brand panel.
+          Proxy because we don't snapshot subscribers daily.
+      type: ratio
+      type_params:
+          numerator: yt_subs_growth_28d_total
+          denominator: brand_count
+
+    - name: reddit_mention_velocity
+      label: Reddit Mention Velocity
+      description: |
+          Ratio of last-28d Reddit mentions to the prior 28-day window
+          (1.0 = flat, 2.0 = doubling). Conversation acceleration signal.
+      type: ratio
+      type_params:
+          numerator: mention_count_28d
+          denominator: mention_count_prior_28d
+
+    - name: reddit_avg_sentiment
+      label: Reddit Average Sentiment
+      description: |
+          Average sentiment ([-1, 1]) across Reddit posts attributed to
+          the brand panel.
+      type: ratio
+      type_params:
+          numerator: sentiment_total
+          denominator: mention_count
+
+    - name: wiki_pageviews_growth_28d
+      label: Wikipedia Pageviews Growth (28d)
+      description: |
+          Average percent growth of Wikipedia pageviews in the trailing
+          28 days vs. the prior 28-day window, across the brand panel.
+      type: ratio
+      type_params:
+          numerator: wiki_pageviews_growth_28d_total
+          denominator: brand_count
+
+    - name: attention_score_avg
+      label: Average Attention Score
+      description: |
+          Mean cross-source attention score (0-100) across scored brands.
+          Headline single-number health metric for the demo.
+      type: ratio
+      type_params:
+          numerator: attention_score_total
+          denominator: brand_count
+
+    - name: engagement_rate_avg
+      label: Average Engagement Rate
+      description: |
+          Mean (likes + comments) / views across attributed YouTube
+          videos. Audience-engagement quality signal.
+      type: ratio
+      type_params:
+          numerator: engagement_rate_total
+          denominator: video_count
