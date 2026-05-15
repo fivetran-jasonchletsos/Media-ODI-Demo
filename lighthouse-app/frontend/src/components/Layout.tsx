@@ -3,13 +3,14 @@ import { useEffect, useRef, useState } from 'react';
 import { api, getSnapshotTime, subscribeSource, type DataSource } from '../api/queries';
 import * as watchlist from '../watchlist';
 import DefenderSync from './DefenderSync';
+import HelpTour from './HelpTour';
 
 // Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the DefenderSync easter egg.
 const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
 const DEMOS = [
   { key: 'healthcare', name: 'Epic Clarity', industry: 'Healthcare · Clinical analytics', url: 'https://fivetran-jasonchletsos.github.io/Healthcare-EPIC-Snowflake-Demo/', accent: '#0d9488' },
-  { key: 'sheetz',     name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/', accent: '#dc2626' },
+  { key: 'sheetz',     name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/', accent: '#dc2626' },
   { key: 'finserv',    name: 'Meridian', industry: 'Financial Services · Wealth & banking', url: 'https://fivetran-jasonchletsos.github.io/FinServ-ODI-Demo/', accent: '#1d4ed8' },
   { key: 'media',      name: 'Lighthouse', industry: 'Media · Audience & content intel', url: 'https://fivetran-jasonchletsos.github.io/Media-ODI-Demo/', accent: '#7c3aed' },
 ];
@@ -275,6 +276,7 @@ export default function Layout() {
       </footer>
 
       {easterEggOpen && <DefenderSync onClose={() => setEasterEggOpen(false)} />}
+      <HelpTour />
     </div>
   );
 }
