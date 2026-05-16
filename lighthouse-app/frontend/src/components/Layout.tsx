@@ -26,6 +26,7 @@ const NAV_ITEMS: [string, string][] = [
   ['/', 'Home'],
   ['/brands', 'Brands'],
   ['/trends', 'Trends'],
+  ['/geo', 'Geography'],
   ['/conversations', 'Conversations'],
   ['/agent', 'Research AI'],
   ['/architecture', 'ODI Architecture'],

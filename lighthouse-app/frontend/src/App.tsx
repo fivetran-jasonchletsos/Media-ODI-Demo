@@ -5,6 +5,7 @@ import HomePage from './pages/HomePage';
 import BrandsPage from './pages/BrandsPage';
 import BrandDetailPage from './pages/BrandDetailPage';
 import TrendsPage from './pages/TrendsPage';
+import GeoPage from './pages/GeoPage';
 import ConversationsPage from './pages/ConversationsPage';
 import AgentPage from './pages/AgentPage';
 import AboutAgentPage from './pages/AboutAgentPage';
@@ -31,6 +32,7 @@ export default function App() {
             <Route path="/brands/:brandId" element={<BrandDetailPage />} />
             <Route path="/trends" element={<TrendsPage />} />
             <Route path="/trends/:topicId" element={<TrendsPage />} />
+            <Route path="/geo" element={<GeoPage />} />
             <Route path="/conversations" element={<ConversationsPage />} />
             <Route path="/agent" element={<AgentPage />} />
             <Route path="/about-agent" element={<AboutAgentPage />} />
